@@ -1,5 +1,5 @@
 Number,Stimuli,Procedure,Condition Description,Condition Notes
-1,versionA_stim.csv,ReadVersion.csv,Read Version A,Read1
-2,versionA_stim.csv,JOLVersion.csv,JOL Version D,JOL1
-3,versionB_stim.csv,ReadVersion.csv,Read Version A,Read2
-4,versionB_stim.csv,JOLVersion.csv,JOL Version D,JOL2
+1,versionA_stim.csv,ReadVersion.csv,Read ,Read1
+2,versionA_stim.csv,JOLVersion.csv,JOL,JOL1
+3,versionB_stim.csv,ReadVersion.csv,Read,Read2
+4,versionB_stim.csv,JOLVersion.csv,JOL,JOL2
