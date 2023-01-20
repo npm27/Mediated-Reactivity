@@ -58,8 +58,7 @@ Item,Trial Type,Max Time,Min Time,Text,Procedure Notes,Shuffle,
 56,Study,User,-,,Study/JOL,BUFFER2,
 0,Instruct,User,-,You have completed this section. Please press Enter.,Filler_Instruction,Instruct2,
 0,FreeRecall,120,120,Please list the 50 US states in alphabetical order. The task will automatically advance to the next screen after two minutes.,,Filler1,
-0,Instruct,-,10,"You will now be presented with the first word from each of the previously studied item pairs. Please type the missing word. If you do not know the word, you may guess or press Enter to skip forward to the next pair.",,Instruct3,
-0,Instruct,User,10,"Your memory will now be tested. You will be presented with a series of words. If the word on the screen was previously studied, please select YES. If the word was not studied, select NO. PLEASE DO NOT SKIP ITEMS! Click next when you are ready to begin.",,Instruc7982154d,
+0,Instruct,User,10,"Your memory will now be tested. You will be presented with a series of words that may or may not have been previously presented alongside another word. If the word on the screen was previously studied, please select YES. If the word was not studied, select NO. PLEASE DO NOT SKIP ITEMS! Click next when you are ready to begin.",,Instruc7982154d,
 57,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
 58,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
 59,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2

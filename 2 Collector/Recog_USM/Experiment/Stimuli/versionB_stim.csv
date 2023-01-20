@@ -54,93 +54,93 @@ NOODLE,STRING,BUFFER4,Buffer,52
 SHRIMP,FISH,BUFFER4,Buffer,53
 ICE,FROZEN,BUFFER4,Buffer,54
 CAMP,ADVENTURE,BUFFER4,Buffer,55
-,STRIPES,RECOG,Control,61
-,BOX,RECOG,Control,62
-,QUIET,RECOG,Control,63
-,PIE,RECOG,Control,64
-,SILK,RECOG,Control,65
-,SYRUP,RECOG,Control,66
-,BOUNCE,RECOG,Control,67
-,DANCE,RECOG,Control,68
-,WHEEL,RECOG,Control,69
-,CARPET,RECOG,Control,70
-,BOTTLE,RECOG,Control,71
-,FINGER,RECOG,Control,72
-,DARK,RECOG,Control,73
-,HAIR,RECOG,Control,74
-,COTTON,RECOG,Control,75
-,TRASH,RECOG,Control,76
-,MONEY,RECOG,Control,77
-,HEAD,RECOG,Control,78
-,DONKEY,RECOG,Control,79
-,PLANT,RECOG,Control,80
-,BIRD,RECOG,Control,81
-,SENTENCE,RECOG,Control,82
-,CLEAN,RECOG,Control,83
-,SLEEP,RECOG,Control,84
-,DONKEY,RECOG,Control,85
-,LOVE,RECOG,Control,86
-,DRINK,RECOG,Control,87
-,CARD,RECOG,Control,88
-,FLOWER,RECOG,Control,89
-,FISH,RECOG,Control,90
-,MAROON                   ,RECOG,Control,91
-,CLOTH,RECOG,Control,92
-,STEAK,RECOG,Control,93
-,ELECTION,RECOG,Control,94
-,CHARM,RECOG,Control,95
-,KEYS,RECOG,Control,96
-,PHONE,RECOG,Control,97
-,SHAKE,RECOG,Control,98
-,FICTION,RECOG,Control,99
-,ROD,RECOG,Control,100
-,BELT,RECOG,Control,101
-,TICK,RECOG,Control,102
-,MORNING,RECOG,Control,103
-,HAND,RECOG,Control,104
-,BANG,RECOG,Control,105
-,SNOW,RECOG,Control,106
-,STOP,RECOG,Control,107
-,COLLAR,RECOG,Control,108
-,ISLAND,RECOG,Control,109
-,SMELL,RECOG,Control,110
-,LAWYER,RECOG,Control,111
-,DRINK,RECOG,Control,112
-,FEATHER,RECOG,Control,113
-,SEED,RECOG,Control,114
-,CAVE,RECOG,Control,115
-,BASKET,RECOG,Control,116
-,THIGH,RECOG,Control,117
-,PEAK,RECOG,Control,118
-,KNOB,RECOG,Control,119
-,MUSCLE,RECOG,Control,120
-,PLANT,RECOG,Control,121
-,CUT,RECOG,Control,122
-,HAMMER,RECOG,Control,123
-,CLOTHES,RECOG,Control,124
-,RED,RECOG,Control,125
-,FIRE,RECOG,Control,126
-,PAPER,RECOG,Control,127
-,SMELL,RECOG,Control,128
-,BASEBALL,RECOG,Control,129
-,STING,RECOG,Control,130
-,FIGHT,RECOG,Control,131
-,COLD,RECOG,Control,132
-,COW,RECOG,Control,133
-,BUG,RECOG,Control,134
-,WATER,RECOG,Control,135
-,VASE                     ,RECOG,Control,136
-,CAR,RECOG,Control,137
-,WOLF,RECOG,Control,138
-,ACCIDENT,RECOG,Control,139
-,RIDDLE,RECOG,Control,140
-,CLUTTER                  ,RECOG,Control,141
-,SACK,RECOG,Control,142
-,HORN,RECOG,Control,143
-,BUSINESS,RECOG,Control,144
-,HIDE                     ,RECOG,Control,145
-,TOIL                     ,RECOG,Control,146
-,OUNCE                    ,RECOG,Control,147
-,BRONZE                   ,RECOG,Control,148
-,CHILDREN,RECOG,Control,149
-,LEG,RECOG,Control,150
+ ,STRIPES,RECOG,Control,61
+ ,BOX,RECOG,Control,62
+ ,QUIET,RECOG,Control,63
+ ,PIE,RECOG,Control,64
+ ,SILK,RECOG,Control,65
+ ,SYRUP,RECOG,Control,66
+ ,BOUNCE,RECOG,Control,67
+ ,DANCE,RECOG,Control,68
+ ,WHEEL,RECOG,Control,69
+ ,CARPET,RECOG,Control,70
+ ,BOTTLE,RECOG,Control,71
+ ,FINGER,RECOG,Control,72
+ ,DARK,RECOG,Control,73
+ ,HAIR,RECOG,Control,74
+ ,COTTON,RECOG,Control,75
+ ,TRASH,RECOG,Control,76
+ ,MONEY,RECOG,Control,77
+ ,HEAD,RECOG,Control,78
+ ,DONKEY,RECOG,Control,79
+ ,PLANT,RECOG,Control,80
+ ,BIRD,RECOG,Control,81
+ ,SENTENCE,RECOG,Control,82
+ ,CLEAN,RECOG,Control,83
+ ,SLEEP,RECOG,Control,84
+ ,DONKEY,RECOG,Control,85
+ ,LOVE,RECOG,Control,86
+ ,DRINK,RECOG,Control,87
+ ,CARD,RECOG,Control,88
+ ,FLOWER,RECOG,Control,89
+ ,FISH,RECOG,Control,90
+ ,MAROON                   ,RECOG,Control,91
+ ,CLOTH,RECOG,Control,92
+ ,STEAK,RECOG,Control,93
+ ,ELECTION,RECOG,Control,94
+ ,CHARM,RECOG,Control,95
+ ,KEYS,RECOG,Control,96
+ ,PHONE,RECOG,Control,97
+ ,SHAKE,RECOG,Control,98
+ ,FICTION,RECOG,Control,99
+ ,ROD,RECOG,Control,100
+ ,BELT,RECOG,Control,101
+ ,TICK,RECOG,Control,102
+ ,MORNING,RECOG,Control,103
+ ,HAND,RECOG,Control,104
+ ,BANG,RECOG,Control,105
+ ,SNOW,RECOG,Control,106
+ ,STOP,RECOG,Control,107
+ ,COLLAR,RECOG,Control,108
+ ,ISLAND,RECOG,Control,109
+ ,SMELL,RECOG,Control,110
+ ,LAWYER,RECOG,Control,111
+ ,DRINK,RECOG,Control,112
+ ,FEATHER,RECOG,Control,113
+ ,SEED,RECOG,Control,114
+ ,CAVE,RECOG,Control,115
+ ,BASKET,RECOG,Control,116
+ ,THIGH,RECOG,Control,117
+ ,PEAK,RECOG,Control,118
+ ,KNOB,RECOG,Control,119
+ ,MUSCLE,RECOG,Control,120
+ ,PLANT,RECOG,Control,121
+ ,CUT,RECOG,Control,122
+ ,HAMMER,RECOG,Control,123
+ ,CLOTHES,RECOG,Control,124
+ ,RED,RECOG,Control,125
+ ,FIRE,RECOG,Control,126
+ ,PAPER,RECOG,Control,127
+ ,SMELL,RECOG,Control,128
+ ,BASEBALL,RECOG,Control,129
+ ,STING,RECOG,Control,130
+ ,FIGHT,RECOG,Control,131
+ ,COLD,RECOG,Control,132
+ ,COW,RECOG,Control,133
+ ,BUG,RECOG,Control,134
+ ,WATER,RECOG,Control,135
+ ,VASE                     ,RECOG,Control,136
+ ,CAR,RECOG,Control,137
+ ,WOLF,RECOG,Control,138
+ ,ACCIDENT,RECOG,Control,139
+ ,RIDDLE,RECOG,Control,140
+ ,CLUTTER                  ,RECOG,Control,141
+ ,SACK,RECOG,Control,142
+ ,HORN,RECOG,Control,143
+ ,BUSINESS,RECOG,Control,144
+ ,HIDE                     ,RECOG,Control,145
+ ,TOIL                     ,RECOG,Control,146
+ ,OUNCE                    ,RECOG,Control,147
+ ,BRONZE                   ,RECOG,Control,148
+ ,CHILDREN,RECOG,Control,149
+ ,LEG,RECOG,Control,150

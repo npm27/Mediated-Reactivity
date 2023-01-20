@@ -47,8 +47,10 @@
 //         the step size for multiple ranges, please enter the step size
 //         after each range, like "1::3#.1, a::g # 2, 7::9 #.5"
 
+
+
 if (!isset($settings) OR $settings === '') {
-    $settings = '1::7';
+    $settings = 'YES,NO';
 }
 
 $likertOptions = rangeToArray($settings);
@@ -61,7 +63,9 @@ $optionWidth = floor(1000/count($likertOptions))/10;
 ?><style>
     .likertArea { text-align: center; }
     
-    .likertQuestion { margin: 0 0 30px 0; font-size: 1.3em; }
+    .likertQuestion { margin: 0 0 30px 0; font-size: 1.1em; }
+
+    .likertQuestion2 { margin: 0 0 30px 0; font-size: 1.9em; }
     
     .likertLabels { display: table; margin: 10px 0; color: #666; width: 100%; }
     .likertLabel { display: table-cell; padding: 8px;
@@ -76,6 +80,10 @@ $optionWidth = floor(1000/count($likertOptions))/10;
 <?php
 
 echo '<div class="likertArea">';
+
+echo '<div class="likertQuestion2">' .
+        $answer .
+     '</div>';
 
 echo '<div class="likertQuestion">' .
         $question .
