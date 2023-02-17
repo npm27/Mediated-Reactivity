@@ -8,8 +8,8 @@ library(ez)
 library(psychReport)
 
 ##get ns
-length(unique(JOL$id)) #21
-length(unique(Read$id)) #23
+length(unique(JOL$id)) #25
+length(unique(Read$id)) #26
 
 #turn off scientific notation
 options(scipen = 999)
@@ -94,7 +94,7 @@ temp$statistic #sig!
 temp = t.test(jol.ph$M, read.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #non-sig! (most likely a power thing...)
+temp$statistic #non-sig! (most likely a power thing...) #.14
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #unrelated
