@@ -8,8 +8,8 @@ library(ez)
 library(psychReport)
 
 ##get ns
-length(unique(JOL$id)) #25
-length(unique(Read$id)) #26
+length(unique(JOL$id)) #32
+length(unique(Read$id)) #32
 
 #turn off scientific notation
 options(scipen = 999)
@@ -33,6 +33,10 @@ tapply(combined$score, list(combined$encoding, combined$direction), mean, na.omi
 
 ##Check for outliers and weirdness here
 summary(combined)
+
+##remove outliers
+combined = subset(combined,
+                  combined$id != "10068469SJ" & combined$id != "62f17b6b63bd9e6627a19956" & combined$id != "5a8b1ee2000dab00018cc7cd")
 
 ####ANOVA####
 model1 = ezANOVA(combined,
@@ -94,7 +98,7 @@ temp$statistic #sig!
 temp = t.test(jol.ph$M, read.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #non-sig! (most likely a power thing...) #.14
+temp$statistic #non-sig! (most likely a power thing...) #.15
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #unrelated
@@ -105,3 +109,8 @@ temp$statistic #Non-Sig
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #okay, so trending in the right direction!
+
+##get ns after cleaning
+##get ns
+length(unique(JOL$id)) #32
+length(unique(Read$id)) #32
