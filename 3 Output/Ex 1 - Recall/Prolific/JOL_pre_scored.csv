@@ -7,6 +7,7 @@
 "61041a3b4159985f5294a436","love","love",2,"JOL","affection","Study1","F","Study Phase",99,"Recall1",1711
 "62029a55ef1cb18a1337c61a","love","love",2,"JOL","affection","Study1","F","Study Phase",100,"Recall1",1607
 "62d43cee3d60ac98c1dcacc8","caring","love",2,"JOL","affection","Study1","F","Study Phase",75,"Recall1",3429
+"630cc9747cb664e8a03c29f0","love","love",2,"JOL","affection","Study1","F","Study Phase",55,"Recall1",1774
 "63a68daa57320319534db166","love","love",2,"JOL","affection","Study1","F","Study Phase",80,"Recall1",7004
 "63d82b2de40f94ceb14816cc","love","love",2,"JOL","affection","Study1","F","Study Phase",60,"Recall1",5135
 "63d87d58ddc4d930bbc9568e","love","love",2,"JOL","affection","Study1","F","Study Phase",45,"Recall1",6181
@@ -18,6 +19,7 @@
 "61041a3b4159985f5294a436","bounce","bounce",2,"JOL","bat","Study1","M","Study Phase",30,"Recall1",2297
 "62029a55ef1cb18a1337c61a","bounce","bounce",2,"JOL","bat","Study1","M","Study Phase",0,"Recall1",1867
 "62d43cee3d60ac98c1dcacc8","round","bounce",2,"JOL","bat","Study1","M","Study Phase",4,"Recall1",3122
+"630cc9747cb664e8a03c29f0","ball","bounce",2,"JOL","bat","Study1","M","Study Phase",15,"Recall1",2011
 "63a68daa57320319534db166","bounce","bounce",2,"JOL","bat","Study1","M","Study Phase",40,"Recall1",9964
 "63d82b2de40f94ceb14816cc","bounce","bounce",2,"JOL","bat","Study1","M","Study Phase",30,"Recall1",3280
 "63d87d58ddc4d930bbc9568e","boulder","bounce",2,"JOL","bat","Study1","M","Study Phase",3,"Recall1",5817
@@ -29,6 +31,7 @@
 "61041a3b4159985f5294a436","fuzzy","box",2,"JOL","beach","Study1","M","Study Phase",5,"Recall1",2538
 "62029a55ef1cb18a1337c61a","","box",2,"JOL","beach","Study1","M","Study Phase",0,"Recall1",5154
 "62d43cee3d60ac98c1dcacc8","sunny","box",2,"JOL","beach","Study1","M","Study Phase",4,"Recall1",2502
+"630cc9747cb664e8a03c29f0","sand","box",2,"JOL","beach","Study1","M","Study Phase",5,"Recall1",4600
 "63a68daa57320319534db166","day","box",2,"JOL","beach","Study1","M","Study Phase",40,"Recall1",19587
 "63d82b2de40f94ceb14816cc","box","box",2,"JOL","beach","Study1","M","Study Phase",15,"Recall1",2945
 "63d87d58ddc4d930bbc9568e","","box",2,"JOL","beach","Study1","M","Study Phase",12,"Recall1",1393
@@ -40,6 +43,7 @@
 "61041a3b4159985f5294a436","pie","pie",2,"JOL","birthday","Study1","M","Study Phase",1,"Recall1",4354
 "62029a55ef1cb18a1337c61a","pie","pie",2,"JOL","birthday","Study1","M","Study Phase",60,"Recall1",1583
 "62d43cee3d60ac98c1dcacc8","cake","pie",2,"JOL","birthday","Study1","M","Study Phase",15,"Recall1",2482
+"630cc9747cb664e8a03c29f0","pie","pie",2,"JOL","birthday","Study1","M","Study Phase",30,"Recall1",2031
 "63a68daa57320319534db166","pie","pie",2,"JOL","birthday","Study1","M","Study Phase",73,"Recall1",4163
 "63d82b2de40f94ceb14816cc","cake","pie",2,"JOL","birthday","Study1","M","Study Phase",15,"Recall1",3612
 "63d87d58ddc4d930bbc9568e","pie","pie",2,"JOL","birthday","Study1","M","Study Phase",50,"Recall1",2925
@@ -51,6 +55,7 @@
 "61041a3b4159985f5294a436","hand","hand",2,"JOL","cake","Study1","U","Study Phase",5,"Recall1",1685
 "62029a55ef1cb18a1337c61a","","hand",2,"JOL","cake","Study1","U","Study Phase",10,"Recall1",1382
 "62d43cee3d60ac98c1dcacc8","mix","hand",2,"JOL","cake","Study1","U","Study Phase",5,"Recall1",3329
+"630cc9747cb664e8a03c29f0","ring","hand",2,"JOL","cake","Study1","U","Study Phase",15,"Recall1",6868
 "63a68daa57320319534db166","pie","hand",2,"JOL","cake","Study1","U","Study Phase",53,"Recall1",10480
 "63d82b2de40f94ceb14816cc","","hand",2,"JOL","cake","Study1","U","Study Phase",20,"Recall1",3919
 "63d87d58ddc4d930bbc9568e","hand","hand",2,"JOL","cake","Study1","U","Study Phase",0,"Recall1",4342
@@ -62,6 +67,7 @@
 "61041a3b4159985f5294a436","","carpet",2,"JOL","ceiling","Study1","M","Study Phase",2,"Recall1",1989
 "62029a55ef1cb18a1337c61a","carpet","carpet",2,"JOL","ceiling","Study1","M","Study Phase",10,"Recall1",2222
 "62d43cee3d60ac98c1dcacc8","carpet","carpet",2,"JOL","ceiling","Study1","M","Study Phase",1,"Recall1",3222
+"630cc9747cb664e8a03c29f0","carpet","carpet",2,"JOL","ceiling","Study1","M","Study Phase",40,"Recall1",3452
 "63a68daa57320319534db166","carpet","carpet",2,"JOL","ceiling","Study1","M","Study Phase",50,"Recall1",5530
 "63d82b2de40f94ceb14816cc","carpet","carpet",2,"JOL","ceiling","Study1","M","Study Phase",40,"Recall1",4220
 "63d87d58ddc4d930bbc9568e","carpet","carpet",2,"JOL","ceiling","Study1","M","Study Phase",70,"Recall1",3427
@@ -73,6 +79,7 @@
 "61041a3b4159985f5294a436","","dance",2,"JOL","circle","Study1","M","Study Phase",10,"Recall1",1370
 "62029a55ef1cb18a1337c61a","","dance",2,"JOL","circle","Study1","M","Study Phase",0,"Recall1",4683
 "62d43cee3d60ac98c1dcacc8","round","dance",2,"JOL","circle","Study1","M","Study Phase",5,"Recall1",4306
+"630cc9747cb664e8a03c29f0","tree","dance",2,"JOL","circle","Study1","M","Study Phase",15,"Recall1",5016
 "63a68daa57320319534db166","horse","dance",2,"JOL","circle","Study1","M","Study Phase",78,"Recall1",9362
 "63d82b2de40f94ceb14816cc","","dance",2,"JOL","circle","Study1","M","Study Phase",50,"Recall1",4194
 "63d87d58ddc4d930bbc9568e","dance","dance",2,"JOL","circle","Study1","M","Study Phase",39,"Recall1",6820
@@ -84,6 +91,7 @@
 "61041a3b4159985f5294a436","","election",2,"JOL","crackle","Study1","U","Study Phase",0,"Recall1",1386
 "62029a55ef1cb18a1337c61a","election","election",2,"JOL","crackle","Study1","U","Study Phase",0,"Recall1",3397
 "62d43cee3d60ac98c1dcacc8","snap","election",2,"JOL","crackle","Study1","U","Study Phase",1,"Recall1",5693
+"630cc9747cb664e8a03c29f0","election","election",2,"JOL","crackle","Study1","U","Study Phase",5,"Recall1",2601
 "63a68daa57320319534db166","election","election",2,"JOL","crackle","Study1","U","Study Phase",30,"Recall1",6820
 "63d82b2de40f94ceb14816cc","light","election",2,"JOL","crackle","Study1","U","Study Phase",15,"Recall1",8106
 "63d87d58ddc4d930bbc9568e","","election",2,"JOL","crackle","Study1","U","Study Phase",6,"Recall1",2007
@@ -95,6 +103,7 @@
 "61041a3b4159985f5294a436","card","card",2,"JOL","credit","Study1","F","Study Phase",100,"Recall1",1459
 "62029a55ef1cb18a1337c61a","card","card",2,"JOL","credit","Study1","F","Study Phase",100,"Recall1",1450
 "62d43cee3d60ac98c1dcacc8","card","card",2,"JOL","credit","Study1","F","Study Phase",80,"Recall1",1805
+"630cc9747cb664e8a03c29f0","card","card",2,"JOL","credit","Study1","F","Study Phase",80,"Recall1",1510
 "63a68daa57320319534db166","card","card",2,"JOL","credit","Study1","F","Study Phase",90,"Recall1",3779
 "63d82b2de40f94ceb14816cc","card","card",2,"JOL","credit","Study1","F","Study Phase",95,"Recall1",2767
 "63d87d58ddc4d930bbc9568e","card","card",2,"JOL","credit","Study1","F","Study Phase",90,"Recall1",3971
@@ -106,6 +115,7 @@
 "61041a3b4159985f5294a436","","bottle",2,"JOL","cry","Study1","M","Study Phase",60,"Recall1",1014
 "62029a55ef1cb18a1337c61a","","bottle",2,"JOL","cry","Study1","M","Study Phase",0,"Recall1",2453
 "62d43cee3d60ac98c1dcacc8","sad","bottle",2,"JOL","cry","Study1","M","Study Phase",1,"Recall1",4473
+"630cc9747cb664e8a03c29f0","","bottle",2,"JOL","cry","Study1","M","Study Phase",15,"Recall1",1355
 "63a68daa57320319534db166","bottle","bottle",2,"JOL","cry","Study1","M","Study Phase",60,"Recall1",5045
 "63d82b2de40f94ceb14816cc","","bottle",2,"JOL","cry","Study1","M","Study Phase",40,"Recall1",3517
 "63d87d58ddc4d930bbc9568e","bottle","bottle",2,"JOL","cry","Study1","M","Study Phase",35,"Recall1",5533
@@ -117,6 +127,7 @@
 "61041a3b4159985f5294a436","dark","dark",2,"JOL","day","Study1","M","Study Phase",65,"Recall1",5652
 "62029a55ef1cb18a1337c61a","","dark",2,"JOL","day","Study1","M","Study Phase",10,"Recall1",850
 "62d43cee3d60ac98c1dcacc8","night","dark",2,"JOL","day","Study1","M","Study Phase",1,"Recall1",3205
+"630cc9747cb664e8a03c29f0","night","dark",2,"JOL","day","Study1","M","Study Phase",20,"Recall1",3449
 "63a68daa57320319534db166","dark","dark",2,"JOL","day","Study1","M","Study Phase",40,"Recall1",7151
 "63d82b2de40f94ceb14816cc","night","dark",2,"JOL","day","Study1","M","Study Phase",70,"Recall1",2567
 "63d87d58ddc4d930bbc9568e","dark","dark",2,"JOL","day","Study1","M","Study Phase",60,"Recall1",5739
@@ -128,6 +139,7 @@
 "61041a3b4159985f5294a436","","bang",2,"JOL","fuzzy","Study1","U","Study Phase",1,"Recall1",3375
 "62029a55ef1cb18a1337c61a","","bang",2,"JOL","fuzzy","Study1","U","Study Phase",0,"Recall1",916
 "62d43cee3d60ac98c1dcacc8","warm","bang",2,"JOL","fuzzy","Study1","U","Study Phase",20,"Recall1",3200
+"630cc9747cb664e8a03c29f0","hard","bang",2,"JOL","fuzzy","Study1","U","Study Phase",10,"Recall1",5426
 "63a68daa57320319534db166","phone","bang",2,"JOL","fuzzy","Study1","U","Study Phase",40,"Recall1",25297
 "63d82b2de40f94ceb14816cc","","bang",2,"JOL","fuzzy","Study1","U","Study Phase",20,"Recall1",1812
 "63d87d58ddc4d930bbc9568e","","bang",2,"JOL","fuzzy","Study1","U","Study Phase",9,"Recall1",1506
@@ -139,6 +151,7 @@
 "61041a3b4159985f5294a436","","steak",2,"JOL","give","Study1","U","Study Phase",5,"Recall1",1559
 "62029a55ef1cb18a1337c61a","","steak",2,"JOL","give","Study1","U","Study Phase",0,"Recall1",1579
 "62d43cee3d60ac98c1dcacc8","donate","steak",2,"JOL","give","Study1","U","Study Phase",1,"Recall1",3578
+"630cc9747cb664e8a03c29f0","","steak",2,"JOL","give","Study1","U","Study Phase",5,"Recall1",3870
 "63a68daa57320319534db166","take","steak",2,"JOL","give","Study1","U","Study Phase",20,"Recall1",5423
 "63d82b2de40f94ceb14816cc","take","steak",2,"JOL","give","Study1","U","Study Phase",15,"Recall1",2951
 "63d87d58ddc4d930bbc9568e","","steak",2,"JOL","give","Study1","U","Study Phase",0,"Recall1",7959
@@ -150,6 +163,7 @@
 "61041a3b4159985f5294a436","","cotton",2,"JOL","hard","Study1","M","Study Phase",10,"Recall1",1477
 "62029a55ef1cb18a1337c61a","","cotton",2,"JOL","hard","Study1","M","Study Phase",0,"Recall1",1695
 "62d43cee3d60ac98c1dcacc8","solid","cotton",2,"JOL","hard","Study1","M","Study Phase",1,"Recall1",2757
+"630cc9747cb664e8a03c29f0","silk","cotton",2,"JOL","hard","Study1","M","Study Phase",5,"Recall1",4545
 "63a68daa57320319534db166","silky","cotton",2,"JOL","hard","Study1","M","Study Phase",30,"Recall1",16651
 "63d82b2de40f94ceb14816cc","","cotton",2,"JOL","hard","Study1","M","Study Phase",20,"Recall1",3366
 "63d87d58ddc4d930bbc9568e","","cotton",2,"JOL","hard","Study1","M","Study Phase",5,"Recall1",4170
@@ -161,6 +175,7 @@
 "61041a3b4159985f5294a436","wheel","wheel",2,"JOL","horse","Study1","M","Study Phase",9,"Recall1",2297
 "62029a55ef1cb18a1337c61a","","wheel",2,"JOL","horse","Study1","M","Study Phase",0,"Recall1",1444
 "62d43cee3d60ac98c1dcacc8","farm","wheel",2,"JOL","horse","Study1","M","Study Phase",2,"Recall1",14554
+"630cc9747cb664e8a03c29f0","mule","wheel",2,"JOL","horse","Study1","M","Study Phase",10,"Recall1",3153
 "63a68daa57320319534db166","circle","wheel",2,"JOL","horse","Study1","M","Study Phase",36,"Recall1",6823
 "63d82b2de40f94ceb14816cc","wheel","wheel",2,"JOL","horse","Study1","M","Study Phase",45,"Recall1",2984
 "63d87d58ddc4d930bbc9568e","wheel","wheel",2,"JOL","horse","Study1","M","Study Phase",60,"Recall1",4036
@@ -172,6 +187,7 @@
 "61041a3b4159985f5294a436","clean","clean",2,"JOL","hygiene","Study1","F","Study Phase",98,"Recall1",1691
 "62029a55ef1cb18a1337c61a","clean","clean",2,"JOL","hygiene","Study1","F","Study Phase",40,"Recall1",1748
 "62d43cee3d60ac98c1dcacc8","clean","clean",2,"JOL","hygiene","Study1","F","Study Phase",80,"Recall1",6830
+"630cc9747cb664e8a03c29f0","clean","clean",2,"JOL","hygiene","Study1","F","Study Phase",70,"Recall1",1953
 "63a68daa57320319534db166","scalp","clean",2,"JOL","hygiene","Study1","F","Study Phase",80,"Recall1",12176
 "63d82b2de40f94ceb14816cc","clean","clean",2,"JOL","hygiene","Study1","F","Study Phase",70,"Recall1",7014
 "63d87d58ddc4d930bbc9568e","clean","clean",2,"JOL","hygiene","Study1","F","Study Phase",75,"Recall1",5184
@@ -183,6 +199,7 @@
 "61041a3b4159985f5294a436","meat","rod",2,"JOL","keys","Study1","U","Study Phase",8,"Recall1",2892
 "62029a55ef1cb18a1337c61a","","rod",2,"JOL","keys","Study1","U","Study Phase",0,"Recall1",1585
 "62d43cee3d60ac98c1dcacc8","car","rod",2,"JOL","keys","Study1","U","Study Phase",1,"Recall1",8526
+"630cc9747cb664e8a03c29f0","ring","rod",2,"JOL","keys","Study1","U","Study Phase",15,"Recall1",4129
 "63a68daa57320319534db166","steak","rod",2,"JOL","keys","Study1","U","Study Phase",32,"Recall1",6896
 "63d82b2de40f94ceb14816cc","","rod",2,"JOL","keys","Study1","U","Study Phase",5,"Recall1",6160
 "63d87d58ddc4d930bbc9568e","rod","rod",2,"JOL","keys","Study1","U","Study Phase",13,"Recall1",6796
@@ -194,6 +211,7 @@
 "61041a3b4159985f5294a436","stripes","stripes",2,"JOL","lion","Study1","M","Study Phase",20,"Recall1",1989
 "62029a55ef1cb18a1337c61a","stripes","stripes",2,"JOL","lion","Study1","M","Study Phase",0,"Recall1",2526
 "62d43cee3d60ac98c1dcacc8","stripes","stripes",2,"JOL","lion","Study1","M","Study Phase",5,"Recall1",3373
+"630cc9747cb664e8a03c29f0","stripes","stripes",2,"JOL","lion","Study1","M","Study Phase",15,"Recall1",5801
 "63a68daa57320319534db166","stripes","stripes",2,"JOL","lion","Study1","M","Study Phase",45,"Recall1",6123
 "63d82b2de40f94ceb14816cc","stripes","stripes",2,"JOL","lion","Study1","M","Study Phase",25,"Recall1",3159
 "63d87d58ddc4d930bbc9568e","","stripes",2,"JOL","lion","Study1","M","Study Phase",2,"Recall1",2768
@@ -205,6 +223,7 @@
 "61041a3b4159985f5294a436","","fiction",2,"JOL","listen","Study1","U","Study Phase",50,"Recall1",3550
 "62029a55ef1cb18a1337c61a","","fiction",2,"JOL","listen","Study1","U","Study Phase",0,"Recall1",1118
 "62d43cee3d60ac98c1dcacc8","music","fiction",2,"JOL","listen","Study1","U","Study Phase",1,"Recall1",2853
+"630cc9747cb664e8a03c29f0","","fiction",2,"JOL","listen","Study1","U","Study Phase",30,"Recall1",890
 "63a68daa57320319534db166","hear","fiction",2,"JOL","listen","Study1","U","Study Phase",20,"Recall1",7182
 "63d82b2de40f94ceb14816cc","","fiction",2,"JOL","listen","Study1","U","Study Phase",15,"Recall1",2783
 "63d87d58ddc4d930bbc9568e","","fiction",2,"JOL","listen","Study1","U","Study Phase",1,"Recall1",1927
@@ -216,6 +235,7 @@
 "61041a3b4159985f5294a436","trash","trash",2,"JOL","litter","Study1","F","Study Phase",98,"Recall1",1689
 "62029a55ef1cb18a1337c61a","trash","trash",2,"JOL","litter","Study1","F","Study Phase",100,"Recall1",2598
 "62d43cee3d60ac98c1dcacc8","trash","trash",2,"JOL","litter","Study1","F","Study Phase",75,"Recall1",3285
+"630cc9747cb664e8a03c29f0","","trash",2,"JOL","litter","Study1","F","Study Phase",35,"Recall1",1620
 "63a68daa57320319534db166","trash","trash",2,"JOL","litter","Study1","F","Study Phase",75,"Recall1",5490
 "63d82b2de40f94ceb14816cc","trash","trash",2,"JOL","litter","Study1","F","Study Phase",60,"Recall1",3106
 "63d87d58ddc4d930bbc9568e","trash","trash",2,"JOL","litter","Study1","F","Study Phase",91,"Recall1",3142
@@ -227,6 +247,7 @@
 "61041a3b4159985f5294a436","phone","phone",2,"JOL","maze","Study1","U","Study Phase",5,"Recall1",1839
 "62029a55ef1cb18a1337c61a","","phone",2,"JOL","maze","Study1","U","Study Phase",0,"Recall1",954
 "62d43cee3d60ac98c1dcacc8","round","phone",2,"JOL","maze","Study1","U","Study Phase",4,"Recall1",3481
+"630cc9747cb664e8a03c29f0","phone","phone",2,"JOL","maze","Study1","U","Study Phase",5,"Recall1",2654
 "63a68daa57320319534db166","circle","phone",2,"JOL","maze","Study1","U","Study Phase",50,"Recall1",8957
 "63d82b2de40f94ceb14816cc","phone","phone",2,"JOL","maze","Study1","U","Study Phase",20,"Recall1",5458
 "63d87d58ddc4d930bbc9568e","mirror","phone",2,"JOL","maze","Study1","U","Study Phase",10,"Recall1",10726
@@ -238,6 +259,7 @@
 "61041a3b4159985f5294a436","","keys",2,"JOL","meat","Study1","U","Study Phase",5,"Recall1",3817
 "62029a55ef1cb18a1337c61a","","keys",2,"JOL","meat","Study1","U","Study Phase",0,"Recall1",1565
 "62d43cee3d60ac98c1dcacc8","beans","keys",2,"JOL","meat","Study1","U","Study Phase",1,"Recall1",6425
+"630cc9747cb664e8a03c29f0","","keys",2,"JOL","meat","Study1","U","Study Phase",5,"Recall1",3664
 "63a68daa57320319534db166","eat","keys",2,"JOL","meat","Study1","U","Study Phase",30,"Recall1",14503
 "63d82b2de40f94ceb14816cc","","keys",2,"JOL","meat","Study1","U","Study Phase",5,"Recall1",4047
 "63d87d58ddc4d930bbc9568e","","keys",2,"JOL","meat","Study1","U","Study Phase",12,"Recall1",1692
@@ -249,6 +271,7 @@
 "61041a3b4159985f5294a436","moron","maroon",2,"JOL","mirror","Study1","U","Study Phase",0,"Recall1",5824
 "62029a55ef1cb18a1337c61a","","maroon",2,"JOL","mirror","Study1","U","Study Phase",0,"Recall1",2479
 "62d43cee3d60ac98c1dcacc8","wall","maroon",2,"JOL","mirror","Study1","U","Study Phase",10,"Recall1",2842
+"630cc9747cb664e8a03c29f0","minnow","maroon",2,"JOL","mirror","Study1","U","Study Phase",10,"Recall1",11649
 "63a68daa57320319534db166","reflection","maroon",2,"JOL","mirror","Study1","U","Study Phase",20,"Recall1",7539
 "63d82b2de40f94ceb14816cc","","maroon",2,"JOL","mirror","Study1","U","Study Phase",10,"Recall1",2894
 "63d87d58ddc4d930bbc9568e","","maroon",2,"JOL","mirror","Study1","U","Study Phase",11,"Recall1",3792
@@ -268,6 +291,8 @@
 "62029a55ef1cb18a1337c61a","donkey","donkey",2,"JOL","mule","Study1","F","Study Phase",50,"Recall1",1409
 "62d43cee3d60ac98c1dcacc8","donkey","donkey",2,"JOL","mule","Study1","F","Study Phase",50,"Recall1",2862
 "62d43cee3d60ac98c1dcacc8","donkey","donkey",2,"JOL","mule","Study1","F","Study Phase",50,"Recall1",2652
+"630cc9747cb664e8a03c29f0","donkey","donkey",2,"JOL","mule","Study1","F","Study Phase",25,"Recall1",2326
+"630cc9747cb664e8a03c29f0","donkey","donkey",2,"JOL","mule","Study1","F","Study Phase",35,"Recall1",2633
 "63a68daa57320319534db166","donkey","donkey",2,"JOL","mule","Study1","F","Study Phase",72,"Recall1",6915
 "63a68daa57320319534db166","donkey","donkey",2,"JOL","mule","Study1","F","Study Phase",80,"Recall1",12489
 "63d82b2de40f94ceb14816cc","donkey","donkey",2,"JOL","mule","Study1","F","Study Phase",80,"Recall1",6549
@@ -282,6 +307,7 @@
 "61041a3b4159985f5294a436","sleep","sleep",2,"JOL","nap","Study1","F","Study Phase",100,"Recall1",1734
 "62029a55ef1cb18a1337c61a","sleep","sleep",2,"JOL","nap","Study1","F","Study Phase",100,"Recall1",6933
 "62d43cee3d60ac98c1dcacc8","sleep","sleep",2,"JOL","nap","Study1","F","Study Phase",78,"Recall1",2622
+"630cc9747cb664e8a03c29f0","sleep","sleep",2,"JOL","nap","Study1","F","Study Phase",40,"Recall1",1946
 "63a68daa57320319534db166","sleep","sleep",2,"JOL","nap","Study1","F","Study Phase",95,"Recall1",6385
 "63d82b2de40f94ceb14816cc","sleep","sleep",2,"JOL","nap","Study1","F","Study Phase",60,"Recall1",5804
 "63d87d58ddc4d930bbc9568e","bottle","sleep",2,"JOL","nap","Study1","F","Study Phase",70,"Recall1",6760
@@ -293,6 +319,7 @@
 "61041a3b4159985f5294a436","flower","flower",2,"JOL","orchid","Study1","F","Study Phase",98,"Recall1",1619
 "62029a55ef1cb18a1337c61a","flower","flower",2,"JOL","orchid","Study1","F","Study Phase",10,"Recall1",1778
 "62d43cee3d60ac98c1dcacc8","flower","flower",2,"JOL","orchid","Study1","F","Study Phase",25,"Recall1",4230
+"630cc9747cb664e8a03c29f0","flower","flower",2,"JOL","orchid","Study1","F","Study Phase",55,"Recall1",2747
 "63a68daa57320319534db166","flower","flower",2,"JOL","orchid","Study1","F","Study Phase",80,"Recall1",5079
 "63d82b2de40f94ceb14816cc","flower","flower",2,"JOL","orchid","Study1","F","Study Phase",90,"Recall1",4705
 "63d87d58ddc4d930bbc9568e","flower","flower",2,"JOL","orchid","Study1","F","Study Phase",90,"Recall1",3652
@@ -304,6 +331,7 @@
 "61041a3b4159985f5294a436","","plant",2,"JOL","root","Study1","F","Study Phase",60,"Recall1",4108
 "62029a55ef1cb18a1337c61a","plant","plant",2,"JOL","root","Study1","F","Study Phase",50,"Recall1",1463
 "62d43cee3d60ac98c1dcacc8","tree","plant",2,"JOL","root","Study1","F","Study Phase",25,"Recall1",2517
+"630cc9747cb664e8a03c29f0","tree","plant",2,"JOL","root","Study1","F","Study Phase",45,"Recall1",4369
 "63a68daa57320319534db166","tree","plant",2,"JOL","root","Study1","F","Study Phase",60,"Recall1",3102
 "63d82b2de40f94ceb14816cc","plant","plant",2,"JOL","root","Study1","F","Study Phase",85,"Recall1",3246
 "63d87d58ddc4d930bbc9568e","plant","plant",2,"JOL","root","Study1","F","Study Phase",50,"Recall1",4568
@@ -315,6 +343,7 @@
 "61041a3b4159985f5294a436","silk","silk",2,"JOL","rough","Study1","M","Study Phase",2,"Recall1",3648
 "62029a55ef1cb18a1337c61a","","silk",2,"JOL","rough","Study1","M","Study Phase",0,"Recall1",4189
 "62d43cee3d60ac98c1dcacc8","hard","silk",2,"JOL","rough","Study1","M","Study Phase",1,"Recall1",5295
+"630cc9747cb664e8a03c29f0","silk","silk",2,"JOL","rough","Study1","M","Study Phase",10,"Recall1",2287
 "63a68daa57320319534db166","silk","silk",2,"JOL","rough","Study1","M","Study Phase",38,"Recall1",9040
 "63d82b2de40f94ceb14816cc","","silk",2,"JOL","rough","Study1","M","Study Phase",35,"Recall1",4414
 "63d87d58ddc4d930bbc9568e","cotton","silk",2,"JOL","rough","Study1","M","Study Phase",30,"Recall1",7313
@@ -326,6 +355,7 @@
 "61041a3b4159985f5294a436","head","head",2,"JOL","scalp","Study1","F","Study Phase",65,"Recall1",2093
 "62029a55ef1cb18a1337c61a","head","head",2,"JOL","scalp","Study1","F","Study Phase",80,"Recall1",1375
 "62d43cee3d60ac98c1dcacc8","hair","head",2,"JOL","scalp","Study1","F","Study Phase",75,"Recall1",5291
+"630cc9747cb664e8a03c29f0","hair","head",2,"JOL","scalp","Study1","F","Study Phase",50,"Recall1",4338
 "63a68daa57320319534db166","teeth","head",2,"JOL","scalp","Study1","F","Study Phase",67,"Recall1",6311
 "63d82b2de40f94ceb14816cc","head","head",2,"JOL","scalp","Study1","F","Study Phase",50,"Recall1",4329
 "63d87d58ddc4d930bbc9568e","head","head",2,"JOL","scalp","Study1","F","Study Phase",69,"Recall1",3338
@@ -337,6 +367,7 @@
 "61041a3b4159985f5294a436","share","shake",2,"JOL","shell","Study1","U","Study Phase",6,"Recall1",6970
 "62029a55ef1cb18a1337c61a","","shake",2,"JOL","shell","Study1","U","Study Phase",0,"Recall1",1953
 "62d43cee3d60ac98c1dcacc8","sea","shake",2,"JOL","shell","Study1","U","Study Phase",8,"Recall1",3792
+"630cc9747cb664e8a03c29f0","beach","shake",2,"JOL","shell","Study1","U","Study Phase",5,"Recall1",2359
 "63a68daa57320319534db166","rattle","shake",2,"JOL","shell","Study1","U","Study Phase",35,"Recall1",5966
 "63d82b2de40f94ceb14816cc","shake","shake",2,"JOL","shell","Study1","U","Study Phase",30,"Recall1",3020
 "63d87d58ddc4d930bbc9568e","fish","shake",2,"JOL","shell","Study1","U","Study Phase",10,"Recall1",11648
@@ -348,6 +379,7 @@
 "61041a3b4159985f5294a436","","tick",2,"JOL","sign","Study1","U","Study Phase",3,"Recall1",1269
 "62029a55ef1cb18a1337c61a","","tick",2,"JOL","sign","Study1","U","Study Phase",0,"Recall1",9714
 "62d43cee3d60ac98c1dcacc8","post","tick",2,"JOL","sign","Study1","U","Study Phase",14,"Recall1",3116
+"630cc9747cb664e8a03c29f0","post","tick",2,"JOL","sign","Study1","U","Study Phase",15,"Recall1",2909
 "63a68daa57320319534db166","signal","tick",2,"JOL","sign","Study1","U","Study Phase",40,"Recall1",6745
 "63d82b2de40f94ceb14816cc","","tick",2,"JOL","sign","Study1","U","Study Phase",15,"Recall1",6001
 "63d87d58ddc4d930bbc9568e","","tick",2,"JOL","sign","Study1","U","Study Phase",0,"Recall1",9206
@@ -359,6 +391,7 @@
 "61041a3b4159985f5294a436","drink","drink",2,"JOL","sip","Study1","F","Study Phase",65,"Recall1",2456
 "62029a55ef1cb18a1337c61a","drink","drink",2,"JOL","sip","Study1","F","Study Phase",40,"Recall1",1728
 "62d43cee3d60ac98c1dcacc8","water","drink",2,"JOL","sip","Study1","F","Study Phase",60,"Recall1",2121
+"630cc9747cb664e8a03c29f0","drink","drink",2,"JOL","sip","Study1","F","Study Phase",45,"Recall1",2026
 "63a68daa57320319534db166","eat","drink",2,"JOL","sip","Study1","F","Study Phase",80,"Recall1",9691
 "63d82b2de40f94ceb14816cc","drink","drink",2,"JOL","sip","Study1","F","Study Phase",70,"Recall1",7011
 "63d87d58ddc4d930bbc9568e","","drink",2,"JOL","sip","Study1","F","Study Phase",80,"Recall1",3859
@@ -370,6 +403,7 @@
 "61041a3b4159985f5294a436","","belt",2,"JOL","soon","Study1","U","Study Phase",5,"Recall1",858
 "62029a55ef1cb18a1337c61a","","belt",2,"JOL","soon","Study1","U","Study Phase",0,"Recall1",1165
 "62d43cee3d60ac98c1dcacc8","close","belt",2,"JOL","soon","Study1","U","Study Phase",5,"Recall1",16923
+"630cc9747cb664e8a03c29f0","","belt",2,"JOL","soon","Study1","U","Study Phase",5,"Recall1",1075
 "63a68daa57320319534db166","later","belt",2,"JOL","soon","Study1","U","Study Phase",20,"Recall1",15661
 "63d82b2de40f94ceb14816cc","","belt",2,"JOL","soon","Study1","U","Study Phase",10,"Recall1",7620
 "63d87d58ddc4d930bbc9568e","","belt",2,"JOL","soon","Study1","U","Study Phase",0,"Recall1",2109
@@ -381,6 +415,7 @@
 "61041a3b4159985f5294a436","cloth","cloth",2,"JOL","stretch","Study1","U","Study Phase",5,"Recall1",1706
 "62029a55ef1cb18a1337c61a","","cloth",2,"JOL","stretch","Study1","U","Study Phase",10,"Recall1",1385
 "62d43cee3d60ac98c1dcacc8","exercise","cloth",2,"JOL","stretch","Study1","U","Study Phase",5,"Recall1",13319
+"630cc9747cb664e8a03c29f0","","cloth",2,"JOL","stretch","Study1","U","Study Phase",10,"Recall1",3544
 "63a68daa57320319534db166","fabric","cloth",2,"JOL","stretch","Study1","U","Study Phase",40,"Recall1",6675
 "63d82b2de40f94ceb14816cc","","cloth",2,"JOL","stretch","Study1","U","Study Phase",35,"Recall1",5344
 "63d87d58ddc4d930bbc9568e","fabric","cloth",2,"JOL","stretch","Study1","U","Study Phase",58,"Recall1",3187
@@ -392,6 +427,7 @@
 "61041a3b4159985f5294a436","bird","bird",2,"JOL","swan","Study1","F","Study Phase",97,"Recall1",2029
 "62029a55ef1cb18a1337c61a","bird","bird",2,"JOL","swan","Study1","F","Study Phase",60,"Recall1",1532
 "62d43cee3d60ac98c1dcacc8","bird","bird",2,"JOL","swan","Study1","F","Study Phase",7,"Recall1",2550
+"630cc9747cb664e8a03c29f0","bird","bird",2,"JOL","swan","Study1","F","Study Phase",40,"Recall1",2255
 "63a68daa57320319534db166","bird","bird",2,"JOL","swan","Study1","F","Study Phase",88,"Recall1",22413
 "63d82b2de40f94ceb14816cc","dive","bird",2,"JOL","swan","Study1","F","Study Phase",55,"Recall1",8338
 "63d87d58ddc4d930bbc9568e","bird","bird",2,"JOL","swan","Study1","F","Study Phase",60,"Recall1",7106
@@ -403,6 +439,7 @@
 "61041a3b4159985f5294a436","morning","morning",2,"JOL","temperature","Study1","U","Study Phase",5,"Recall1",2762
 "62029a55ef1cb18a1337c61a","","morning",2,"JOL","temperature","Study1","U","Study Phase",0,"Recall1",1512
 "62d43cee3d60ac98c1dcacc8","hot","morning",2,"JOL","temperature","Study1","U","Study Phase",18,"Recall1",2715
+"630cc9747cb664e8a03c29f0","mornimg","morning",2,"JOL","temperature","Study1","U","Study Phase",5,"Recall1",11615
 "63a68daa57320319534db166","morning","morning",2,"JOL","temperature","Study1","U","Study Phase",50,"Recall1",7242
 "63d82b2de40f94ceb14816cc","morning","morning",2,"JOL","temperature","Study1","U","Study Phase",25,"Recall1",4730
 "63d87d58ddc4d930bbc9568e","morning","morning",2,"JOL","temperature","Study1","U","Study Phase",16,"Recall1",4095
@@ -414,6 +451,7 @@
 "61041a3b4159985f5294a436","","hair",2,"JOL","tooth","Study1","M","Study Phase",20,"Recall1",1979
 "62029a55ef1cb18a1337c61a","","hair",2,"JOL","tooth","Study1","M","Study Phase",0,"Recall1",3285
 "62d43cee3d60ac98c1dcacc8","brush","hair",2,"JOL","tooth","Study1","M","Study Phase",4,"Recall1",8256
+"630cc9747cb664e8a03c29f0","","hair",2,"JOL","tooth","Study1","M","Study Phase",25,"Recall1",7553
 "63a68daa57320319534db166","scalp","hair",2,"JOL","tooth","Study1","M","Study Phase",64,"Recall1",5509
 "63d82b2de40f94ceb14816cc","hair","hair",2,"JOL","tooth","Study1","M","Study Phase",20,"Recall1",5444
 "63d87d58ddc4d930bbc9568e","","hair",2,"JOL","tooth","Study1","M","Study Phase",20,"Recall1",10739
@@ -425,6 +463,7 @@
 "61041a3b4159985f5294a436","green","syrup",2,"JOL","tree","Study1","M","Study Phase",60,"Recall1",2375
 "62029a55ef1cb18a1337c61a","root","syrup",2,"JOL","tree","Study1","M","Study Phase",30,"Recall1",4169
 "62d43cee3d60ac98c1dcacc8","green","syrup",2,"JOL","tree","Study1","M","Study Phase",25,"Recall1",3188
+"630cc9747cb664e8a03c29f0","green","syrup",2,"JOL","tree","Study1","M","Study Phase",65,"Recall1",2179
 "63a68daa57320319534db166","green","syrup",2,"JOL","tree","Study1","M","Study Phase",68,"Recall1",5704
 "63d82b2de40f94ceb14816cc","green","syrup",2,"JOL","tree","Study1","M","Study Phase",55,"Recall1",12331
 "63d87d58ddc4d930bbc9568e","green","syrup",2,"JOL","tree","Study1","M","Study Phase",45,"Recall1",2946
@@ -436,6 +475,7 @@
 "61041a3b4159985f5294a436","fish","fish",2,"JOL","tuna","Study1","F","Study Phase",100,"Recall1",1276
 "62029a55ef1cb18a1337c61a","fish","fish",2,"JOL","tuna","Study1","F","Study Phase",100,"Recall1",1384
 "62d43cee3d60ac98c1dcacc8","fish","fish",2,"JOL","tuna","Study1","F","Study Phase",86,"Recall1",2935
+"630cc9747cb664e8a03c29f0","fish","fish",2,"JOL","tuna","Study1","F","Study Phase",75,"Recall1",2067
 "63a68daa57320319534db166","fish","fish",2,"JOL","tuna","Study1","F","Study Phase",100,"Recall1",3589
 "63d82b2de40f94ceb14816cc","fish","fish",2,"JOL","tuna","Study1","F","Study Phase",95,"Recall1",3928
 "63d87d58ddc4d930bbc9568e","fish","fish",2,"JOL","tuna","Study1","F","Study Phase",98,"Recall1",3443
@@ -447,6 +487,7 @@
 "61041a3b4159985f5294a436","","charm",2,"JOL","vehicle","Study1","U","Study Phase",20,"Recall1",1285
 "62029a55ef1cb18a1337c61a","","charm",2,"JOL","vehicle","Study1","U","Study Phase",0,"Recall1",1728
 "62d43cee3d60ac98c1dcacc8","drive","charm",2,"JOL","vehicle","Study1","U","Study Phase",1,"Recall1",2966
+"630cc9747cb664e8a03c29f0","boat","charm",2,"JOL","vehicle","Study1","U","Study Phase",10,"Recall1",2920
 "63a68daa57320319534db166","car","charm",2,"JOL","vehicle","Study1","U","Study Phase",48,"Recall1",9120
 "63d82b2de40f94ceb14816cc","","charm",2,"JOL","vehicle","Study1","U","Study Phase",10,"Recall1",4522
 "63d87d58ddc4d930bbc9568e","wheel","charm",2,"JOL","vehicle","Study1","U","Study Phase",1,"Recall1",12744
@@ -458,6 +499,7 @@
 "61041a3b4159985f5294a436","money","money",2,"JOL","wage","Study1","F","Study Phase",95,"Recall1",3754
 "62029a55ef1cb18a1337c61a","money","money",2,"JOL","wage","Study1","F","Study Phase",50,"Recall1",1504
 "62d43cee3d60ac98c1dcacc8","money","money",2,"JOL","wage","Study1","F","Study Phase",55,"Recall1",2772
+"630cc9747cb664e8a03c29f0","salary","money",2,"JOL","wage","Study1","F","Study Phase",35,"Recall1",4314
 "63a68daa57320319534db166","pay","money",2,"JOL","wage","Study1","F","Study Phase",75,"Recall1",17271
 "63d82b2de40f94ceb14816cc","money","money",2,"JOL","wage","Study1","F","Study Phase",65,"Recall1",4417
 "63d87d58ddc4d930bbc9568e","money","money",2,"JOL","wage","Study1","F","Study Phase",86,"Recall1",8602
@@ -469,6 +511,7 @@
 "61041a3b4159985f5294a436","","quiet",2,"JOL","war","Study1","M","Study Phase",5,"Recall1",1384
 "62029a55ef1cb18a1337c61a","quiet","quiet",2,"JOL","war","Study1","M","Study Phase",0,"Recall1",2525
 "62d43cee3d60ac98c1dcacc8","loud","quiet",2,"JOL","war","Study1","M","Study Phase",1,"Recall1",5826
+"630cc9747cb664e8a03c29f0","quiet","quiet",2,"JOL","war","Study1","M","Study Phase",15,"Recall1",3432
 "63a68daa57320319534db166","quiet","quiet",2,"JOL","war","Study1","M","Study Phase",70,"Recall1",7011
 "63d82b2de40f94ceb14816cc","quiet","quiet",2,"JOL","war","Study1","M","Study Phase",40,"Recall1",2843
 "63d87d58ddc4d930bbc9568e","quiet","quiet",2,"JOL","war","Study1","M","Study Phase",20,"Recall1",4074
@@ -480,6 +523,7 @@
 "61041a3b4159985f5294a436","finger","finger",2,"JOL","wedding","Study1","M","Study Phase",60,"Recall1",2418
 "62029a55ef1cb18a1337c61a","ring","finger",2,"JOL","wedding","Study1","M","Study Phase",30,"Recall1",4952
 "62d43cee3d60ac98c1dcacc8","cake","finger",2,"JOL","wedding","Study1","M","Study Phase",5,"Recall1",2678
+"630cc9747cb664e8a03c29f0","ring","finger",2,"JOL","wedding","Study1","M","Study Phase",60,"Recall1",2048
 "63a68daa57320319534db166","finger","finger",2,"JOL","wedding","Study1","M","Study Phase",60,"Recall1",4583
 "63d82b2de40f94ceb14816cc","dance","finger",2,"JOL","wedding","Study1","M","Study Phase",5,"Recall1",11955
 "63d87d58ddc4d930bbc9568e","pie","finger",2,"JOL","wedding","Study1","M","Study Phase",75,"Recall1",8801
@@ -491,9 +535,11 @@
 "61041a3b4159985f5294a436","","sentence",2,"JOL","word","Study1","F","Study Phase",20,"Recall1",1145
 "62029a55ef1cb18a1337c61a","sentence","sentence",2,"JOL","word","Study1","F","Study Phase",100,"Recall1",1877
 "62d43cee3d60ac98c1dcacc8","sentence","sentence",2,"JOL","word","Study1","F","Study Phase",50,"Recall1",10971
+"630cc9747cb664e8a03c29f0","maze","sentence",2,"JOL","word","Study1","F","Study Phase",45,"Recall1",4104
 "63a68daa57320319534db166","speak","sentence",2,"JOL","word","Study1","F","Study Phase",60,"Recall1",10422
 "63d82b2de40f94ceb14816cc","sentence","sentence",2,"JOL","word","Study1","F","Study Phase",65,"Recall1",5520
 "63d87d58ddc4d930bbc9568e","sentence","sentence",2,"JOL","word","Study1","F","Study Phase",89,"Recall1",3464
+"559ffa9bfdf99b0ad674856a","love","love",4,"JOL","affection","Study1","F","Study Phase2",70,"Recall2",1551
 "55b9a9b0fdf99b6906d2aba4","love","love",4,"JOL","affection","Study1","F","Study Phase2",40,"Recall2",11242
 "5d59b01348766d0016949e6a","love","love",4,"JOL","affection","Study1","F","Study Phase2",95,"Recall2",1750
 "5fc2a0d812bc59000b746ee5","love","love",4,"JOL","affection","Study1","F","Study Phase2",7,"Recall2",6863
@@ -502,6 +548,7 @@
 "628e5f283594e1a48a04886f","love","love",4,"JOL","affection","Study1","F","Study Phase2",58,"Recall2",3483
 "63474e67a5fd298c6103c409","love","love",4,"JOL","affection","Study1","F","Study Phase2",82,"Recall2",2717
 "63d884e0a12d7da5e48ba81e","love","love",4,"JOL","affection","Study1","F","Study Phase2",100,"Recall2",3671
+"559ffa9bfdf99b0ad674856a","","bounce",4,"JOL","bat","Study1","M","Study Phase2",10,"Recall2",1726
 "55b9a9b0fdf99b6906d2aba4","","bounce",4,"JOL","bat","Study1","M","Study Phase2",10,"Recall2",14949
 "5d59b01348766d0016949e6a","fly","bounce",4,"JOL","bat","Study1","M","Study Phase2",0,"Recall2",2022
 "5fc2a0d812bc59000b746ee5","man","bounce",4,"JOL","bat","Study1","M","Study Phase2",10,"Recall2",3172
@@ -510,6 +557,7 @@
 "628e5f283594e1a48a04886f","bouncy","bounce",4,"JOL","bat","Study1","M","Study Phase2",10,"Recall2",2892
 "63474e67a5fd298c6103c409","ball","bounce",4,"JOL","bat","Study1","M","Study Phase2",70,"Recall2",3004
 "63d884e0a12d7da5e48ba81e","bounce","bounce",4,"JOL","bat","Study1","M","Study Phase2",10,"Recall2",3520
+"559ffa9bfdf99b0ad674856a","","box",4,"JOL","beach","Study1","M","Study Phase2",10,"Recall2",1031
 "55b9a9b0fdf99b6906d2aba4","","box",4,"JOL","beach","Study1","M","Study Phase2",10,"Recall2",11816
 "5d59b01348766d0016949e6a","tide","box",4,"JOL","beach","Study1","M","Study Phase2",20,"Recall2",1668
 "5fc2a0d812bc59000b746ee5","shell","box",4,"JOL","beach","Study1","M","Study Phase2",7,"Recall2",5207
@@ -518,6 +566,7 @@
 "628e5f283594e1a48a04886f","","box",4,"JOL","beach","Study1","M","Study Phase2",15,"Recall2",7277
 "63474e67a5fd298c6103c409","sun","box",4,"JOL","beach","Study1","M","Study Phase2",58,"Recall2",8910
 "63d884e0a12d7da5e48ba81e","","box",4,"JOL","beach","Study1","M","Study Phase2",0,"Recall2",1669
+"559ffa9bfdf99b0ad674856a","","pie",4,"JOL","birthday","Study1","M","Study Phase2",10,"Recall2",1068
 "55b9a9b0fdf99b6906d2aba4","pie","pie",4,"JOL","birthday","Study1","M","Study Phase2",25,"Recall2",6903
 "5d59b01348766d0016949e6a","pie","pie",4,"JOL","birthday","Study1","M","Study Phase2",25,"Recall2",2945
 "5fc2a0d812bc59000b746ee5","pie","pie",4,"JOL","birthday","Study1","M","Study Phase2",30,"Recall2",5637
@@ -526,6 +575,7 @@
 "628e5f283594e1a48a04886f","pie","pie",4,"JOL","birthday","Study1","M","Study Phase2",30,"Recall2",1982
 "63474e67a5fd298c6103c409","cake","pie",4,"JOL","birthday","Study1","M","Study Phase2",80,"Recall2",2825
 "63d884e0a12d7da5e48ba81e","","pie",4,"JOL","birthday","Study1","M","Study Phase2",10,"Recall2",1297
+"559ffa9bfdf99b0ad674856a","","hand",4,"JOL","cake","Study1","U","Study Phase2",10,"Recall2",1516
 "55b9a9b0fdf99b6906d2aba4","","hand",4,"JOL","cake","Study1","U","Study Phase2",5,"Recall2",7891
 "5d59b01348766d0016949e6a","flavor","hand",4,"JOL","cake","Study1","U","Study Phase2",15,"Recall2",2806
 "5fc2a0d812bc59000b746ee5","ice","hand",4,"JOL","cake","Study1","U","Study Phase2",9,"Recall2",4020
@@ -534,6 +584,7 @@
 "628e5f283594e1a48a04886f","give","hand",4,"JOL","cake","Study1","U","Study Phase2",15,"Recall2",7353
 "63474e67a5fd298c6103c409","birthday","hand",4,"JOL","cake","Study1","U","Study Phase2",50,"Recall2",6022
 "63d884e0a12d7da5e48ba81e","","hand",4,"JOL","cake","Study1","U","Study Phase2",0,"Recall2",3873
+"559ffa9bfdf99b0ad674856a","carpet","carpet",4,"JOL","ceiling","Study1","M","Study Phase2",50,"Recall2",2858
 "55b9a9b0fdf99b6906d2aba4","carpet","carpet",4,"JOL","ceiling","Study1","M","Study Phase2",30,"Recall2",9192
 "5d59b01348766d0016949e6a","carpet","carpet",4,"JOL","ceiling","Study1","M","Study Phase2",10,"Recall2",2106
 "5fc2a0d812bc59000b746ee5","rug","carpet",4,"JOL","ceiling","Study1","M","Study Phase2",8,"Recall2",6099
@@ -542,6 +593,7 @@
 "628e5f283594e1a48a04886f","carpet","carpet",4,"JOL","ceiling","Study1","M","Study Phase2",75,"Recall2",3152
 "63474e67a5fd298c6103c409","fan","carpet",4,"JOL","ceiling","Study1","M","Study Phase2",49,"Recall2",5574
 "63d884e0a12d7da5e48ba81e","carpet","carpet",4,"JOL","ceiling","Study1","M","Study Phase2",50,"Recall2",12187
+"559ffa9bfdf99b0ad674856a","","dance",4,"JOL","circle","Study1","M","Study Phase2",10,"Recall2",1041
 "55b9a9b0fdf99b6906d2aba4","","dance",4,"JOL","circle","Study1","M","Study Phase2",25,"Recall2",11939
 "5d59b01348766d0016949e6a","dance","dance",4,"JOL","circle","Study1","M","Study Phase2",80,"Recall2",5179
 "5fc2a0d812bc59000b746ee5","spin","dance",4,"JOL","circle","Study1","M","Study Phase2",30,"Recall2",3444
@@ -550,6 +602,7 @@
 "628e5f283594e1a48a04886f","dance","dance",4,"JOL","circle","Study1","M","Study Phase2",50,"Recall2",2769
 "63474e67a5fd298c6103c409","draw","dance",4,"JOL","circle","Study1","M","Study Phase2",20,"Recall2",4646
 "63d884e0a12d7da5e48ba81e","","dance",4,"JOL","circle","Study1","M","Study Phase2",10,"Recall2",7217
+"559ffa9bfdf99b0ad674856a","electricity","election",4,"JOL","crackle","Study1","U","Study Phase2",0,"Recall2",3735
 "55b9a9b0fdf99b6906d2aba4","","election",4,"JOL","crackle","Study1","U","Study Phase2",10,"Recall2",8133
 "5d59b01348766d0016949e6a","knuckle","election",4,"JOL","crackle","Study1","U","Study Phase2",0,"Recall2",7064
 "5fc2a0d812bc59000b746ee5","laugh","election",4,"JOL","crackle","Study1","U","Study Phase2",4,"Recall2",7131
@@ -558,6 +611,7 @@
 "628e5f283594e1a48a04886f","voting","election",4,"JOL","crackle","Study1","U","Study Phase2",3,"Recall2",10320
 "63474e67a5fd298c6103c409","sound","election",4,"JOL","crackle","Study1","U","Study Phase2",68,"Recall2",6286
 "63d884e0a12d7da5e48ba81e","","election",4,"JOL","crackle","Study1","U","Study Phase2",10,"Recall2",1141
+"559ffa9bfdf99b0ad674856a","card","card",4,"JOL","credit","Study1","F","Study Phase2",80,"Recall2",1679
 "55b9a9b0fdf99b6906d2aba4","card","card",4,"JOL","credit","Study1","F","Study Phase2",40,"Recall2",6026
 "5d59b01348766d0016949e6a","card","card",4,"JOL","credit","Study1","F","Study Phase2",60,"Recall2",1580
 "5fc2a0d812bc59000b746ee5","due","card",4,"JOL","credit","Study1","F","Study Phase2",46,"Recall2",8267
@@ -566,6 +620,7 @@
 "628e5f283594e1a48a04886f","card","card",4,"JOL","credit","Study1","F","Study Phase2",95,"Recall2",3168
 "63474e67a5fd298c6103c409","cards","card",4,"JOL","credit","Study1","F","Study Phase2",65,"Recall2",6687
 "63d884e0a12d7da5e48ba81e","card","card",4,"JOL","credit","Study1","F","Study Phase2",100,"Recall2",2907
+"559ffa9bfdf99b0ad674856a","","bottle",4,"JOL","cry","Study1","M","Study Phase2",10,"Recall2",1000
 "55b9a9b0fdf99b6906d2aba4","","bottle",4,"JOL","cry","Study1","M","Study Phase2",20,"Recall2",9389
 "5d59b01348766d0016949e6a","tear","bottle",4,"JOL","cry","Study1","M","Study Phase2",15,"Recall2",2194
 "5fc2a0d812bc59000b746ee5","baby","bottle",4,"JOL","cry","Study1","M","Study Phase2",20,"Recall2",2961
@@ -574,6 +629,7 @@
 "628e5f283594e1a48a04886f","bottle","bottle",4,"JOL","cry","Study1","M","Study Phase2",30,"Recall2",5836
 "63474e67a5fd298c6103c409","sad","bottle",4,"JOL","cry","Study1","M","Study Phase2",45,"Recall2",5160
 "63d884e0a12d7da5e48ba81e","","bottle",4,"JOL","cry","Study1","M","Study Phase2",100,"Recall2",3989
+"559ffa9bfdf99b0ad674856a","dark","dark",4,"JOL","day","Study1","M","Study Phase2",20,"Recall2",2588
 "55b9a9b0fdf99b6906d2aba4","weak","dark",4,"JOL","day","Study1","M","Study Phase2",15,"Recall2",5370
 "5d59b01348766d0016949e6a","dark","dark",4,"JOL","day","Study1","M","Study Phase2",20,"Recall2",3719
 "5fc2a0d812bc59000b746ee5","night","dark",4,"JOL","day","Study1","M","Study Phase2",15,"Recall2",10684
@@ -582,6 +638,7 @@
 "628e5f283594e1a48a04886f","dark","dark",4,"JOL","day","Study1","M","Study Phase2",35,"Recall2",8543
 "63474e67a5fd298c6103c409","night","dark",4,"JOL","day","Study1","M","Study Phase2",46,"Recall2",3211
 "63d884e0a12d7da5e48ba81e","night","dark",4,"JOL","day","Study1","M","Study Phase2",50,"Recall2",4697
+"559ffa9bfdf99b0ad674856a","","bang",4,"JOL","fuzzy","Study1","U","Study Phase2",0,"Recall2",1240
 "55b9a9b0fdf99b6906d2aba4","","bang",4,"JOL","fuzzy","Study1","U","Study Phase2",10,"Recall2",5709
 "5d59b01348766d0016949e6a","feel","bang",4,"JOL","fuzzy","Study1","U","Study Phase2",0,"Recall2",2603
 "5fc2a0d812bc59000b746ee5","slippers","bang",4,"JOL","fuzzy","Study1","U","Study Phase2",14,"Recall2",2699
@@ -590,6 +647,7 @@
 "628e5f283594e1a48a04886f","rock","bang",4,"JOL","fuzzy","Study1","U","Study Phase2",5,"Recall2",6313
 "63474e67a5fd298c6103c409","animal","bang",4,"JOL","fuzzy","Study1","U","Study Phase2",35,"Recall2",5622
 "63d884e0a12d7da5e48ba81e","bang","bang",4,"JOL","fuzzy","Study1","U","Study Phase2",10,"Recall2",4339
+"559ffa9bfdf99b0ad674856a","","steak",4,"JOL","give","Study1","U","Study Phase2",10,"Recall2",879
 "55b9a9b0fdf99b6906d2aba4","","steak",4,"JOL","give","Study1","U","Study Phase2",10,"Recall2",5154
 "5d59b01348766d0016949e6a","tend","steak",4,"JOL","give","Study1","U","Study Phase2",40,"Recall2",2711
 "5fc2a0d812bc59000b746ee5","lesson","steak",4,"JOL","give","Study1","U","Study Phase2",11,"Recall2",3260
@@ -598,6 +656,7 @@
 "628e5f283594e1a48a04886f","keys","steak",4,"JOL","give","Study1","U","Study Phase2",60,"Recall2",5137
 "63474e67a5fd298c6103c409","gift","steak",4,"JOL","give","Study1","U","Study Phase2",20,"Recall2",4801
 "63d884e0a12d7da5e48ba81e","","steak",4,"JOL","give","Study1","U","Study Phase2",30,"Recall2",1240
+"559ffa9bfdf99b0ad674856a","cotton","cotton",4,"JOL","hard","Study1","M","Study Phase2",50,"Recall2",3529
 "55b9a9b0fdf99b6906d2aba4","","cotton",4,"JOL","hard","Study1","M","Study Phase2",10,"Recall2",6830
 "5d59b01348766d0016949e6a","soft","cotton",4,"JOL","hard","Study1","M","Study Phase2",15,"Recall2",2356
 "5fc2a0d812bc59000b746ee5","work","cotton",4,"JOL","hard","Study1","M","Study Phase2",5,"Recall2",5919
@@ -606,6 +665,7 @@
 "628e5f283594e1a48a04886f","razor","cotton",4,"JOL","hard","Study1","M","Study Phase2",15,"Recall2",4986
 "63474e67a5fd298c6103c409","point","cotton",4,"JOL","hard","Study1","M","Study Phase2",33,"Recall2",5310
 "63d884e0a12d7da5e48ba81e","","cotton",4,"JOL","hard","Study1","M","Study Phase2",0,"Recall2",948
+"559ffa9bfdf99b0ad674856a","","wheel",4,"JOL","horse","Study1","M","Study Phase2",20,"Recall2",1528
 "55b9a9b0fdf99b6906d2aba4","","wheel",4,"JOL","horse","Study1","M","Study Phase2",10,"Recall2",11318
 "5d59b01348766d0016949e6a","sign","wheel",4,"JOL","horse","Study1","M","Study Phase2",50,"Recall2",4091
 "5fc2a0d812bc59000b746ee5","head","wheel",4,"JOL","horse","Study1","M","Study Phase2",7,"Recall2",3606
@@ -614,6 +674,7 @@
 "628e5f283594e1a48a04886f","","wheel",4,"JOL","horse","Study1","M","Study Phase2",35,"Recall2",10427
 "63474e67a5fd298c6103c409","ride","wheel",4,"JOL","horse","Study1","M","Study Phase2",50,"Recall2",9516
 "63d884e0a12d7da5e48ba81e","","wheel",4,"JOL","horse","Study1","M","Study Phase2",10,"Recall2",4184
+"559ffa9bfdf99b0ad674856a","clean","clean",4,"JOL","hygiene","Study1","F","Study Phase2",50,"Recall2",2677
 "55b9a9b0fdf99b6906d2aba4","clean","clean",4,"JOL","hygiene","Study1","F","Study Phase2",40,"Recall2",9462
 "5d59b01348766d0016949e6a","clean","clean",4,"JOL","hygiene","Study1","F","Study Phase2",70,"Recall2",2856
 "5fc2a0d812bc59000b746ee5","shower","clean",4,"JOL","hygiene","Study1","F","Study Phase2",13,"Recall2",4351
@@ -622,6 +683,7 @@
 "628e5f283594e1a48a04886f","clean","clean",4,"JOL","hygiene","Study1","F","Study Phase2",65,"Recall2",3726
 "63474e67a5fd298c6103c409","bath","clean",4,"JOL","hygiene","Study1","F","Study Phase2",46,"Recall2",3659
 "63d884e0a12d7da5e48ba81e","clean","clean",4,"JOL","hygiene","Study1","F","Study Phase2",100,"Recall2",4143
+"559ffa9bfdf99b0ad674856a","","rod",4,"JOL","keys","Study1","U","Study Phase2",10,"Recall2",934
 "55b9a9b0fdf99b6906d2aba4","","rod",4,"JOL","keys","Study1","U","Study Phase2",10,"Recall2",10926
 "5d59b01348766d0016949e6a","pole","rod",4,"JOL","keys","Study1","U","Study Phase2",10,"Recall2",5002
 "5fc2a0d812bc59000b746ee5","island","rod",4,"JOL","keys","Study1","U","Study Phase2",2,"Recall2",8216
@@ -630,6 +692,7 @@
 "628e5f283594e1a48a04886f","hand","rod",4,"JOL","keys","Study1","U","Study Phase2",5,"Recall2",7406
 "63474e67a5fd298c6103c409","start","rod",4,"JOL","keys","Study1","U","Study Phase2",42,"Recall2",4036
 "63d884e0a12d7da5e48ba81e","","rod",4,"JOL","keys","Study1","U","Study Phase2",10,"Recall2",933
+"559ffa9bfdf99b0ad674856a","stripes","stripes",4,"JOL","lion","Study1","M","Study Phase2",20,"Recall2",2682
 "55b9a9b0fdf99b6906d2aba4","","stripes",4,"JOL","lion","Study1","M","Study Phase2",10,"Recall2",10221
 "5d59b01348766d0016949e6a","stripe","stripes",4,"JOL","lion","Study1","M","Study Phase2",60,"Recall2",2159
 "5fc2a0d812bc59000b746ee5","stripes","stripes",4,"JOL","lion","Study1","M","Study Phase2",14,"Recall2",3289
@@ -638,6 +701,7 @@
 "628e5f283594e1a48a04886f","stripes","stripes",4,"JOL","lion","Study1","M","Study Phase2",10,"Recall2",3046
 "63474e67a5fd298c6103c409","attack","stripes",4,"JOL","lion","Study1","M","Study Phase2",70,"Recall2",14116
 "63d884e0a12d7da5e48ba81e","","stripes",4,"JOL","lion","Study1","M","Study Phase2",30,"Recall2",930
+"559ffa9bfdf99b0ad674856a","","fiction",4,"JOL","listen","Study1","U","Study Phase2",10,"Recall2",999
 "55b9a9b0fdf99b6906d2aba4","","fiction",4,"JOL","listen","Study1","U","Study Phase2",5,"Recall2",9199
 "5d59b01348766d0016949e6a","ear","fiction",4,"JOL","listen","Study1","U","Study Phase2",35,"Recall2",1808
 "5fc2a0d812bc59000b746ee5","stop","fiction",4,"JOL","listen","Study1","U","Study Phase2",7,"Recall2",7998
@@ -646,6 +710,7 @@
 "628e5f283594e1a48a04886f","fiction","fiction",4,"JOL","listen","Study1","U","Study Phase2",20,"Recall2",10570
 "63474e67a5fd298c6103c409","memory","fiction",4,"JOL","listen","Study1","U","Study Phase2",34,"Recall2",15855
 "63d884e0a12d7da5e48ba81e","","fiction",4,"JOL","listen","Study1","U","Study Phase2",0,"Recall2",1115
+"559ffa9bfdf99b0ad674856a","trash","trash",4,"JOL","litter","Study1","F","Study Phase2",70,"Recall2",1995
 "55b9a9b0fdf99b6906d2aba4","trash","trash",4,"JOL","litter","Study1","F","Study Phase2",40,"Recall2",7575
 "5d59b01348766d0016949e6a","trash","trash",4,"JOL","litter","Study1","F","Study Phase2",50,"Recall2",3401
 "5fc2a0d812bc59000b746ee5","trash","trash",4,"JOL","litter","Study1","F","Study Phase2",14,"Recall2",4177
@@ -654,6 +719,7 @@
 "628e5f283594e1a48a04886f","trash","trash",4,"JOL","litter","Study1","F","Study Phase2",75,"Recall2",2930
 "63474e67a5fd298c6103c409","trash","trash",4,"JOL","litter","Study1","F","Study Phase2",58,"Recall2",2290
 "63d884e0a12d7da5e48ba81e","","trash",4,"JOL","litter","Study1","F","Study Phase2",100,"Recall2",973
+"559ffa9bfdf99b0ad674856a","","phone",4,"JOL","maze","Study1","U","Study Phase2",0,"Recall2",1097
 "55b9a9b0fdf99b6906d2aba4","","phone",4,"JOL","maze","Study1","U","Study Phase2",10,"Recall2",7370
 "5d59b01348766d0016949e6a","corn","phone",4,"JOL","maze","Study1","U","Study Phase2",5,"Recall2",2896
 "5fc2a0d812bc59000b746ee5","phone","phone",4,"JOL","maze","Study1","U","Study Phase2",33,"Recall2",8675
@@ -662,6 +728,7 @@
 "628e5f283594e1a48a04886f","phone","phone",4,"JOL","maze","Study1","U","Study Phase2",10,"Recall2",2164
 "63474e67a5fd298c6103c409","hide","phone",4,"JOL","maze","Study1","U","Study Phase2",70,"Recall2",5218
 "63d884e0a12d7da5e48ba81e","","phone",4,"JOL","maze","Study1","U","Study Phase2",0,"Recall2",2293
+"559ffa9bfdf99b0ad674856a","","keys",4,"JOL","meat","Study1","U","Study Phase2",10,"Recall2",931
 "55b9a9b0fdf99b6906d2aba4","","keys",4,"JOL","meat","Study1","U","Study Phase2",10,"Recall2",12165
 "5d59b01348766d0016949e6a","protein","keys",4,"JOL","meat","Study1","U","Study Phase2",10,"Recall2",3892
 "5fc2a0d812bc59000b746ee5","elk","keys",4,"JOL","meat","Study1","U","Study Phase2",10,"Recall2",3451
@@ -670,6 +737,7 @@
 "628e5f283594e1a48a04886f","tender","keys",4,"JOL","meat","Study1","U","Study Phase2",15,"Recall2",6087
 "63474e67a5fd298c6103c409","steak","keys",4,"JOL","meat","Study1","U","Study Phase2",68,"Recall2",12125
 "63d884e0a12d7da5e48ba81e","","keys",4,"JOL","meat","Study1","U","Study Phase2",0,"Recall2",1445
+"559ffa9bfdf99b0ad674856a","maroon","maroon",4,"JOL","mirror","Study1","U","Study Phase2",20,"Recall2",3191
 "55b9a9b0fdf99b6906d2aba4","","maroon",4,"JOL","mirror","Study1","U","Study Phase2",10,"Recall2",9466
 "5d59b01348766d0016949e6a","person","maroon",4,"JOL","mirror","Study1","U","Study Phase2",40,"Recall2",5431
 "5fc2a0d812bc59000b746ee5","blanket","maroon",4,"JOL","mirror","Study1","U","Study Phase2",9,"Recall2",3495
@@ -678,6 +746,8 @@
 "628e5f283594e1a48a04886f","children","maroon",4,"JOL","mirror","Study1","U","Study Phase2",5,"Recall2",3107
 "63474e67a5fd298c6103c409","stare","maroon",4,"JOL","mirror","Study1","U","Study Phase2",58,"Recall2",4067
 "63d884e0a12d7da5e48ba81e","","maroon",4,"JOL","mirror","Study1","U","Study Phase2",0,"Recall2",1781
+"559ffa9bfdf99b0ad674856a","donkey","donkey",4,"JOL","mule","Study1","F","Study Phase2",80,"Recall2",1954
+"559ffa9bfdf99b0ad674856a","donkey","donkey",4,"JOL","mule","Study1","F","Study Phase2",80,"Recall2",1835
 "55b9a9b0fdf99b6906d2aba4","donkey","donkey",4,"JOL","mule","Study1","F","Study Phase2",40,"Recall2",6142
 "55b9a9b0fdf99b6906d2aba4","donkey","donkey",4,"JOL","mule","Study1","F","Study Phase2",40,"Recall2",8955
 "5d59b01348766d0016949e6a","donkey","donkey",4,"JOL","mule","Study1","F","Study Phase2",50,"Recall2",1936
@@ -694,6 +764,7 @@
 "63474e67a5fd298c6103c409","donkey","donkey",4,"JOL","mule","Study1","F","Study Phase2",65,"Recall2",5008
 "63d884e0a12d7da5e48ba81e","donkey","donkey",4,"JOL","mule","Study1","F","Study Phase2",50,"Recall2",12172
 "63d884e0a12d7da5e48ba81e","donkey","donkey",4,"JOL","mule","Study1","F","Study Phase2",50,"Recall2",8466
+"559ffa9bfdf99b0ad674856a","sleep","sleep",4,"JOL","nap","Study1","F","Study Phase2",50,"Recall2",3588
 "55b9a9b0fdf99b6906d2aba4","sleep","sleep",4,"JOL","nap","Study1","F","Study Phase2",40,"Recall2",7901
 "5d59b01348766d0016949e6a","sleep","sleep",4,"JOL","nap","Study1","F","Study Phase2",20,"Recall2",1609
 "5fc2a0d812bc59000b746ee5","sleep","sleep",4,"JOL","nap","Study1","F","Study Phase2",9,"Recall2",3875
@@ -702,6 +773,7 @@
 "628e5f283594e1a48a04886f","sleep","sleep",4,"JOL","nap","Study1","F","Study Phase2",75,"Recall2",1857
 "63474e67a5fd298c6103c409","sleep","sleep",4,"JOL","nap","Study1","F","Study Phase2",40,"Recall2",2616
 "63d884e0a12d7da5e48ba81e","sleep","sleep",4,"JOL","nap","Study1","F","Study Phase2",100,"Recall2",3922
+"559ffa9bfdf99b0ad674856a","flower","flower",4,"JOL","orchid","Study1","F","Study Phase2",40,"Recall2",2890
 "55b9a9b0fdf99b6906d2aba4","flower","flower",4,"JOL","orchid","Study1","F","Study Phase2",40,"Recall2",6577
 "5d59b01348766d0016949e6a","flower","flower",4,"JOL","orchid","Study1","F","Study Phase2",80,"Recall2",2087
 "5fc2a0d812bc59000b746ee5","flower","flower",4,"JOL","orchid","Study1","F","Study Phase2",46,"Recall2",2622
@@ -710,6 +782,7 @@
 "628e5f283594e1a48a04886f","flower","flower",4,"JOL","orchid","Study1","F","Study Phase2",80,"Recall2",2445
 "63474e67a5fd298c6103c409","plant","flower",4,"JOL","orchid","Study1","F","Study Phase2",34,"Recall2",4090
 "63d884e0a12d7da5e48ba81e","flower","flower",4,"JOL","orchid","Study1","F","Study Phase2",100,"Recall2",3918
+"559ffa9bfdf99b0ad674856a","plant","plant",4,"JOL","root","Study1","F","Study Phase2",50,"Recall2",2475
 "55b9a9b0fdf99b6906d2aba4","plant","plant",4,"JOL","root","Study1","F","Study Phase2",40,"Recall2",7711
 "5d59b01348766d0016949e6a","carrot","plant",4,"JOL","root","Study1","F","Study Phase2",90,"Recall2",2052
 "5fc2a0d812bc59000b746ee5","face","plant",4,"JOL","root","Study1","F","Study Phase2",40,"Recall2",5959
@@ -718,6 +791,7 @@
 "628e5f283594e1a48a04886f","plant","plant",4,"JOL","root","Study1","F","Study Phase2",70,"Recall2",3408
 "63474e67a5fd298c6103c409","grass","plant",4,"JOL","root","Study1","F","Study Phase2",42,"Recall2",19405
 "63d884e0a12d7da5e48ba81e","","plant",4,"JOL","root","Study1","F","Study Phase2",20,"Recall2",1015
+"559ffa9bfdf99b0ad674856a","cotton","silk",4,"JOL","rough","Study1","M","Study Phase2",20,"Recall2",2173
 "55b9a9b0fdf99b6906d2aba4","","silk",4,"JOL","rough","Study1","M","Study Phase2",10,"Recall2",7682
 "5d59b01348766d0016949e6a","tough","silk",4,"JOL","rough","Study1","M","Study Phase2",20,"Recall2",2326
 "5fc2a0d812bc59000b746ee5","sewer","silk",4,"JOL","rough","Study1","M","Study Phase2",7,"Recall2",4104
@@ -726,6 +800,7 @@
 "628e5f283594e1a48a04886f","","silk",4,"JOL","rough","Study1","M","Study Phase2",12,"Recall2",7766
 "63474e67a5fd298c6103c409","hard","silk",4,"JOL","rough","Study1","M","Study Phase2",41,"Recall2",3471
 "63d884e0a12d7da5e48ba81e","smooth","silk",4,"JOL","rough","Study1","M","Study Phase2",80,"Recall2",6443
+"559ffa9bfdf99b0ad674856a","head","head",4,"JOL","scalp","Study1","F","Study Phase2",60,"Recall2",2247
 "55b9a9b0fdf99b6906d2aba4","head","head",4,"JOL","scalp","Study1","F","Study Phase2",25,"Recall2",9820
 "5d59b01348766d0016949e6a","head","head",4,"JOL","scalp","Study1","F","Study Phase2",90,"Recall2",1656
 "5fc2a0d812bc59000b746ee5","head","head",4,"JOL","scalp","Study1","F","Study Phase2",13,"Recall2",4646
@@ -734,6 +809,7 @@
 "628e5f283594e1a48a04886f","head","head",4,"JOL","scalp","Study1","F","Study Phase2",70,"Recall2",1819
 "63474e67a5fd298c6103c409","hair","head",4,"JOL","scalp","Study1","F","Study Phase2",60,"Recall2",7851
 "63d884e0a12d7da5e48ba81e","head","head",4,"JOL","scalp","Study1","F","Study Phase2",100,"Recall2",9122
+"559ffa9bfdf99b0ad674856a","","shake",4,"JOL","shell","Study1","U","Study Phase2",10,"Recall2",2396
 "55b9a9b0fdf99b6906d2aba4","","shake",4,"JOL","shell","Study1","U","Study Phase2",10,"Recall2",9628
 "5d59b01348766d0016949e6a","point","shake",4,"JOL","shell","Study1","U","Study Phase2",10,"Recall2",2031
 "5fc2a0d812bc59000b746ee5","sea","shake",4,"JOL","shell","Study1","U","Study Phase2",10,"Recall2",2450
@@ -742,6 +818,7 @@
 "628e5f283594e1a48a04886f","shake","shake",4,"JOL","shell","Study1","U","Study Phase2",20,"Recall2",2124
 "63474e67a5fd298c6103c409","shock","shake",4,"JOL","shell","Study1","U","Study Phase2",25,"Recall2",15702
 "63d884e0a12d7da5e48ba81e","shock","shake",4,"JOL","shell","Study1","U","Study Phase2",30,"Recall2",7404
+"559ffa9bfdf99b0ad674856a","","tick",4,"JOL","sign","Study1","U","Study Phase2",20,"Recall2",1100
 "55b9a9b0fdf99b6906d2aba4","post","tick",4,"JOL","sign","Study1","U","Study Phase2",10,"Recall2",21334
 "5d59b01348766d0016949e6a","post","tick",4,"JOL","sign","Study1","U","Study Phase2",50,"Recall2",4248
 "5fc2a0d812bc59000b746ee5","work","tick",4,"JOL","sign","Study1","U","Study Phase2",NA,"Recall2",5025
@@ -750,6 +827,7 @@
 "628e5f283594e1a48a04886f","","tick",4,"JOL","sign","Study1","U","Study Phase2",2,"Recall2",7619
 "63474e67a5fd298c6103c409","post","tick",4,"JOL","sign","Study1","U","Study Phase2",30,"Recall2",2748
 "63d884e0a12d7da5e48ba81e","","tick",4,"JOL","sign","Study1","U","Study Phase2",0,"Recall2",1524
+"559ffa9bfdf99b0ad674856a","drink","drink",4,"JOL","sip","Study1","F","Study Phase2",60,"Recall2",2344
 "55b9a9b0fdf99b6906d2aba4","drink","drink",4,"JOL","sip","Study1","F","Study Phase2",40,"Recall2",6231
 "5d59b01348766d0016949e6a","drink","drink",4,"JOL","sip","Study1","F","Study Phase2",85,"Recall2",2325
 "5fc2a0d812bc59000b746ee5","drink","drink",4,"JOL","sip","Study1","F","Study Phase2",29,"Recall2",6008
@@ -758,6 +836,7 @@
 "628e5f283594e1a48a04886f","drink","drink",4,"JOL","sip","Study1","F","Study Phase2",70,"Recall2",7663
 "63474e67a5fd298c6103c409","drink","drink",4,"JOL","sip","Study1","F","Study Phase2",77,"Recall2",2884
 "63d884e0a12d7da5e48ba81e","drink","drink",4,"JOL","sip","Study1","F","Study Phase2",100,"Recall2",3003
+"559ffa9bfdf99b0ad674856a","","belt",4,"JOL","soon","Study1","U","Study Phase2",0,"Recall2",949
 "55b9a9b0fdf99b6906d2aba4","","belt",4,"JOL","soon","Study1","U","Study Phase2",10,"Recall2",5614
 "5d59b01348766d0016949e6a","there","belt",4,"JOL","soon","Study1","U","Study Phase2",15,"Recall2",2580
 "5fc2a0d812bc59000b746ee5","after","belt",4,"JOL","soon","Study1","U","Study Phase2",10,"Recall2",3320
@@ -766,6 +845,7 @@
 "628e5f283594e1a48a04886f","","belt",4,"JOL","soon","Study1","U","Study Phase2",10,"Recall2",5515
 "63474e67a5fd298c6103c409","now","belt",4,"JOL","soon","Study1","U","Study Phase2",42,"Recall2",2715
 "63d884e0a12d7da5e48ba81e","","belt",4,"JOL","soon","Study1","U","Study Phase2",0,"Recall2",2006
+"559ffa9bfdf99b0ad674856a","","cloth",4,"JOL","stretch","Study1","U","Study Phase2",0,"Recall2",982
 "55b9a9b0fdf99b6906d2aba4","","cloth",4,"JOL","stretch","Study1","U","Study Phase2",10,"Recall2",6691
 "5d59b01348766d0016949e6a","muscle","cloth",4,"JOL","stretch","Study1","U","Study Phase2",60,"Recall2",6819
 "5fc2a0d812bc59000b746ee5","land","cloth",4,"JOL","stretch","Study1","U","Study Phase2",7,"Recall2",6376
@@ -774,6 +854,7 @@
 "628e5f283594e1a48a04886f","fabric","cloth",4,"JOL","stretch","Study1","U","Study Phase2",5,"Recall2",4503
 "63474e67a5fd298c6103c409","breath","cloth",4,"JOL","stretch","Study1","U","Study Phase2",45,"Recall2",3749
 "63d884e0a12d7da5e48ba81e","","cloth",4,"JOL","stretch","Study1","U","Study Phase2",0,"Recall2",3351
+"559ffa9bfdf99b0ad674856a","bird","bird",4,"JOL","swan","Study1","F","Study Phase2",40,"Recall2",2239
 "55b9a9b0fdf99b6906d2aba4","goose","bird",4,"JOL","swan","Study1","F","Study Phase2",25,"Recall2",8475
 "5d59b01348766d0016949e6a","bird","bird",4,"JOL","swan","Study1","F","Study Phase2",90,"Recall2",1600
 "5fc2a0d812bc59000b746ee5","duck","bird",4,"JOL","swan","Study1","F","Study Phase2",35,"Recall2",3936
@@ -782,6 +863,7 @@
 "628e5f283594e1a48a04886f","bird","bird",4,"JOL","swan","Study1","F","Study Phase2",75,"Recall2",9671
 "63474e67a5fd298c6103c409","bird","bird",4,"JOL","swan","Study1","F","Study Phase2",34,"Recall2",3462
 "63d884e0a12d7da5e48ba81e","bird","bird",4,"JOL","swan","Study1","F","Study Phase2",100,"Recall2",6089
+"559ffa9bfdf99b0ad674856a","","morning",4,"JOL","temperature","Study1","U","Study Phase2",10,"Recall2",1228
 "55b9a9b0fdf99b6906d2aba4","morning","morning",4,"JOL","temperature","Study1","U","Study Phase2",15,"Recall2",6880
 "5d59b01348766d0016949e6a","freeze","morning",4,"JOL","temperature","Study1","U","Study Phase2",50,"Recall2",3980
 "5fc2a0d812bc59000b746ee5","frozen","morning",4,"JOL","temperature","Study1","U","Study Phase2",14,"Recall2",7495
@@ -790,6 +872,7 @@
 "628e5f283594e1a48a04886f","politics","morning",4,"JOL","temperature","Study1","U","Study Phase2",15,"Recall2",14652
 "63474e67a5fd298c6103c409","cold","morning",4,"JOL","temperature","Study1","U","Study Phase2",72,"Recall2",8981
 "63d884e0a12d7da5e48ba81e","","morning",4,"JOL","temperature","Study1","U","Study Phase2",20,"Recall2",5299
+"559ffa9bfdf99b0ad674856a","","hair",4,"JOL","tooth","Study1","M","Study Phase2",10,"Recall2",1039
 "55b9a9b0fdf99b6906d2aba4","","hair",4,"JOL","tooth","Study1","M","Study Phase2",10,"Recall2",12328
 "5d59b01348766d0016949e6a","decay","hair",4,"JOL","tooth","Study1","M","Study Phase2",10,"Recall2",2345
 "5fc2a0d812bc59000b746ee5","hair","hair",4,"JOL","tooth","Study1","M","Study Phase2",33,"Recall2",4957
@@ -798,6 +881,7 @@
 "628e5f283594e1a48a04886f","hair","hair",4,"JOL","tooth","Study1","M","Study Phase2",15,"Recall2",3635
 "63474e67a5fd298c6103c409","brush","hair",4,"JOL","tooth","Study1","M","Study Phase2",30,"Recall2",4295
 "63d884e0a12d7da5e48ba81e","","hair",4,"JOL","tooth","Study1","M","Study Phase2",50,"Recall2",1167
+"559ffa9bfdf99b0ad674856a","green","syrup",4,"JOL","tree","Study1","M","Study Phase2",30,"Recall2",1722
 "55b9a9b0fdf99b6906d2aba4","green","syrup",4,"JOL","tree","Study1","M","Study Phase2",25,"Recall2",19054
 "5d59b01348766d0016949e6a","green","syrup",4,"JOL","tree","Study1","M","Study Phase2",60,"Recall2",2056
 "5fc2a0d812bc59000b746ee5","bush","syrup",4,"JOL","tree","Study1","M","Study Phase2",23,"Recall2",8856
@@ -806,6 +890,7 @@
 "628e5f283594e1a48a04886f","sap","syrup",4,"JOL","tree","Study1","M","Study Phase2",60,"Recall2",6150
 "63474e67a5fd298c6103c409","limb","syrup",4,"JOL","tree","Study1","M","Study Phase2",64,"Recall2",4139
 "63d884e0a12d7da5e48ba81e","green","syrup",4,"JOL","tree","Study1","M","Study Phase2",20,"Recall2",3374
+"559ffa9bfdf99b0ad674856a","fish","fish",4,"JOL","tuna","Study1","F","Study Phase2",80,"Recall2",1619
 "55b9a9b0fdf99b6906d2aba4","fish","fish",4,"JOL","tuna","Study1","F","Study Phase2",40,"Recall2",5420
 "5d59b01348766d0016949e6a","fish","fish",4,"JOL","tuna","Study1","F","Study Phase2",80,"Recall2",1546
 "5fc2a0d812bc59000b746ee5","boat","fish",4,"JOL","tuna","Study1","F","Study Phase2",18,"Recall2",5670
@@ -814,6 +899,7 @@
 "628e5f283594e1a48a04886f","fish","fish",4,"JOL","tuna","Study1","F","Study Phase2",90,"Recall2",2570
 "63474e67a5fd298c6103c409","fish","fish",4,"JOL","tuna","Study1","F","Study Phase2",90,"Recall2",2831
 "63d884e0a12d7da5e48ba81e","fish","fish",4,"JOL","tuna","Study1","F","Study Phase2",100,"Recall2",3073
+"559ffa9bfdf99b0ad674856a","car","charm",4,"JOL","vehicle","Study1","U","Study Phase2",10,"Recall2",3032
 "55b9a9b0fdf99b6906d2aba4","","charm",4,"JOL","vehicle","Study1","U","Study Phase2",10,"Recall2",9537
 "5d59b01348766d0016949e6a","pass","charm",4,"JOL","vehicle","Study1","U","Study Phase2",10,"Recall2",2375
 "5fc2a0d812bc59000b746ee5","car","charm",4,"JOL","vehicle","Study1","U","Study Phase2",1,"Recall2",2014
@@ -822,6 +908,7 @@
 "628e5f283594e1a48a04886f","happy","charm",4,"JOL","vehicle","Study1","U","Study Phase2",13,"Recall2",7649
 "63474e67a5fd298c6103c409","car","charm",4,"JOL","vehicle","Study1","U","Study Phase2",55,"Recall2",4030
 "63d884e0a12d7da5e48ba81e","","charm",4,"JOL","vehicle","Study1","U","Study Phase2",0,"Recall2",3234
+"559ffa9bfdf99b0ad674856a","cash","money",4,"JOL","wage","Study1","F","Study Phase2",50,"Recall2",1883
 "55b9a9b0fdf99b6906d2aba4","cash","money",4,"JOL","wage","Study1","F","Study Phase2",30,"Recall2",5960
 "5d59b01348766d0016949e6a","earn","money",4,"JOL","wage","Study1","F","Study Phase2",60,"Recall2",2045
 "5fc2a0d812bc59000b746ee5","money","money",4,"JOL","wage","Study1","F","Study Phase2",16,"Recall2",17214
@@ -830,6 +917,7 @@
 "628e5f283594e1a48a04886f","bank","money",4,"JOL","wage","Study1","F","Study Phase2",56,"Recall2",4866
 "63474e67a5fd298c6103c409","money","money",4,"JOL","wage","Study1","F","Study Phase2",86,"Recall2",9238
 "63d884e0a12d7da5e48ba81e","money","money",4,"JOL","wage","Study1","F","Study Phase2",100,"Recall2",3388
+"559ffa9bfdf99b0ad674856a","quiet","quiet",4,"JOL","war","Study1","M","Study Phase2",20,"Recall2",2273
 "55b9a9b0fdf99b6906d2aba4","","quiet",4,"JOL","war","Study1","M","Study Phase2",10,"Recall2",8643
 "5d59b01348766d0016949e6a","fight","quiet",4,"JOL","war","Study1","M","Study Phase2",20,"Recall2",2676
 "5fc2a0d812bc59000b746ee5","hell","quiet",4,"JOL","war","Study1","M","Study Phase2",2,"Recall2",3230
@@ -838,6 +926,7 @@
 "628e5f283594e1a48a04886f","quiet","quiet",4,"JOL","war","Study1","M","Study Phase2",5,"Recall2",2487
 "63474e67a5fd298c6103c409","time","quiet",4,"JOL","war","Study1","M","Study Phase2",NA,"Recall2",5700
 "63d884e0a12d7da5e48ba81e","","quiet",4,"JOL","war","Study1","M","Study Phase2",40,"Recall2",4111
+"559ffa9bfdf99b0ad674856a","finger","finger",4,"JOL","wedding","Study1","M","Study Phase2",40,"Recall2",2935
 "55b9a9b0fdf99b6906d2aba4","finger","finger",4,"JOL","wedding","Study1","M","Study Phase2",20,"Recall2",11331
 "5d59b01348766d0016949e6a","cake","finger",4,"JOL","wedding","Study1","M","Study Phase2",50,"Recall2",1554
 "5fc2a0d812bc59000b746ee5","pie","finger",4,"JOL","wedding","Study1","M","Study Phase2",26,"Recall2",2992
@@ -846,6 +935,7 @@
 "628e5f283594e1a48a04886f","finger","finger",4,"JOL","wedding","Study1","M","Study Phase2",50,"Recall2",3493
 "63474e67a5fd298c6103c409","dress","finger",4,"JOL","wedding","Study1","M","Study Phase2",35,"Recall2",3534
 "63d884e0a12d7da5e48ba81e","finger","finger",4,"JOL","wedding","Study1","M","Study Phase2",50,"Recall2",3648
+"559ffa9bfdf99b0ad674856a","book","sentence",4,"JOL","word","Study1","F","Study Phase2",40,"Recall2",2867
 "55b9a9b0fdf99b6906d2aba4","sentence","sentence",4,"JOL","word","Study1","F","Study Phase2",40,"Recall2",15898
 "5d59b01348766d0016949e6a","place","sentence",4,"JOL","word","Study1","F","Study Phase2",60,"Recall2",2588
 "5fc2a0d812bc59000b746ee5","phraise","sentence",4,"JOL","word","Study1","F","Study Phase2",12,"Recall2",4238
@@ -862,6 +952,7 @@
 "61041a3b4159985f5294a436","","wolf",2,"JOL","art","Study2","U","Study Phase2",2,"Recall2",760
 "62029a55ef1cb18a1337c61a","","wolf",2,"JOL","art","Study2","U","Study Phase2",0,"Recall2",657
 "62d43cee3d60ac98c1dcacc8","beauty","wolf",2,"JOL","art","Study2","U","Study Phase2",1,"Recall2",3858
+"630cc9747cb664e8a03c29f0","","wolf",2,"JOL","art","Study2","U","Study Phase2",15,"Recall2",1393
 "63a68daa57320319534db166","wolf","wolf",2,"JOL","art","Study2","U","Study Phase2",70,"Recall2",5147
 "63d82b2de40f94ceb14816cc","","wolf",2,"JOL","art","Study2","U","Study Phase2",5,"Recall2",3247
 "63d87d58ddc4d930bbc9568e","wolf","wolf",2,"JOL","art","Study2","U","Study Phase2",55,"Recall2",5723
@@ -873,6 +964,7 @@
 "61041a3b4159985f5294a436","","bronze",2,"JOL","artery","Study2","U","Study Phase2",0,"Recall2",2016
 "62029a55ef1cb18a1337c61a","","bronze",2,"JOL","artery","Study2","U","Study Phase2",0,"Recall2",1290
 "62d43cee3d60ac98c1dcacc8","body","bronze",2,"JOL","artery","Study2","U","Study Phase2",1,"Recall2",4104
+"630cc9747cb664e8a03c29f0","","bronze",2,"JOL","artery","Study2","U","Study Phase2",5,"Recall2",1936
 "63a68daa57320319534db166","meat","bronze",2,"JOL","artery","Study2","U","Study Phase2",60,"Recall2",19250
 "63d82b2de40f94ceb14816cc","tough","bronze",2,"JOL","artery","Study2","U","Study Phase2",10,"Recall2",12287
 "63d87d58ddc4d930bbc9568e","shave","bronze",2,"JOL","artery","Study2","U","Study Phase2",13,"Recall2",6545
@@ -884,6 +976,7 @@
 "61041a3b4159985f5294a436","","clothes",2,"JOL","attire","Study2","F","Study Phase2",50,"Recall2",3233
 "62029a55ef1cb18a1337c61a","clothes","clothes",2,"JOL","attire","Study2","F","Study Phase2",50,"Recall2",1668
 "62d43cee3d60ac98c1dcacc8","clothing","clothes",2,"JOL","attire","Study2","F","Study Phase2",2,"Recall2",4355
+"630cc9747cb664e8a03c29f0","clothes","clothes",2,"JOL","attire","Study2","F","Study Phase2",35,"Recall2",5637
 "63a68daa57320319534db166","clothing","clothes",2,"JOL","attire","Study2","F","Study Phase2",57,"Recall2",10304
 "63d82b2de40f94ceb14816cc","clothes","clothes",2,"JOL","attire","Study2","F","Study Phase2",60,"Recall2",3394
 "63d87d58ddc4d930bbc9568e","clothes","clothes",2,"JOL","attire","Study2","F","Study Phase2",90,"Recall2",3655
@@ -895,6 +988,7 @@
 "61041a3b4159985f5294a436","","horn",2,"JOL","bench","Study2","U","Study Phase2",2,"Recall2",2166
 "62029a55ef1cb18a1337c61a","","horn",2,"JOL","bench","Study2","U","Study Phase2",0,"Recall2",1609
 "62d43cee3d60ac98c1dcacc8","gym","horn",2,"JOL","bench","Study2","U","Study Phase2",1,"Recall2",3096
+"630cc9747cb664e8a03c29f0","","horn",2,"JOL","bench","Study2","U","Study Phase2",5,"Recall2",2635
 "63a68daa57320319534db166","chair","horn",2,"JOL","bench","Study2","U","Study Phase2",20,"Recall2",18565
 "63d82b2de40f94ceb14816cc","","horn",2,"JOL","bench","Study2","U","Study Phase2",10,"Recall2",2778
 "63d87d58ddc4d930bbc9568e","press","horn",2,"JOL","bench","Study2","U","Study Phase2",8,"Recall2",3312
@@ -906,6 +1000,7 @@
 "61041a3b4159985f5294a436","fire","fire",2,"JOL","blaze","Study2","F","Study Phase2",98,"Recall2",1894
 "62029a55ef1cb18a1337c61a","fire","fire",2,"JOL","blaze","Study2","F","Study Phase2",0,"Recall2",1817
 "62d43cee3d60ac98c1dcacc8","fire","fire",2,"JOL","blaze","Study2","F","Study Phase2",24,"Recall2",2790
+"630cc9747cb664e8a03c29f0","fire","fire",2,"JOL","blaze","Study2","F","Study Phase2",65,"Recall2",3108
 "63a68daa57320319534db166","fire","fire",2,"JOL","blaze","Study2","F","Study Phase2",90,"Recall2",10530
 "63d82b2de40f94ceb14816cc","fire","fire",2,"JOL","blaze","Study2","F","Study Phase2",50,"Recall2",3236
 "63d87d58ddc4d930bbc9568e","fire","fire",2,"JOL","blaze","Study2","F","Study Phase2",68,"Recall2",2672
@@ -917,6 +1012,7 @@
 "61041a3b4159985f5294a436","","ounce",2,"JOL","both","Study2","U","Study Phase2",1,"Recall2",808
 "62029a55ef1cb18a1337c61a","","ounce",2,"JOL","both","Study2","U","Study Phase2",0,"Recall2",521
 "62d43cee3d60ac98c1dcacc8","two","ounce",2,"JOL","both","Study2","U","Study Phase2",1,"Recall2",2961
+"630cc9747cb664e8a03c29f0","","ounce",2,"JOL","both","Study2","U","Study Phase2",5,"Recall2",1598
 "63a68daa57320319534db166","together","ounce",2,"JOL","both","Study2","U","Study Phase2",20,"Recall2",19167
 "63d82b2de40f94ceb14816cc","","ounce",2,"JOL","both","Study2","U","Study Phase2",10,"Recall2",2578
 "63d87d58ddc4d930bbc9568e","","ounce",2,"JOL","both","Study2","U","Study Phase2",1,"Recall2",7286
@@ -928,6 +1024,7 @@
 "61041a3b4159985f5294a436","","water",2,"JOL","bridge","Study2","F","Study Phase2",85,"Recall2",1730
 "62029a55ef1cb18a1337c61a","","water",2,"JOL","bridge","Study2","F","Study Phase2",80,"Recall2",802
 "62d43cee3d60ac98c1dcacc8","water","water",2,"JOL","bridge","Study2","F","Study Phase2",50,"Recall2",2267
+"630cc9747cb664e8a03c29f0","water","water",2,"JOL","bridge","Study2","F","Study Phase2",35,"Recall2",3282
 "63a68daa57320319534db166","water","water",2,"JOL","bridge","Study2","F","Study Phase2",85,"Recall2",7828
 "63d82b2de40f94ceb14816cc","water","water",2,"JOL","bridge","Study2","F","Study Phase2",70,"Recall2",3857
 "63d87d58ddc4d930bbc9568e","water","water",2,"JOL","bridge","Study2","F","Study Phase2",30,"Recall2",3325
@@ -939,6 +1036,7 @@
 "61041a3b4159985f5294a436","plant","plant",2,"JOL","cactus","Study2","F","Study Phase2",60,"Recall2",1591
 "62029a55ef1cb18a1337c61a","","plant",2,"JOL","cactus","Study2","F","Study Phase2",40,"Recall2",1538
 "62d43cee3d60ac98c1dcacc8","plant","plant",2,"JOL","cactus","Study2","F","Study Phase2",25,"Recall2",2342
+"630cc9747cb664e8a03c29f0","plant","plant",2,"JOL","cactus","Study2","F","Study Phase2",45,"Recall2",2544
 "63a68daa57320319534db166","plant","plant",2,"JOL","cactus","Study2","F","Study Phase2",60,"Recall2",6842
 "63d82b2de40f94ceb14816cc","plant","plant",2,"JOL","cactus","Study2","F","Study Phase2",65,"Recall2",4062
 "63d87d58ddc4d930bbc9568e","plant","plant",2,"JOL","cactus","Study2","F","Study Phase2",80,"Recall2",3431
@@ -950,6 +1048,7 @@
 "61041a3b4159985f5294a436","","leg",2,"JOL","cash","Study2","U","Study Phase2",4,"Recall2",4034
 "62029a55ef1cb18a1337c61a","","leg",2,"JOL","cash","Study2","U","Study Phase2",0,"Recall2",889
 "62d43cee3d60ac98c1dcacc8","bank","leg",2,"JOL","cash","Study2","U","Study Phase2",1,"Recall2",6589
+"630cc9747cb664e8a03c29f0","","leg",2,"JOL","cash","Study2","U","Study Phase2",15,"Recall2",2913
 "63a68daa57320319534db166","foot","leg",2,"JOL","cash","Study2","U","Study Phase2",33,"Recall2",16023
 "63d82b2de40f94ceb14816cc","money","leg",2,"JOL","cash","Study2","U","Study Phase2",5,"Recall2",2930
 "63d87d58ddc4d930bbc9568e","","leg",2,"JOL","cash","Study2","U","Study Phase2",4,"Recall2",1185
@@ -961,6 +1060,7 @@
 "61041a3b4159985f5294a436","red","red",2,"JOL","cherry","Study2","F","Study Phase2",98,"Recall2",1807
 "62029a55ef1cb18a1337c61a","red","red",2,"JOL","cherry","Study2","F","Study Phase2",80,"Recall2",1397
 "62d43cee3d60ac98c1dcacc8","red","red",2,"JOL","cherry","Study2","F","Study Phase2",60,"Recall2",1933
+"630cc9747cb664e8a03c29f0","red","red",2,"JOL","cherry","Study2","F","Study Phase2",75,"Recall2",1711
 "63a68daa57320319534db166","red","red",2,"JOL","cherry","Study2","F","Study Phase2",95,"Recall2",3882
 "63d82b2de40f94ceb14816cc","red","red",2,"JOL","cherry","Study2","F","Study Phase2",700,"Recall2",2544
 "63d87d58ddc4d930bbc9568e","red","red",2,"JOL","cherry","Study2","F","Study Phase2",99,"Recall2",2225
@@ -972,6 +1072,7 @@
 "61041a3b4159985f5294a436","cold","cold",2,"JOL","chill","Study2","F","Study Phase2",90,"Recall2",2672
 "62029a55ef1cb18a1337c61a","snow","cold",2,"JOL","chill","Study2","F","Study Phase2",70,"Recall2",2245
 "62d43cee3d60ac98c1dcacc8","cold","cold",2,"JOL","chill","Study2","F","Study Phase2",45,"Recall2",2592
+"630cc9747cb664e8a03c29f0","cold","cold",2,"JOL","chill","Study2","F","Study Phase2",45,"Recall2",5095
 "63a68daa57320319534db166","cold","cold",2,"JOL","chill","Study2","F","Study Phase2",90,"Recall2",8121
 "63d82b2de40f94ceb14816cc","frozen","cold",2,"JOL","chill","Study2","F","Study Phase2",80,"Recall2",4643
 "63d87d58ddc4d930bbc9568e","cold","cold",2,"JOL","chill","Study2","F","Study Phase2",60,"Recall2",4197
@@ -983,6 +1084,7 @@
 "61041a3b4159985f5294a436","hammer","hammer",2,"JOL","chisel","Study2","F","Study Phase2",60,"Recall2",1725
 "62029a55ef1cb18a1337c61a","hammer","hammer",2,"JOL","chisel","Study2","F","Study Phase2",40,"Recall2",1712
 "62d43cee3d60ac98c1dcacc8","hammer","hammer",2,"JOL","chisel","Study2","F","Study Phase2",34,"Recall2",2576
+"630cc9747cb664e8a03c29f0","hammer","hammer",2,"JOL","chisel","Study2","F","Study Phase2",25,"Recall2",1979
 "63a68daa57320319534db166","hammer","hammer",2,"JOL","chisel","Study2","F","Study Phase2",78,"Recall2",6891
 "63d82b2de40f94ceb14816cc","hammer","hammer",2,"JOL","chisel","Study2","F","Study Phase2",65,"Recall2",2643
 "63d87d58ddc4d930bbc9568e","hammer","hammer",2,"JOL","chisel","Study2","F","Study Phase2",95,"Recall2",3132
@@ -994,6 +1096,7 @@
 "61041a3b4159985f5294a436","cut","cut",2,"JOL","chop","Study2","F","Study Phase2",98,"Recall2",2090
 "62029a55ef1cb18a1337c61a","","cut",2,"JOL","chop","Study2","F","Study Phase2",30,"Recall2",891
 "62d43cee3d60ac98c1dcacc8","wood","cut",2,"JOL","chop","Study2","F","Study Phase2",50,"Recall2",3174
+"630cc9747cb664e8a03c29f0","dice","cut",2,"JOL","chop","Study2","F","Study Phase2",55,"Recall2",1904
 "63a68daa57320319534db166","cut","cut",2,"JOL","chop","Study2","F","Study Phase2",80,"Recall2",4799
 "63d82b2de40f94ceb14816cc","cut","cut",2,"JOL","chop","Study2","F","Study Phase2",80,"Recall2",3940
 "63d87d58ddc4d930bbc9568e","cut","cut",2,"JOL","chop","Study2","F","Study Phase2",40,"Recall2",6964
@@ -1005,6 +1108,7 @@
 "61041a3b4159985f5294a436","business","business",2,"JOL","death","Study2","U","Study Phase2",20,"Recall2",2571
 "62029a55ef1cb18a1337c61a","","business",2,"JOL","death","Study2","U","Study Phase2",0,"Recall2",1022
 "62d43cee3d60ac98c1dcacc8","birth","business",2,"JOL","death","Study2","U","Study Phase2",1,"Recall2",11708
+"630cc9747cb664e8a03c29f0","","business",2,"JOL","death","Study2","U","Study Phase2",15,"Recall2",2393
 "63a68daa57320319534db166","business","business",2,"JOL","death","Study2","U","Study Phase2",25,"Recall2",6293
 "63d82b2de40f94ceb14816cc","","business",2,"JOL","death","Study2","U","Study Phase2",15,"Recall2",2325
 "63d87d58ddc4d930bbc9568e","business","business",2,"JOL","death","Study2","U","Study Phase2",49,"Recall2",5135
@@ -1016,6 +1120,7 @@
 "61041a3b4159985f5294a436","","sack",2,"JOL","dietary","Study2","U","Study Phase2",50,"Recall2",3991
 "62029a55ef1cb18a1337c61a","snack","sack",2,"JOL","dietary","Study2","U","Study Phase2",0,"Recall2",3072
 "62d43cee3d60ac98c1dcacc8","health","sack",2,"JOL","dietary","Study2","U","Study Phase2",1,"Recall2",47630
+"630cc9747cb664e8a03c29f0","","sack",2,"JOL","dietary","Study2","U","Study Phase2",5,"Recall2",6132
 "63a68daa57320319534db166","meal","sack",2,"JOL","dietary","Study2","U","Study Phase2",20,"Recall2",25219
 "63d82b2de40f94ceb14816cc","","sack",2,"JOL","dietary","Study2","U","Study Phase2",10,"Recall2",4765
 "63d87d58ddc4d930bbc9568e","need","sack",2,"JOL","dietary","Study2","U","Study Phase2",3,"Recall2",5599
@@ -1027,6 +1132,7 @@
 "61041a3b4159985f5294a436","paper","paper",2,"JOL","document","Study2","F","Study Phase2",50,"Recall2",1596
 "62029a55ef1cb18a1337c61a","paper","paper",2,"JOL","document","Study2","F","Study Phase2",70,"Recall2",2108
 "62d43cee3d60ac98c1dcacc8","paper","paper",2,"JOL","document","Study2","F","Study Phase2",50,"Recall2",2671
+"630cc9747cb664e8a03c29f0","paper","paper",2,"JOL","document","Study2","F","Study Phase2",25,"Recall2",2161
 "63a68daa57320319534db166","paper","paper",2,"JOL","document","Study2","F","Study Phase2",75,"Recall2",3972
 "63d82b2de40f94ceb14816cc","paper","paper",2,"JOL","document","Study2","F","Study Phase2",75,"Recall2",3571
 "63d87d58ddc4d930bbc9568e","paper","paper",2,"JOL","document","Study2","F","Study Phase2",81,"Recall2",2740
@@ -1038,6 +1144,7 @@
 "61041a3b4159985f5294a436","","smell",2,"JOL","eyes","Study2","M","Study Phase2",60,"Recall2",957
 "62029a55ef1cb18a1337c61a","","smell",2,"JOL","eyes","Study2","M","Study Phase2",0,"Recall2",869
 "62d43cee3d60ac98c1dcacc8","see","smell",2,"JOL","eyes","Study2","M","Study Phase2",1,"Recall2",27138
+"630cc9747cb664e8a03c29f0","smell","smell",2,"JOL","eyes","Study2","M","Study Phase2",15,"Recall2",2537
 "63a68daa57320319534db166","nose","smell",2,"JOL","eyes","Study2","M","Study Phase2",30,"Recall2",16243
 "63d82b2de40f94ceb14816cc","mouth","smell",2,"JOL","eyes","Study2","M","Study Phase2",20,"Recall2",3142
 "63d87d58ddc4d930bbc9568e","smell","smell",2,"JOL","eyes","Study2","M","Study Phase2",14,"Recall2",4538
@@ -1049,6 +1156,7 @@
 "61041a3b4159985f5294a436","fight","fight",2,"JOL","feud","Study2","F","Study Phase2",100,"Recall2",1546
 "62029a55ef1cb18a1337c61a","fight","fight",2,"JOL","feud","Study2","F","Study Phase2",40,"Recall2",1423
 "62d43cee3d60ac98c1dcacc8","argue","fight",2,"JOL","feud","Study2","F","Study Phase2",50,"Recall2",5640
+"630cc9747cb664e8a03c29f0","fight","fight",2,"JOL","feud","Study2","F","Study Phase2",45,"Recall2",2039
 "63a68daa57320319534db166","fight","fight",2,"JOL","feud","Study2","F","Study Phase2",70,"Recall2",16291
 "63d82b2de40f94ceb14816cc","fight","fight",2,"JOL","feud","Study2","F","Study Phase2",90,"Recall2",2773
 "63d87d58ddc4d930bbc9568e","fight","fight",2,"JOL","feud","Study2","F","Study Phase2",80,"Recall2",5512
@@ -1060,6 +1168,7 @@
 "61041a3b4159985f5294a436","","thigh",2,"JOL","grill","Study2","M","Study Phase2",2,"Recall2",1693
 "62029a55ef1cb18a1337c61a","","thigh",2,"JOL","grill","Study2","M","Study Phase2",0,"Recall2",1004
 "62d43cee3d60ac98c1dcacc8","bake","thigh",2,"JOL","grill","Study2","M","Study Phase2",1,"Recall2",5119
+"630cc9747cb664e8a03c29f0","steak","thigh",2,"JOL","grill","Study2","M","Study Phase2",15,"Recall2",3887
 "63a68daa57320319534db166","chicken","thigh",2,"JOL","grill","Study2","M","Study Phase2",40,"Recall2",20997
 "63d82b2de40f94ceb14816cc","burn","thigh",2,"JOL","grill","Study2","M","Study Phase2",40,"Recall2",3802
 "63d87d58ddc4d930bbc9568e","","thigh",2,"JOL","grill","Study2","M","Study Phase2",20,"Recall2",1954
@@ -1071,6 +1180,7 @@
 "61041a3b4159985f5294a436","","car",2,"JOL","happy","Study2","U","Study Phase2",20,"Recall2",3997
 "62029a55ef1cb18a1337c61a","car","car",2,"JOL","happy","Study2","U","Study Phase2",0,"Recall2",1408
 "62d43cee3d60ac98c1dcacc8","sad","car",2,"JOL","happy","Study2","U","Study Phase2",1,"Recall2",2011
+"630cc9747cb664e8a03c29f0","","car",2,"JOL","happy","Study2","U","Study Phase2",15,"Recall2",2227
 "63a68daa57320319534db166","car","car",2,"JOL","happy","Study2","U","Study Phase2",20,"Recall2",11295
 "63d82b2de40f94ceb14816cc","sad","car",2,"JOL","happy","Study2","U","Study Phase2",20,"Recall2",2962
 "63d87d58ddc4d930bbc9568e","","car",2,"JOL","happy","Study2","U","Study Phase2",10,"Recall2",1902
@@ -1082,6 +1192,7 @@
 "61041a3b4159985f5294a436","cloth","feather",2,"JOL","heavy","Study2","M","Study Phase2",50,"Recall2",3245
 "62029a55ef1cb18a1337c61a","","feather",2,"JOL","heavy","Study2","M","Study Phase2",0,"Recall2",1346
 "62d43cee3d60ac98c1dcacc8","lift","feather",2,"JOL","heavy","Study2","M","Study Phase2",1,"Recall2",2223
+"630cc9747cb664e8a03c29f0","feather","feather",2,"JOL","heavy","Study2","M","Study Phase2",45,"Recall2",3311
 "63a68daa57320319534db166","feather","feather",2,"JOL","heavy","Study2","M","Study Phase2",55,"Recall2",10404
 "63d82b2de40f94ceb14816cc","","feather",2,"JOL","heavy","Study2","M","Study Phase2",25,"Recall2",1631
 "63d87d58ddc4d930bbc9568e","accident","feather",2,"JOL","heavy","Study2","M","Study Phase2",70,"Recall2",6935
@@ -1093,6 +1204,7 @@
 "61041a3b4159985f5294a436","cow","cow",2,"JOL","herd","Study2","F","Study Phase2",60,"Recall2",1239
 "62029a55ef1cb18a1337c61a","cow","cow",2,"JOL","herd","Study2","F","Study Phase2",60,"Recall2",1304
 "62d43cee3d60ac98c1dcacc8","horse","cow",2,"JOL","herd","Study2","F","Study Phase2",24,"Recall2",3140
+"630cc9747cb664e8a03c29f0","cow","cow",2,"JOL","herd","Study2","F","Study Phase2",55,"Recall2",1443
 "63a68daa57320319534db166","cow","cow",2,"JOL","herd","Study2","F","Study Phase2",80,"Recall2",6824
 "63d82b2de40f94ceb14816cc","cow","cow",2,"JOL","herd","Study2","F","Study Phase2",70,"Recall2",2734
 "63d87d58ddc4d930bbc9568e","","cow",2,"JOL","herd","Study2","F","Study Phase2",70,"Recall2",1306
@@ -1104,6 +1216,7 @@
 "61041a3b4159985f5294a436","sting","sting",2,"JOL","hornet","Study2","F","Study Phase2",100,"Recall2",1686
 "62029a55ef1cb18a1337c61a","sting","sting",2,"JOL","hornet","Study2","F","Study Phase2",60,"Recall2",1814
 "62d43cee3d60ac98c1dcacc8","bee","sting",2,"JOL","hornet","Study2","F","Study Phase2",46,"Recall2",4559
+"630cc9747cb664e8a03c29f0","sting","sting",2,"JOL","hornet","Study2","F","Study Phase2",75,"Recall2",1858
 "63a68daa57320319534db166","sting","sting",2,"JOL","hornet","Study2","F","Study Phase2",90,"Recall2",7011
 "63d82b2de40f94ceb14816cc","sting","sting",2,"JOL","hornet","Study2","F","Study Phase2",70,"Recall2",4900
 "63d87d58ddc4d930bbc9568e","sting","sting",2,"JOL","hornet","Study2","F","Study Phase2",60,"Recall2",3578
@@ -1115,6 +1228,7 @@
 "61041a3b4159985f5294a436","smell","smell",2,"JOL","incense","Study2","F","Study Phase2",95,"Recall2",2084
 "62029a55ef1cb18a1337c61a","smell","smell",2,"JOL","incense","Study2","F","Study Phase2",0,"Recall2",1840
 "62d43cee3d60ac98c1dcacc8","smell","smell",2,"JOL","incense","Study2","F","Study Phase2",24,"Recall2",2775
+"630cc9747cb664e8a03c29f0","smell","smell",2,"JOL","incense","Study2","F","Study Phase2",55,"Recall2",1681
 "63a68daa57320319534db166","smell","smell",2,"JOL","incense","Study2","F","Study Phase2",80,"Recall2",5181
 "63d82b2de40f94ceb14816cc","smell","smell",2,"JOL","incense","Study2","F","Study Phase2",50,"Recall2",4560
 "63d87d58ddc4d930bbc9568e","smoke","smell",2,"JOL","incense","Study2","F","Study Phase2",86,"Recall2",5335
@@ -1126,6 +1240,7 @@
 "61041a3b4159985f5294a436","","vase",2,"JOL","king","Study2","U","Study Phase2",1,"Recall2",2462
 "62029a55ef1cb18a1337c61a","","vase",2,"JOL","king","Study2","U","Study Phase2",0,"Recall2",603
 "62d43cee3d60ac98c1dcacc8","royal","vase",2,"JOL","king","Study2","U","Study Phase2",1,"Recall2",5080
+"630cc9747cb664e8a03c29f0","","vase",2,"JOL","king","Study2","U","Study Phase2",5,"Recall2",2824
 "63a68daa57320319534db166","castle","vase",2,"JOL","king","Study2","U","Study Phase2",20,"Recall2",16877
 "63d82b2de40f94ceb14816cc","","vase",2,"JOL","king","Study2","U","Study Phase2",30,"Recall2",3279
 "63d87d58ddc4d930bbc9568e","","vase",2,"JOL","king","Study2","U","Study Phase2",20,"Recall2",6503
@@ -1137,6 +1252,7 @@
 "61041a3b4159985f5294a436","baseball","baseball",2,"JOL","league","Study2","F","Study Phase2",99,"Recall2",2529
 "62029a55ef1cb18a1337c61a","baseball","baseball",2,"JOL","league","Study2","F","Study Phase2",100,"Recall2",1853
 "62d43cee3d60ac98c1dcacc8","baseball","baseball",2,"JOL","league","Study2","F","Study Phase2",34,"Recall2",4053
+"630cc9747cb664e8a03c29f0","baseball","baseball",2,"JOL","league","Study2","F","Study Phase2",75,"Recall2",3139
 "63a68daa57320319534db166","baseball","baseball",2,"JOL","league","Study2","F","Study Phase2",55,"Recall2",6328
 "63d82b2de40f94ceb14816cc","baseball","baseball",2,"JOL","league","Study2","F","Study Phase2",75,"Recall2",3040
 "63d87d58ddc4d930bbc9568e","baseball","baseball",2,"JOL","league","Study2","F","Study Phase2",70,"Recall2",3626
@@ -1148,6 +1264,7 @@
 "61041a3b4159985f5294a436","","toil",2,"JOL","lease","Study2","U","Study Phase2",1,"Recall2",1993
 "62029a55ef1cb18a1337c61a","","toil",2,"JOL","lease","Study2","U","Study Phase2",0,"Recall2",876
 "62d43cee3d60ac98c1dcacc8","land","toil",2,"JOL","lease","Study2","U","Study Phase2",1,"Recall2",4596
+"630cc9747cb664e8a03c29f0","buy","toil",2,"JOL","lease","Study2","U","Study Phase2",5,"Recall2",2793
 "63a68daa57320319534db166","money","toil",2,"JOL","lease","Study2","U","Study Phase2",20,"Recall2",14488
 "63d82b2de40f94ceb14816cc","","toil",2,"JOL","lease","Study2","U","Study Phase2",20,"Recall2",2536
 "63d87d58ddc4d930bbc9568e","","toil",2,"JOL","lease","Study2","U","Study Phase2",0,"Recall2",2512
@@ -1159,6 +1276,7 @@
 "61041a3b4159985f5294a436","child","children",2,"JOL","mirror","Study2","U","Study Phase2",9,"Recall2",2456
 "62029a55ef1cb18a1337c61a","","children",2,"JOL","mirror","Study2","U","Study Phase2",0,"Recall2",695
 "62d43cee3d60ac98c1dcacc8","wall","children",2,"JOL","mirror","Study2","U","Study Phase2",1,"Recall2",4295
+"630cc9747cb664e8a03c29f0","children","children",2,"JOL","mirror","Study2","U","Study Phase2",15,"Recall2",3756
 "63a68daa57320319534db166","children","children",2,"JOL","mirror","Study2","U","Study Phase2",20,"Recall2",6343
 "63d82b2de40f94ceb14816cc","broken","children",2,"JOL","mirror","Study2","U","Study Phase2",20,"Recall2",3268
 "63d87d58ddc4d930bbc9568e","children","children",2,"JOL","mirror","Study2","U","Study Phase2",12,"Recall2",4398
@@ -1170,6 +1288,7 @@
 "61041a3b4159985f5294a436","lawyer","lawyer",2,"JOL","nurse","Study2","M","Study Phase2",30,"Recall2",3252
 "62029a55ef1cb18a1337c61a","lawyer","lawyer",2,"JOL","nurse","Study2","M","Study Phase2",0,"Recall2",1907
 "62d43cee3d60ac98c1dcacc8","doctor","lawyer",2,"JOL","nurse","Study2","M","Study Phase2",1,"Recall2",2847
+"630cc9747cb664e8a03c29f0","lawyer","lawyer",2,"JOL","nurse","Study2","M","Study Phase2",15,"Recall2",2888
 "63a68daa57320319534db166","lawyer","lawyer",2,"JOL","nurse","Study2","M","Study Phase2",50,"Recall2",5414
 "63d82b2de40f94ceb14816cc","soldier","lawyer",2,"JOL","nurse","Study2","M","Study Phase2",25,"Recall2",9220
 "63d87d58ddc4d930bbc9568e","lawyer","lawyer",2,"JOL","nurse","Study2","M","Study Phase2",35,"Recall2",3503
@@ -1181,6 +1300,7 @@
 "61041a3b4159985f5294a436","bake","basket",2,"JOL","oven","Study2","M","Study Phase2",2,"Recall2",3809
 "62029a55ef1cb18a1337c61a","","basket",2,"JOL","oven","Study2","M","Study Phase2",0,"Recall2",1221
 "62d43cee3d60ac98c1dcacc8","hot","basket",2,"JOL","oven","Study2","M","Study Phase2",23,"Recall2",4334
+"630cc9747cb664e8a03c29f0","","basket",2,"JOL","oven","Study2","M","Study Phase2",5,"Recall2",1458
 "63a68daa57320319534db166","hot","basket",2,"JOL","oven","Study2","M","Study Phase2",30,"Recall2",33132
 "63d82b2de40f94ceb14816cc","bake","basket",2,"JOL","oven","Study2","M","Study Phase2",35,"Recall2",4624
 "63d87d58ddc4d930bbc9568e","mitt","basket",2,"JOL","oven","Study2","M","Study Phase2",19,"Recall2",8060
@@ -1192,6 +1312,7 @@
 "61041a3b4159985f5294a436","collar","collar",2,"JOL","pants","Study2","M","Study Phase2",5,"Recall2",1903
 "62029a55ef1cb18a1337c61a","","collar",2,"JOL","pants","Study2","M","Study Phase2",0,"Recall2",2496
 "62d43cee3d60ac98c1dcacc8","clothing","collar",2,"JOL","pants","Study2","M","Study Phase2",1,"Recall2",5808
+"630cc9747cb664e8a03c29f0","belt","collar",2,"JOL","pants","Study2","M","Study Phase2",25,"Recall2",6199
 "63a68daa57320319534db166","collar","collar",2,"JOL","pants","Study2","M","Study Phase2",3,"Recall2",4924
 "63d82b2de40f94ceb14816cc","collar","collar",2,"JOL","pants","Study2","M","Study Phase2",70,"Recall2",4626
 "63d87d58ddc4d930bbc9568e","collar","collar",2,"JOL","pants","Study2","M","Study Phase2",30,"Recall2",7418
@@ -1203,6 +1324,7 @@
 "61041a3b4159985f5294a436","","clutter",2,"JOL","push","Study2","U","Study Phase2",1,"Recall2",1019
 "62029a55ef1cb18a1337c61a","","clutter",2,"JOL","push","Study2","U","Study Phase2",0,"Recall2",750
 "62d43cee3d60ac98c1dcacc8","pull","clutter",2,"JOL","push","Study2","U","Study Phase2",1,"Recall2",2331
+"630cc9747cb664e8a03c29f0","","clutter",2,"JOL","push","Study2","U","Study Phase2",5,"Recall2",2072
 "63a68daa57320319534db166","clutter","clutter",2,"JOL","push","Study2","U","Study Phase2",35,"Recall2",19491
 "63d82b2de40f94ceb14816cc","","clutter",2,"JOL","push","Study2","U","Study Phase2",45,"Recall2",2061
 "63d87d58ddc4d930bbc9568e","","clutter",2,"JOL","push","Study2","U","Study Phase2",3,"Recall2",4425
@@ -1214,6 +1336,7 @@
 "61041a3b4159985f5294a436","leaves","seed",2,"JOL","rake","Study2","M","Study Phase2",40,"Recall2",3061
 "62029a55ef1cb18a1337c61a","","seed",2,"JOL","rake","Study2","M","Study Phase2",0,"Recall2",1316
 "62d43cee3d60ac98c1dcacc8","leaves","seed",2,"JOL","rake","Study2","M","Study Phase2",1,"Recall2",7497
+"630cc9747cb664e8a03c29f0","green","seed",2,"JOL","rake","Study2","M","Study Phase2",15,"Recall2",4095
 "63a68daa57320319534db166","seed","seed",2,"JOL","rake","Study2","M","Study Phase2",50,"Recall2",6948
 "63d82b2de40f94ceb14816cc","","seed",2,"JOL","rake","Study2","M","Study Phase2",40,"Recall2",7861
 "63d87d58ddc4d930bbc9568e","","seed",2,"JOL","rake","Study2","M","Study Phase2",5,"Recall2",3784
@@ -1225,6 +1348,7 @@
 "61041a3b4159985f5294a436","muscle","muscle",2,"JOL","razor","Study2","M","Study Phase2",3,"Recall2",2756
 "62029a55ef1cb18a1337c61a","","muscle",2,"JOL","razor","Study2","M","Study Phase2",0,"Recall2",629
 "62d43cee3d60ac98c1dcacc8","blade","muscle",2,"JOL","razor","Study2","M","Study Phase2",1,"Recall2",3736
+"630cc9747cb664e8a03c29f0","arm","muscle",2,"JOL","razor","Study2","M","Study Phase2",5,"Recall2",4836
 "63a68daa57320319534db166","","muscle",2,"JOL","razor","Study2","M","Study Phase2",20,"Recall2",20736
 "63d82b2de40f94ceb14816cc","muscle","muscle",2,"JOL","razor","Study2","M","Study Phase2",55,"Recall2",7880
 "63d87d58ddc4d930bbc9568e","muscle","muscle",2,"JOL","razor","Study2","M","Study Phase2",16,"Recall2",3757
@@ -1236,6 +1360,7 @@
 "61041a3b4159985f5294a436","island","island",2,"JOL","reality","Study2","M","Study Phase2",5,"Recall2",2600
 "62029a55ef1cb18a1337c61a","","island",2,"JOL","reality","Study2","M","Study Phase2",0,"Recall2",705
 "62d43cee3d60ac98c1dcacc8","dream","island",2,"JOL","reality","Study2","M","Study Phase2",1,"Recall2",30220
+"630cc9747cb664e8a03c29f0","island","island",2,"JOL","reality","Study2","M","Study Phase2",35,"Recall2",5250
 "63a68daa57320319534db166","read","island",2,"JOL","reality","Study2","M","Study Phase2",43,"Recall2",12494
 "63d82b2de40f94ceb14816cc","island","island",2,"JOL","reality","Study2","M","Study Phase2",10,"Recall2",4941
 "63d87d58ddc4d930bbc9568e","island","island",2,"JOL","reality","Study2","M","Study Phase2",60,"Recall2",4889
@@ -1247,6 +1372,7 @@
 "61041a3b4159985f5294a436","stop","stop",2,"JOL","school","Study2","M","Study Phase2",90,"Recall2",2529
 "62029a55ef1cb18a1337c61a","","stop",2,"JOL","school","Study2","M","Study Phase2",0,"Recall2",919
 "62d43cee3d60ac98c1dcacc8","learn","stop",2,"JOL","school","Study2","M","Study Phase2",1,"Recall2",2786
+"630cc9747cb664e8a03c29f0","","stop",2,"JOL","school","Study2","M","Study Phase2",35,"Recall2",1141
 "63a68daa57320319534db166","stop","stop",2,"JOL","school","Study2","M","Study Phase2",75,"Recall2",6405
 "63d82b2de40f94ceb14816cc","","stop",2,"JOL","school","Study2","M","Study Phase2",10,"Recall2",2029
 "63d87d58ddc4d930bbc9568e","stop","stop",2,"JOL","school","Study2","M","Study Phase2",34,"Recall2",4587
@@ -1258,6 +1384,7 @@
 "61041a3b4159985f5294a436","","hide",2,"JOL","sick","Study2","U","Study Phase2",20,"Recall2",3004
 "62029a55ef1cb18a1337c61a","","hide",2,"JOL","sick","Study2","U","Study Phase2",0,"Recall2",925
 "62d43cee3d60ac98c1dcacc8","ill","hide",2,"JOL","sick","Study2","U","Study Phase2",1,"Recall2",4599
+"630cc9747cb664e8a03c29f0","","hide",2,"JOL","sick","Study2","U","Study Phase2",5,"Recall2",2884
 "63a68daa57320319534db166","bed","hide",2,"JOL","sick","Study2","U","Study Phase2",25,"Recall2",18005
 "63d82b2de40f94ceb14816cc","","hide",2,"JOL","sick","Study2","U","Study Phase2",20,"Recall2",2152
 "63d87d58ddc4d930bbc9568e","bed","hide",2,"JOL","sick","Study2","U","Study Phase2",10,"Recall2",4268
@@ -1269,6 +1396,7 @@
 "61041a3b4159985f5294a436","clean","drink",2,"JOL","soap","Study2","M","Study Phase2",10,"Recall2",3190
 "62029a55ef1cb18a1337c61a","drink","drink",2,"JOL","soap","Study2","M","Study Phase2",0,"Recall2",3195
 "62d43cee3d60ac98c1dcacc8","smell","drink",2,"JOL","soap","Study2","M","Study Phase2",1,"Recall2",2622
+"630cc9747cb664e8a03c29f0","dirty","drink",2,"JOL","soap","Study2","M","Study Phase2",5,"Recall2",3944
 "63a68daa57320319534db166","bath","drink",2,"JOL","soap","Study2","M","Study Phase2",40,"Recall2",17049
 "63d82b2de40f94ceb14816cc","drink","drink",2,"JOL","soap","Study2","M","Study Phase2",10,"Recall2",10539
 "63d87d58ddc4d930bbc9568e","box","drink",2,"JOL","soap","Study2","M","Study Phase2",1,"Recall2",9000
@@ -1280,6 +1408,7 @@
 "61041a3b4159985f5294a436","","accident",2,"JOL","strong","Study2","U","Study Phase2",20,"Recall2",1331
 "62029a55ef1cb18a1337c61a","","accident",2,"JOL","strong","Study2","U","Study Phase2",0,"Recall2",920
 "62d43cee3d60ac98c1dcacc8","heavy","accident",2,"JOL","strong","Study2","U","Study Phase2",1,"Recall2",11255
+"630cc9747cb664e8a03c29f0","","accident",2,"JOL","strong","Study2","U","Study Phase2",15,"Recall2",2635
 "63a68daa57320319534db166","smell","accident",2,"JOL","strong","Study2","U","Study Phase2",30,"Recall2",24457
 "63d82b2de40f94ceb14816cc","","accident",2,"JOL","strong","Study2","U","Study Phase2",15,"Recall2",2432
 "63d87d58ddc4d930bbc9568e","accident","accident",2,"JOL","strong","Study2","U","Study Phase2",47,"Recall2",5338
@@ -1291,6 +1420,7 @@
 "61041a3b4159985f5294a436","","riddle",2,"JOL","sugar","Study2","U","Study Phase2",10,"Recall2",1914
 "62029a55ef1cb18a1337c61a","","riddle",2,"JOL","sugar","Study2","U","Study Phase2",0,"Recall2",953
 "62d43cee3d60ac98c1dcacc8","sweet","riddle",2,"JOL","sugar","Study2","U","Study Phase2",1,"Recall2",3420
+"630cc9747cb664e8a03c29f0","","riddle",2,"JOL","sugar","Study2","U","Study Phase2",5,"Recall2",3983
 "63a68daa57320319534db166","sweet","riddle",2,"JOL","sugar","Study2","U","Study Phase2",20,"Recall2",15253
 "63d82b2de40f94ceb14816cc","","riddle",2,"JOL","sugar","Study2","U","Study Phase2",15,"Recall2",2752
 "63d87d58ddc4d930bbc9568e","","riddle",2,"JOL","sugar","Study2","U","Study Phase2",9,"Recall2",5341
@@ -1302,6 +1432,7 @@
 "61041a3b4159985f5294a436","frozen","snow",2,"JOL","summer","Study2","M","Study Phase2",98,"Recall2",5459
 "62029a55ef1cb18a1337c61a","snow","snow",2,"JOL","summer","Study2","M","Study Phase2",20,"Recall2",2311
 "62d43cee3d60ac98c1dcacc8","fall","snow",2,"JOL","summer","Study2","M","Study Phase2",22,"Recall2",2057
+"630cc9747cb664e8a03c29f0","winter","snow",2,"JOL","summer","Study2","M","Study Phase2",65,"Recall2",6169
 "63a68daa57320319534db166","snow","snow",2,"JOL","summer","Study2","M","Study Phase2",60,"Recall2",18491
 "63d82b2de40f94ceb14816cc","snow","snow",2,"JOL","summer","Study2","M","Study Phase2",40,"Recall2",3746
 "63d87d58ddc4d930bbc9568e","","snow",2,"JOL","summer","Study2","M","Study Phase2",50,"Recall2",4555
@@ -1313,6 +1444,7 @@
 "61041a3b4159985f5294a436","cave","cave",2,"JOL","trap","Study2","M","Study Phase2",1,"Recall2",2629
 "62029a55ef1cb18a1337c61a","","cave",2,"JOL","trap","Study2","M","Study Phase2",0,"Recall2",567
 "62d43cee3d60ac98c1dcacc8","hunt","cave",2,"JOL","trap","Study2","M","Study Phase2",2,"Recall2",9881
+"630cc9747cb664e8a03c29f0","cave","cave",2,"JOL","trap","Study2","M","Study Phase2",15,"Recall2",3840
 "63a68daa57320319534db166","cave","cave",2,"JOL","trap","Study2","M","Study Phase2",50,"Recall2",24613
 "63d82b2de40f94ceb14816cc","","cave",2,"JOL","trap","Study2","M","Study Phase2",20,"Recall2",2576
 "63d87d58ddc4d930bbc9568e","cave","cave",2,"JOL","trap","Study2","M","Study Phase2",23,"Recall2",5484
@@ -1324,6 +1456,7 @@
 "61041a3b4159985f5294a436","peak","peak",2,"JOL","valley","Study2","M","Study Phase2",90,"Recall2",1583
 "62029a55ef1cb18a1337c61a","peak","peak",2,"JOL","valley","Study2","M","Study Phase2",50,"Recall2",1662
 "62d43cee3d60ac98c1dcacc8","hill","peak",2,"JOL","valley","Study2","M","Study Phase2",34,"Recall2",3028
+"630cc9747cb664e8a03c29f0","peak","peak",2,"JOL","valley","Study2","M","Study Phase2",25,"Recall2",5224
 "63a68daa57320319534db166","peak","peak",2,"JOL","valley","Study2","M","Study Phase2",57,"Recall2",15388
 "63d82b2de40f94ceb14816cc","peak","peak",2,"JOL","valley","Study2","M","Study Phase2",80,"Recall2",4257
 "63d87d58ddc4d930bbc9568e","peak","peak",2,"JOL","valley","Study2","M","Study Phase2",40,"Recall2",2752
@@ -1335,6 +1468,7 @@
 "61041a3b4159985f5294a436","sting","bug",2,"JOL","wasp","Study2","F","Study Phase2",95,"Recall2",1598
 "62029a55ef1cb18a1337c61a","sting","bug",2,"JOL","wasp","Study2","F","Study Phase2",40,"Recall2",1557
 "62d43cee3d60ac98c1dcacc8","sting","bug",2,"JOL","wasp","Study2","F","Study Phase2",50,"Recall2",2865
+"630cc9747cb664e8a03c29f0","sting","bug",2,"JOL","wasp","Study2","F","Study Phase2",55,"Recall2",1949
 "63a68daa57320319534db166","bug","bug",2,"JOL","wasp","Study2","F","Study Phase2",70,"Recall2",11897
 "63d82b2de40f94ceb14816cc","sting","bug",2,"JOL","wasp","Study2","F","Study Phase2",90,"Recall2",2899
 "63d87d58ddc4d930bbc9568e","stung","bug",2,"JOL","wasp","Study2","F","Study Phase2",78,"Recall2",6420
@@ -1346,9 +1480,11 @@
 "61041a3b4159985f5294a436","","knob",2,"JOL","window","Study2","M","Study Phase2",30,"Recall2",4817
 "62029a55ef1cb18a1337c61a","","knob",2,"JOL","window","Study2","M","Study Phase2",0,"Recall2",849
 "62d43cee3d60ac98c1dcacc8","glass","knob",2,"JOL","window","Study2","M","Study Phase2",21,"Recall2",5174
+"630cc9747cb664e8a03c29f0","","knob",2,"JOL","window","Study2","M","Study Phase2",5,"Recall2",2894
 "63a68daa57320319534db166","knob","knob",2,"JOL","window","Study2","M","Study Phase2",37,"Recall2",18784
 "63d82b2de40f94ceb14816cc","","knob",2,"JOL","window","Study2","M","Study Phase2",25,"Recall2",4394
 "63d87d58ddc4d930bbc9568e","knob","knob",2,"JOL","window","Study2","M","Study Phase2",6,"Recall2",5923
+"559ffa9bfdf99b0ad674856a","","wolf",4,"JOL","art","Study2","U","Study Phase",10,"Recall1",928
 "55b9a9b0fdf99b6906d2aba4","","wolf",4,"JOL","art","Study2","U","Study Phase",10,"Recall1",6637
 "5d59b01348766d0016949e6a","frame","wolf",4,"JOL","art","Study2","U","Study Phase",10,"Recall1",3842
 "5fc2a0d812bc59000b746ee5","house","wolf",4,"JOL","art","Study2","U","Study Phase",4,"Recall1",6990
@@ -1357,6 +1493,7 @@
 "628e5f283594e1a48a04886f","","wolf",4,"JOL","art","Study2","U","Study Phase",10,"Recall1",10811
 "63474e67a5fd298c6103c409","study","wolf",4,"JOL","art","Study2","U","Study Phase",53,"Recall1",3459
 "63d884e0a12d7da5e48ba81e","","wolf",4,"JOL","art","Study2","U","Study Phase",0,"Recall1",8065
+"559ffa9bfdf99b0ad674856a","bronze","bronze",4,"JOL","artery","Study2","U","Study Phase",5,"Recall1",2742
 "55b9a9b0fdf99b6906d2aba4","","bronze",4,"JOL","artery","Study2","U","Study Phase",10,"Recall1",3728
 "5d59b01348766d0016949e6a","blood","bronze",4,"JOL","artery","Study2","U","Study Phase",15,"Recall1",3647
 "5fc2a0d812bc59000b746ee5","vein","bronze",4,"JOL","artery","Study2","U","Study Phase",5,"Recall1",8264
@@ -1365,6 +1502,7 @@
 "628e5f283594e1a48a04886f","","bronze",4,"JOL","artery","Study2","U","Study Phase",2,"Recall1",6790
 "63474e67a5fd298c6103c409","bleed","bronze",4,"JOL","artery","Study2","U","Study Phase",38,"Recall1",6016
 "63d884e0a12d7da5e48ba81e","","bronze",4,"JOL","artery","Study2","U","Study Phase",10,"Recall1",3696
+"559ffa9bfdf99b0ad674856a","clothes","clothes",4,"JOL","attire","Study2","F","Study Phase",70,"Recall1",3117
 "55b9a9b0fdf99b6906d2aba4","clothes","clothes",4,"JOL","attire","Study2","F","Study Phase",40,"Recall1",13207
 "5d59b01348766d0016949e6a","clothes","clothes",4,"JOL","attire","Study2","F","Study Phase",80,"Recall1",2591
 "5fc2a0d812bc59000b746ee5","shirt","clothes",4,"JOL","attire","Study2","F","Study Phase",28,"Recall1",5155
@@ -1373,6 +1511,7 @@
 "628e5f283594e1a48a04886f","clothes","clothes",4,"JOL","attire","Study2","F","Study Phase",78,"Recall1",2968
 "63474e67a5fd298c6103c409","dress","clothes",4,"JOL","attire","Study2","F","Study Phase",87,"Recall1",7756
 "63d884e0a12d7da5e48ba81e","clothes","clothes",4,"JOL","attire","Study2","F","Study Phase",90,"Recall1",4186
+"559ffa9bfdf99b0ad674856a","","horn",4,"JOL","bench","Study2","U","Study Phase",0,"Recall1",1564
 "55b9a9b0fdf99b6906d2aba4","","horn",4,"JOL","bench","Study2","U","Study Phase",10,"Recall1",5004
 "5d59b01348766d0016949e6a","metal","horn",4,"JOL","bench","Study2","U","Study Phase",40,"Recall1",8016
 "5fc2a0d812bc59000b746ee5","sit","horn",4,"JOL","bench","Study2","U","Study Phase",NA,"Recall1",2949
@@ -1381,6 +1520,7 @@
 "628e5f283594e1a48a04886f","horn","horn",4,"JOL","bench","Study2","U","Study Phase",20,"Recall1",3151
 "63474e67a5fd298c6103c409","leg","horn",4,"JOL","bench","Study2","U","Study Phase",33,"Recall1",5062
 "63d884e0a12d7da5e48ba81e","forward","horn",4,"JOL","bench","Study2","U","Study Phase",20,"Recall1",6611
+"559ffa9bfdf99b0ad674856a","fire","fire",4,"JOL","blaze","Study2","F","Study Phase",70,"Recall1",2477
 "55b9a9b0fdf99b6906d2aba4","fire","fire",4,"JOL","blaze","Study2","F","Study Phase",40,"Recall1",5410
 "5d59b01348766d0016949e6a","fire","fire",4,"JOL","blaze","Study2","F","Study Phase",20,"Recall1",1999
 "5fc2a0d812bc59000b746ee5","fire","fire",4,"JOL","blaze","Study2","F","Study Phase",NA,"Recall1",7712
@@ -1389,6 +1529,7 @@
 "628e5f283594e1a48a04886f","fire","fire",4,"JOL","blaze","Study2","F","Study Phase",80,"Recall1",2586
 "63474e67a5fd298c6103c409","fire","fire",4,"JOL","blaze","Study2","F","Study Phase",99,"Recall1",9719
 "63d884e0a12d7da5e48ba81e","fire","fire",4,"JOL","blaze","Study2","F","Study Phase",80,"Recall1",4819
+"559ffa9bfdf99b0ad674856a","","ounce",4,"JOL","both","Study2","U","Study Phase",0,"Recall1",1062
 "55b9a9b0fdf99b6906d2aba4","","ounce",4,"JOL","both","Study2","U","Study Phase",5,"Recall1",7228
 "5d59b01348766d0016949e6a","out","ounce",4,"JOL","both","Study2","U","Study Phase",10,"Recall1",4723
 "5fc2a0d812bc59000b746ee5","ounce","ounce",4,"JOL","both","Study2","U","Study Phase",45,"Recall1",2942
@@ -1397,6 +1538,7 @@
 "628e5f283594e1a48a04886f","","ounce",4,"JOL","both","Study2","U","Study Phase",5,"Recall1",5758
 "63474e67a5fd298c6103c409","togetehr","ounce",4,"JOL","both","Study2","U","Study Phase",39,"Recall1",103297
 "63d884e0a12d7da5e48ba81e","ounce","ounce",4,"JOL","both","Study2","U","Study Phase",0,"Recall1",8857
+"559ffa9bfdf99b0ad674856a","water","water",4,"JOL","bridge","Study2","F","Study Phase",50,"Recall1",2054
 "55b9a9b0fdf99b6906d2aba4","river","water",4,"JOL","bridge","Study2","F","Study Phase",30,"Recall1",8982
 "5d59b01348766d0016949e6a","water","water",4,"JOL","bridge","Study2","F","Study Phase",80,"Recall1",2317
 "5fc2a0d812bc59000b746ee5","water","water",4,"JOL","bridge","Study2","F","Study Phase",60,"Recall1",9650
@@ -1405,6 +1547,7 @@
 "628e5f283594e1a48a04886f","water","water",4,"JOL","bridge","Study2","F","Study Phase",90,"Recall1",2532
 "63474e67a5fd298c6103c409","water","water",4,"JOL","bridge","Study2","F","Study Phase",64,"Recall1",2667
 "63d884e0a12d7da5e48ba81e","water","water",4,"JOL","bridge","Study2","F","Study Phase",60,"Recall1",6864
+"559ffa9bfdf99b0ad674856a","plant","plant",4,"JOL","cactus","Study2","F","Study Phase",60,"Recall1",2513
 "55b9a9b0fdf99b6906d2aba4","plant","plant",4,"JOL","cactus","Study2","F","Study Phase",25,"Recall1",2727
 "5d59b01348766d0016949e6a","plant","plant",4,"JOL","cactus","Study2","F","Study Phase",80,"Recall1",1687
 "5fc2a0d812bc59000b746ee5","plant","plant",4,"JOL","cactus","Study2","F","Study Phase",60,"Recall1",3394
@@ -1413,6 +1556,7 @@
 "628e5f283594e1a48a04886f","plant","plant",4,"JOL","cactus","Study2","F","Study Phase",59,"Recall1",3239
 "63474e67a5fd298c6103c409","plant","plant",4,"JOL","cactus","Study2","F","Study Phase",90,"Recall1",2667
 "63d884e0a12d7da5e48ba81e","","plant",4,"JOL","cactus","Study2","F","Study Phase",90,"Recall1",3789
+"559ffa9bfdf99b0ad674856a","","leg",4,"JOL","cash","Study2","U","Study Phase",0,"Recall1",1523
 "55b9a9b0fdf99b6906d2aba4","","leg",4,"JOL","cash","Study2","U","Study Phase",10,"Recall1",6241
 "5d59b01348766d0016949e6a","hold","leg",4,"JOL","cash","Study2","U","Study Phase",10,"Recall1",2454
 "5fc2a0d812bc59000b746ee5","money","leg",4,"JOL","cash","Study2","U","Study Phase",0,"Recall1",6449
@@ -1421,6 +1565,7 @@
 "628e5f283594e1a48a04886f","leg","leg",4,"JOL","cash","Study2","U","Study Phase",15,"Recall1",4612
 "63474e67a5fd298c6103c409","check","leg",4,"JOL","cash","Study2","U","Study Phase",40,"Recall1",15254
 "63d884e0a12d7da5e48ba81e","","leg",4,"JOL","cash","Study2","U","Study Phase",10,"Recall1",1699
+"559ffa9bfdf99b0ad674856a","red","red",4,"JOL","cherry","Study2","F","Study Phase",70,"Recall1",1453
 "55b9a9b0fdf99b6906d2aba4","red","red",4,"JOL","cherry","Study2","F","Study Phase",20,"Recall1",2334
 "5d59b01348766d0016949e6a","red","red",4,"JOL","cherry","Study2","F","Study Phase",90,"Recall1",2351
 "5fc2a0d812bc59000b746ee5","pie","red",4,"JOL","cherry","Study2","F","Study Phase",14,"Recall1",6027
@@ -1429,6 +1574,7 @@
 "628e5f283594e1a48a04886f","sweet","red",4,"JOL","cherry","Study2","F","Study Phase",85,"Recall1",9333
 "63474e67a5fd298c6103c409","red","red",4,"JOL","cherry","Study2","F","Study Phase",100,"Recall1",6197
 "63d884e0a12d7da5e48ba81e","red","red",4,"JOL","cherry","Study2","F","Study Phase",100,"Recall1",3377
+"559ffa9bfdf99b0ad674856a","ice","cold",4,"JOL","chill","Study2","F","Study Phase",70,"Recall1",5023
 "55b9a9b0fdf99b6906d2aba4","summer","cold",4,"JOL","chill","Study2","F","Study Phase",40,"Recall1",9882
 "5d59b01348766d0016949e6a","cold","cold",4,"JOL","chill","Study2","F","Study Phase",90,"Recall1",3765
 "5fc2a0d812bc59000b746ee5","out","cold",4,"JOL","chill","Study2","F","Study Phase",55,"Recall1",3328
@@ -1437,6 +1583,7 @@
 "628e5f283594e1a48a04886f","winter","cold",4,"JOL","chill","Study2","F","Study Phase",90,"Recall1",7281
 "63474e67a5fd298c6103c409","wind","cold",4,"JOL","chill","Study2","F","Study Phase",76,"Recall1",3092
 "63d884e0a12d7da5e48ba81e","cold","cold",4,"JOL","chill","Study2","F","Study Phase",100,"Recall1",5101
+"559ffa9bfdf99b0ad674856a","hammer","hammer",4,"JOL","chisel","Study2","F","Study Phase",20,"Recall1",2698
 "55b9a9b0fdf99b6906d2aba4","hammer","hammer",4,"JOL","chisel","Study2","F","Study Phase",30,"Recall1",4060
 "5d59b01348766d0016949e6a","hammer","hammer",4,"JOL","chisel","Study2","F","Study Phase",70,"Recall1",2251
 "5fc2a0d812bc59000b746ee5","hammer","hammer",4,"JOL","chisel","Study2","F","Study Phase",6,"Recall1",4032
@@ -1445,6 +1592,7 @@
 "628e5f283594e1a48a04886f","hammer","hammer",4,"JOL","chisel","Study2","F","Study Phase",55,"Recall1",3377
 "63474e67a5fd298c6103c409","hammer","hammer",4,"JOL","chisel","Study2","F","Study Phase",68,"Recall1",5574
 "63d884e0a12d7da5e48ba81e","muscle","hammer",4,"JOL","chisel","Study2","F","Study Phase",80,"Recall1",11299
+"559ffa9bfdf99b0ad674856a","cut","cut",4,"JOL","chop","Study2","F","Study Phase",60,"Recall1",1948
 "55b9a9b0fdf99b6906d2aba4","cut","cut",4,"JOL","chop","Study2","F","Study Phase",30,"Recall1",5894
 "5d59b01348766d0016949e6a","pork","cut",4,"JOL","chop","Study2","F","Study Phase",40,"Recall1",2414
 "5fc2a0d812bc59000b746ee5","chisel","cut",4,"JOL","chop","Study2","F","Study Phase",6,"Recall1",4801
@@ -1453,6 +1601,7 @@
 "628e5f283594e1a48a04886f","cut","cut",4,"JOL","chop","Study2","F","Study Phase",80,"Recall1",8256
 "63474e67a5fd298c6103c409","cut","cut",4,"JOL","chop","Study2","F","Study Phase",97,"Recall1",1975
 "63d884e0a12d7da5e48ba81e","cut","cut",4,"JOL","chop","Study2","F","Study Phase",100,"Recall1",3797
+"559ffa9bfdf99b0ad674856a","","business",4,"JOL","death","Study2","U","Study Phase",5,"Recall1",1205
 "55b9a9b0fdf99b6906d2aba4","","business",4,"JOL","death","Study2","U","Study Phase",10,"Recall1",5977
 "5d59b01348766d0016949e6a","business","business",4,"JOL","death","Study2","U","Study Phase",50,"Recall1",2237
 "5fc2a0d812bc59000b746ee5","nigh","business",4,"JOL","death","Study2","U","Study Phase",3,"Recall1",4553
@@ -1461,6 +1610,7 @@
 "628e5f283594e1a48a04886f","business","business",4,"JOL","death","Study2","U","Study Phase",7,"Recall1",3411
 "63474e67a5fd298c6103c409","stop","business",4,"JOL","death","Study2","U","Study Phase",48,"Recall1",9472
 "63d884e0a12d7da5e48ba81e","","business",4,"JOL","death","Study2","U","Study Phase",10,"Recall1",3167
+"559ffa9bfdf99b0ad674856a","","sack",4,"JOL","dietary","Study2","U","Study Phase",0,"Recall1",1025
 "55b9a9b0fdf99b6906d2aba4","","sack",4,"JOL","dietary","Study2","U","Study Phase",15,"Recall1",10603
 "5d59b01348766d0016949e6a","fat","sack",4,"JOL","dietary","Study2","U","Study Phase",20,"Recall1",5454
 "5fc2a0d812bc59000b746ee5","supplement","sack",4,"JOL","dietary","Study2","U","Study Phase",2,"Recall1",7861
@@ -1469,6 +1619,7 @@
 "628e5f283594e1a48a04886f","apple","sack",4,"JOL","dietary","Study2","U","Study Phase",20,"Recall1",9953
 "63474e67a5fd298c6103c409","drink","sack",4,"JOL","dietary","Study2","U","Study Phase",60,"Recall1",6764
 "63d884e0a12d7da5e48ba81e","","sack",4,"JOL","dietary","Study2","U","Study Phase",0,"Recall1",5331
+"559ffa9bfdf99b0ad674856a","paper","paper",4,"JOL","document","Study2","F","Study Phase",50,"Recall1",2432
 "55b9a9b0fdf99b6906d2aba4","paper","paper",4,"JOL","document","Study2","F","Study Phase",40,"Recall1",2965
 "5d59b01348766d0016949e6a","paper","paper",4,"JOL","document","Study2","F","Study Phase",50,"Recall1",1803
 "5fc2a0d812bc59000b746ee5","incident","paper",4,"JOL","document","Study2","F","Study Phase",28,"Recall1",6437
@@ -1477,6 +1628,7 @@
 "628e5f283594e1a48a04886f","paper","paper",4,"JOL","document","Study2","F","Study Phase",75,"Recall1",8778
 "63474e67a5fd298c6103c409","paper","paper",4,"JOL","document","Study2","F","Study Phase",80,"Recall1",3974
 "63d884e0a12d7da5e48ba81e","paper","paper",4,"JOL","document","Study2","F","Study Phase",100,"Recall1",4423
+"559ffa9bfdf99b0ad674856a","","smell",4,"JOL","eyes","Study2","M","Study Phase",10,"Recall1",4316
 "55b9a9b0fdf99b6906d2aba4","","smell",4,"JOL","eyes","Study2","M","Study Phase",10,"Recall1",10016
 "5d59b01348766d0016949e6a","smell","smell",4,"JOL","eyes","Study2","M","Study Phase",35,"Recall1",9150
 "5fc2a0d812bc59000b746ee5","feather","smell",4,"JOL","eyes","Study2","M","Study Phase",15,"Recall1",5153
@@ -1485,6 +1637,7 @@
 "628e5f283594e1a48a04886f","smell","smell",4,"JOL","eyes","Study2","M","Study Phase",25,"Recall1",2960
 "63474e67a5fd298c6103c409","water","smell",4,"JOL","eyes","Study2","M","Study Phase",46,"Recall1",3410
 "63d884e0a12d7da5e48ba81e","smell","smell",4,"JOL","eyes","Study2","M","Study Phase",10,"Recall1",5275
+"559ffa9bfdf99b0ad674856a","fight","fight",4,"JOL","feud","Study2","F","Study Phase",60,"Recall1",2251
 "55b9a9b0fdf99b6906d2aba4","fight","fight",4,"JOL","feud","Study2","F","Study Phase",40,"Recall1",4211
 "5d59b01348766d0016949e6a","fight","fight",4,"JOL","feud","Study2","F","Study Phase",100,"Recall1",2032
 "5fc2a0d812bc59000b746ee5","fight","fight",4,"JOL","feud","Study2","F","Study Phase",23,"Recall1",5466
@@ -1493,6 +1646,7 @@
 "628e5f283594e1a48a04886f","fight","fight",4,"JOL","feud","Study2","F","Study Phase",90,"Recall1",2108
 "63474e67a5fd298c6103c409","fight","fight",4,"JOL","feud","Study2","F","Study Phase",84,"Recall1",2851
 "63d884e0a12d7da5e48ba81e","fight","fight",4,"JOL","feud","Study2","F","Study Phase",60,"Recall1",4456
+"559ffa9bfdf99b0ad674856a","thigh","thigh",4,"JOL","grill","Study2","M","Study Phase",40,"Recall1",2192
 "55b9a9b0fdf99b6906d2aba4","","thigh",4,"JOL","grill","Study2","M","Study Phase",10,"Recall1",4348
 "5d59b01348766d0016949e6a","stove","thigh",4,"JOL","grill","Study2","M","Study Phase",30,"Recall1",3084
 "5fc2a0d812bc59000b746ee5","name","thigh",4,"JOL","grill","Study2","M","Study Phase",9,"Recall1",9386
@@ -1501,6 +1655,7 @@
 "628e5f283594e1a48a04886f","flame","thigh",4,"JOL","grill","Study2","M","Study Phase",15,"Recall1",5654
 "63474e67a5fd298c6103c409","cook","thigh",4,"JOL","grill","Study2","M","Study Phase",49,"Recall1",10417
 "63d884e0a12d7da5e48ba81e","hard","thigh",4,"JOL","grill","Study2","M","Study Phase",10,"Recall1",6990
+"559ffa9bfdf99b0ad674856a","car","car",4,"JOL","happy","Study2","U","Study Phase",0,"Recall1",1621
 "55b9a9b0fdf99b6906d2aba4","","car",4,"JOL","happy","Study2","U","Study Phase",10,"Recall1",5688
 "5d59b01348766d0016949e6a","delight","car",4,"JOL","happy","Study2","U","Study Phase",20,"Recall1",3824
 "5fc2a0d812bc59000b746ee5","sweater","car",4,"JOL","happy","Study2","U","Study Phase",19,"Recall1",2895
@@ -1509,6 +1664,7 @@
 "628e5f283594e1a48a04886f","vehicle","car",4,"JOL","happy","Study2","U","Study Phase",20,"Recall1",2897
 "63474e67a5fd298c6103c409","feather","car",4,"JOL","happy","Study2","U","Study Phase",70,"Recall1",17127
 "63d884e0a12d7da5e48ba81e","","car",4,"JOL","happy","Study2","U","Study Phase",10,"Recall1",8946
+"559ffa9bfdf99b0ad674856a","feather","feather",4,"JOL","heavy","Study2","M","Study Phase",10,"Recall1",2271
 "55b9a9b0fdf99b6906d2aba4","","feather",4,"JOL","heavy","Study2","M","Study Phase",15,"Recall1",7260
 "5d59b01348766d0016949e6a","strong","feather",4,"JOL","heavy","Study2","M","Study Phase",50,"Recall1",3341
 "5fc2a0d812bc59000b746ee5","lift","feather",4,"JOL","heavy","Study2","M","Study Phase",23,"Recall1",3371
@@ -1517,6 +1673,7 @@
 "628e5f283594e1a48a04886f","","feather",4,"JOL","heavy","Study2","M","Study Phase",30,"Recall1",6931
 "63474e67a5fd298c6103c409","leg","feather",4,"JOL","heavy","Study2","M","Study Phase",39,"Recall1",8456
 "63d884e0a12d7da5e48ba81e","","feather",4,"JOL","heavy","Study2","M","Study Phase",0,"Recall1",1532
+"559ffa9bfdf99b0ad674856a","cow","cow",4,"JOL","herd","Study2","F","Study Phase",30,"Recall1",2020
 "55b9a9b0fdf99b6906d2aba4","cow","cow",4,"JOL","herd","Study2","F","Study Phase",25,"Recall1",4320
 "5d59b01348766d0016949e6a","cow","cow",4,"JOL","herd","Study2","F","Study Phase",90,"Recall1",2681
 "5fc2a0d812bc59000b746ee5","cow","cow",4,"JOL","herd","Study2","F","Study Phase",60,"Recall1",4929
@@ -1525,6 +1682,7 @@
 "628e5f283594e1a48a04886f","cow","cow",4,"JOL","herd","Study2","F","Study Phase",88,"Recall1",4818
 "63474e67a5fd298c6103c409","cows","cow",4,"JOL","herd","Study2","F","Study Phase",99,"Recall1",2890
 "63d884e0a12d7da5e48ba81e","cows","cow",4,"JOL","herd","Study2","F","Study Phase",80,"Recall1",4727
+"559ffa9bfdf99b0ad674856a","sting","sting",4,"JOL","hornet","Study2","F","Study Phase",60,"Recall1",1696
 "55b9a9b0fdf99b6906d2aba4","sting","sting",4,"JOL","hornet","Study2","F","Study Phase",30,"Recall1",3498
 "5d59b01348766d0016949e6a","sting","sting",4,"JOL","hornet","Study2","F","Study Phase",90,"Recall1",1525
 "5fc2a0d812bc59000b746ee5","sting","sting",4,"JOL","hornet","Study2","F","Study Phase",14,"Recall1",4852
@@ -1533,6 +1691,7 @@
 "628e5f283594e1a48a04886f","sting","sting",4,"JOL","hornet","Study2","F","Study Phase",89,"Recall1",3328
 "63474e67a5fd298c6103c409","wasp","sting",4,"JOL","hornet","Study2","F","Study Phase",73,"Recall1",6670
 "63d884e0a12d7da5e48ba81e","sting","sting",4,"JOL","hornet","Study2","F","Study Phase",100,"Recall1",3718
+"559ffa9bfdf99b0ad674856a","smell","smell",4,"JOL","incense","Study2","F","Study Phase",30,"Recall1",1700
 "55b9a9b0fdf99b6906d2aba4","smell","smell",4,"JOL","incense","Study2","F","Study Phase",40,"Recall1",5556
 "5d59b01348766d0016949e6a","smell","smell",4,"JOL","incense","Study2","F","Study Phase",90,"Recall1",1848
 "5fc2a0d812bc59000b746ee5","smell","smell",4,"JOL","incense","Study2","F","Study Phase",55,"Recall1",4362
@@ -1541,6 +1700,7 @@
 "628e5f283594e1a48a04886f","smell","smell",4,"JOL","incense","Study2","F","Study Phase",75,"Recall1",2123
 "63474e67a5fd298c6103c409","smell","smell",4,"JOL","incense","Study2","F","Study Phase",78,"Recall1",3241
 "63d884e0a12d7da5e48ba81e","smell","smell",4,"JOL","incense","Study2","F","Study Phase",100,"Recall1",6249
+"559ffa9bfdf99b0ad674856a","","vase",4,"JOL","king","Study2","U","Study Phase",0,"Recall1",2762
 "55b9a9b0fdf99b6906d2aba4","","vase",4,"JOL","king","Study2","U","Study Phase",10,"Recall1",5726
 "5d59b01348766d0016949e6a","rule","vase",4,"JOL","king","Study2","U","Study Phase",15,"Recall1",10402
 "5fc2a0d812bc59000b746ee5","queen","vase",4,"JOL","king","Study2","U","Study Phase",NA,"Recall1",4214
@@ -1549,6 +1709,7 @@
 "628e5f283594e1a48a04886f","vase","vase",4,"JOL","king","Study2","U","Study Phase",12,"Recall1",2441
 "63474e67a5fd298c6103c409","queen","vase",4,"JOL","king","Study2","U","Study Phase",50,"Recall1",4634
 "63d884e0a12d7da5e48ba81e","","vase",4,"JOL","king","Study2","U","Study Phase",0,"Recall1",1114
+"559ffa9bfdf99b0ad674856a","baseball","baseball",4,"JOL","league","Study2","F","Study Phase",60,"Recall1",3035
 "55b9a9b0fdf99b6906d2aba4","baseball","baseball",4,"JOL","league","Study2","F","Study Phase",40,"Recall1",9659
 "5d59b01348766d0016949e6a","baseball","baseball",4,"JOL","league","Study2","F","Study Phase",80,"Recall1",3571
 "5fc2a0d812bc59000b746ee5","justice","baseball",4,"JOL","league","Study2","F","Study Phase",46,"Recall1",6438
@@ -1557,6 +1718,7 @@
 "628e5f283594e1a48a04886f","baseball","baseball",4,"JOL","league","Study2","F","Study Phase",87,"Recall1",5192
 "63474e67a5fd298c6103c409","leg","baseball",4,"JOL","league","Study2","F","Study Phase",63,"Recall1",12760
 "63d884e0a12d7da5e48ba81e","baseball","baseball",4,"JOL","league","Study2","F","Study Phase",100,"Recall1",9109
+"559ffa9bfdf99b0ad674856a","","toil",4,"JOL","lease","Study2","U","Study Phase",0,"Recall1",1198
 "55b9a9b0fdf99b6906d2aba4","","toil",4,"JOL","lease","Study2","U","Study Phase",10,"Recall1",7478
 "5d59b01348766d0016949e6a","own","toil",4,"JOL","lease","Study2","U","Study Phase",15,"Recall1",9294
 "5fc2a0d812bc59000b746ee5","valve","toil",4,"JOL","lease","Study2","U","Study Phase",3,"Recall1",4152
@@ -1565,6 +1727,7 @@
 "628e5f283594e1a48a04886f","","toil",4,"JOL","lease","Study2","U","Study Phase",10,"Recall1",7704
 "63474e67a5fd298c6103c409","loan","toil",4,"JOL","lease","Study2","U","Study Phase",54,"Recall1",2473
 "63d884e0a12d7da5e48ba81e","","toil",4,"JOL","lease","Study2","U","Study Phase",0,"Recall1",2387
+"559ffa9bfdf99b0ad674856a","children","children",4,"JOL","mirror","Study2","U","Study Phase",20,"Recall1",2320
 "55b9a9b0fdf99b6906d2aba4","child","children",4,"JOL","mirror","Study2","U","Study Phase",15,"Recall1",11638
 "5d59b01348766d0016949e6a","person","children",4,"JOL","mirror","Study2","U","Study Phase",10,"Recall1",3129
 "5fc2a0d812bc59000b746ee5","black","children",4,"JOL","mirror","Study2","U","Study Phase",3,"Recall1",2446
@@ -1573,6 +1736,7 @@
 "628e5f283594e1a48a04886f","children","children",4,"JOL","mirror","Study2","U","Study Phase",32,"Recall1",3930
 "63474e67a5fd298c6103c409","stare","children",4,"JOL","mirror","Study2","U","Study Phase",43,"Recall1",21517
 "63d884e0a12d7da5e48ba81e","children","children",4,"JOL","mirror","Study2","U","Study Phase",0,"Recall1",4565
+"559ffa9bfdf99b0ad674856a","lawyer","lawyer",4,"JOL","nurse","Study2","M","Study Phase",10,"Recall1",1891
 "55b9a9b0fdf99b6906d2aba4","lawyer","lawyer",4,"JOL","nurse","Study2","M","Study Phase",20,"Recall1",3646
 "5d59b01348766d0016949e6a","lawyer","lawyer",4,"JOL","nurse","Study2","M","Study Phase",60,"Recall1",3132
 "5fc2a0d812bc59000b746ee5","actor","lawyer",4,"JOL","nurse","Study2","M","Study Phase",7,"Recall1",7162
@@ -1581,6 +1745,7 @@
 "628e5f283594e1a48a04886f","lawyer","lawyer",4,"JOL","nurse","Study2","M","Study Phase",25,"Recall1",2432
 "63474e67a5fd298c6103c409","doctor","lawyer",4,"JOL","nurse","Study2","M","Study Phase",67,"Recall1",3755
 "63d884e0a12d7da5e48ba81e","","lawyer",4,"JOL","nurse","Study2","M","Study Phase",50,"Recall1",1458
+"559ffa9bfdf99b0ad674856a","","basket",4,"JOL","oven","Study2","M","Study Phase",0,"Recall1",966
 "55b9a9b0fdf99b6906d2aba4","","basket",4,"JOL","oven","Study2","M","Study Phase",10,"Recall1",7279
 "5d59b01348766d0016949e6a","stove","basket",4,"JOL","oven","Study2","M","Study Phase",50,"Recall1",3668
 "5fc2a0d812bc59000b746ee5","suicide","basket",4,"JOL","oven","Study2","M","Study Phase",20,"Recall1",4720
@@ -1589,6 +1754,7 @@
 "628e5f283594e1a48a04886f","basket","basket",4,"JOL","oven","Study2","M","Study Phase",17,"Recall1",5750
 "63474e67a5fd298c6103c409","warm","basket",4,"JOL","oven","Study2","M","Study Phase",54,"Recall1",4532
 "63d884e0a12d7da5e48ba81e","basket","basket",4,"JOL","oven","Study2","M","Study Phase",30,"Recall1",4968
+"559ffa9bfdf99b0ad674856a","collar","collar",4,"JOL","pants","Study2","M","Study Phase",10,"Recall1",2736
 "55b9a9b0fdf99b6906d2aba4","cuffs","collar",4,"JOL","pants","Study2","M","Study Phase",20,"Recall1",13035
 "5d59b01348766d0016949e6a","collar","collar",4,"JOL","pants","Study2","M","Study Phase",25,"Recall1",4490
 "5fc2a0d812bc59000b746ee5","shirt","collar",4,"JOL","pants","Study2","M","Study Phase",13,"Recall1",7229
@@ -1597,6 +1763,7 @@
 "628e5f283594e1a48a04886f","collar","collar",4,"JOL","pants","Study2","M","Study Phase",19,"Recall1",3728
 "63474e67a5fd298c6103c409","wear","collar",4,"JOL","pants","Study2","M","Study Phase",79,"Recall1",3329
 "63d884e0a12d7da5e48ba81e","","collar",4,"JOL","pants","Study2","M","Study Phase",80,"Recall1",1783
+"559ffa9bfdf99b0ad674856a","","clutter",4,"JOL","push","Study2","U","Study Phase",10,"Recall1",1327
 "55b9a9b0fdf99b6906d2aba4","","clutter",4,"JOL","push","Study2","U","Study Phase",10,"Recall1",8076
 "5d59b01348766d0016949e6a","power","clutter",4,"JOL","push","Study2","U","Study Phase",10,"Recall1",4607
 "5fc2a0d812bc59000b746ee5","cart","clutter",4,"JOL","push","Study2","U","Study Phase",14,"Recall1",5751
@@ -1605,6 +1772,7 @@
 "628e5f283594e1a48a04886f","junk","clutter",4,"JOL","push","Study2","U","Study Phase",23,"Recall1",2284
 "63474e67a5fd298c6103c409","leg","clutter",4,"JOL","push","Study2","U","Study Phase",40,"Recall1",21542
 "63d884e0a12d7da5e48ba81e","clutter","clutter",4,"JOL","push","Study2","U","Study Phase",0,"Recall1",7275
+"559ffa9bfdf99b0ad674856a","seed","seed",4,"JOL","rake","Study2","M","Study Phase",30,"Recall1",1815
 "55b9a9b0fdf99b6906d2aba4","seed","seed",4,"JOL","rake","Study2","M","Study Phase",10,"Recall1",3554
 "5d59b01348766d0016949e6a","seed","seed",4,"JOL","rake","Study2","M","Study Phase",50,"Recall1",4716
 "5fc2a0d812bc59000b746ee5","push","seed",4,"JOL","rake","Study2","M","Study Phase",22,"Recall1",4934
@@ -1613,6 +1781,7 @@
 "628e5f283594e1a48a04886f","seed","seed",4,"JOL","rake","Study2","M","Study Phase",16,"Recall1",15571
 "63474e67a5fd298c6103c409","tool","seed",4,"JOL","rake","Study2","M","Study Phase",54,"Recall1",3826
 "63d884e0a12d7da5e48ba81e","seed","seed",4,"JOL","rake","Study2","M","Study Phase",20,"Recall1",4098
+"559ffa9bfdf99b0ad674856a","","muscle",4,"JOL","razor","Study2","M","Study Phase",0,"Recall1",1484
 "55b9a9b0fdf99b6906d2aba4","","muscle",4,"JOL","razor","Study2","M","Study Phase",10,"Recall1",6270
 "5d59b01348766d0016949e6a","paper","muscle",4,"JOL","razor","Study2","M","Study Phase",50,"Recall1",5255
 "5fc2a0d812bc59000b746ee5","oyster","muscle",4,"JOL","razor","Study2","M","Study Phase",20,"Recall1",5611
@@ -1621,6 +1790,7 @@
 "628e5f283594e1a48a04886f","strength","muscle",4,"JOL","razor","Study2","M","Study Phase",18,"Recall1",6551
 "63474e67a5fd298c6103c409","sharp","muscle",4,"JOL","razor","Study2","M","Study Phase",42,"Recall1",6410
 "63d884e0a12d7da5e48ba81e","muscle","muscle",4,"JOL","razor","Study2","M","Study Phase",10,"Recall1",6819
+"559ffa9bfdf99b0ad674856a","island","island",4,"JOL","reality","Study2","M","Study Phase",10,"Recall1",1954
 "55b9a9b0fdf99b6906d2aba4","island","island",4,"JOL","reality","Study2","M","Study Phase",10,"Recall1",6569
 "5d59b01348766d0016949e6a","series","island",4,"JOL","reality","Study2","M","Study Phase",20,"Recall1",2825
 "5fc2a0d812bc59000b746ee5","island","island",4,"JOL","reality","Study2","M","Study Phase",1,"Recall1",6410
@@ -1629,6 +1799,7 @@
 "628e5f283594e1a48a04886f","island","island",4,"JOL","reality","Study2","M","Study Phase",75,"Recall1",2615
 "63474e67a5fd298c6103c409","alive","island",4,"JOL","reality","Study2","M","Study Phase",73,"Recall1",4990
 "63d884e0a12d7da5e48ba81e","island","island",4,"JOL","reality","Study2","M","Study Phase",60,"Recall1",5258
+"559ffa9bfdf99b0ad674856a","","stop",4,"JOL","school","Study2","M","Study Phase",50,"Recall1",2261
 "55b9a9b0fdf99b6906d2aba4","","stop",4,"JOL","school","Study2","M","Study Phase",30,"Recall1",5935
 "5d59b01348766d0016949e6a","stop","stop",4,"JOL","school","Study2","M","Study Phase",40,"Recall1",2184
 "5fc2a0d812bc59000b746ee5","stop","stop",4,"JOL","school","Study2","M","Study Phase",20,"Recall1",2669
@@ -1637,6 +1808,7 @@
 "628e5f283594e1a48a04886f","stop","stop",4,"JOL","school","Study2","M","Study Phase",50,"Recall1",4374
 "63474e67a5fd298c6103c409","stop","stop",4,"JOL","school","Study2","M","Study Phase",35,"Recall1",3309
 "63d884e0a12d7da5e48ba81e","stop","stop",4,"JOL","school","Study2","M","Study Phase",70,"Recall1",5525
+"559ffa9bfdf99b0ad674856a","","hide",4,"JOL","sick","Study2","U","Study Phase",0,"Recall1",1813
 "55b9a9b0fdf99b6906d2aba4","child","hide",4,"JOL","sick","Study2","U","Study Phase",10,"Recall1",9213
 "5d59b01348766d0016949e6a","heal","hide",4,"JOL","sick","Study2","U","Study Phase",15,"Recall1",3454
 "5fc2a0d812bc59000b746ee5","fever","hide",4,"JOL","sick","Study2","U","Study Phase",12,"Recall1",2887
@@ -1645,6 +1817,7 @@
 "628e5f283594e1a48a04886f","hide","hide",4,"JOL","sick","Study2","U","Study Phase",60,"Recall1",2459
 "63474e67a5fd298c6103c409","death","hide",4,"JOL","sick","Study2","U","Study Phase",55,"Recall1",31876
 "63d884e0a12d7da5e48ba81e","","hide",4,"JOL","sick","Study2","U","Study Phase",0,"Recall1",4417
+"559ffa9bfdf99b0ad674856a","","drink",4,"JOL","soap","Study2","M","Study Phase",5,"Recall1",1221
 "55b9a9b0fdf99b6906d2aba4","drink","drink",4,"JOL","soap","Study2","M","Study Phase",10,"Recall1",6775
 "5d59b01348766d0016949e6a","water","drink",4,"JOL","soap","Study2","M","Study Phase",10,"Recall1",5067
 "5fc2a0d812bc59000b746ee5","arm","drink",4,"JOL","soap","Study2","M","Study Phase",7,"Recall1",5779
@@ -1653,6 +1826,7 @@
 "628e5f283594e1a48a04886f","drink","drink",4,"JOL","soap","Study2","M","Study Phase",5,"Recall1",3266
 "63474e67a5fd298c6103c409","clean","drink",4,"JOL","soap","Study2","M","Study Phase",48,"Recall1",23483
 "63d884e0a12d7da5e48ba81e","drink","drink",4,"JOL","soap","Study2","M","Study Phase",0,"Recall1",6097
+"559ffa9bfdf99b0ad674856a","","accident",4,"JOL","strong","Study2","U","Study Phase",20,"Recall1",4068
 "55b9a9b0fdf99b6906d2aba4","","accident",4,"JOL","strong","Study2","U","Study Phase",10,"Recall1",9528
 "5d59b01348766d0016949e6a","heavy","accident",4,"JOL","strong","Study2","U","Study Phase",15,"Recall1",2863
 "5fc2a0d812bc59000b746ee5","arm","accident",4,"JOL","strong","Study2","U","Study Phase",5,"Recall1",4011
@@ -1661,6 +1835,7 @@
 "628e5f283594e1a48a04886f","accident","accident",4,"JOL","strong","Study2","U","Study Phase",15,"Recall1",6701
 "63474e67a5fd298c6103c409","business","accident",4,"JOL","strong","Study2","U","Study Phase",81,"Recall1",47653
 "63d884e0a12d7da5e48ba81e","","accident",4,"JOL","strong","Study2","U","Study Phase",0,"Recall1",1581
+"559ffa9bfdf99b0ad674856a","","riddle",4,"JOL","sugar","Study2","U","Study Phase",0,"Recall1",3649
 "55b9a9b0fdf99b6906d2aba4","","riddle",4,"JOL","sugar","Study2","U","Study Phase",10,"Recall1",7344
 "5d59b01348766d0016949e6a","cube","riddle",4,"JOL","sugar","Study2","U","Study Phase",15,"Recall1",3382
 "5fc2a0d812bc59000b746ee5","plum","riddle",4,"JOL","sugar","Study2","U","Study Phase",3,"Recall1",3072
@@ -1669,6 +1844,7 @@
 "628e5f283594e1a48a04886f","","riddle",4,"JOL","sugar","Study2","U","Study Phase",5,"Recall1",5243
 "63474e67a5fd298c6103c409","water","riddle",4,"JOL","sugar","Study2","U","Study Phase",91,"Recall1",22319
 "63d884e0a12d7da5e48ba81e","","riddle",4,"JOL","sugar","Study2","U","Study Phase",0,"Recall1",6029
+"559ffa9bfdf99b0ad674856a","","snow",4,"JOL","summer","Study2","M","Study Phase",50,"Recall1",2686
 "55b9a9b0fdf99b6906d2aba4","cold","snow",4,"JOL","summer","Study2","M","Study Phase",15,"Recall1",10702
 "5d59b01348766d0016949e6a","snow","snow",4,"JOL","summer","Study2","M","Study Phase",50,"Recall1",4973
 "5fc2a0d812bc59000b746ee5","fall","snow",4,"JOL","summer","Study2","M","Study Phase",NA,"Recall1",8724
@@ -1677,6 +1853,7 @@
 "628e5f283594e1a48a04886f","snow","snow",4,"JOL","summer","Study2","M","Study Phase",14,"Recall1",2200
 "63474e67a5fd298c6103c409","snow","snow",4,"JOL","summer","Study2","M","Study Phase",65,"Recall1",7122
 "63d884e0a12d7da5e48ba81e","winter","snow",4,"JOL","summer","Study2","M","Study Phase",50,"Recall1",7206
+"559ffa9bfdf99b0ad674856a","cave","cave",4,"JOL","trap","Study2","M","Study Phase",30,"Recall1",2033
 "55b9a9b0fdf99b6906d2aba4","","cave",4,"JOL","trap","Study2","M","Study Phase",10,"Recall1",5319
 "5d59b01348766d0016949e6a","net","cave",4,"JOL","trap","Study2","M","Study Phase",40,"Recall1",7016
 "5fc2a0d812bc59000b746ee5","sand","cave",4,"JOL","trap","Study2","M","Study Phase",7,"Recall1",5982
@@ -1685,6 +1862,7 @@
 "628e5f283594e1a48a04886f","","cave",4,"JOL","trap","Study2","M","Study Phase",50,"Recall1",5433
 "63474e67a5fd298c6103c409","scare","cave",4,"JOL","trap","Study2","M","Study Phase",66,"Recall1",4097
 "63d884e0a12d7da5e48ba81e","","cave",4,"JOL","trap","Study2","M","Study Phase",70,"Recall1",4384
+"559ffa9bfdf99b0ad674856a","peak","peak",4,"JOL","valley","Study2","M","Study Phase",50,"Recall1",2091
 "55b9a9b0fdf99b6906d2aba4","peak","peak",4,"JOL","valley","Study2","M","Study Phase",30,"Recall1",6029
 "5d59b01348766d0016949e6a","peak","peak",4,"JOL","valley","Study2","M","Study Phase",80,"Recall1",1661
 "5fc2a0d812bc59000b746ee5","nip","peak",4,"JOL","valley","Study2","M","Study Phase",NA,"Recall1",2966
@@ -1693,6 +1871,7 @@
 "628e5f283594e1a48a04886f","peak","peak",4,"JOL","valley","Study2","M","Study Phase",75,"Recall1",1723
 "63474e67a5fd298c6103c409","stop","peak",4,"JOL","valley","Study2","M","Study Phase",87,"Recall1",21101
 "63d884e0a12d7da5e48ba81e","peak","peak",4,"JOL","valley","Study2","M","Study Phase",60,"Recall1",9824
+"559ffa9bfdf99b0ad674856a","bug","bug",4,"JOL","wasp","Study2","F","Study Phase",10,"Recall1",5302
 "55b9a9b0fdf99b6906d2aba4","bug","bug",4,"JOL","wasp","Study2","F","Study Phase",15,"Recall1",6290
 "5d59b01348766d0016949e6a","insect","bug",4,"JOL","wasp","Study2","F","Study Phase",85,"Recall1",5356
 "5fc2a0d812bc59000b746ee5","sting","bug",4,"JOL","wasp","Study2","F","Study Phase",7,"Recall1",2674
@@ -1701,6 +1880,7 @@
 "628e5f283594e1a48a04886f","insect","bug",4,"JOL","wasp","Study2","F","Study Phase",80,"Recall1",5861
 "63474e67a5fd298c6103c409","bug","bug",4,"JOL","wasp","Study2","F","Study Phase",86,"Recall1",5960
 "63d884e0a12d7da5e48ba81e","bug","bug",4,"JOL","wasp","Study2","F","Study Phase",100,"Recall1",7507
+"559ffa9bfdf99b0ad674856a","knob","knob",4,"JOL","window","Study2","M","Study Phase",10,"Recall1",3140
 "55b9a9b0fdf99b6906d2aba4","","knob",4,"JOL","window","Study2","M","Study Phase",10,"Recall1",9353
 "5d59b01348766d0016949e6a","knob","knob",4,"JOL","window","Study2","M","Study Phase",50,"Recall1",3113
 "5fc2a0d812bc59000b746ee5","smell","knob",4,"JOL","window","Study2","M","Study Phase",22,"Recall1",4090

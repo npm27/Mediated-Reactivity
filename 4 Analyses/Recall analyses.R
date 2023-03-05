@@ -7,10 +7,6 @@ library(reshape)
 library(ez)
 library(psychReport)
 
-##get ns
-length(unique(JOL$id)) #32
-length(unique(Read$id)) #32
-
 #turn off scientific notation
 options(scipen = 999)
 
@@ -34,9 +30,19 @@ tapply(combined$score, list(combined$encoding, combined$direction), mean, na.omi
 ##Check for outliers and weirdness here
 summary(combined)
 
-##remove outliers
+JOL3 = subset(combined,
+              combined$encoding == "JOL")
+
+Read3 = subset(combined,
+               combined$encoding == "Read")
+
+JOL.wide = cast(JOL3, id ~ direction, mean)
+Read.wide = cast(Read3, id ~ direction, mean)
+
 combined = subset(combined,
-                  combined$id != "10068469SJ" & combined$id != "62f17b6b63bd9e6627a19956" & combined$id != "5a8b1ee2000dab00018cc7cd")
+                  combined$id != "W10057641NS" & combined$id != "10068469SJ" & combined$id != "W_10132867_LAA" &
+                  combined$id != "62f17b6b63bd9e6627a19956" & combined$id != "5a8b1ee2000dab00018cc7cd" &
+                  combined$id != "62d43cee3d60ac98c1dcacc8" & combined$id != "63474e67a5fd298c6103c409")
 
 ####ANOVA####
 model1 = ezANOVA(combined,
@@ -52,7 +58,9 @@ model1 #basically everything is sig!
 ####Post-hocs####
 tapply(combined$score, combined$encoding, mean) #main effect of encoding
 tapply(combined$score, combined$direction, mean) #main effect of direction
+
 tapply(combined$score, list(combined$encoding, combined$direction), mean) #interaction
+(tapply(combined$score, list(combined$encoding, combined$direction), sd) / sqrt(length(unique(combined$id)))) * 1.96
 
 ###break down direction main effect
 combined.direction = cast(combined, id ~ direction, mean)
@@ -98,7 +106,7 @@ temp$statistic #sig!
 temp = t.test(jol.ph$M, read.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #non-sig! (most likely a power thing...) #.15
+temp$statistic #Marginal (most likely a power thing...) #.09
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #unrelated
@@ -112,5 +120,23 @@ temp$statistic #Non-Sig
 
 ##get ns after cleaning
 ##get ns
-length(unique(JOL$id)) #32
-length(unique(Read$id)) #32
+nrow(jol.ph) #37
+nrow(read.ph) #41
+
+##How many from each platform?
+jol4 = subset(jol3,
+              jol3$Platform == "Prolific")
+length(unique(jol4$id)) #19
+
+jol4 = subset(jol3,
+              jol3$Platform == "USM")
+length(unique(jol4$id)) #18
+
+read4 = subset(read3,
+              read3$Platform == "Prolific")
+length(unique(read4$id)) #20
+
+read4 = subset(read3,
+              read3$Platform == "USM")
+length(unique(read4$id)) #21
+
