@@ -1,5 +1,6 @@
 id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stimuli.Cue,Stimuli.Shuffle,Stimuli.Stimuli.Notes,Procedure.Shuffle,Procedure.Shuffle.1,Response.RT,Platform
 55b2d3f2fdf99b525bc839aa,love,love,1,1,1,Read,affection,Study1,F,Study Phase,Recall1,1537,Prolific
+56fc8248b5648e000fac9980,hug,love,0,0,1,Read,affection,Study1,F,Study Phase,Recall1,4043,Prolific
 5a8b1ee2000dab00018cc7cd,love,love,1,1,1,Read,affection,Study1,F,Study Phase,Recall1,4328,Prolific
 5d4225e01985380018375d83,kiss,love,0,0,1,Read,affection,Study1,F,Study Phase,Recall1,1619,Prolific
 5f79bca83a2eb65c0983816d,love ,love,0.8,1,1,Read,affection,Study1,F,Study Phase,Recall1,5192,Prolific
@@ -11,6 +12,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,love,0,0,1,Read,affection,Study1,F,Study Phase,Recall1,834,Prolific
 63d7d95057d77b4c34b3afe8,love,love,1,1,1,Read,affection,Study1,F,Study Phase,Recall1,2958,Prolific
 55b2d3f2fdf99b525bc839aa,bounce,bounce,1,1,1,Read,bat,Study1,M,Study Phase,Recall1,11665,Prolific
+56fc8248b5648e000fac9980,ball,bounce,0.166666667,0,1,Read,bat,Study1,M,Study Phase,Recall1,3201,Prolific
 5a8b1ee2000dab00018cc7cd,bounce,bounce,1,1,1,Read,bat,Study1,M,Study Phase,Recall1,4157,Prolific
 5d4225e01985380018375d83,ball,bounce,0.166666667,0,1,Read,bat,Study1,M,Study Phase,Recall1,1456,Prolific
 5f79bca83a2eb65c0983816d,ball,bounce,0.166666667,0,1,Read,bat,Study1,M,Study Phase,Recall1,5463,Prolific
@@ -22,6 +24,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,bounce,0,0,1,Read,bat,Study1,M,Study Phase,Recall1,1304,Prolific
 63d7d95057d77b4c34b3afe8,bounce,bounce,1,1,1,Read,bat,Study1,M,Study Phase,Recall1,4342,Prolific
 55b2d3f2fdf99b525bc839aa,sand,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,4313,Prolific
+56fc8248b5648e000fac9980,shell,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,3774,Prolific
 5a8b1ee2000dab00018cc7cd,box,box,1,1,1,Read,beach,Study1,M,Study Phase,Recall1,3271,Prolific
 5d4225e01985380018375d83,water,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,2348,Prolific
 5f79bca83a2eb65c0983816d,sand,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,38444,Prolific
@@ -33,6 +36,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,1072,Prolific
 63d7d95057d77b4c34b3afe8,box,box,1,1,1,Read,beach,Study1,M,Study Phase,Recall1,2008,Prolific
 55b2d3f2fdf99b525bc839aa,day,pie,0,0,1,Read,birthday,Study1,M,Study Phase,Recall1,2020,Prolific
+56fc8248b5648e000fac9980,cake,pie,0.25,0,1,Read,birthday,Study1,M,Study Phase,Recall1,10063,Prolific
 5a8b1ee2000dab00018cc7cd,pie,pie,1,1,1,Read,birthday,Study1,M,Study Phase,Recall1,3613,Prolific
 5d4225e01985380018375d83,candle,pie,0.166666667,0,1,Read,birthday,Study1,M,Study Phase,Recall1,22595,Prolific
 5f79bca83a2eb65c0983816d,cake,pie,0.25,0,1,Read,birthday,Study1,M,Study Phase,Recall1,6011,Prolific
@@ -44,6 +48,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,pie,pie,1,1,1,Read,birthday,Study1,M,Study Phase,Recall1,1892,Prolific
 63d7d95057d77b4c34b3afe8,pie,pie,1,1,1,Read,birthday,Study1,M,Study Phase,Recall1,1937,Prolific
 55b2d3f2fdf99b525bc839aa,bread,hand,0.4,0,1,Read,cake,Study1,U,Study Phase,Recall1,2978,Prolific
+56fc8248b5648e000fac9980,layer,hand,0.2,0,1,Read,cake,Study1,U,Study Phase,Recall1,7653,Prolific
 5a8b1ee2000dab00018cc7cd,hand,hand,1,1,1,Read,cake,Study1,U,Study Phase,Recall1,3985,Prolific
 5d4225e01985380018375d83,bake,hand,0.25,0,1,Read,cake,Study1,U,Study Phase,Recall1,7435,Prolific
 5f79bca83a2eb65c0983816d,eat,hand,0.25,0,1,Read,cake,Study1,U,Study Phase,Recall1,7526,Prolific
@@ -55,6 +60,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,hand,0,0,1,Read,cake,Study1,U,Study Phase,Recall1,954,Prolific
 63d7d95057d77b4c34b3afe8,eat,hand,0.25,0,1,Read,cake,Study1,U,Study Phase,Recall1,5465,Prolific
 55b2d3f2fdf99b525bc839aa,maze,carpet,0.333333333,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,47294,Prolific
+56fc8248b5648e000fac9980,fan,carpet,0.166666667,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,3207,Prolific
 5a8b1ee2000dab00018cc7cd,carpet,carpet,1,1,1,Read,ceiling,Study1,M,Study Phase,Recall1,4545,Prolific
 5d4225e01985380018375d83,high,carpet,0,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,2126,Prolific
 5f79bca83a2eb65c0983816d,floor,carpet,0.166666667,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,5599,Prolific
@@ -66,6 +72,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,carpet,0,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,2370,Prolific
 63d7d95057d77b4c34b3afe8,carpet,carpet,1,1,1,Read,ceiling,Study1,M,Study Phase,Recall1,3017,Prolific
 55b2d3f2fdf99b525bc839aa,dance,dance,1,1,1,Read,circle,Study1,M,Study Phase,Recall1,5681,Prolific
+56fc8248b5648e000fac9980,square,dance,0.333333333,0,1,Read,circle,Study1,M,Study Phase,Recall1,29915,Prolific
 5a8b1ee2000dab00018cc7cd,dance,dance,1,1,1,Read,circle,Study1,M,Study Phase,Recall1,8427,Prolific
 5d4225e01985380018375d83,shape,dance,0.4,0,1,Read,circle,Study1,M,Study Phase,Recall1,8172,Prolific
 5f79bca83a2eb65c0983816d,round ,dance,0.333333333,0,1,Read,circle,Study1,M,Study Phase,Recall1,7544,Prolific
@@ -77,6 +84,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,dance,0,0,1,Read,circle,Study1,M,Study Phase,Recall1,1345,Prolific
 63d7d95057d77b4c34b3afe8,square,dance,0.333333333,0,1,Read,circle,Study1,M,Study Phase,Recall1,2788,Prolific
 55b2d3f2fdf99b525bc839aa,pop,election,0.125,0,1,Read,crackle,Study1,U,Study Phase,Recall1,1687,Prolific
+56fc8248b5648e000fac9980,glass,election,0.125,0,1,Read,crackle,Study1,U,Study Phase,Recall1,4026,Prolific
 5a8b1ee2000dab00018cc7cd,election,election,1,1,1,Read,crackle,Study1,U,Study Phase,Recall1,4740,Prolific
 5d4225e01985380018375d83,cackle ,election,0.375,0,1,Read,crackle,Study1,U,Study Phase,Recall1,4045,Prolific
 5f79bca83a2eb65c0983816d,fire,election,0.25,0,1,Read,crackle,Study1,U,Study Phase,Recall1,5539,Prolific
@@ -88,6 +96,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,election,0,0,1,Read,crackle,Study1,U,Study Phase,Recall1,2459,Prolific
 63d7d95057d77b4c34b3afe8,election,election,1,1,1,Read,crackle,Study1,U,Study Phase,Recall1,9077,Prolific
 55b2d3f2fdf99b525bc839aa,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,1431,Prolific
+56fc8248b5648e000fac9980,debit,card,0.2,0,1,Read,credit,Study1,F,Study Phase,Recall1,3228,Prolific
 5a8b1ee2000dab00018cc7cd,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,3446,Prolific
 5d4225e01985380018375d83,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,1676,Prolific
 5f79bca83a2eb65c0983816d,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,4542,Prolific
@@ -99,6 +108,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,3881,Prolific
 63d7d95057d77b4c34b3afe8,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,1657,Prolific
 55b2d3f2fdf99b525bc839aa,more,bottle,0.333333333,0,1,Read,cry,Study1,M,Study Phase,Recall1,1723,Prolific
+56fc8248b5648e000fac9980,moan,bottle,0.166666667,0,1,Read,cry,Study1,M,Study Phase,Recall1,2479,Prolific
 5a8b1ee2000dab00018cc7cd,bottle,bottle,1,1,1,Read,cry,Study1,M,Study Phase,Recall1,4254,Prolific
 5d4225e01985380018375d83,sad,bottle,0,0,1,Read,cry,Study1,M,Study Phase,Recall1,2122,Prolific
 5f79bca83a2eb65c0983816d,tears,bottle,0.333333333,0,1,Read,cry,Study1,M,Study Phase,Recall1,6487,Prolific
@@ -110,6 +120,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,bottle,0,0,1,Read,cry,Study1,M,Study Phase,Recall1,1173,Prolific
 63d7d95057d77b4c34b3afe8,baby,bottle,0.166666667,0,1,Read,cry,Study1,M,Study Phase,Recall1,1990,Prolific
 55b2d3f2fdf99b525bc839aa,dark,dark,1,1,1,Read,day,Study1,M,Study Phase,Recall1,11449,Prolific
+56fc8248b5648e000fac9980,night,dark,0,0,1,Read,day,Study1,M,Study Phase,Recall1,3778,Prolific
 5a8b1ee2000dab00018cc7cd,dark,dark,1,1,1,Read,day,Study1,M,Study Phase,Recall1,3842,Prolific
 5d4225e01985380018375d83,night,dark,0,0,1,Read,day,Study1,M,Study Phase,Recall1,2137,Prolific
 5f79bca83a2eb65c0983816d,week ,dark,0.2,0,1,Read,day,Study1,M,Study Phase,Recall1,5706,Prolific
@@ -121,6 +132,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,dawn,dark,0.5,0,1,Read,day,Study1,M,Study Phase,Recall1,3623,Prolific
 63d7d95057d77b4c34b3afe8,night,dark,0,0,1,Read,day,Study1,M,Study Phase,Recall1,2043,Prolific
 55b2d3f2fdf99b525bc839aa,bang,bang,1,1,1,Read,fuzzy,Study1,U,Study Phase,Recall1,15692,Prolific
+56fc8248b5648e000fac9980,dice,bang,0,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,5150,Prolific
 5a8b1ee2000dab00018cc7cd,bangs,bang,0.8,1,1,Read,fuzzy,Study1,U,Study Phase,Recall1,5827,Prolific
 5d4225e01985380018375d83,warm,bang,0.25,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,2100,Prolific
 5f79bca83a2eb65c0983816d,hairy,bang,0.2,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,10743,Prolific
@@ -132,6 +144,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,bang,0,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,783,Prolific
 63d7d95057d77b4c34b3afe8,wood,bang,0,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,7183,Prolific
 55b2d3f2fdf99b525bc839aa,steak,steak,1,1,1,Read,give,Study1,U,Study Phase,Recall1,10084,Prolific
+56fc8248b5648e000fac9980,hug,steak,0,0,1,Read,give,Study1,U,Study Phase,Recall1,3134,Prolific
 5a8b1ee2000dab00018cc7cd,take,steak,0.8,1,1,Read,give,Study1,U,Study Phase,Recall1,19319,Prolific
 5d4225e01985380018375d83,take,steak,0.8,1,1,Read,give,Study1,U,Study Phase,Recall1,1767,Prolific
 5f79bca83a2eb65c0983816d,take ,steak,0.8,1,1,Read,give,Study1,U,Study Phase,Recall1,9415,Prolific
@@ -143,6 +156,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,take,steak,0.8,1,1,Read,give,Study1,U,Study Phase,Recall1,2006,Prolific
 63d7d95057d77b4c34b3afe8,take,steak,0.8,1,1,Read,give,Study1,U,Study Phase,Recall1,3207,Prolific
 55b2d3f2fdf99b525bc839aa,soft,cotton,0.333333333,0,1,Read,hard,Study1,M,Study Phase,Recall1,1583,Prolific
+56fc8248b5648e000fac9980,soda,cotton,0.166666667,0,1,Read,hard,Study1,M,Study Phase,Recall1,4700,Prolific
 5a8b1ee2000dab00018cc7cd,,cotton,0,0,1,Read,hard,Study1,M,Study Phase,Recall1,13447,Prolific
 5d4225e01985380018375d83,soft,cotton,0.333333333,0,1,Read,hard,Study1,M,Study Phase,Recall1,1398,Prolific
 5f79bca83a2eb65c0983816d,tough ,cotton,0.333333333,0,1,Read,hard,Study1,M,Study Phase,Recall1,16124,Prolific
@@ -154,6 +168,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,cotton,0,0,1,Read,hard,Study1,M,Study Phase,Recall1,1471,Prolific
 63d7d95057d77b4c34b3afe8,cotton,cotton,1,1,1,Read,hard,Study1,M,Study Phase,Recall1,3118,Prolific
 55b2d3f2fdf99b525bc839aa,meat,wheel,0.2,0,1,Read,horse,Study1,M,Study Phase,Recall1,1641,Prolific
+56fc8248b5648e000fac9980,cow,wheel,0.2,0,1,Read,horse,Study1,M,Study Phase,Recall1,48333,Prolific
 5a8b1ee2000dab00018cc7cd,wheel,wheel,1,1,1,Read,horse,Study1,M,Study Phase,Recall1,4420,Prolific
 5d4225e01985380018375d83,animal,wheel,0.166666667,0,1,Read,horse,Study1,M,Study Phase,Recall1,8940,Prolific
 5f79bca83a2eb65c0983816d,mule,wheel,0.4,0,1,Read,horse,Study1,M,Study Phase,Recall1,16042,Prolific
@@ -165,6 +180,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,wheel,wheel,1,1,1,Read,horse,Study1,M,Study Phase,Recall1,4357,Prolific
 63d7d95057d77b4c34b3afe8,wheel,wheel,1,1,1,Read,horse,Study1,M,Study Phase,Recall1,3666,Prolific
 55b2d3f2fdf99b525bc839aa,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,8713,Prolific
+56fc8248b5648e000fac9980,dentist,clean,0.285714286,0,1,Read,hygiene,Study1,F,Study Phase,Recall1,5294,Prolific
 5a8b1ee2000dab00018cc7cd,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,3378,Prolific
 5d4225e01985380018375d83,wash,clean,0.2,0,1,Read,hygiene,Study1,F,Study Phase,Recall1,1897,Prolific
 5f79bca83a2eb65c0983816d,wash,clean,0.2,0,1,Read,hygiene,Study1,F,Study Phase,Recall1,4792,Prolific
@@ -176,6 +192,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,2308,Prolific
 63d7d95057d77b4c34b3afe8,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,2300,Prolific
 55b2d3f2fdf99b525bc839aa,rod,rod,1,1,1,Read,keys,Study1,U,Study Phase,Recall1,10600,Prolific
+56fc8248b5648e000fac9980,money,rod,0.2,0,1,Read,keys,Study1,U,Study Phase,Recall1,10508,Prolific
 5a8b1ee2000dab00018cc7cd,rod,rod,1,1,1,Read,keys,Study1,U,Study Phase,Recall1,4213,Prolific
 5d4225e01985380018375d83,door,rod,0.75,1,1,Read,keys,Study1,U,Study Phase,Recall1,2672,Prolific
 5f79bca83a2eb65c0983816d,ring,rod,0.25,0,1,Read,keys,Study1,U,Study Phase,Recall1,22019,Prolific
@@ -187,6 +204,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,meat,rod,0,0,1,Read,keys,Study1,U,Study Phase,Recall1,2122,Prolific
 63d7d95057d77b4c34b3afe8,meat,rod,0,0,1,Read,keys,Study1,U,Study Phase,Recall1,1735,Prolific
 55b2d3f2fdf99b525bc839aa,tiger,stripes,0.571428571,0,1,Read,lion,Study1,M,Study Phase,Recall1,2094,Prolific
+56fc8248b5648e000fac9980,cub,stripes,0,0,1,Read,lion,Study1,M,Study Phase,Recall1,3726,Prolific
 5a8b1ee2000dab00018cc7cd,stripes,stripes,1,1,1,Read,lion,Study1,M,Study Phase,Recall1,5434,Prolific
 5d4225e01985380018375d83,king,stripes,0.142857143,0,1,Read,lion,Study1,M,Study Phase,Recall1,1540,Prolific
 5f79bca83a2eb65c0983816d,cat,stripes,0.142857143,0,1,Read,lion,Study1,M,Study Phase,Recall1,4786,Prolific
@@ -198,6 +216,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,stripes,0,0,1,Read,lion,Study1,M,Study Phase,Recall1,1092,Prolific
 63d7d95057d77b4c34b3afe8,stripes,stripes,1,1,1,Read,lion,Study1,M,Study Phase,Recall1,2493,Prolific
 55b2d3f2fdf99b525bc839aa,fiction,fiction,1,1,1,Read,listen,Study1,U,Study Phase,Recall1,12555,Prolific
+56fc8248b5648e000fac9980,hear,fiction,0,0,1,Read,listen,Study1,U,Study Phase,Recall1,4720,Prolific
 5a8b1ee2000dab00018cc7cd,spaek,fiction,0,0,1,Read,listen,Study1,U,Study Phase,Recall1,23009,Prolific
 5d4225e01985380018375d83,sound,fiction,0.285714286,0,1,Read,listen,Study1,U,Study Phase,Recall1,5406,Prolific
 5f79bca83a2eb65c0983816d,sound ,fiction,0.285714286,0,1,Read,listen,Study1,U,Study Phase,Recall1,17190,Prolific
@@ -209,6 +228,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,fiction,0,0,1,Read,listen,Study1,U,Study Phase,Recall1,596,Prolific
 63d7d95057d77b4c34b3afe8,hear,fiction,0,0,1,Read,listen,Study1,U,Study Phase,Recall1,2598,Prolific
 55b2d3f2fdf99b525bc839aa,trash,trash,1,1,1,Read,litter,Study1,F,Study Phase,Recall1,2420,Prolific
+56fc8248b5648e000fac9980,trash,trash,1,1,1,Read,litter,Study1,F,Study Phase,Recall1,8073,Prolific
 5a8b1ee2000dab00018cc7cd,trash,trash,1,1,1,Read,litter,Study1,F,Study Phase,Recall1,3741,Prolific
 5d4225e01985380018375d83,trash,trash,1,1,1,Read,litter,Study1,F,Study Phase,Recall1,2661,Prolific
 5f79bca83a2eb65c0983816d,box,trash,0,0,1,Read,litter,Study1,F,Study Phase,Recall1,5085,Prolific
@@ -220,6 +240,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,trash,0,0,1,Read,litter,Study1,F,Study Phase,Recall1,922,Prolific
 63d7d95057d77b4c34b3afe8,cat,trash,0.4,0,1,Read,litter,Study1,F,Study Phase,Recall1,3656,Prolific
 55b2d3f2fdf99b525bc839aa,bird,phone,0,0,1,Read,maze,Study1,U,Study Phase,Recall1,10651,Prolific
+56fc8248b5648e000fac9980,lost,phone,0.2,0,1,Read,maze,Study1,U,Study Phase,Recall1,4664,Prolific
 5a8b1ee2000dab00018cc7cd,phone,phone,1,1,1,Read,maze,Study1,U,Study Phase,Recall1,9111,Prolific
 5d4225e01985380018375d83,runner,phone,0.333333333,0,1,Read,maze,Study1,U,Study Phase,Recall1,2062,Prolific
 5f79bca83a2eb65c0983816d,phone ,phone,0.833333333,1,1,Read,maze,Study1,U,Study Phase,Recall1,9938,Prolific
@@ -231,6 +252,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,phone,phone,1,1,1,Read,maze,Study1,U,Study Phase,Recall1,2695,Prolific
 63d7d95057d77b4c34b3afe8,phone,phone,1,1,1,Read,maze,Study1,U,Study Phase,Recall1,2421,Prolific
 55b2d3f2fdf99b525bc839aa,eat,keys,0.25,0,1,Read,meat,Study1,U,Study Phase,Recall1,1659,Prolific
+56fc8248b5648e000fac9980,treat,keys,0.2,0,1,Read,meat,Study1,U,Study Phase,Recall1,6644,Prolific
 5a8b1ee2000dab00018cc7cd,keys,keys,1,1,1,Read,meat,Study1,U,Study Phase,Recall1,7136,Prolific
 5d4225e01985380018375d83,ball,keys,0,0,1,Read,meat,Study1,U,Study Phase,Recall1,3338,Prolific
 5f79bca83a2eb65c0983816d,,keys,0,0,1,Read,meat,Study1,U,Study Phase,Recall1,8213,Prolific
@@ -242,6 +264,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,keys,keys,1,1,1,Read,meat,Study1,U,Study Phase,Recall1,3055,Prolific
 63d7d95057d77b4c34b3afe8,key,keys,0.75,1,1,Read,meat,Study1,U,Study Phase,Recall1,2373,Prolific
 55b2d3f2fdf99b525bc839aa,maroon,maroon,1,1,1,Read,mirror,Study1,U,Study Phase,Recall1,14808,Prolific
+56fc8248b5648e000fac9980,glass,maroon,0.166666667,0,1,Read,mirror,Study1,U,Study Phase,Recall1,7618,Prolific
 5a8b1ee2000dab00018cc7cd,maroon,maroon,1,1,1,Read,mirror,Study1,U,Study Phase,Recall1,4202,Prolific
 5d4225e01985380018375d83,minor,maroon,0.666666667,0,1,Read,mirror,Study1,U,Study Phase,Recall1,4646,Prolific
 5f79bca83a2eb65c0983816d,look,maroon,0.333333333,0,1,Read,mirror,Study1,U,Study Phase,Recall1,5973,Prolific
@@ -254,6 +277,8 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 63d7d95057d77b4c34b3afe8,mirage,maroon,0.5,0,1,Read,mirror,Study1,U,Study Phase,Recall1,6415,Prolific
 55b2d3f2fdf99b525bc839aa,horse,donkey,0.333333333,0,1,Read,mule,Study1,F,Study Phase,Recall1,2022,Prolific
 55b2d3f2fdf99b525bc839aa,horse,donkey,0.333333333,0,1,Read,mule,Study1,F,Study Phase,Recall1,3459,Prolific
+56fc8248b5648e000fac9980,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,3422,Prolific
+56fc8248b5648e000fac9980,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,3662,Prolific
 5a8b1ee2000dab00018cc7cd,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,3894,Prolific
 5a8b1ee2000dab00018cc7cd,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,4487,Prolific
 5d4225e01985380018375d83,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,5278,Prolific
@@ -275,6 +300,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 63d7d95057d77b4c34b3afe8,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,2623,Prolific
 63d7d95057d77b4c34b3afe8,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,1941,Prolific
 55b2d3f2fdf99b525bc839aa,sleep,sleep,1,1,1,Read,nap,Study1,F,Study Phase,Recall1,7040,Prolific
+56fc8248b5648e000fac9980,clap,sleep,0.4,0,1,Read,nap,Study1,F,Study Phase,Recall1,5274,Prolific
 5a8b1ee2000dab00018cc7cd,sleep,sleep,1,1,1,Read,nap,Study1,F,Study Phase,Recall1,8044,Prolific
 5d4225e01985380018375d83,sleep,sleep,1,1,1,Read,nap,Study1,F,Study Phase,Recall1,1808,Prolific
 5f79bca83a2eb65c0983816d,sleep ,sleep,0.833333333,1,1,Read,nap,Study1,F,Study Phase,Recall1,4732,Prolific
@@ -286,6 +312,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,sleep,0,0,1,Read,nap,Study1,F,Study Phase,Recall1,761,Prolific
 63d7d95057d77b4c34b3afe8,tired,sleep,0.2,0,1,Read,nap,Study1,F,Study Phase,Recall1,3595,Prolific
 55b2d3f2fdf99b525bc839aa,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,18348,Prolific
+56fc8248b5648e000fac9980,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,4543,Prolific
 5a8b1ee2000dab00018cc7cd,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,3924,Prolific
 5d4225e01985380018375d83,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,1496,Prolific
 5f79bca83a2eb65c0983816d,flower ,flower,0.857142857,1,1,Read,orchid,Study1,F,Study Phase,Recall1,6743,Prolific
@@ -297,6 +324,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,flower,0,0,1,Read,orchid,Study1,F,Study Phase,Recall1,919,Prolific
 63d7d95057d77b4c34b3afe8,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,2001,Prolific
 55b2d3f2fdf99b525bc839aa,canal,plant,0.6,0,1,Read,root,Study1,F,Study Phase,Recall1,1843,Prolific
+56fc8248b5648e000fac9980,plants,plant,0.833333333,1,1,Read,root,Study1,F,Study Phase,Recall1,5690,Prolific
 5a8b1ee2000dab00018cc7cd,plant,plant,1,1,1,Read,root,Study1,F,Study Phase,Recall1,4673,Prolific
 5d4225e01985380018375d83,tree,plant,0.2,0,1,Read,root,Study1,F,Study Phase,Recall1,1981,Prolific
 5f79bca83a2eb65c0983816d,plant,plant,1,1,1,Read,root,Study1,F,Study Phase,Recall1,8807,Prolific
@@ -308,6 +336,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,plant,0,0,1,Read,root,Study1,F,Study Phase,Recall1,1053,Prolific
 63d7d95057d77b4c34b3afe8,plant,plant,1,1,1,Read,root,Study1,F,Study Phase,Recall1,2364,Prolific
 55b2d3f2fdf99b525bc839aa,smooth,silk,0.166666667,0,1,Read,rough,Study1,M,Study Phase,Recall1,4194,Prolific
+56fc8248b5648e000fac9980,day,silk,0,0,1,Read,rough,Study1,M,Study Phase,Recall1,6423,Prolific
 5a8b1ee2000dab00018cc7cd,silk,silk,1,1,1,Read,rough,Study1,M,Study Phase,Recall1,4492,Prolific
 5d4225e01985380018375d83,estimate,silk,0.25,0,1,Read,rough,Study1,M,Study Phase,Recall1,2441,Prolific
 5f79bca83a2eb65c0983816d,rigid ,silk,0.166666667,0,1,Read,rough,Study1,M,Study Phase,Recall1,10964,Prolific
@@ -319,6 +348,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,silk,0,0,1,Read,rough,Study1,M,Study Phase,Recall1,1371,Prolific
 63d7d95057d77b4c34b3afe8,satin,silk,0.4,0,1,Read,rough,Study1,M,Study Phase,Recall1,11335,Prolific
 55b2d3f2fdf99b525bc839aa,head,head,1,1,1,Read,scalp,Study1,F,Study Phase,Recall1,2224,Prolific
+56fc8248b5648e000fac9980, hair,head,0.4,0,1,Read,scalp,Study1,F,Study Phase,Recall1,3818,Prolific
 5a8b1ee2000dab00018cc7cd,head,head,1,1,1,Read,scalp,Study1,F,Study Phase,Recall1,4829,Prolific
 5d4225e01985380018375d83,itchy ,head,0.166666667,0,1,Read,scalp,Study1,F,Study Phase,Recall1,3339,Prolific
 5f79bca83a2eb65c0983816d,sell ,head,0.2,0,1,Read,scalp,Study1,F,Study Phase,Recall1,9870,Prolific
@@ -330,6 +360,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,head,head,1,1,1,Read,scalp,Study1,F,Study Phase,Recall1,1858,Prolific
 63d7d95057d77b4c34b3afe8,head,head,1,1,1,Read,scalp,Study1,F,Study Phase,Recall1,1705,Prolific
 55b2d3f2fdf99b525bc839aa,shake,shake,1,1,1,Read,shell,Study1,U,Study Phase,Recall1,12787,Prolific
+56fc8248b5648e000fac9980,,shake,0,0,1,Read,shell,Study1,U,Study Phase,Recall1,17363,Prolific
 5a8b1ee2000dab00018cc7cd,shake,shake,1,1,1,Read,shell,Study1,U,Study Phase,Recall1,3255,Prolific
 5d4225e01985380018375d83,turtle,shake,0.166666667,0,1,Read,shell,Study1,U,Study Phase,Recall1,2836,Prolific
 5f79bca83a2eb65c0983816d,,shake,0,0,1,Read,shell,Study1,U,Study Phase,Recall1,5202,Prolific
@@ -341,6 +372,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,shake,0,0,1,Read,shell,Study1,U,Study Phase,Recall1,874,Prolific
 63d7d95057d77b4c34b3afe8,shock,shake,0.6,0,1,Read,shell,Study1,U,Study Phase,Recall1,3225,Prolific
 55b2d3f2fdf99b525bc839aa,clean,tick,0.2,0,1,Read,sign,Study1,U,Study Phase,Recall1,6417,Prolific
+56fc8248b5648e000fac9980,post,tick,0.25,0,1,Read,sign,Study1,U,Study Phase,Recall1,4406,Prolific
 5a8b1ee2000dab00018cc7cd,tick,tick,1,1,1,Read,sign,Study1,U,Study Phase,Recall1,4102,Prolific
 5d4225e01985380018375d83,way,tick,0,0,1,Read,sign,Study1,U,Study Phase,Recall1,6061,Prolific
 5f79bca83a2eb65c0983816d,off,tick,0,0,1,Read,sign,Study1,U,Study Phase,Recall1,10450,Prolific
@@ -352,6 +384,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,tick,0,0,1,Read,sign,Study1,U,Study Phase,Recall1,824,Prolific
 63d7d95057d77b4c34b3afe8,tick,tick,1,1,1,Read,sign,Study1,U,Study Phase,Recall1,1875,Prolific
 55b2d3f2fdf99b525bc839aa,cup,drink,0,0,1,Read,sip,Study1,F,Study Phase,Recall1,2653,Prolific
+56fc8248b5648e000fac9980,straw,drink,0.2,0,1,Read,sip,Study1,F,Study Phase,Recall1,5258,Prolific
 5a8b1ee2000dab00018cc7cd,drink,drink,1,1,1,Read,sip,Study1,F,Study Phase,Recall1,6732,Prolific
 5d4225e01985380018375d83,water,drink,0.2,0,1,Read,sip,Study1,F,Study Phase,Recall1,1488,Prolific
 5f79bca83a2eb65c0983816d,drink ,drink,0.833333333,1,1,Read,sip,Study1,F,Study Phase,Recall1,5405,Prolific
@@ -363,6 +396,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,drink,0,0,1,Read,sip,Study1,F,Study Phase,Recall1,642,Prolific
 63d7d95057d77b4c34b3afe8,drink,drink,1,1,1,Read,sip,Study1,F,Study Phase,Recall1,3793,Prolific
 55b2d3f2fdf99b525bc839aa,later,belt,0.6,0,1,Read,soon,Study1,U,Study Phase,Recall1,1608,Prolific
+56fc8248b5648e000fac9980,later,belt,0.6,0,1,Read,soon,Study1,U,Study Phase,Recall1,3461,Prolific
 5a8b1ee2000dab00018cc7cd,belt,belt,1,1,1,Read,soon,Study1,U,Study Phase,Recall1,11181,Prolific
 5d4225e01985380018375d83,far,belt,0,0,1,Read,soon,Study1,U,Study Phase,Recall1,2470,Prolific
 5f79bca83a2eb65c0983816d,enough ,belt,0.142857143,0,1,Read,soon,Study1,U,Study Phase,Recall1,5799,Prolific
@@ -374,6 +408,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,belt,0,0,1,Read,soon,Study1,U,Study Phase,Recall1,2116,Prolific
 63d7d95057d77b4c34b3afe8,later,belt,0.6,0,1,Read,soon,Study1,U,Study Phase,Recall1,2109,Prolific
 55b2d3f2fdf99b525bc839aa,cloth,cloth,1,1,1,Read,stretch,Study1,U,Study Phase,Recall1,16892,Prolific
+56fc8248b5648e000fac9980,reach,cloth,0.4,0,1,Read,stretch,Study1,U,Study Phase,Recall1,3997,Prolific
 5a8b1ee2000dab00018cc7cd,cloth,cloth,1,1,1,Read,stretch,Study1,U,Study Phase,Recall1,9877,Prolific
 5d4225e01985380018375d83,fit,cloth,0.2,0,1,Read,stretch,Study1,U,Study Phase,Recall1,8318,Prolific
 5f79bca83a2eb65c0983816d,far,cloth,0,0,1,Read,stretch,Study1,U,Study Phase,Recall1,4520,Prolific
@@ -385,6 +420,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,cloth,0,0,1,Read,stretch,Study1,U,Study Phase,Recall1,1148,Prolific
 63d7d95057d77b4c34b3afe8,fabric,cloth,0.166666667,0,1,Read,stretch,Study1,U,Study Phase,Recall1,5726,Prolific
 55b2d3f2fdf99b525bc839aa,bird,bird,1,1,1,Read,swan,Study1,F,Study Phase,Recall1,16540,Prolific
+56fc8248b5648e000fac9980,bird,bird,1,1,1,Read,swan,Study1,F,Study Phase,Recall1,4912,Prolific
 5a8b1ee2000dab00018cc7cd,bird,bird,1,1,1,Read,swan,Study1,F,Study Phase,Recall1,4537,Prolific
 5d4225e01985380018375d83,duck,bird,0.25,0,1,Read,swan,Study1,F,Study Phase,Recall1,3642,Prolific
 5f79bca83a2eb65c0983816d,song,bird,0,0,1,Read,swan,Study1,F,Study Phase,Recall1,4591,Prolific
@@ -396,6 +432,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,bird,0,0,1,Read,swan,Study1,F,Study Phase,Recall1,1119,Prolific
 63d7d95057d77b4c34b3afe8,dive,bird,0.5,0,1,Read,swan,Study1,F,Study Phase,Recall1,4367,Prolific
 55b2d3f2fdf99b525bc839aa,rise,morning,0.285714286,0,1,Read,temperature,Study1,U,Study Phase,Recall1,1896,Prolific
+56fc8248b5648e000fac9980,warm,morning,0.285714286,0,1,Read,temperature,Study1,U,Study Phase,Recall1,5206,Prolific
 5a8b1ee2000dab00018cc7cd,morning,morning,1,1,1,Read,temperature,Study1,U,Study Phase,Recall1,4547,Prolific
 5d4225e01985380018375d83,warm,morning,0.285714286,0,1,Read,temperature,Study1,U,Study Phase,Recall1,1789,Prolific
 5f79bca83a2eb65c0983816d,,morning,0,0,1,Read,temperature,Study1,U,Study Phase,Recall1,5269,Prolific
@@ -407,6 +444,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,morning,0,0,1,Read,temperature,Study1,U,Study Phase,Recall1,1510,Prolific
 63d7d95057d77b4c34b3afe8,morning,morning,1,1,1,Read,temperature,Study1,U,Study Phase,Recall1,2478,Prolific
 55b2d3f2fdf99b525bc839aa,extract,hair,0.285714286,0,1,Read,tooth,Study1,M,Study Phase,Recall1,2543,Prolific
+56fc8248b5648e000fac9980,decay,hair,0.2,0,1,Read,tooth,Study1,M,Study Phase,Recall1,2980,Prolific
 5a8b1ee2000dab00018cc7cd,hair,hair,1,1,1,Read,tooth,Study1,M,Study Phase,Recall1,4439,Prolific
 5d4225e01985380018375d83,ache,hair,0.5,0,1,Read,tooth,Study1,M,Study Phase,Recall1,1428,Prolific
 5f79bca83a2eb65c0983816d,hair,hair,1,1,1,Read,tooth,Study1,M,Study Phase,Recall1,10545,Prolific
@@ -418,6 +456,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,hair,0,0,1,Read,tooth,Study1,M,Study Phase,Recall1,698,Prolific
 63d7d95057d77b4c34b3afe8,hair,hair,1,1,1,Read,tooth,Study1,M,Study Phase,Recall1,4521,Prolific
 55b2d3f2fdf99b525bc839aa,oak,syrup,0,0,1,Read,tree,Study1,M,Study Phase,Recall1,4052,Prolific
+56fc8248b5648e000fac9980,leaf,syrup,0,0,1,Read,tree,Study1,M,Study Phase,Recall1,2947,Prolific
 5a8b1ee2000dab00018cc7cd,,syrup,0,0,1,Read,tree,Study1,M,Study Phase,Recall1,20032,Prolific
 5d4225e01985380018375d83,green,syrup,0.2,0,1,Read,tree,Study1,M,Study Phase,Recall1,2931,Prolific
 5f79bca83a2eb65c0983816d,green ,syrup,0.166666667,0,1,Read,tree,Study1,M,Study Phase,Recall1,5444,Prolific
@@ -429,6 +468,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,syrup,syrup,1,1,1,Read,tree,Study1,M,Study Phase,Recall1,5645,Prolific
 63d7d95057d77b4c34b3afe8,sky,syrup,0.4,0,1,Read,tree,Study1,M,Study Phase,Recall1,4296,Prolific
 55b2d3f2fdf99b525bc839aa,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,1769,Prolific
+56fc8248b5648e000fac9980,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,5708,Prolific
 5a8b1ee2000dab00018cc7cd,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,3616,Prolific
 5d4225e01985380018375d83,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,1229,Prolific
 5f79bca83a2eb65c0983816d,fish ,fish,0.8,1,1,Read,tuna,Study1,F,Study Phase,Recall1,5130,Prolific
@@ -440,6 +480,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,fish,0,0,1,Read,tuna,Study1,F,Study Phase,Recall1,2424,Prolific
 63d7d95057d77b4c34b3afe8,wheel,fish,0.2,0,1,Read,tuna,Study1,F,Study Phase,Recall1,4236,Prolific
 55b2d3f2fdf99b525bc839aa,car,charm,0.6,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,1560,Prolific
+56fc8248b5648e000fac9980,truck,charm,0.4,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,36329,Prolific
 5a8b1ee2000dab00018cc7cd,charm,charm,1,1,1,Read,vehicle,Study1,U,Study Phase,Recall1,5307,Prolific
 5d4225e01985380018375d83,car,charm,0.6,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,1839,Prolific
 5f79bca83a2eb65c0983816d,car,charm,0.6,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,4073,Prolific
@@ -451,6 +492,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,charm,0,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,1042,Prolific
 63d7d95057d77b4c34b3afe8,,charm,0,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,5564,Prolific
 55b2d3f2fdf99b525bc839aa,money,money,1,1,1,Read,wage,Study1,F,Study Phase,Recall1,1867,Prolific
+56fc8248b5648e000fac9980,war,money,0,0,1,Read,wage,Study1,F,Study Phase,Recall1,7012,Prolific
 5a8b1ee2000dab00018cc7cd,money,money,1,1,1,Read,wage,Study1,F,Study Phase,Recall1,7310,Prolific
 5d4225e01985380018375d83,cash,money,0,0,1,Read,wage,Study1,F,Study Phase,Recall1,2330,Prolific
 5f79bca83a2eb65c0983816d,pay,money,0.2,0,1,Read,wage,Study1,F,Study Phase,Recall1,7837,Prolific
@@ -462,6 +504,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,credit,money,0.166666667,0,1,Read,wage,Study1,F,Study Phase,Recall1,4374,Prolific
 63d7d95057d77b4c34b3afe8,payment,money,0.571428571,0,1,Read,wage,Study1,F,Study Phase,Recall1,5344,Prolific
 55b2d3f2fdf99b525bc839aa,kill,quiet,0.2,0,1,Read,war,Study1,M,Study Phase,Recall1,20130,Prolific
+56fc8248b5648e000fac9980,quiet,quiet,1,1,1,Read,war,Study1,M,Study Phase,Recall1,3056,Prolific
 5a8b1ee2000dab00018cc7cd,quiet,quiet,1,1,1,Read,war,Study1,M,Study Phase,Recall1,3694,Prolific
 5d4225e01985380018375d83,base,quiet,0.2,0,1,Read,war,Study1,M,Study Phase,Recall1,6160,Prolific
 5f79bca83a2eb65c0983816d,,quiet,0,0,1,Read,war,Study1,M,Study Phase,Recall1,5529,Prolific
@@ -473,6 +516,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,quiet,0,0,1,Read,war,Study1,M,Study Phase,Recall1,4566,Prolific
 63d7d95057d77b4c34b3afe8,cry,quiet,0,0,1,Read,war,Study1,M,Study Phase,Recall1,2681,Prolific
 55b2d3f2fdf99b525bc839aa,wage,finger,0.333333333,0,1,Read,wedding,Study1,M,Study Phase,Recall1,22699,Prolific
+56fc8248b5648e000fac9980,planner,finger,0.428571429,0,1,Read,wedding,Study1,M,Study Phase,Recall1,3666,Prolific
 5a8b1ee2000dab00018cc7cd,finger,finger,1,1,1,Read,wedding,Study1,M,Study Phase,Recall1,11425,Prolific
 5d4225e01985380018375d83,ring,finger,0.666666667,0,1,Read,wedding,Study1,M,Study Phase,Recall1,1400,Prolific
 5f79bca83a2eb65c0983816d,ring,finger,0.666666667,0,1,Read,wedding,Study1,M,Study Phase,Recall1,5264,Prolific
@@ -484,6 +528,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,finger,0,0,1,Read,wedding,Study1,M,Study Phase,Recall1,1707,Prolific
 63d7d95057d77b4c34b3afe8,hand,finger,0.166666667,0,1,Read,wedding,Study1,M,Study Phase,Recall1,3872,Prolific
 55b2d3f2fdf99b525bc839aa,letter,sentence,0.375,0,1,Read,word,Study1,F,Study Phase,Recall1,3778,Prolific
+56fc8248b5648e000fac9980,phrase,sentence,0.25,0,1,Read,word,Study1,F,Study Phase,Recall1,9062,Prolific
 5a8b1ee2000dab00018cc7cd,sentence,sentence,1,1,1,Read,word,Study1,F,Study Phase,Recall1,7210,Prolific
 5d4225e01985380018375d83,sentence ,sentence,0.888888889,1,1,Read,word,Study1,F,Study Phase,Recall1,4156,Prolific
 5f79bca83a2eb65c0983816d,puzzle ,sentence,0.125,0,1,Read,word,Study1,F,Study Phase,Recall1,9154,Prolific
@@ -501,6 +546,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,love,0,0,3,Read,affection,Study1,F,Study Phase2,Recall2,2556,Prolific
 60fd56db5fe37ebeca00bc83,love,love,1,1,3,Read,affection,Study1,F,Study Phase2,Recall2,2434,Prolific
 61363ce02e6022a741d63a6e,,love,0,0,3,Read,affection,Study1,F,Study Phase2,Recall2,1322,Prolific
+614f6bad672ef7cf5ecfd965,love,love,1,1,3,Read,affection,Study1,F,Study Phase2,Recall2,4072,Prolific
 62f17b6b63bd9e6627a19956,,love,0,0,3,Read,affection,Study1,F,Study Phase2,Recall2,359,Prolific
 6314c1e76c3f71e2127f1976,love,love,1,1,3,Read,affection,Study1,F,Study Phase2,Recall2,2437,Prolific
 63d16398d05b8126c30c19ea,love,love,1,1,3,Read,affection,Study1,F,Study Phase2,Recall2,1592,Prolific
@@ -512,6 +558,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,ball,bounce,0.166666667,0,3,Read,bat,Study1,M,Study Phase2,Recall2,1713,Prolific
 60fd56db5fe37ebeca00bc83,bounce,bounce,1,1,3,Read,bat,Study1,M,Study Phase2,Recall2,2040,Prolific
 61363ce02e6022a741d63a6e,bounce,bounce,1,1,3,Read,bat,Study1,M,Study Phase2,Recall2,2700,Prolific
+614f6bad672ef7cf5ecfd965,,bounce,0,0,3,Read,bat,Study1,M,Study Phase2,Recall2,2639,Prolific
 62f17b6b63bd9e6627a19956,,bounce,0,0,3,Read,bat,Study1,M,Study Phase2,Recall2,692,Prolific
 6314c1e76c3f71e2127f1976,bounce,bounce,1,1,3,Read,bat,Study1,M,Study Phase2,Recall2,6865,Prolific
 63d16398d05b8126c30c19ea,b,bounce,0.166666667,0,3,Read,bat,Study1,M,Study Phase2,Recall2,1398,Prolific
@@ -523,6 +570,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,water,box,0,0,3,Read,beach,Study1,M,Study Phase2,Recall2,5583,Prolific
 60fd56db5fe37ebeca00bc83,sand,box,0,0,3,Read,beach,Study1,M,Study Phase2,Recall2,15193,Prolific
 61363ce02e6022a741d63a6e,,box,0,0,3,Read,beach,Study1,M,Study Phase2,Recall2,1513,Prolific
+614f6bad672ef7cf5ecfd965,sand,box,0,0,3,Read,beach,Study1,M,Study Phase2,Recall2,3202,Prolific
 62f17b6b63bd9e6627a19956,,box,0,0,3,Read,beach,Study1,M,Study Phase2,Recall2,685,Prolific
 6314c1e76c3f71e2127f1976,sand,box,0,0,3,Read,beach,Study1,M,Study Phase2,Recall2,3113,Prolific
 63d16398d05b8126c30c19ea,box,box,1,1,3,Read,beach,Study1,M,Study Phase2,Recall2,2384,Prolific
@@ -534,6 +582,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,pie,pie,1,1,3,Read,birthday,Study1,M,Study Phase2,Recall2,5057,Prolific
 60fd56db5fe37ebeca00bc83,pie,pie,1,1,3,Read,birthday,Study1,M,Study Phase2,Recall2,10181,Prolific
 61363ce02e6022a741d63a6e,,pie,0,0,3,Read,birthday,Study1,M,Study Phase2,Recall2,1785,Prolific
+614f6bad672ef7cf5ecfd965,,pie,0,0,3,Read,birthday,Study1,M,Study Phase2,Recall2,5782,Prolific
 62f17b6b63bd9e6627a19956,,pie,0,0,3,Read,birthday,Study1,M,Study Phase2,Recall2,899,Prolific
 6314c1e76c3f71e2127f1976,cake,pie,0.25,0,3,Read,birthday,Study1,M,Study Phase2,Recall2,2709,Prolific
 63d16398d05b8126c30c19ea,pie,pie,1,1,3,Read,birthday,Study1,M,Study Phase2,Recall2,1436,Prolific
@@ -545,6 +594,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,pie,hand,0,0,3,Read,cake,Study1,U,Study Phase2,Recall2,4399,Prolific
 60fd56db5fe37ebeca00bc83,food,hand,0.25,0,3,Read,cake,Study1,U,Study Phase2,Recall2,14143,Prolific
 61363ce02e6022a741d63a6e,,hand,0,0,3,Read,cake,Study1,U,Study Phase2,Recall2,1667,Prolific
+614f6bad672ef7cf5ecfd965,candy,hand,0.6,0,3,Read,cake,Study1,U,Study Phase2,Recall2,12660,Prolific
 62f17b6b63bd9e6627a19956,,hand,0,0,3,Read,cake,Study1,U,Study Phase2,Recall2,1369,Prolific
 6314c1e76c3f71e2127f1976,festival,hand,0.125,0,3,Read,cake,Study1,U,Study Phase2,Recall2,7283,Prolific
 63d16398d05b8126c30c19ea,pie,hand,0,0,3,Read,cake,Study1,U,Study Phase2,Recall2,3350,Prolific
@@ -556,6 +606,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,carpet,0,0,3,Read,ceiling,Study1,M,Study Phase2,Recall2,1772,Prolific
 60fd56db5fe37ebeca00bc83,carpet,carpet,1,1,3,Read,ceiling,Study1,M,Study Phase2,Recall2,9681,Prolific
 61363ce02e6022a741d63a6e,,carpet,0,0,3,Read,ceiling,Study1,M,Study Phase2,Recall2,1164,Prolific
+614f6bad672ef7cf5ecfd965,floor,carpet,0.166666667,0,3,Read,ceiling,Study1,M,Study Phase2,Recall2,3439,Prolific
 62f17b6b63bd9e6627a19956,,carpet,0,0,3,Read,ceiling,Study1,M,Study Phase2,Recall2,696,Prolific
 6314c1e76c3f71e2127f1976,carpet,carpet,1,1,3,Read,ceiling,Study1,M,Study Phase2,Recall2,5704,Prolific
 63d16398d05b8126c30c19ea,floor,carpet,0.166666667,0,3,Read,ceiling,Study1,M,Study Phase2,Recall2,1546,Prolific
@@ -567,6 +618,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,dance,dance,1,1,3,Read,circle,Study1,M,Study Phase2,Recall2,2761,Prolific
 60fd56db5fe37ebeca00bc83,dance,dance,1,1,3,Read,circle,Study1,M,Study Phase2,Recall2,2655,Prolific
 61363ce02e6022a741d63a6e,,dance,0,0,3,Read,circle,Study1,M,Study Phase2,Recall2,1318,Prolific
+614f6bad672ef7cf5ecfd965,dance,dance,1,1,3,Read,circle,Study1,M,Study Phase2,Recall2,2937,Prolific
 62f17b6b63bd9e6627a19956,,dance,0,0,3,Read,circle,Study1,M,Study Phase2,Recall2,3911,Prolific
 6314c1e76c3f71e2127f1976,dot,dance,0.2,0,3,Read,circle,Study1,M,Study Phase2,Recall2,2817,Prolific
 63d16398d05b8126c30c19ea,,dance,0,0,3,Read,circle,Study1,M,Study Phase2,Recall2,1014,Prolific
@@ -578,6 +630,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,election,0,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,2725,Prolific
 60fd56db5fe37ebeca00bc83,election,election,1,1,3,Read,crackle,Study1,U,Study Phase2,Recall2,10425,Prolific
 61363ce02e6022a741d63a6e,,election,0,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,1597,Prolific
+614f6bad672ef7cf5ecfd965,snap,election,0.125,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,7175,Prolific
 62f17b6b63bd9e6627a19956,,election,0,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,1013,Prolific
 6314c1e76c3f71e2127f1976,,election,0,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,2409,Prolific
 63d16398d05b8126c30c19ea,,election,0,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,1968,Prolific
@@ -589,6 +642,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,card,0,0,3,Read,credit,Study1,F,Study Phase2,Recall2,3197,Prolific
 60fd56db5fe37ebeca00bc83,card,card,1,1,3,Read,credit,Study1,F,Study Phase2,Recall2,1621,Prolific
 61363ce02e6022a741d63a6e,card,card,1,1,3,Read,credit,Study1,F,Study Phase2,Recall2,2606,Prolific
+614f6bad672ef7cf5ecfd965,card,card,1,1,3,Read,credit,Study1,F,Study Phase2,Recall2,3530,Prolific
 62f17b6b63bd9e6627a19956,,card,0,0,3,Read,credit,Study1,F,Study Phase2,Recall2,1637,Prolific
 6314c1e76c3f71e2127f1976,,card,0,0,3,Read,credit,Study1,F,Study Phase2,Recall2,7634,Prolific
 63d16398d05b8126c30c19ea,card,card,1,1,3,Read,credit,Study1,F,Study Phase2,Recall2,1657,Prolific
@@ -600,6 +654,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,bottle,0,0,3,Read,cry,Study1,M,Study Phase2,Recall2,2925,Prolific
 60fd56db5fe37ebeca00bc83,bottle,bottle,1,1,3,Read,cry,Study1,M,Study Phase2,Recall2,6654,Prolific
 61363ce02e6022a741d63a6e,,bottle,0,0,3,Read,cry,Study1,M,Study Phase2,Recall2,1311,Prolific
+614f6bad672ef7cf5ecfd965,laugh,bottle,0.166666667,0,3,Read,cry,Study1,M,Study Phase2,Recall2,4734,Prolific
 62f17b6b63bd9e6627a19956,,bottle,0,0,3,Read,cry,Study1,M,Study Phase2,Recall2,601,Prolific
 6314c1e76c3f71e2127f1976,laugh,bottle,0.166666667,0,3,Read,cry,Study1,M,Study Phase2,Recall2,2591,Prolific
 63d16398d05b8126c30c19ea,sob,bottle,0.333333333,0,3,Read,cry,Study1,M,Study Phase2,Recall2,1419,Prolific
@@ -611,6 +666,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,week,dark,0.25,0,3,Read,day,Study1,M,Study Phase2,Recall2,5271,Prolific
 60fd56db5fe37ebeca00bc83,dark,dark,1,1,3,Read,day,Study1,M,Study Phase2,Recall2,21136,Prolific
 61363ce02e6022a741d63a6e,,dark,0,0,3,Read,day,Study1,M,Study Phase2,Recall2,1319,Prolific
+614f6bad672ef7cf5ecfd965,night,dark,0,0,3,Read,day,Study1,M,Study Phase2,Recall2,5360,Prolific
 62f17b6b63bd9e6627a19956,,dark,0,0,3,Read,day,Study1,M,Study Phase2,Recall2,2192,Prolific
 6314c1e76c3f71e2127f1976,sunny,dark,0,0,3,Read,day,Study1,M,Study Phase2,Recall2,5612,Prolific
 63d16398d05b8126c30c19ea,dusk,dark,0.5,0,3,Read,day,Study1,M,Study Phase2,Recall2,2433,Prolific
@@ -622,6 +678,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,bang,0,0,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,5249,Prolific
 60fd56db5fe37ebeca00bc83,bang,bang,1,1,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,11780,Prolific
 61363ce02e6022a741d63a6e,,bang,0,0,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,1011,Prolific
+614f6bad672ef7cf5ecfd965,clear,bang,0.2,0,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,4233,Prolific
 62f17b6b63bd9e6627a19956,,bang,0,0,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,800,Prolific
 6314c1e76c3f71e2127f1976,flower,bang,0,0,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,2802,Prolific
 63d16398d05b8126c30c19ea,,bang,0,0,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,1596,Prolific
@@ -633,6 +690,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,steak,0,0,3,Read,give,Study1,U,Study Phase2,Recall2,1637,Prolific
 60fd56db5fe37ebeca00bc83,,steak,0,0,3,Read,give,Study1,U,Study Phase2,Recall2,20093,Prolific
 61363ce02e6022a741d63a6e,,steak,0,0,3,Read,give,Study1,U,Study Phase2,Recall2,1389,Prolific
+614f6bad672ef7cf5ecfd965,,steak,0,0,3,Read,give,Study1,U,Study Phase2,Recall2,4265,Prolific
 62f17b6b63bd9e6627a19956,,steak,0,0,3,Read,give,Study1,U,Study Phase2,Recall2,2094,Prolific
 6314c1e76c3f71e2127f1976,take,steak,0.8,1,3,Read,give,Study1,U,Study Phase2,Recall2,2538,Prolific
 63d16398d05b8126c30c19ea,take,steak,0.8,1,3,Read,give,Study1,U,Study Phase2,Recall2,2251,Prolific
@@ -644,6 +702,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,cotton,0,0,3,Read,hard,Study1,M,Study Phase2,Recall2,2107,Prolific
 60fd56db5fe37ebeca00bc83,rough,cotton,0.166666667,0,3,Read,hard,Study1,M,Study Phase2,Recall2,15689,Prolific
 61363ce02e6022a741d63a6e,,cotton,0,0,3,Read,hard,Study1,M,Study Phase2,Recall2,1406,Prolific
+614f6bad672ef7cf5ecfd965,,cotton,0,0,3,Read,hard,Study1,M,Study Phase2,Recall2,6566,Prolific
 62f17b6b63bd9e6627a19956,,cotton,0,0,3,Read,hard,Study1,M,Study Phase2,Recall2,818,Prolific
 6314c1e76c3f71e2127f1976,soft,cotton,0.333333333,0,3,Read,hard,Study1,M,Study Phase2,Recall2,2711,Prolific
 63d16398d05b8126c30c19ea,,cotton,0,0,3,Read,hard,Study1,M,Study Phase2,Recall2,1042,Prolific
@@ -655,6 +714,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,wheel,0,0,3,Read,horse,Study1,M,Study Phase2,Recall2,1367,Prolific
 60fd56db5fe37ebeca00bc83,wheel,wheel,1,1,3,Read,horse,Study1,M,Study Phase2,Recall2,17342,Prolific
 61363ce02e6022a741d63a6e,mule,wheel,0.4,0,3,Read,horse,Study1,M,Study Phase2,Recall2,3644,Prolific
+614f6bad672ef7cf5ecfd965,donkey,wheel,0.166666667,0,3,Read,horse,Study1,M,Study Phase2,Recall2,6486,Prolific
 62f17b6b63bd9e6627a19956,,wheel,0,0,3,Read,horse,Study1,M,Study Phase2,Recall2,940,Prolific
 6314c1e76c3f71e2127f1976,pasture,wheel,0.142857143,0,3,Read,horse,Study1,M,Study Phase2,Recall2,3657,Prolific
 63d16398d05b8126c30c19ea,wheel,wheel,1,1,3,Read,horse,Study1,M,Study Phase2,Recall2,1767,Prolific
@@ -666,6 +726,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,clean,clean,1,1,3,Read,hygiene,Study1,F,Study Phase2,Recall2,1753,Prolific
 60fd56db5fe37ebeca00bc83,clean,clean,1,1,3,Read,hygiene,Study1,F,Study Phase2,Recall2,5916,Prolific
 61363ce02e6022a741d63a6e,clean,clean,1,1,3,Read,hygiene,Study1,F,Study Phase2,Recall2,3639,Prolific
+614f6bad672ef7cf5ecfd965,clean,clean,1,1,3,Read,hygiene,Study1,F,Study Phase2,Recall2,2712,Prolific
 62f17b6b63bd9e6627a19956,smell,clean,0.4,0,3,Read,hygiene,Study1,F,Study Phase2,Recall2,3452,Prolific
 6314c1e76c3f71e2127f1976,razor,clean,0.2,0,3,Read,hygiene,Study1,F,Study Phase2,Recall2,3369,Prolific
 63d16398d05b8126c30c19ea,clean,clean,1,1,3,Read,hygiene,Study1,F,Study Phase2,Recall2,1280,Prolific
@@ -677,6 +738,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,1272,Prolific
 60fd56db5fe37ebeca00bc83,night,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,20853,Prolific
 61363ce02e6022a741d63a6e,,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,1127,Prolific
+614f6bad672ef7cf5ecfd965,rod,rod,1,1,3,Read,keys,Study1,U,Study Phase2,Recall2,4088,Prolific
 62f17b6b63bd9e6627a19956,meat,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,6129,Prolific
 6314c1e76c3f71e2127f1976,jingle,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,2755,Prolific
 63d16398d05b8126c30c19ea,,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,951,Prolific
@@ -688,6 +750,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,stripes,0,0,3,Read,lion,Study1,M,Study Phase2,Recall2,1073,Prolific
 60fd56db5fe37ebeca00bc83,stripes,stripes,1,1,3,Read,lion,Study1,M,Study Phase2,Recall2,13751,Prolific
 61363ce02e6022a741d63a6e,,stripes,0,0,3,Read,lion,Study1,M,Study Phase2,Recall2,2985,Prolific
+614f6bad672ef7cf5ecfd965,stripe,stripes,0.857142857,1,3,Read,lion,Study1,M,Study Phase2,Recall2,2808,Prolific
 62f17b6b63bd9e6627a19956,,stripes,0,0,3,Read,lion,Study1,M,Study Phase2,Recall2,325,Prolific
 6314c1e76c3f71e2127f1976,jungle,stripes,0.142857143,0,3,Read,lion,Study1,M,Study Phase2,Recall2,3524,Prolific
 63d16398d05b8126c30c19ea,stripes,stripes,1,1,3,Read,lion,Study1,M,Study Phase2,Recall2,1978,Prolific
@@ -699,6 +762,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,fiction,0,0,3,Read,listen,Study1,U,Study Phase2,Recall2,6707,Prolific
 60fd56db5fe37ebeca00bc83,fiction,fiction,1,1,3,Read,listen,Study1,U,Study Phase2,Recall2,9854,Prolific
 61363ce02e6022a741d63a6e,,fiction,0,0,3,Read,listen,Study1,U,Study Phase2,Recall2,1346,Prolific
+614f6bad672ef7cf5ecfd965,,fiction,0,0,3,Read,listen,Study1,U,Study Phase2,Recall2,7785,Prolific
 62f17b6b63bd9e6627a19956,,fiction,0,0,3,Read,listen,Study1,U,Study Phase2,Recall2,653,Prolific
 6314c1e76c3f71e2127f1976,hear,fiction,0,0,3,Read,listen,Study1,U,Study Phase2,Recall2,2972,Prolific
 63d16398d05b8126c30c19ea,hear,fiction,0,0,3,Read,listen,Study1,U,Study Phase2,Recall2,1595,Prolific
@@ -710,6 +774,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,trash,trash,1,1,3,Read,litter,Study1,F,Study Phase2,Recall2,2114,Prolific
 60fd56db5fe37ebeca00bc83,trash,trash,1,1,3,Read,litter,Study1,F,Study Phase2,Recall2,6949,Prolific
 61363ce02e6022a741d63a6e,trash,trash,1,1,3,Read,litter,Study1,F,Study Phase2,Recall2,35724,Prolific
+614f6bad672ef7cf5ecfd965,trash,trash,1,1,3,Read,litter,Study1,F,Study Phase2,Recall2,4086,Prolific
 62f17b6b63bd9e6627a19956,,trash,0,0,3,Read,litter,Study1,F,Study Phase2,Recall2,410,Prolific
 6314c1e76c3f71e2127f1976,cat,trash,0.4,0,3,Read,litter,Study1,F,Study Phase2,Recall2,4093,Prolific
 63d16398d05b8126c30c19ea,,trash,0,0,3,Read,litter,Study1,F,Study Phase2,Recall2,1135,Prolific
@@ -721,6 +786,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,phone,0,0,3,Read,maze,Study1,U,Study Phase2,Recall2,1242,Prolific
 60fd56db5fe37ebeca00bc83,,phone,0,0,3,Read,maze,Study1,U,Study Phase2,Recall2,19492,Prolific
 61363ce02e6022a741d63a6e,,phone,0,0,3,Read,maze,Study1,U,Study Phase2,Recall2,6599,Prolific
+614f6bad672ef7cf5ecfd965,,phone,0,0,3,Read,maze,Study1,U,Study Phase2,Recall2,3726,Prolific
 62f17b6b63bd9e6627a19956,,phone,0,0,3,Read,maze,Study1,U,Study Phase2,Recall2,1178,Prolific
 6314c1e76c3f71e2127f1976,jungle,phone,0.333333333,0,3,Read,maze,Study1,U,Study Phase2,Recall2,3139,Prolific
 63d16398d05b8126c30c19ea,phone,phone,1,1,3,Read,maze,Study1,U,Study Phase2,Recall2,1755,Prolific
@@ -732,6 +798,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,keys,0,0,3,Read,meat,Study1,U,Study Phase2,Recall2,1731,Prolific
 60fd56db5fe37ebeca00bc83,keys,keys,1,1,3,Read,meat,Study1,U,Study Phase2,Recall2,3197,Prolific
 61363ce02e6022a741d63a6e,,keys,0,0,3,Read,meat,Study1,U,Study Phase2,Recall2,1182,Prolific
+614f6bad672ef7cf5ecfd965,,keys,0,0,3,Read,meat,Study1,U,Study Phase2,Recall2,10594,Prolific
 62f17b6b63bd9e6627a19956,,keys,0,0,3,Read,meat,Study1,U,Study Phase2,Recall2,1421,Prolific
 6314c1e76c3f71e2127f1976,fish,keys,0.25,0,3,Read,meat,Study1,U,Study Phase2,Recall2,3148,Prolific
 63d16398d05b8126c30c19ea,,keys,0,0,3,Read,meat,Study1,U,Study Phase2,Recall2,1595,Prolific
@@ -743,6 +810,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,maroon,0,0,3,Read,mirror,Study1,U,Study Phase2,Recall2,1353,Prolific
 60fd56db5fe37ebeca00bc83,maroon,maroon,1,1,3,Read,mirror,Study1,U,Study Phase2,Recall2,8456,Prolific
 61363ce02e6022a741d63a6e,,maroon,0,0,3,Read,mirror,Study1,U,Study Phase2,Recall2,1428,Prolific
+614f6bad672ef7cf5ecfd965,,maroon,0,0,3,Read,mirror,Study1,U,Study Phase2,Recall2,4958,Prolific
 62f17b6b63bd9e6627a19956,,maroon,0,0,3,Read,mirror,Study1,U,Study Phase2,Recall2,415,Prolific
 6314c1e76c3f71e2127f1976,,maroon,0,0,3,Read,mirror,Study1,U,Study Phase2,Recall2,9812,Prolific
 63d16398d05b8126c30c19ea,maroon,maroon,1,1,3,Read,mirror,Study1,U,Study Phase2,Recall2,1835,Prolific
@@ -761,6 +829,8 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 60fd56db5fe37ebeca00bc83,donkey,donkey,1,1,3,Read,mule,Study1,F,Study Phase2,Recall2,2543,Prolific
 61363ce02e6022a741d63a6e,,donkey,0,0,3,Read,mule,Study1,F,Study Phase2,Recall2,2096,Prolific
 61363ce02e6022a741d63a6e,horse,donkey,0.333333333,0,3,Read,mule,Study1,F,Study Phase2,Recall2,3135,Prolific
+614f6bad672ef7cf5ecfd965,donkey,donkey,1,1,3,Read,mule,Study1,F,Study Phase2,Recall2,2740,Prolific
+614f6bad672ef7cf5ecfd965,donkey,donkey,1,1,3,Read,mule,Study1,F,Study Phase2,Recall2,2835,Prolific
 62f17b6b63bd9e6627a19956,,donkey,0,0,3,Read,mule,Study1,F,Study Phase2,Recall2,17706,Prolific
 62f17b6b63bd9e6627a19956,,donkey,0,0,3,Read,mule,Study1,F,Study Phase2,Recall2,1120,Prolific
 6314c1e76c3f71e2127f1976,cow,donkey,0.166666667,0,3,Read,mule,Study1,F,Study Phase2,Recall2,7352,Prolific
@@ -776,6 +846,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,tired,sleep,0.2,0,3,Read,nap,Study1,F,Study Phase2,Recall2,3070,Prolific
 60fd56db5fe37ebeca00bc83,sleep,sleep,1,1,3,Read,nap,Study1,F,Study Phase2,Recall2,9337,Prolific
 61363ce02e6022a741d63a6e,,sleep,0,0,3,Read,nap,Study1,F,Study Phase2,Recall2,1128,Prolific
+614f6bad672ef7cf5ecfd965,sleep,sleep,1,1,3,Read,nap,Study1,F,Study Phase2,Recall2,2771,Prolific
 62f17b6b63bd9e6627a19956,,sleep,0,0,3,Read,nap,Study1,F,Study Phase2,Recall2,843,Prolific
 6314c1e76c3f71e2127f1976,baby,sleep,0,0,3,Read,nap,Study1,F,Study Phase2,Recall2,3439,Prolific
 63d16398d05b8126c30c19ea,sleep,sleep,1,1,3,Read,nap,Study1,F,Study Phase2,Recall2,1402,Prolific
@@ -787,6 +858,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,1695,Prolific
 60fd56db5fe37ebeca00bc83,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,2299,Prolific
 61363ce02e6022a741d63a6e,tree,flower,0.333333333,0,3,Read,orchid,Study1,F,Study Phase2,Recall2,2795,Prolific
+614f6bad672ef7cf5ecfd965,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,2490,Prolific
 62f17b6b63bd9e6627a19956,,flower,0,0,3,Read,orchid,Study1,F,Study Phase2,Recall2,1495,Prolific
 6314c1e76c3f71e2127f1976,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,2961,Prolific
 63d16398d05b8126c30c19ea,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,1409,Prolific
@@ -798,6 +870,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,plant,plant,1,1,3,Read,root,Study1,F,Study Phase2,Recall2,1836,Prolific
 60fd56db5fe37ebeca00bc83,plant,plant,1,1,3,Read,root,Study1,F,Study Phase2,Recall2,10783,Prolific
 61363ce02e6022a741d63a6e,plant,plant,1,1,3,Read,root,Study1,F,Study Phase2,Recall2,3586,Prolific
+614f6bad672ef7cf5ecfd965,tree,plant,0.2,0,3,Read,root,Study1,F,Study Phase2,Recall2,12045,Prolific
 62f17b6b63bd9e6627a19956,,plant,0,0,3,Read,root,Study1,F,Study Phase2,Recall2,749,Prolific
 6314c1e76c3f71e2127f1976,plant,plant,1,1,3,Read,root,Study1,F,Study Phase2,Recall2,3058,Prolific
 63d16398d05b8126c30c19ea,plant,plant,1,1,3,Read,root,Study1,F,Study Phase2,Recall2,1590,Prolific
@@ -809,6 +882,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,silk,silk,1,1,3,Read,rough,Study1,M,Study Phase2,Recall2,2034,Prolific
 60fd56db5fe37ebeca00bc83,silk,silk,1,1,3,Read,rough,Study1,M,Study Phase2,Recall2,7370,Prolific
 61363ce02e6022a741d63a6e,,silk,0,0,3,Read,rough,Study1,M,Study Phase2,Recall2,921,Prolific
+614f6bad672ef7cf5ecfd965,silk,silk,1,1,3,Read,rough,Study1,M,Study Phase2,Recall2,2921,Prolific
 62f17b6b63bd9e6627a19956,,silk,0,0,3,Read,rough,Study1,M,Study Phase2,Recall2,1258,Prolific
 6314c1e76c3f71e2127f1976,soft,silk,0.25,0,3,Read,rough,Study1,M,Study Phase2,Recall2,3688,Prolific
 63d16398d05b8126c30c19ea,,silk,0,0,3,Read,rough,Study1,M,Study Phase2,Recall2,982,Prolific
@@ -820,6 +894,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,hair,head,0.5,0,3,Read,scalp,Study1,F,Study Phase2,Recall2,2718,Prolific
 60fd56db5fe37ebeca00bc83,head,head,1,1,3,Read,scalp,Study1,F,Study Phase2,Recall2,18383,Prolific
 61363ce02e6022a741d63a6e,head,head,1,1,3,Read,scalp,Study1,F,Study Phase2,Recall2,2858,Prolific
+614f6bad672ef7cf5ecfd965,hair,head,0.5,0,3,Read,scalp,Study1,F,Study Phase2,Recall2,3870,Prolific
 62f17b6b63bd9e6627a19956,,head,0,0,3,Read,scalp,Study1,F,Study Phase2,Recall2,1536,Prolific
 6314c1e76c3f71e2127f1976,bald,head,0.5,0,3,Read,scalp,Study1,F,Study Phase2,Recall2,2888,Prolific
 63d16398d05b8126c30c19ea,head,head,1,1,3,Read,scalp,Study1,F,Study Phase2,Recall2,1202,Prolific
@@ -831,6 +906,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,shake,shake,1,1,3,Read,shell,Study1,U,Study Phase2,Recall2,2608,Prolific
 60fd56db5fe37ebeca00bc83,beach,shake,0.6,0,3,Read,shell,Study1,U,Study Phase2,Recall2,3968,Prolific
 61363ce02e6022a741d63a6e,,shake,0,0,3,Read,shell,Study1,U,Study Phase2,Recall2,1399,Prolific
+614f6bad672ef7cf5ecfd965,shock,shake,0.6,0,3,Read,shell,Study1,U,Study Phase2,Recall2,6552,Prolific
 62f17b6b63bd9e6627a19956,,shake,0,0,3,Read,shell,Study1,U,Study Phase2,Recall2,510,Prolific
 6314c1e76c3f71e2127f1976,beach,shake,0.6,0,3,Read,shell,Study1,U,Study Phase2,Recall2,8812,Prolific
 63d16398d05b8126c30c19ea,shock,shake,0.6,0,3,Read,shell,Study1,U,Study Phase2,Recall2,1842,Prolific
@@ -842,6 +918,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,1133,Prolific
 60fd56db5fe37ebeca00bc83,,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,15897,Prolific
 61363ce02e6022a741d63a6e,,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,1979,Prolific
+614f6bad672ef7cf5ecfd965,,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,5114,Prolific
 62f17b6b63bd9e6627a19956,,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,845,Prolific
 6314c1e76c3f71e2127f1976,anglw,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,10668,Prolific
 63d16398d05b8126c30c19ea,,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,1595,Prolific
@@ -853,6 +930,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,drinik,drink,0.833333333,1,3,Read,sip,Study1,F,Study Phase2,Recall2,1933,Prolific
 60fd56db5fe37ebeca00bc83,drink,drink,1,1,3,Read,sip,Study1,F,Study Phase2,Recall2,2304,Prolific
 61363ce02e6022a741d63a6e,,drink,0,0,3,Read,sip,Study1,F,Study Phase2,Recall2,2420,Prolific
+614f6bad672ef7cf5ecfd965,drinkl,drink,0.833333333,1,3,Read,sip,Study1,F,Study Phase2,Recall2,3139,Prolific
 62f17b6b63bd9e6627a19956,,drink,0,0,3,Read,sip,Study1,F,Study Phase2,Recall2,1216,Prolific
 6314c1e76c3f71e2127f1976,drink,drink,1,1,3,Read,sip,Study1,F,Study Phase2,Recall2,6244,Prolific
 63d16398d05b8126c30c19ea,drink,drink,1,1,3,Read,sip,Study1,F,Study Phase2,Recall2,1584,Prolific
@@ -864,6 +942,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,belt,0,0,3,Read,soon,Study1,U,Study Phase2,Recall2,2056,Prolific
 60fd56db5fe37ebeca00bc83,belt,belt,1,1,3,Read,soon,Study1,U,Study Phase2,Recall2,12376,Prolific
 61363ce02e6022a741d63a6e,,belt,0,0,3,Read,soon,Study1,U,Study Phase2,Recall2,738,Prolific
+614f6bad672ef7cf5ecfd965,,belt,0,0,3,Read,soon,Study1,U,Study Phase2,Recall2,5781,Prolific
 62f17b6b63bd9e6627a19956,,belt,0,0,3,Read,soon,Study1,U,Study Phase2,Recall2,1887,Prolific
 6314c1e76c3f71e2127f1976,after,belt,0.4,0,3,Read,soon,Study1,U,Study Phase2,Recall2,2809,Prolific
 63d16398d05b8126c30c19ea,,belt,0,0,3,Read,soon,Study1,U,Study Phase2,Recall2,964,Prolific
@@ -875,6 +954,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,cloth,0,0,3,Read,stretch,Study1,U,Study Phase2,Recall2,1588,Prolific
 60fd56db5fe37ebeca00bc83,cloth,cloth,1,1,3,Read,stretch,Study1,U,Study Phase2,Recall2,13689,Prolific
 61363ce02e6022a741d63a6e,,cloth,0,0,3,Read,stretch,Study1,U,Study Phase2,Recall2,1276,Prolific
+614f6bad672ef7cf5ecfd965,cloth,cloth,1,1,3,Read,stretch,Study1,U,Study Phase2,Recall2,3718,Prolific
 62f17b6b63bd9e6627a19956,,cloth,0,0,3,Read,stretch,Study1,U,Study Phase2,Recall2,1278,Prolific
 6314c1e76c3f71e2127f1976,lift,cloth,0.4,0,3,Read,stretch,Study1,U,Study Phase2,Recall2,5786,Prolific
 63d16398d05b8126c30c19ea,,cloth,0,0,3,Read,stretch,Study1,U,Study Phase2,Recall2,1904,Prolific
@@ -886,6 +966,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,duck,bird,0.25,0,3,Read,swan,Study1,F,Study Phase2,Recall2,4867,Prolific
 60fd56db5fe37ebeca00bc83,bird,bird,1,1,3,Read,swan,Study1,F,Study Phase2,Recall2,17832,Prolific
 61363ce02e6022a741d63a6e,bird,bird,1,1,3,Read,swan,Study1,F,Study Phase2,Recall2,3459,Prolific
+614f6bad672ef7cf5ecfd965,bird,bird,1,1,3,Read,swan,Study1,F,Study Phase2,Recall2,8290,Prolific
 62f17b6b63bd9e6627a19956,,bird,0,0,3,Read,swan,Study1,F,Study Phase2,Recall2,633,Prolific
 6314c1e76c3f71e2127f1976,goose,bird,0,0,3,Read,swan,Study1,F,Study Phase2,Recall2,3245,Prolific
 63d16398d05b8126c30c19ea,,bird,0,0,3,Read,swan,Study1,F,Study Phase2,Recall2,1117,Prolific
@@ -897,6 +978,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,morning,morning,1,1,3,Read,temperature,Study1,U,Study Phase2,Recall2,2747,Prolific
 60fd56db5fe37ebeca00bc83,morning,morning,1,1,3,Read,temperature,Study1,U,Study Phase2,Recall2,14998,Prolific
 61363ce02e6022a741d63a6e,hot,morning,0.142857143,0,3,Read,temperature,Study1,U,Study Phase2,Recall2,3481,Prolific
+614f6bad672ef7cf5ecfd965,cold,morning,0.142857143,0,3,Read,temperature,Study1,U,Study Phase2,Recall2,5659,Prolific
 62f17b6b63bd9e6627a19956,,morning,0,0,3,Read,temperature,Study1,U,Study Phase2,Recall2,941,Prolific
 6314c1e76c3f71e2127f1976,hot,morning,0.142857143,0,3,Read,temperature,Study1,U,Study Phase2,Recall2,2049,Prolific
 63d16398d05b8126c30c19ea,high,morning,0.285714286,0,3,Read,temperature,Study1,U,Study Phase2,Recall2,1874,Prolific
@@ -908,6 +990,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,hair,0,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,2845,Prolific
 60fd56db5fe37ebeca00bc83,hair,hair,1,1,3,Read,tooth,Study1,M,Study Phase2,Recall2,6031,Prolific
 61363ce02e6022a741d63a6e,,hair,0,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,2107,Prolific
+614f6bad672ef7cf5ecfd965,scalp,hair,0.2,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,11091,Prolific
 62f17b6b63bd9e6627a19956,,hair,0,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,792,Prolific
 6314c1e76c3f71e2127f1976,dentist,hair,0.142857143,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,8012,Prolific
 63d16398d05b8126c30c19ea,ache,hair,0.5,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,1650,Prolific
@@ -919,6 +1002,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,syrup,0,0,3,Read,tree,Study1,M,Study Phase2,Recall2,2329,Prolific
 60fd56db5fe37ebeca00bc83,green,syrup,0.2,0,3,Read,tree,Study1,M,Study Phase2,Recall2,9184,Prolific
 61363ce02e6022a741d63a6e,plant,syrup,0.2,0,3,Read,tree,Study1,M,Study Phase2,Recall2,11044,Prolific
+614f6bad672ef7cf5ecfd965,green,syrup,0.2,0,3,Read,tree,Study1,M,Study Phase2,Recall2,6109,Prolific
 62f17b6b63bd9e6627a19956,green,syrup,0.2,0,3,Read,tree,Study1,M,Study Phase2,Recall2,7743,Prolific
 6314c1e76c3f71e2127f1976,house,syrup,0.4,0,3,Read,tree,Study1,M,Study Phase2,Recall2,2799,Prolific
 63d16398d05b8126c30c19ea,,syrup,0,0,3,Read,tree,Study1,M,Study Phase2,Recall2,1635,Prolific
@@ -930,6 +1014,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,fish,fish,1,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,3536,Prolific
 60fd56db5fe37ebeca00bc83,fish,fish,1,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,1782,Prolific
 61363ce02e6022a741d63a6e,fish,fish,1,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,2626,Prolific
+614f6bad672ef7cf5ecfd965,fish,fish,1,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,1945,Prolific
 62f17b6b63bd9e6627a19956,,fish,0,0,3,Read,tuna,Study1,F,Study Phase2,Recall2,1205,Prolific
 6314c1e76c3f71e2127f1976,cat,fish,0,0,3,Read,tuna,Study1,F,Study Phase2,Recall2,3935,Prolific
 63d16398d05b8126c30c19ea,fish,fish,1,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,1370,Prolific
@@ -941,6 +1026,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,charm,0,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,3520,Prolific
 60fd56db5fe37ebeca00bc83,car,charm,0.6,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,3903,Prolific
 61363ce02e6022a741d63a6e,,charm,0,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,1157,Prolific
+614f6bad672ef7cf5ecfd965,car,charm,0.6,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,3242,Prolific
 62f17b6b63bd9e6627a19956,,charm,0,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,469,Prolific
 6314c1e76c3f71e2127f1976,model,charm,0.2,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,2785,Prolific
 63d16398d05b8126c30c19ea,car,charm,0.6,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,1628,Prolific
@@ -952,6 +1038,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,money,0,0,3,Read,wage,Study1,F,Study Phase2,Recall2,1523,Prolific
 60fd56db5fe37ebeca00bc83,money,money,1,1,3,Read,wage,Study1,F,Study Phase2,Recall2,10211,Prolific
 61363ce02e6022a741d63a6e,,money,0,0,3,Read,wage,Study1,F,Study Phase2,Recall2,1421,Prolific
+614f6bad672ef7cf5ecfd965,,money,0,0,3,Read,wage,Study1,F,Study Phase2,Recall2,3781,Prolific
 62f17b6b63bd9e6627a19956,,money,0,0,3,Read,wage,Study1,F,Study Phase2,Recall2,2326,Prolific
 6314c1e76c3f71e2127f1976,hour,money,0.2,0,3,Read,wage,Study1,F,Study Phase2,Recall2,4567,Prolific
 63d16398d05b8126c30c19ea,,money,0,0,3,Read,wage,Study1,F,Study Phase2,Recall2,1473,Prolific
@@ -963,6 +1050,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,quiet,0,0,3,Read,war,Study1,M,Study Phase2,Recall2,4567,Prolific
 60fd56db5fe37ebeca00bc83,quiet,quiet,1,1,3,Read,war,Study1,M,Study Phase2,Recall2,2827,Prolific
 61363ce02e6022a741d63a6e,,quiet,0,0,3,Read,war,Study1,M,Study Phase2,Recall2,1429,Prolific
+614f6bad672ef7cf5ecfd965,quiet,quiet,1,1,3,Read,war,Study1,M,Study Phase2,Recall2,3616,Prolific
 62f17b6b63bd9e6627a19956,,quiet,0,0,3,Read,war,Study1,M,Study Phase2,Recall2,4397,Prolific
 6314c1e76c3f71e2127f1976,peace,quiet,0.2,0,3,Read,war,Study1,M,Study Phase2,Recall2,5335,Prolific
 63d16398d05b8126c30c19ea,fight,quiet,0.4,0,3,Read,war,Study1,M,Study Phase2,Recall2,1935,Prolific
@@ -974,6 +1062,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,cake,finger,0.166666667,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,3983,Prolific
 60fd56db5fe37ebeca00bc83,dance,finger,0.333333333,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,19683,Prolific
 61363ce02e6022a741d63a6e,,finger,0,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,1436,Prolific
+614f6bad672ef7cf5ecfd965,ring,finger,0.666666667,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,4691,Prolific
 62f17b6b63bd9e6627a19956,,finger,0,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,516,Prolific
 6314c1e76c3f71e2127f1976,ring,finger,0.666666667,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,2379,Prolific
 63d16398d05b8126c30c19ea,ring,finger,0.666666667,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,1488,Prolific
@@ -985,11 +1074,13 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,sentence,sentence,1,1,3,Read,word,Study1,F,Study Phase2,Recall2,2807,Prolific
 60fd56db5fe37ebeca00bc83,language,sentence,0.25,0,3,Read,word,Study1,F,Study Phase2,Recall2,3707,Prolific
 61363ce02e6022a741d63a6e,,sentence,0,0,3,Read,word,Study1,F,Study Phase2,Recall2,1663,Prolific
+614f6bad672ef7cf5ecfd965,document,sentence,0.5,0,3,Read,word,Study1,F,Study Phase2,Recall2,7624,Prolific
 62f17b6b63bd9e6627a19956,,sentence,0,0,3,Read,word,Study1,F,Study Phase2,Recall2,599,Prolific
 6314c1e76c3f71e2127f1976,pipe,sentence,0.125,0,3,Read,word,Study1,F,Study Phase2,Recall2,5023,Prolific
 63d16398d05b8126c30c19ea,,sentence,0,0,3,Read,word,Study1,F,Study Phase2,Recall2,1630,Prolific
 63e57dfe078c526e4fb9d33f,sentence,sentence,1,1,3,Read,word,Study1,F,Study Phase2,Recall2,7959,Prolific
 55b2d3f2fdf99b525bc839aa,drawing,wolf,0.142857143,0,1,Read,art,Study2,U,Study Phase2,Recall2,3240,Prolific
+56fc8248b5648e000fac9980,frame,wolf,0.2,0,1,Read,art,Study2,U,Study Phase2,Recall2,5084,Prolific
 5a8b1ee2000dab00018cc7cd,,wolf,0,0,1,Read,art,Study2,U,Study Phase2,Recall2,29347,Prolific
 5d4225e01985380018375d83,painting,wolf,0,0,1,Read,art,Study2,U,Study Phase2,Recall2,2648,Prolific
 5f79bca83a2eb65c0983816d,look,wolf,0.5,0,1,Read,art,Study2,U,Study Phase2,Recall2,5905,Prolific
@@ -1001,6 +1092,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,painting,wolf,0,0,1,Read,art,Study2,U,Study Phase2,Recall2,3460,Prolific
 63d7d95057d77b4c34b3afe8,wolf,wolf,1,1,1,Read,art,Study2,U,Study Phase2,Recall2,4793,Prolific
 55b2d3f2fdf99b525bc839aa,bronze,bronze,1,1,1,Read,artery,Study2,U,Study Phase2,Recall2,16554,Prolific
+56fc8248b5648e000fac9980,heart,bronze,0.333333333,0,1,Read,artery,Study2,U,Study Phase2,Recall2,5537,Prolific
 5a8b1ee2000dab00018cc7cd,bronze,bronze,1,1,1,Read,artery,Study2,U,Study Phase2,Recall2,7131,Prolific
 5d4225e01985380018375d83,vein ,bronze,0.333333333,0,1,Read,artery,Study2,U,Study Phase2,Recall2,4654,Prolific
 5f79bca83a2eb65c0983816d,blood,bronze,0.333333333,0,1,Read,artery,Study2,U,Study Phase2,Recall2,7626,Prolific
@@ -1012,6 +1104,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,copper,bronze,0.5,0,1,Read,artery,Study2,U,Study Phase2,Recall2,5501,Prolific
 63d7d95057d77b4c34b3afe8,vein,bronze,0.333333333,0,1,Read,artery,Study2,U,Study Phase2,Recall2,3162,Prolific
 55b2d3f2fdf99b525bc839aa,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,36938,Prolific
+56fc8248b5648e000fac9980,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,4666,Prolific
 5a8b1ee2000dab00018cc7cd,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,4425,Prolific
 5d4225e01985380018375d83,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,2255,Prolific
 5f79bca83a2eb65c0983816d,dress,clothes,0.285714286,0,1,Read,attire,Study2,F,Study Phase2,Recall2,4428,Prolific
@@ -1023,6 +1116,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,2305,Prolific
 63d7d95057d77b4c34b3afe8,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,2528,Prolific
 55b2d3f2fdf99b525bc839aa,warmer,horn,0.166666667,0,1,Read,bench,Study2,U,Study Phase2,Recall2,1668,Prolific
+56fc8248b5648e000fac9980,press,horn,0.2,0,1,Read,bench,Study2,U,Study Phase2,Recall2,10694,Prolific
 5a8b1ee2000dab00018cc7cd,horn,horn,1,1,1,Read,bench,Study2,U,Study Phase2,Recall2,6238,Prolific
 5d4225e01985380018375d83,sit,horn,0,0,1,Read,bench,Study2,U,Study Phase2,Recall2,2492,Prolific
 5f79bca83a2eb65c0983816d,wait,horn,0,0,1,Read,bench,Study2,U,Study Phase2,Recall2,7448,Prolific
@@ -1034,6 +1128,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,horn,0,0,1,Read,bench,Study2,U,Study Phase2,Recall2,696,Prolific
 63d7d95057d77b4c34b3afe8,,horn,0,0,1,Read,bench,Study2,U,Study Phase2,Recall2,2422,Prolific
 55b2d3f2fdf99b525bc839aa,smoke,fire,0.2,0,1,Read,blaze,Study2,F,Study Phase2,Recall2,2209,Prolific
+56fc8248b5648e000fac9980,fire,fire,1,1,1,Read,blaze,Study2,F,Study Phase2,Recall2,2697,Prolific
 5a8b1ee2000dab00018cc7cd,fire,fire,1,1,1,Read,blaze,Study2,F,Study Phase2,Recall2,3416,Prolific
 5d4225e01985380018375d83,fire,fire,1,1,1,Read,blaze,Study2,F,Study Phase2,Recall2,1796,Prolific
 5f79bca83a2eb65c0983816d,fire,fire,1,1,1,Read,blaze,Study2,F,Study Phase2,Recall2,4088,Prolific
@@ -1045,6 +1140,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,fire,0,0,1,Read,blaze,Study2,F,Study Phase2,Recall2,1143,Prolific
 63d7d95057d77b4c34b3afe8,fire,fire,1,1,1,Read,blaze,Study2,F,Study Phase2,Recall2,1740,Prolific
 55b2d3f2fdf99b525bc839aa,one,ounce,0.6,0,1,Read,both,Study2,U,Study Phase2,Recall2,2390,Prolific
+56fc8248b5648e000fac9980,neither,ounce,0.285714286,0,1,Read,both,Study2,U,Study Phase2,Recall2,4100,Prolific
 5a8b1ee2000dab00018cc7cd,ounce,ounce,1,1,1,Read,both,Study2,U,Study Phase2,Recall2,11151,Prolific
 5d4225e01985380018375d83,none,ounce,0.6,0,1,Read,both,Study2,U,Study Phase2,Recall2,3051,Prolific
 5f79bca83a2eb65c0983816d,either ,ounce,0.142857143,0,1,Read,both,Study2,U,Study Phase2,Recall2,6882,Prolific
@@ -1056,6 +1152,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,ounce,0,0,1,Read,both,Study2,U,Study Phase2,Recall2,49129,Prolific
 63d7d95057d77b4c34b3afe8,chill,ounce,0.2,0,1,Read,both,Study2,U,Study Phase2,Recall2,3777,Prolific
 55b2d3f2fdf99b525bc839aa,water,water,1,1,1,Read,bridge,Study2,F,Study Phase2,Recall2,28747,Prolific
+56fc8248b5648e000fac9980,tunnel,water,0.333333333,0,1,Read,bridge,Study2,F,Study Phase2,Recall2,7940,Prolific
 5a8b1ee2000dab00018cc7cd,water,water,1,1,1,Read,bridge,Study2,F,Study Phase2,Recall2,3563,Prolific
 5d4225e01985380018375d83,water,water,1,1,1,Read,bridge,Study2,F,Study Phase2,Recall2,2448,Prolific
 5f79bca83a2eb65c0983816d,drive ,water,0.333333333,0,1,Read,bridge,Study2,F,Study Phase2,Recall2,8895,Prolific
@@ -1067,6 +1164,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,water,0,0,1,Read,bridge,Study2,F,Study Phase2,Recall2,263,Prolific
 63d7d95057d77b4c34b3afe8,water,water,1,1,1,Read,bridge,Study2,F,Study Phase2,Recall2,1817,Prolific
 55b2d3f2fdf99b525bc839aa,salt,plant,0.6,0,1,Read,cactus,Study2,F,Study Phase2,Recall2,3191,Prolific
+56fc8248b5648e000fac9980,plant,plant,1,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,7403,Prolific
 5a8b1ee2000dab00018cc7cd,plant,plant,1,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,3463,Prolific
 5d4225e01985380018375d83,plant,plant,1,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,1567,Prolific
 5f79bca83a2eb65c0983816d,plant ,plant,0.833333333,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,4830,Prolific
@@ -1078,6 +1176,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,plant,plant,1,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,2076,Prolific
 63d7d95057d77b4c34b3afe8,plant,plant,1,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,2403,Prolific
 55b2d3f2fdf99b525bc839aa,cow,leg,0,0,1,Read,cash,Study2,U,Study Phase2,Recall2,1384,Prolific
+56fc8248b5648e000fac9980,flow,leg,0.25,0,1,Read,cash,Study2,U,Study Phase2,Recall2,2413,Prolific
 5a8b1ee2000dab00018cc7cd,flow,leg,0.25,0,1,Read,cash,Study2,U,Study Phase2,Recall2,12501,Prolific
 5d4225e01985380018375d83,money,leg,0.2,0,1,Read,cash,Study2,U,Study Phase2,Recall2,1438,Prolific
 5f79bca83a2eb65c0983816d,money,leg,0.2,0,1,Read,cash,Study2,U,Study Phase2,Recall2,8918,Prolific
@@ -1089,6 +1188,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,leg,0,0,1,Read,cash,Study2,U,Study Phase2,Recall2,927,Prolific
 63d7d95057d77b4c34b3afe8,pay,leg,0,0,1,Read,cash,Study2,U,Study Phase2,Recall2,13983,Prolific
 55b2d3f2fdf99b525bc839aa,pop,red,0,0,1,Read,cherry,Study2,F,Study Phase2,Recall2,1642,Prolific
+56fc8248b5648e000fac9980,soda,red,0.25,0,1,Read,cherry,Study2,F,Study Phase2,Recall2,3470,Prolific
 5a8b1ee2000dab00018cc7cd,red,red,1,1,1,Read,cherry,Study2,F,Study Phase2,Recall2,2756,Prolific
 5d4225e01985380018375d83,blossom,red,0,0,1,Read,cherry,Study2,F,Study Phase2,Recall2,2269,Prolific
 5f79bca83a2eb65c0983816d,fire,red,0.5,0,1,Read,cherry,Study2,F,Study Phase2,Recall2,5458,Prolific
@@ -1100,6 +1200,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,red,red,1,1,1,Read,cherry,Study2,F,Study Phase2,Recall2,2195,Prolific
 63d7d95057d77b4c34b3afe8,red,red,1,1,1,Read,cherry,Study2,F,Study Phase2,Recall2,1621,Prolific
 55b2d3f2fdf99b525bc839aa,night,cold,0,0,1,Read,chill,Study2,F,Study Phase2,Recall2,7547,Prolific
+56fc8248b5648e000fac9980,out,cold,0.25,0,1,Read,chill,Study2,F,Study Phase2,Recall2,2888,Prolific
 5a8b1ee2000dab00018cc7cd,cold,cold,1,1,1,Read,chill,Study2,F,Study Phase2,Recall2,3736,Prolific
 5d4225e01985380018375d83,cold,cold,1,1,1,Read,chill,Study2,F,Study Phase2,Recall2,1548,Prolific
 5f79bca83a2eb65c0983816d,cold,cold,1,1,1,Read,chill,Study2,F,Study Phase2,Recall2,9190,Prolific
@@ -1111,6 +1212,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,cold,0,0,1,Read,chill,Study2,F,Study Phase2,Recall2,961,Prolific
 63d7d95057d77b4c34b3afe8,cold,cold,1,1,1,Read,chill,Study2,F,Study Phase2,Recall2,8891,Prolific
 55b2d3f2fdf99b525bc839aa,metal,hammer,0.5,0,1,Read,chisel,Study2,F,Study Phase2,Recall2,2452,Prolific
+56fc8248b5648e000fac9980,hammer,hammer,1,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,17529,Prolific
 5a8b1ee2000dab00018cc7cd,hammer,hammer,1,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,3203,Prolific
 5d4225e01985380018375d83,hammer,hammer,1,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,3678,Prolific
 5f79bca83a2eb65c0983816d,hammer ,hammer,0.857142857,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,8684,Prolific
@@ -1122,6 +1224,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,hammer,hammer,1,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,2272,Prolific
 63d7d95057d77b4c34b3afe8,happy,hammer,0.333333333,0,1,Read,chisel,Study2,F,Study Phase2,Recall2,3276,Prolific
 55b2d3f2fdf99b525bc839aa,cut,cut,1,1,1,Read,chop,Study2,F,Study Phase2,Recall2,8076,Prolific
+56fc8248b5648e000fac9980,meat,cut,0.25,0,1,Read,chop,Study2,F,Study Phase2,Recall2,5333,Prolific
 5a8b1ee2000dab00018cc7cd,cut,cut,1,1,1,Read,chop,Study2,F,Study Phase2,Recall2,3407,Prolific
 5d4225e01985380018375d83,cut,cut,1,1,1,Read,chop,Study2,F,Study Phase2,Recall2,1991,Prolific
 5f79bca83a2eb65c0983816d,cut ,cut,0.75,1,1,Read,chop,Study2,F,Study Phase2,Recall2,5333,Prolific
@@ -1133,6 +1236,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,cut,0,0,1,Read,chop,Study2,F,Study Phase2,Recall2,1012,Prolific
 63d7d95057d77b4c34b3afe8,,cut,0,0,1,Read,chop,Study2,F,Study Phase2,Recall2,2580,Prolific
 55b2d3f2fdf99b525bc839aa,alive,business,0.25,0,1,Read,death,Study2,U,Study Phase2,Recall2,2065,Prolific
+56fc8248b5648e000fac9980,bed',business,0.25,0,1,Read,death,Study2,U,Study Phase2,Recall2,5386,Prolific
 5a8b1ee2000dab00018cc7cd,business,business,1,1,1,Read,death,Study2,U,Study Phase2,Recall2,4904,Prolific
 5d4225e01985380018375d83,life,business,0.25,0,1,Read,death,Study2,U,Study Phase2,Recall2,1874,Prolific
 5f79bca83a2eb65c0983816d,,business,0,0,1,Read,death,Study2,U,Study Phase2,Recall2,16406,Prolific
@@ -1144,6 +1248,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,business,0,0,1,Read,death,Study2,U,Study Phase2,Recall2,788,Prolific
 63d7d95057d77b4c34b3afe8,business,business,1,1,1,Read,death,Study2,U,Study Phase2,Recall2,3301,Prolific
 55b2d3f2fdf99b525bc839aa,sack,sack,1,1,1,Read,dietary,Study2,U,Study Phase2,Recall2,7237,Prolific
+56fc8248b5648e000fac9980,needs,sack,0.2,0,1,Read,dietary,Study2,U,Study Phase2,Recall2,8186,Prolific
 5a8b1ee2000dab00018cc7cd,sack,sack,1,1,1,Read,dietary,Study2,U,Study Phase2,Recall2,11242,Prolific
 5d4225e01985380018375d83,food,sack,0,0,1,Read,dietary,Study2,U,Study Phase2,Recall2,1771,Prolific
 5f79bca83a2eb65c0983816d,eat,sack,0.25,0,1,Read,dietary,Study2,U,Study Phase2,Recall2,3740,Prolific
@@ -1155,6 +1260,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,sack,0,0,1,Read,dietary,Study2,U,Study Phase2,Recall2,3334,Prolific
 63d7d95057d77b4c34b3afe8,,sack,0,0,1,Read,dietary,Study2,U,Study Phase2,Recall2,2936,Prolific
 55b2d3f2fdf99b525bc839aa,tape,paper,0.6,0,1,Read,document,Study2,F,Study Phase2,Recall2,4347,Prolific
+56fc8248b5648e000fac9980,finder,paper,0.333333333,0,1,Read,document,Study2,F,Study Phase2,Recall2,3819,Prolific
 5a8b1ee2000dab00018cc7cd,paper,paper,1,1,1,Read,document,Study2,F,Study Phase2,Recall2,3431,Prolific
 5d4225e01985380018375d83,paper,paper,1,1,1,Read,document,Study2,F,Study Phase2,Recall2,1760,Prolific
 5f79bca83a2eb65c0983816d,paper ,paper,0.833333333,1,1,Read,document,Study2,F,Study Phase2,Recall2,6476,Prolific
@@ -1166,6 +1272,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,paper,0,0,1,Read,document,Study2,F,Study Phase2,Recall2,735,Prolific
 63d7d95057d77b4c34b3afe8,paper,paper,1,1,1,Read,document,Study2,F,Study Phase2,Recall2,1815,Prolific
 55b2d3f2fdf99b525bc839aa,vision,smell,0.166666667,0,1,Read,eyes,Study2,M,Study Phase2,Recall2,3966,Prolific
+56fc8248b5648e000fac9980,smell,smell,1,1,1,Read,eyes,Study2,M,Study Phase2,Recall2,5906,Prolific
 5a8b1ee2000dab00018cc7cd,smell,smell,1,1,1,Read,eyes,Study2,M,Study Phase2,Recall2,3678,Prolific
 5d4225e01985380018375d83,look,smell,0.2,0,1,Read,eyes,Study2,M,Study Phase2,Recall2,7183,Prolific
 5f79bca83a2eb65c0983816d,nose ,smell,0.4,0,1,Read,eyes,Study2,M,Study Phase2,Recall2,5181,Prolific
@@ -1177,6 +1284,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,smell,0,0,1,Read,eyes,Study2,M,Study Phase2,Recall2,1188,Prolific
 63d7d95057d77b4c34b3afe8,smell,smell,1,1,1,Read,eyes,Study2,M,Study Phase2,Recall2,1690,Prolific
 55b2d3f2fdf99b525bc839aa,fight,fight,1,1,1,Read,feud,Study2,F,Study Phase2,Recall2,7449,Prolific
+56fc8248b5648e000fac9980,family,fight,0.333333333,0,1,Read,feud,Study2,F,Study Phase2,Recall2,4440,Prolific
 5a8b1ee2000dab00018cc7cd,fight,fight,1,1,1,Read,feud,Study2,F,Study Phase2,Recall2,6146,Prolific
 5d4225e01985380018375d83,family,fight,0.333333333,0,1,Read,feud,Study2,F,Study Phase2,Recall2,2380,Prolific
 5f79bca83a2eb65c0983816d,fight ,fight,0.833333333,1,1,Read,feud,Study2,F,Study Phase2,Recall2,6380,Prolific
@@ -1188,6 +1296,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,fight,0,0,1,Read,feud,Study2,F,Study Phase2,Recall2,691,Prolific
 63d7d95057d77b4c34b3afe8,fight,fight,1,1,1,Read,feud,Study2,F,Study Phase2,Recall2,1789,Prolific
 55b2d3f2fdf99b525bc839aa,smoke,thigh,0,0,1,Read,grill,Study2,M,Study Phase2,Recall2,4138,Prolific
+56fc8248b5648e000fac9980,marks,thigh,0,0,1,Read,grill,Study2,M,Study Phase2,Recall2,13193,Prolific
 5a8b1ee2000dab00018cc7cd,thigh,thigh,1,1,1,Read,grill,Study2,M,Study Phase2,Recall2,3874,Prolific
 5d4225e01985380018375d83,chicken,thigh,0.285714286,0,1,Read,grill,Study2,M,Study Phase2,Recall2,3333,Prolific
 5f79bca83a2eb65c0983816d,cook,thigh,0,0,1,Read,grill,Study2,M,Study Phase2,Recall2,4451,Prolific
@@ -1199,6 +1308,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,thigh,0,0,1,Read,grill,Study2,M,Study Phase2,Recall2,955,Prolific
 63d7d95057d77b4c34b3afe8,,thigh,0,0,1,Read,grill,Study2,M,Study Phase2,Recall2,1262,Prolific
 55b2d3f2fdf99b525bc839aa,sad,car,0.333333333,0,1,Read,happy,Study2,U,Study Phase2,Recall2,1479,Prolific
+56fc8248b5648e000fac9980,smile,car,0,0,1,Read,happy,Study2,U,Study Phase2,Recall2,6092,Prolific
 5a8b1ee2000dab00018cc7cd,car,car,1,1,1,Read,happy,Study2,U,Study Phase2,Recall2,3037,Prolific
 5d4225e01985380018375d83,sad,car,0.333333333,0,1,Read,happy,Study2,U,Study Phase2,Recall2,1277,Prolific
 5f79bca83a2eb65c0983816d,glad,car,0.25,0,1,Read,happy,Study2,U,Study Phase2,Recall2,8726,Prolific
@@ -1210,6 +1320,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,car,0,0,1,Read,happy,Study2,U,Study Phase2,Recall2,680,Prolific
 63d7d95057d77b4c34b3afe8,,car,0,0,1,Read,happy,Study2,U,Study Phase2,Recall2,2399,Prolific
 55b2d3f2fdf99b525bc839aa,soft,feather,0.285714286,0,1,Read,heavy,Study2,M,Study Phase2,Recall2,2111,Prolific
+56fc8248b5648e000fac9980,burden,feather,0.285714286,0,1,Read,heavy,Study2,M,Study Phase2,Recall2,4961,Prolific
 5a8b1ee2000dab00018cc7cd,feather,feather,1,1,1,Read,heavy,Study2,M,Study Phase2,Recall2,6664,Prolific
 5d4225e01985380018375d83,cream,feather,0.428571429,0,1,Read,heavy,Study2,M,Study Phase2,Recall2,2130,Prolific
 5f79bca83a2eb65c0983816d,feather ,feather,0.875,1,1,Read,heavy,Study2,M,Study Phase2,Recall2,5917,Prolific
@@ -1221,6 +1332,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,feather,0,0,1,Read,heavy,Study2,M,Study Phase2,Recall2,560,Prolific
 63d7d95057d77b4c34b3afe8,load,feather,0.142857143,0,1,Read,heavy,Study2,M,Study Phase2,Recall2,2174,Prolific
 55b2d3f2fdf99b525bc839aa,cow,cow,1,1,1,Read,herd,Study2,F,Study Phase2,Recall2,12465,Prolific
+56fc8248b5648e000fac9980,sheep,cow,0,0,1,Read,herd,Study2,F,Study Phase2,Recall2,8693,Prolific
 5a8b1ee2000dab00018cc7cd,cow,cow,1,1,1,Read,herd,Study2,F,Study Phase2,Recall2,2875,Prolific
 5d4225e01985380018375d83,cow,cow,1,1,1,Read,herd,Study2,F,Study Phase2,Recall2,1450,Prolific
 5f79bca83a2eb65c0983816d,cow ,cow,0.75,1,1,Read,herd,Study2,F,Study Phase2,Recall2,8848,Prolific
@@ -1232,6 +1344,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,cow,0,0,1,Read,herd,Study2,F,Study Phase2,Recall2,1286,Prolific
 63d7d95057d77b4c34b3afe8,cow,cow,1,1,1,Read,herd,Study2,F,Study Phase2,Recall2,2577,Prolific
 55b2d3f2fdf99b525bc839aa,nest,sting,0.6,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,2719,Prolific
+56fc8248b5648e000fac9980,wasp,sting,0.2,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,2787,Prolific
 5a8b1ee2000dab00018cc7cd,sting,sting,1,1,1,Read,hornet,Study2,F,Study Phase2,Recall2,8060,Prolific
 5d4225e01985380018375d83,bee,sting,0,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,2518,Prolific
 5f79bca83a2eb65c0983816d,nest,sting,0.6,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,4227,Prolific
@@ -1243,6 +1356,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,sting,0,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,2624,Prolific
 63d7d95057d77b4c34b3afe8,wasp,sting,0.2,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,3222,Prolific
 55b2d3f2fdf99b525bc839aa,smell,smell,1,1,1,Read,incense,Study2,F,Study Phase2,Recall2,25917,Prolific
+56fc8248b5648e000fac9980,burner,smell,0.166666667,0,1,Read,incense,Study2,F,Study Phase2,Recall2,6154,Prolific
 5a8b1ee2000dab00018cc7cd,scent,smell,0.4,0,1,Read,incense,Study2,F,Study Phase2,Recall2,16830,Prolific
 5d4225e01985380018375d83,scents,smell,0.333333333,0,1,Read,incense,Study2,F,Study Phase2,Recall2,2830,Prolific
 5f79bca83a2eb65c0983816d,smell,smell,1,1,1,Read,incense,Study2,F,Study Phase2,Recall2,4394,Prolific
@@ -1254,6 +1368,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,smell,smell,1,1,1,Read,incense,Study2,F,Study Phase2,Recall2,2011,Prolific
 63d7d95057d77b4c34b3afe8,smell,smell,1,1,1,Read,incense,Study2,F,Study Phase2,Recall2,1657,Prolific
 55b2d3f2fdf99b525bc839aa,vase,vase,1,1,1,Read,king,Study2,U,Study Phase2,Recall2,42189,Prolific
+56fc8248b5648e000fac9980,queen,vase,0.2,0,1,Read,king,Study2,U,Study Phase2,Recall2,3051,Prolific
 5a8b1ee2000dab00018cc7cd,vase,vase,1,1,1,Read,king,Study2,U,Study Phase2,Recall2,3304,Prolific
 5d4225e01985380018375d83,throne,vase,0.166666667,0,1,Read,king,Study2,U,Study Phase2,Recall2,2512,Prolific
 5f79bca83a2eb65c0983816d,queen,vase,0.2,0,1,Read,king,Study2,U,Study Phase2,Recall2,5505,Prolific
@@ -1265,6 +1380,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,vase,0,0,1,Read,king,Study2,U,Study Phase2,Recall2,774,Prolific
 63d7d95057d77b4c34b3afe8,vase,vase,1,1,1,Read,king,Study2,U,Study Phase2,Recall2,2102,Prolific
 55b2d3f2fdf99b525bc839aa,baseball,baseball,1,1,1,Read,league,Study2,F,Study Phase2,Recall2,10309,Prolific
+56fc8248b5648e000fac9980,pass,baseball,0.25,0,1,Read,league,Study2,F,Study Phase2,Recall2,3838,Prolific
 5a8b1ee2000dab00018cc7cd,baseball,baseball,1,1,1,Read,league,Study2,F,Study Phase2,Recall2,4283,Prolific
 5d4225e01985380018375d83,baseball,baseball,1,1,1,Read,league,Study2,F,Study Phase2,Recall2,3641,Prolific
 5f79bca83a2eb65c0983816d,team,baseball,0.25,0,1,Read,league,Study2,F,Study Phase2,Recall2,5006,Prolific
@@ -1276,6 +1392,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,baseball,0,0,1,Read,league,Study2,F,Study Phase2,Recall2,1016,Prolific
 63d7d95057d77b4c34b3afe8,baseball,baseball,1,1,1,Read,league,Study2,F,Study Phase2,Recall2,2214,Prolific
 55b2d3f2fdf99b525bc839aa,own,toil,0.25,0,1,Read,lease,Study2,U,Study Phase2,Recall2,3115,Prolific
+56fc8248b5648e000fac9980,house,toil,0.2,0,1,Read,lease,Study2,U,Study Phase2,Recall2,4028,Prolific
 5a8b1ee2000dab00018cc7cd,toil,toil,1,1,1,Read,lease,Study2,U,Study Phase2,Recall2,3793,Prolific
 5d4225e01985380018375d83,house,toil,0.2,0,1,Read,lease,Study2,U,Study Phase2,Recall2,2495,Prolific
 5f79bca83a2eb65c0983816d,buy,toil,0,0,1,Read,lease,Study2,U,Study Phase2,Recall2,15235,Prolific
@@ -1287,6 +1404,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,toil,0,0,1,Read,lease,Study2,U,Study Phase2,Recall2,1448,Prolific
 63d7d95057d77b4c34b3afe8,,toil,0,0,1,Read,lease,Study2,U,Study Phase2,Recall2,2063,Prolific
 55b2d3f2fdf99b525bc839aa,face,children,0.25,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,2316,Prolific
+56fc8248b5648e000fac9980,glass,children,0.125,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,7433,Prolific
 5a8b1ee2000dab00018cc7cd,children,children,1,1,1,Read,mirror,Study2,U,Study Phase2,Recall2,4553,Prolific
 5d4225e01985380018375d83,see,children,0.125,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,2422,Prolific
 5f79bca83a2eb65c0983816d,reflection ,children,0.545454545,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,5663,Prolific
@@ -1298,6 +1416,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,reflection,children,0.6,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,6158,Prolific
 63d7d95057d77b4c34b3afe8,children,children,1,1,1,Read,mirror,Study2,U,Study Phase2,Recall2,3860,Prolific
 55b2d3f2fdf99b525bc839aa,doctor,lawyer,0.166666667,0,1,Read,nurse,Study2,M,Study Phase2,Recall2,2879,Prolific
+56fc8248b5648e000fac9980,joy,lawyer,0.166666667,0,1,Read,nurse,Study2,M,Study Phase2,Recall2,2319,Prolific
 5a8b1ee2000dab00018cc7cd,lawyer,lawyer,1,1,1,Read,nurse,Study2,M,Study Phase2,Recall2,4194,Prolific
 5d4225e01985380018375d83,lawyer,lawyer,1,1,1,Read,nurse,Study2,M,Study Phase2,Recall2,5148,Prolific
 5f79bca83a2eb65c0983816d,doctor ,lawyer,0.142857143,0,1,Read,nurse,Study2,M,Study Phase2,Recall2,8765,Prolific
@@ -1309,6 +1428,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,lawyer,0,0,1,Read,nurse,Study2,M,Study Phase2,Recall2,844,Prolific
 63d7d95057d77b4c34b3afe8,lawyer,lawyer,1,1,1,Read,nurse,Study2,M,Study Phase2,Recall2,2693,Prolific
 55b2d3f2fdf99b525bc839aa,roast,basket,0.5,0,1,Read,oven,Study2,M,Study Phase2,Recall2,2003,Prolific
+56fc8248b5648e000fac9980,grills,basket,0.166666667,0,1,Read,oven,Study2,M,Study Phase2,Recall2,5422,Prolific
 5a8b1ee2000dab00018cc7cd,basket,basket,1,1,1,Read,oven,Study2,M,Study Phase2,Recall2,4612,Prolific
 5d4225e01985380018375d83,hot,basket,0.166666667,0,1,Read,oven,Study2,M,Study Phase2,Recall2,1521,Prolific
 5f79bca83a2eb65c0983816d,bake,basket,0.666666667,0,1,Read,oven,Study2,M,Study Phase2,Recall2,5612,Prolific
@@ -1320,6 +1440,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,basket,0,0,1,Read,oven,Study2,M,Study Phase2,Recall2,927,Prolific
 63d7d95057d77b4c34b3afe8,clean,basket,0.333333333,0,1,Read,oven,Study2,M,Study Phase2,Recall2,3137,Prolific
 55b2d3f2fdf99b525bc839aa,shorts,collar,0.333333333,0,1,Read,pants,Study2,M,Study Phase2,Recall2,2313,Prolific
+56fc8248b5648e000fac9980,knickers,collar,0.25,0,1,Read,pants,Study2,M,Study Phase2,Recall2,6984,Prolific
 5a8b1ee2000dab00018cc7cd,collar,collar,1,1,1,Read,pants,Study2,M,Study Phase2,Recall2,3884,Prolific
 5d4225e01985380018375d83,clothes,collar,0.428571429,0,1,Read,pants,Study2,M,Study Phase2,Recall2,2354,Prolific
 5f79bca83a2eb65c0983816d,dress,collar,0.166666667,0,1,Read,pants,Study2,M,Study Phase2,Recall2,4102,Prolific
@@ -1331,6 +1452,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,collar,0,0,1,Read,pants,Study2,M,Study Phase2,Recall2,715,Prolific
 63d7d95057d77b4c34b3afe8,collar,collar,1,1,1,Read,pants,Study2,M,Study Phase2,Recall2,2355,Prolific
 55b2d3f2fdf99b525bc839aa,shove,clutter,0.142857143,0,1,Read,push,Study2,U,Study Phase2,Recall2,1671,Prolific
+56fc8248b5648e000fac9980,button,clutter,0.428571429,0,1,Read,push,Study2,U,Study Phase2,Recall2,2778,Prolific
 5a8b1ee2000dab00018cc7cd,clutter,clutter,1,1,1,Read,push,Study2,U,Study Phase2,Recall2,21936,Prolific
 5d4225e01985380018375d83,button,clutter,0.428571429,0,1,Read,push,Study2,U,Study Phase2,Recall2,1838,Prolific
 5f79bca83a2eb65c0983816d,pull,clutter,0.285714286,0,1,Read,push,Study2,U,Study Phase2,Recall2,5829,Prolific
@@ -1342,6 +1464,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,clutter,0,0,1,Read,push,Study2,U,Study Phase2,Recall2,1035,Prolific
 63d7d95057d77b4c34b3afe8,clutter,clutter,1,1,1,Read,push,Study2,U,Study Phase2,Recall2,5281,Prolific
 55b2d3f2fdf99b525bc839aa,leaves,seed,0.5,0,1,Read,rake,Study2,M,Study Phase2,Recall2,2635,Prolific
+56fc8248b5648e000fac9980,leaves,seed,0.5,0,1,Read,rake,Study2,M,Study Phase2,Recall2,4943,Prolific
 5a8b1ee2000dab00018cc7cd,leaves,seed,0.5,0,1,Read,rake,Study2,M,Study Phase2,Recall2,5323,Prolific
 5d4225e01985380018375d83,leaves,seed,0.5,0,1,Read,rake,Study2,M,Study Phase2,Recall2,1496,Prolific
 5f79bca83a2eb65c0983816d,leaves ,seed,0.428571429,0,1,Read,rake,Study2,M,Study Phase2,Recall2,5969,Prolific
@@ -1353,6 +1476,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,seed,0,0,1,Read,rake,Study2,M,Study Phase2,Recall2,677,Prolific
 63d7d95057d77b4c34b3afe8,seed,seed,1,1,1,Read,rake,Study2,M,Study Phase2,Recall2,1885,Prolific
 55b2d3f2fdf99b525bc839aa,sharp,muscle,0.166666667,0,1,Read,razor,Study2,M,Study Phase2,Recall2,2246,Prolific
+56fc8248b5648e000fac9980,burn,muscle,0.166666667,0,1,Read,razor,Study2,M,Study Phase2,Recall2,5278,Prolific
 5a8b1ee2000dab00018cc7cd,muscle,muscle,1,1,1,Read,razor,Study2,M,Study Phase2,Recall2,5535,Prolific
 5d4225e01985380018375d83,muscle,muscle,1,1,1,Read,razor,Study2,M,Study Phase2,Recall2,2637,Prolific
 5f79bca83a2eb65c0983816d,shave ,muscle,0.333333333,0,1,Read,razor,Study2,M,Study Phase2,Recall2,10474,Prolific
@@ -1364,6 +1488,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,muscle,0,0,1,Read,razor,Study2,M,Study Phase2,Recall2,798,Prolific
 63d7d95057d77b4c34b3afe8,muscle,muscle,1,1,1,Read,razor,Study2,M,Study Phase2,Recall2,3117,Prolific
 55b2d3f2fdf99b525bc839aa,fiction,island,0.285714286,0,1,Read,reality,Study2,M,Study Phase2,Recall2,2626,Prolific
+56fc8248b5648e000fac9980,check,island,0,0,1,Read,reality,Study2,M,Study Phase2,Recall2,3085,Prolific
 5a8b1ee2000dab00018cc7cd,island,island,1,1,1,Read,reality,Study2,M,Study Phase2,Recall2,4525,Prolific
 5d4225e01985380018375d83,show,island,0.166666667,0,1,Read,reality,Study2,M,Study Phase2,Recall2,1694,Prolific
 5f79bca83a2eb65c0983816d,,island,0,0,1,Read,reality,Study2,M,Study Phase2,Recall2,13768,Prolific
@@ -1375,6 +1500,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,island,island,1,1,1,Read,reality,Study2,M,Study Phase2,Recall2,3813,Prolific
 63d7d95057d77b4c34b3afe8,island,island,1,1,1,Read,reality,Study2,M,Study Phase2,Recall2,2565,Prolific
 55b2d3f2fdf99b525bc839aa,work,stop,0.25,0,1,Read,school,Study2,M,Study Phase2,Recall2,2011,Prolific
+56fc8248b5648e000fac9980,time,stop,0.25,0,1,Read,school,Study2,M,Study Phase2,Recall2,10901,Prolific
 5a8b1ee2000dab00018cc7cd,stop,stop,1,1,1,Read,school,Study2,M,Study Phase2,Recall2,3598,Prolific
 5d4225e01985380018375d83,kids,stop,0.25,0,1,Read,school,Study2,M,Study Phase2,Recall2,2615,Prolific
 5f79bca83a2eb65c0983816d,learn ,stop,0,0,1,Read,school,Study2,M,Study Phase2,Recall2,6473,Prolific
@@ -1386,6 +1512,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,stop,0,0,1,Read,school,Study2,M,Study Phase2,Recall2,758,Prolific
 63d7d95057d77b4c34b3afe8,stop,stop,1,1,1,Read,school,Study2,M,Study Phase2,Recall2,2494,Prolific
 55b2d3f2fdf99b525bc839aa,hide,hide,1,1,1,Read,sick,Study2,U,Study Phase2,Recall2,23157,Prolific
+56fc8248b5648e000fac9980,patient,hide,0.285714286,0,1,Read,sick,Study2,U,Study Phase2,Recall2,62108,Prolific
 5a8b1ee2000dab00018cc7cd,hide,hide,1,1,1,Read,sick,Study2,U,Study Phase2,Recall2,4167,Prolific
 5d4225e01985380018375d83,doctor,hide,0.166666667,0,1,Read,sick,Study2,U,Study Phase2,Recall2,3843,Prolific
 5f79bca83a2eb65c0983816d,day,hide,0.25,0,1,Read,sick,Study2,U,Study Phase2,Recall2,5433,Prolific
@@ -1397,6 +1524,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,hide,0,0,1,Read,sick,Study2,U,Study Phase2,Recall2,678,Prolific
 63d7d95057d77b4c34b3afe8,,hide,0,0,1,Read,sick,Study2,U,Study Phase2,Recall2,1153,Prolific
 55b2d3f2fdf99b525bc839aa,wash,drink,0,0,1,Read,soap,Study2,M,Study Phase2,Recall2,1854,Prolific
+56fc8248b5648e000fac9980,mild,drink,0.4,0,1,Read,soap,Study2,M,Study Phase2,Recall2,4959,Prolific
 5a8b1ee2000dab00018cc7cd,drink,drink,1,1,1,Read,soap,Study2,M,Study Phase2,Recall2,6316,Prolific
 5d4225e01985380018375d83,smell,drink,0,0,1,Read,soap,Study2,M,Study Phase2,Recall2,2369,Prolific
 5f79bca83a2eb65c0983816d,wash,drink,0,0,1,Read,soap,Study2,M,Study Phase2,Recall2,4032,Prolific
@@ -1408,6 +1536,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,drink,0,0,1,Read,soap,Study2,M,Study Phase2,Recall2,790,Prolific
 63d7d95057d77b4c34b3afe8,drink,drink,1,1,1,Read,soap,Study2,M,Study Phase2,Recall2,8900,Prolific
 55b2d3f2fdf99b525bc839aa,accident,accident,1,1,1,Read,strong,Study2,U,Study Phase2,Recall2,8658,Prolific
+56fc8248b5648e000fac9980,will,accident,0.125,0,1,Read,strong,Study2,U,Study Phase2,Recall2,6347,Prolific
 5a8b1ee2000dab00018cc7cd,raise,accident,0.375,0,1,Read,strong,Study2,U,Study Phase2,Recall2,19009,Prolific
 5d4225e01985380018375d83,weak,accident,0.25,0,1,Read,strong,Study2,U,Study Phase2,Recall2,2866,Prolific
 5f79bca83a2eb65c0983816d,weak,accident,0.25,0,1,Read,strong,Study2,U,Study Phase2,Recall2,3732,Prolific
@@ -1419,6 +1548,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,arm,accident,0.125,0,1,Read,strong,Study2,U,Study Phase2,Recall2,4126,Prolific
 63d7d95057d77b4c34b3afe8,mild,accident,0.25,0,1,Read,strong,Study2,U,Study Phase2,Recall2,3231,Prolific
 55b2d3f2fdf99b525bc839aa,coat,riddle,0,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,3345,Prolific
+56fc8248b5648e000fac9980,rush,riddle,0.166666667,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,7924,Prolific
 5a8b1ee2000dab00018cc7cd,riddle,riddle,1,1,1,Read,sugar,Study2,U,Study Phase2,Recall2,4111,Prolific
 5d4225e01985380018375d83,dessert,riddle,0.428571429,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,3339,Prolific
 5f79bca83a2eb65c0983816d,sweet,riddle,0.166666667,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,6092,Prolific
@@ -1430,6 +1560,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,riddle,0,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,743,Prolific
 63d7d95057d77b4c34b3afe8,loaf,riddle,0.166666667,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,2436,Prolific
 55b2d3f2fdf99b525bc839aa,winter,snow,0.333333333,0,1,Read,summer,Study2,M,Study Phase2,Recall2,1680,Prolific
+56fc8248b5648e000fac9980,nights,snow,0.333333333,0,1,Read,summer,Study2,M,Study Phase2,Recall2,5864,Prolific
 5a8b1ee2000dab00018cc7cd,snow,snow,1,1,1,Read,summer,Study2,M,Study Phase2,Recall2,4361,Prolific
 5d4225e01985380018375d83,spring,snow,0.333333333,0,1,Read,summer,Study2,M,Study Phase2,Recall2,8286,Prolific
 5f79bca83a2eb65c0983816d,spring ,snow,0.285714286,0,1,Read,summer,Study2,M,Study Phase2,Recall2,15893,Prolific
@@ -1441,6 +1572,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,snow,0,0,1,Read,summer,Study2,M,Study Phase2,Recall2,2737,Prolific
 63d7d95057d77b4c34b3afe8,autumn,snow,0.166666667,0,1,Read,summer,Study2,M,Study Phase2,Recall2,6178,Prolific
 55b2d3f2fdf99b525bc839aa,hazard,cave,0.166666667,0,1,Read,trap,Study2,M,Study Phase2,Recall2,2144,Prolific
+56fc8248b5648e000fac9980,clap,cave,0.5,0,1,Read,trap,Study2,M,Study Phase2,Recall2,6180,Prolific
 5a8b1ee2000dab00018cc7cd,cave,cave,1,1,1,Read,trap,Study2,M,Study Phase2,Recall2,5076,Prolific
 5d4225e01985380018375d83,mouse,cave,0.2,0,1,Read,trap,Study2,M,Study Phase2,Recall2,1643,Prolific
 5f79bca83a2eb65c0983816d,catch ,cave,0.333333333,0,1,Read,trap,Study2,M,Study Phase2,Recall2,6904,Prolific
@@ -1452,6 +1584,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,cave,0,0,1,Read,trap,Study2,M,Study Phase2,Recall2,1408,Prolific
 63d7d95057d77b4c34b3afe8,cave,cave,1,1,1,Read,trap,Study2,M,Study Phase2,Recall2,2396,Prolific
 55b2d3f2fdf99b525bc839aa,hill,peak,0,0,1,Read,valley,Study2,M,Study Phase2,Recall2,1996,Prolific
+56fc8248b5648e000fac9980,ridge,peak,0.2,0,1,Read,valley,Study2,M,Study Phase2,Recall2,3693,Prolific
 5a8b1ee2000dab00018cc7cd,peak,peak,1,1,1,Read,valley,Study2,M,Study Phase2,Recall2,3661,Prolific
 5d4225e01985380018375d83,grass,peak,0.2,0,1,Read,valley,Study2,M,Study Phase2,Recall2,2763,Prolific
 5f79bca83a2eb65c0983816d,,peak,0,0,1,Read,valley,Study2,M,Study Phase2,Recall2,9484,Prolific
@@ -1463,6 +1596,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,,peak,0,0,1,Read,valley,Study2,M,Study Phase2,Recall2,1616,Prolific
 63d7d95057d77b4c34b3afe8,peak,peak,1,1,1,Read,valley,Study2,M,Study Phase2,Recall2,1903,Prolific
 55b2d3f2fdf99b525bc839aa,bee,bug,0.333333333,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,2378,Prolific
+56fc8248b5648e000fac9980,queen,bug,0.2,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,2869,Prolific
 5a8b1ee2000dab00018cc7cd,sting,bug,0.2,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,8309,Prolific
 5d4225e01985380018375d83,stinger,bug,0.142857143,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,2153,Prolific
 5f79bca83a2eb65c0983816d,sting,bug,0.2,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,7126,Prolific
@@ -1474,6 +1608,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 631512727c23394ca21acbfb,nest,bug,0,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,3194,Prolific
 63d7d95057d77b4c34b3afe8,hornet,bug,0,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,2103,Prolific
 55b2d3f2fdf99b525bc839aa,clean,knob,0.2,0,1,Read,window,Study2,M,Study Phase2,Recall2,6368,Prolific
+56fc8248b5648e000fac9980,pane,knob,0.25,0,1,Read,window,Study2,M,Study Phase2,Recall2,5836,Prolific
 5a8b1ee2000dab00018cc7cd,knob,knob,1,1,1,Read,window,Study2,M,Study Phase2,Recall2,5791,Prolific
 5d4225e01985380018375d83,tint,knob,0.25,0,1,Read,window,Study2,M,Study Phase2,Recall2,1970,Prolific
 5f79bca83a2eb65c0983816d,knob,knob,1,1,1,Read,window,Study2,M,Study Phase2,Recall2,7558,Prolific
@@ -1491,6 +1626,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,wolf,wolf,1,1,3,Read,art,Study2,U,Study Phase,Recall1,13270,Prolific
 60fd56db5fe37ebeca00bc83,wolf,wolf,1,1,3,Read,art,Study2,U,Study Phase,Recall1,9218,Prolific
 61363ce02e6022a741d63a6e,,wolf,0,0,3,Read,art,Study2,U,Study Phase,Recall1,5184,Prolific
+614f6bad672ef7cf5ecfd965,,wolf,0,0,3,Read,art,Study2,U,Study Phase,Recall1,7474,Prolific
 62f17b6b63bd9e6627a19956,,wolf,0,0,3,Read,art,Study2,U,Study Phase,Recall1,3717,Prolific
 6314c1e76c3f71e2127f1976,canvas,wolf,0,0,3,Read,art,Study2,U,Study Phase,Recall1,9099,Prolific
 63d16398d05b8126c30c19ea,,wolf,0,0,3,Read,art,Study2,U,Study Phase,Recall1,973,Prolific
@@ -1502,6 +1638,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,bronze,0,0,3,Read,artery,Study2,U,Study Phase,Recall1,3233,Prolific
 60fd56db5fe37ebeca00bc83,bronze,bronze,1,1,3,Read,artery,Study2,U,Study Phase,Recall1,13467,Prolific
 61363ce02e6022a741d63a6e,,bronze,0,0,3,Read,artery,Study2,U,Study Phase,Recall1,1358,Prolific
+614f6bad672ef7cf5ecfd965,,bronze,0,0,3,Read,artery,Study2,U,Study Phase,Recall1,4716,Prolific
 62f17b6b63bd9e6627a19956,,bronze,0,0,3,Read,artery,Study2,U,Study Phase,Recall1,2944,Prolific
 6314c1e76c3f71e2127f1976,,bronze,0,0,3,Read,artery,Study2,U,Study Phase,Recall1,2706,Prolific
 63d16398d05b8126c30c19ea,gold,bronze,0.166666667,0,3,Read,artery,Study2,U,Study Phase,Recall1,4753,Prolific
@@ -1513,6 +1650,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,clothes,0,0,3,Read,attire,Study2,F,Study Phase,Recall1,1156,Prolific
 60fd56db5fe37ebeca00bc83,clothes,clothes,1,1,3,Read,attire,Study2,F,Study Phase,Recall1,19936,Prolific
 61363ce02e6022a741d63a6e,,clothes,0,0,3,Read,attire,Study2,F,Study Phase,Recall1,21924,Prolific
+614f6bad672ef7cf5ecfd965,clothes,clothes,1,1,3,Read,attire,Study2,F,Study Phase,Recall1,4745,Prolific
 62f17b6b63bd9e6627a19956,,clothes,0,0,3,Read,attire,Study2,F,Study Phase,Recall1,133,Prolific
 6314c1e76c3f71e2127f1976,,clothes,0,0,3,Read,attire,Study2,F,Study Phase,Recall1,789,Prolific
 63d16398d05b8126c30c19ea,clothes,clothes,1,1,3,Read,attire,Study2,F,Study Phase,Recall1,1682,Prolific
@@ -1524,6 +1662,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,horn,0,0,3,Read,bench,Study2,U,Study Phase,Recall1,3081,Prolific
 60fd56db5fe37ebeca00bc83,sirt,horn,0.25,0,3,Read,bench,Study2,U,Study Phase,Recall1,9727,Prolific
 61363ce02e6022a741d63a6e,,horn,0,0,3,Read,bench,Study2,U,Study Phase,Recall1,9709,Prolific
+614f6bad672ef7cf5ecfd965,,horn,0,0,3,Read,bench,Study2,U,Study Phase,Recall1,5756,Prolific
 62f17b6b63bd9e6627a19956,press,horn,0.2,0,3,Read,bench,Study2,U,Study Phase,Recall1,3480,Prolific
 6314c1e76c3f71e2127f1976,seat,horn,0,0,3,Read,bench,Study2,U,Study Phase,Recall1,3967,Prolific
 63d16398d05b8126c30c19ea,,horn,0,0,3,Read,bench,Study2,U,Study Phase,Recall1,2180,Prolific
@@ -1535,6 +1674,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,fire,fire,1,1,3,Read,blaze,Study2,F,Study Phase,Recall1,2003,Prolific
 60fd56db5fe37ebeca00bc83,fire,fire,1,1,3,Read,blaze,Study2,F,Study Phase,Recall1,3603,Prolific
 61363ce02e6022a741d63a6e,,fire,0,0,3,Read,blaze,Study2,F,Study Phase,Recall1,2511,Prolific
+614f6bad672ef7cf5ecfd965,fire,fire,1,1,3,Read,blaze,Study2,F,Study Phase,Recall1,4545,Prolific
 62f17b6b63bd9e6627a19956,,fire,0,0,3,Read,blaze,Study2,F,Study Phase,Recall1,394,Prolific
 6314c1e76c3f71e2127f1976,fire,fire,1,1,3,Read,blaze,Study2,F,Study Phase,Recall1,3485,Prolific
 63d16398d05b8126c30c19ea,,fire,0,0,3,Read,blaze,Study2,F,Study Phase,Recall1,1229,Prolific
@@ -1546,6 +1686,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,ounce,0,0,3,Read,both,Study2,U,Study Phase,Recall1,1470,Prolific
 60fd56db5fe37ebeca00bc83,,ounce,0,0,3,Read,both,Study2,U,Study Phase,Recall1,2837,Prolific
 61363ce02e6022a741d63a6e,chizel,ounce,0.333333333,0,3,Read,both,Study2,U,Study Phase,Recall1,11057,Prolific
+614f6bad672ef7cf5ecfd965,,ounce,0,0,3,Read,both,Study2,U,Study Phase,Recall1,4431,Prolific
 62f17b6b63bd9e6627a19956,,ounce,0,0,3,Read,both,Study2,U,Study Phase,Recall1,311,Prolific
 6314c1e76c3f71e2127f1976,neither,ounce,0.285714286,0,3,Read,both,Study2,U,Study Phase,Recall1,3891,Prolific
 63d16398d05b8126c30c19ea,each,ounce,0.4,0,3,Read,both,Study2,U,Study Phase,Recall1,1547,Prolific
@@ -1557,6 +1698,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,water,water,1,1,3,Read,bridge,Study2,F,Study Phase,Recall1,2491,Prolific
 60fd56db5fe37ebeca00bc83,gap,water,0.2,0,3,Read,bridge,Study2,F,Study Phase,Recall1,4105,Prolific
 61363ce02e6022a741d63a6e,road,water,0.4,0,3,Read,bridge,Study2,F,Study Phase,Recall1,3760,Prolific
+614f6bad672ef7cf5ecfd965,water,water,1,1,3,Read,bridge,Study2,F,Study Phase,Recall1,2692,Prolific
 62f17b6b63bd9e6627a19956,,water,0,0,3,Read,bridge,Study2,F,Study Phase,Recall1,56,Prolific
 6314c1e76c3f71e2127f1976,water,water,1,1,3,Read,bridge,Study2,F,Study Phase,Recall1,3947,Prolific
 63d16398d05b8126c30c19ea,,water,0,0,3,Read,bridge,Study2,F,Study Phase,Recall1,1822,Prolific
@@ -1568,6 +1710,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,plant,0,0,3,Read,cactus,Study2,F,Study Phase,Recall1,1208,Prolific
 60fd56db5fe37ebeca00bc83,plant,plant,1,1,3,Read,cactus,Study2,F,Study Phase,Recall1,7133,Prolific
 61363ce02e6022a741d63a6e,plant,plant,1,1,3,Read,cactus,Study2,F,Study Phase,Recall1,50397,Prolific
+614f6bad672ef7cf5ecfd965,,plant,0,0,3,Read,cactus,Study2,F,Study Phase,Recall1,5572,Prolific
 62f17b6b63bd9e6627a19956,plant,plant,1,1,3,Read,cactus,Study2,F,Study Phase,Recall1,5468,Prolific
 6314c1e76c3f71e2127f1976,spike,plant,0.2,0,3,Read,cactus,Study2,F,Study Phase,Recall1,7371,Prolific
 63d16398d05b8126c30c19ea,plant,plant,1,1,3,Read,cactus,Study2,F,Study Phase,Recall1,1482,Prolific
@@ -1579,6 +1722,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,flow,leg,0.25,0,3,Read,cash,Study2,U,Study Phase,Recall1,3382,Prolific
 60fd56db5fe37ebeca00bc83,leg,leg,1,1,3,Read,cash,Study2,U,Study Phase,Recall1,15230,Prolific
 61363ce02e6022a741d63a6e,,leg,0,0,3,Read,cash,Study2,U,Study Phase,Recall1,8060,Prolific
+614f6bad672ef7cf5ecfd965,wallet,leg,0.333333333,0,3,Read,cash,Study2,U,Study Phase,Recall1,5439,Prolific
 62f17b6b63bd9e6627a19956,,leg,0,0,3,Read,cash,Study2,U,Study Phase,Recall1,3207,Prolific
 6314c1e76c3f71e2127f1976,society,leg,0.142857143,0,3,Read,cash,Study2,U,Study Phase,Recall1,5733,Prolific
 63d16398d05b8126c30c19ea,,leg,0,0,3,Read,cash,Study2,U,Study Phase,Recall1,1657,Prolific
@@ -1590,6 +1734,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,red,0,0,3,Read,cherry,Study2,F,Study Phase,Recall1,1060,Prolific
 60fd56db5fe37ebeca00bc83,red,red,1,1,3,Read,cherry,Study2,F,Study Phase,Recall1,3317,Prolific
 61363ce02e6022a741d63a6e,,red,0,0,3,Read,cherry,Study2,F,Study Phase,Recall1,2459,Prolific
+614f6bad672ef7cf5ecfd965,red,red,1,1,3,Read,cherry,Study2,F,Study Phase,Recall1,2013,Prolific
 62f17b6b63bd9e6627a19956,pie,red,0.333333333,0,3,Read,cherry,Study2,F,Study Phase,Recall1,5318,Prolific
 6314c1e76c3f71e2127f1976,,red,0,0,3,Read,cherry,Study2,F,Study Phase,Recall1,2088,Prolific
 63d16398d05b8126c30c19ea,,red,0,0,3,Read,cherry,Study2,F,Study Phase,Recall1,1553,Prolific
@@ -1601,6 +1746,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,cold,cold,1,1,3,Read,chill,Study2,F,Study Phase,Recall1,1831,Prolific
 60fd56db5fe37ebeca00bc83,free,cold,0,0,3,Read,chill,Study2,F,Study Phase,Recall1,5124,Prolific
 61363ce02e6022a741d63a6e,cold,cold,1,1,3,Read,chill,Study2,F,Study Phase,Recall1,61446,Prolific
+614f6bad672ef7cf5ecfd965,cold,cold,1,1,3,Read,chill,Study2,F,Study Phase,Recall1,5142,Prolific
 62f17b6b63bd9e6627a19956,,cold,0,0,3,Read,chill,Study2,F,Study Phase,Recall1,1248,Prolific
 6314c1e76c3f71e2127f1976,burn,cold,0,0,3,Read,chill,Study2,F,Study Phase,Recall1,3783,Prolific
 63d16398d05b8126c30c19ea,cold,cold,1,1,3,Read,chill,Study2,F,Study Phase,Recall1,1878,Prolific
@@ -1612,6 +1758,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,rake,hammer,0.5,0,3,Read,chisel,Study2,F,Study Phase,Recall1,3487,Prolific
 60fd56db5fe37ebeca00bc83,hammer,hammer,1,1,3,Read,chisel,Study2,F,Study Phase,Recall1,7818,Prolific
 61363ce02e6022a741d63a6e,hammer,hammer,1,1,3,Read,chisel,Study2,F,Study Phase,Recall1,6563,Prolific
+614f6bad672ef7cf5ecfd965,cold,hammer,0,0,3,Read,chisel,Study2,F,Study Phase,Recall1,5480,Prolific
 62f17b6b63bd9e6627a19956,wood,hammer,0,0,3,Read,chisel,Study2,F,Study Phase,Recall1,6544,Prolific
 6314c1e76c3f71e2127f1976,drill,hammer,0.166666667,0,3,Read,chisel,Study2,F,Study Phase,Recall1,3995,Prolific
 63d16398d05b8126c30c19ea,hammer,hammer,1,1,3,Read,chisel,Study2,F,Study Phase,Recall1,1487,Prolific
@@ -1623,6 +1770,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,cut,cut,1,1,3,Read,chop,Study2,F,Study Phase,Recall1,2052,Prolific
 60fd56db5fe37ebeca00bc83,chip,cut,0.25,0,3,Read,chop,Study2,F,Study Phase,Recall1,15509,Prolific
 61363ce02e6022a741d63a6e,,cut,0,0,3,Read,chop,Study2,F,Study Phase,Recall1,27370,Prolific
+614f6bad672ef7cf5ecfd965,axe,cut,0,0,3,Read,chop,Study2,F,Study Phase,Recall1,6492,Prolific
 62f17b6b63bd9e6627a19956,,cut,0,0,3,Read,chop,Study2,F,Study Phase,Recall1,966,Prolific
 6314c1e76c3f71e2127f1976,steak,cut,0.2,0,3,Read,chop,Study2,F,Study Phase,Recall1,6859,Prolific
 63d16398d05b8126c30c19ea,leg,cut,0,0,3,Read,chop,Study2,F,Study Phase,Recall1,2389,Prolific
@@ -1634,6 +1782,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,accident,business,0.375,0,3,Read,death,Study2,U,Study Phase,Recall1,6381,Prolific
 60fd56db5fe37ebeca00bc83,,business,0,0,3,Read,death,Study2,U,Study Phase,Recall1,7963,Prolific
 61363ce02e6022a741d63a6e,,business,0,0,3,Read,death,Study2,U,Study Phase,Recall1,10999,Prolific
+614f6bad672ef7cf5ecfd965,life,business,0.25,0,3,Read,death,Study2,U,Study Phase,Recall1,6612,Prolific
 62f17b6b63bd9e6627a19956,,business,0,0,3,Read,death,Study2,U,Study Phase,Recall1,5482,Prolific
 6314c1e76c3f71e2127f1976,alive,business,0.25,0,3,Read,death,Study2,U,Study Phase,Recall1,6005,Prolific
 63d16398d05b8126c30c19ea,,business,0,0,3,Read,death,Study2,U,Study Phase,Recall1,1646,Prolific
@@ -1645,6 +1794,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,sack,0,0,3,Read,dietary,Study2,U,Study Phase,Recall1,1301,Prolific
 60fd56db5fe37ebeca00bc83,food,sack,0,0,3,Read,dietary,Study2,U,Study Phase,Recall1,15779,Prolific
 61363ce02e6022a741d63a6e,,sack,0,0,3,Read,dietary,Study2,U,Study Phase,Recall1,24851,Prolific
+614f6bad672ef7cf5ecfd965,,sack,0,0,3,Read,dietary,Study2,U,Study Phase,Recall1,6572,Prolific
 62f17b6b63bd9e6627a19956,,sack,0,0,3,Read,dietary,Study2,U,Study Phase,Recall1,665,Prolific
 6314c1e76c3f71e2127f1976,supplement,sack,0.1,0,3,Read,dietary,Study2,U,Study Phase,Recall1,4410,Prolific
 63d16398d05b8126c30c19ea,bag,sack,0.25,0,3,Read,dietary,Study2,U,Study Phase,Recall1,2501,Prolific
@@ -1656,6 +1806,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,1981,Prolific
 60fd56db5fe37ebeca00bc83,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,2751,Prolific
 61363ce02e6022a741d63a6e,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,12712,Prolific
+614f6bad672ef7cf5ecfd965,word,paper,0.2,0,3,Read,document,Study2,F,Study Phase,Recall1,4421,Prolific
 62f17b6b63bd9e6627a19956,,paper,0,0,3,Read,document,Study2,F,Study Phase,Recall1,4739,Prolific
 6314c1e76c3f71e2127f1976,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,4088,Prolific
 63d16398d05b8126c30c19ea,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,2345,Prolific
@@ -1667,6 +1818,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,smell,0,0,3,Read,eyes,Study2,M,Study Phase,Recall1,1180,Prolific
 60fd56db5fe37ebeca00bc83,nose,smell,0.4,0,3,Read,eyes,Study2,M,Study Phase,Recall1,15484,Prolific
 61363ce02e6022a741d63a6e,,smell,0,0,3,Read,eyes,Study2,M,Study Phase,Recall1,17235,Prolific
+614f6bad672ef7cf5ecfd965,,smell,0,0,3,Read,eyes,Study2,M,Study Phase,Recall1,6569,Prolific
 62f17b6b63bd9e6627a19956,,smell,0,0,3,Read,eyes,Study2,M,Study Phase,Recall1,148,Prolific
 6314c1e76c3f71e2127f1976,blue,smell,0.4,0,3,Read,eyes,Study2,M,Study Phase,Recall1,3758,Prolific
 63d16398d05b8126c30c19ea,,smell,0,0,3,Read,eyes,Study2,M,Study Phase,Recall1,1527,Prolific
@@ -1678,6 +1830,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,fight,fight,1,1,3,Read,feud,Study2,F,Study Phase,Recall1,1790,Prolific
 60fd56db5fe37ebeca00bc83,family,fight,0.333333333,0,3,Read,feud,Study2,F,Study Phase,Recall1,19080,Prolific
 61363ce02e6022a741d63a6e,fight,fight,1,1,3,Read,feud,Study2,F,Study Phase,Recall1,5056,Prolific
+614f6bad672ef7cf5ecfd965,fight,fight,1,1,3,Read,feud,Study2,F,Study Phase,Recall1,3914,Prolific
 62f17b6b63bd9e6627a19956,,fight,0,0,3,Read,feud,Study2,F,Study Phase,Recall1,1333,Prolific
 6314c1e76c3f71e2127f1976,quarrel,fight,0,0,3,Read,feud,Study2,F,Study Phase,Recall1,5186,Prolific
 63d16398d05b8126c30c19ea,fight,fight,1,1,3,Read,feud,Study2,F,Study Phase,Recall1,1314,Prolific
@@ -1689,6 +1842,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,thigh,0,0,3,Read,grill,Study2,M,Study Phase,Recall1,4179,Prolific
 60fd56db5fe37ebeca00bc83,thigh,thigh,1,1,3,Read,grill,Study2,M,Study Phase,Recall1,22488,Prolific
 61363ce02e6022a741d63a6e,,thigh,0,0,3,Read,grill,Study2,M,Study Phase,Recall1,2432,Prolific
+614f6bad672ef7cf5ecfd965,thigh,thigh,1,1,3,Read,grill,Study2,M,Study Phase,Recall1,6005,Prolific
 62f17b6b63bd9e6627a19956,,thigh,0,0,3,Read,grill,Study2,M,Study Phase,Recall1,384,Prolific
 6314c1e76c3f71e2127f1976,barbeque,thigh,0,0,3,Read,grill,Study2,M,Study Phase,Recall1,4903,Prolific
 63d16398d05b8126c30c19ea,thigh,thigh,1,1,3,Read,grill,Study2,M,Study Phase,Recall1,2105,Prolific
@@ -1700,6 +1854,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,sad,car,0.333333333,0,3,Read,happy,Study2,U,Study Phase,Recall1,3380,Prolific
 60fd56db5fe37ebeca00bc83,car,car,1,1,3,Read,happy,Study2,U,Study Phase,Recall1,5446,Prolific
 61363ce02e6022a741d63a6e,sad,car,0.333333333,0,3,Read,happy,Study2,U,Study Phase,Recall1,5901,Prolific
+614f6bad672ef7cf5ecfd965,car,car,1,1,3,Read,happy,Study2,U,Study Phase,Recall1,2717,Prolific
 62f17b6b63bd9e6627a19956,,car,0,0,3,Read,happy,Study2,U,Study Phase,Recall1,976,Prolific
 6314c1e76c3f71e2127f1976,joyful,car,0,0,3,Read,happy,Study2,U,Study Phase,Recall1,6034,Prolific
 63d16398d05b8126c30c19ea,,car,0,0,3,Read,happy,Study2,U,Study Phase,Recall1,2308,Prolific
@@ -1711,6 +1866,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,light,feather,0.285714286,0,3,Read,heavy,Study2,M,Study Phase,Recall1,5834,Prolific
 60fd56db5fe37ebeca00bc83,duty,feather,0.142857143,0,3,Read,heavy,Study2,M,Study Phase,Recall1,10608,Prolific
 61363ce02e6022a741d63a6e,load,feather,0.142857143,0,3,Read,heavy,Study2,M,Study Phase,Recall1,20460,Prolific
+614f6bad672ef7cf5ecfd965,feather\,feather,0.875,1,3,Read,heavy,Study2,M,Study Phase,Recall1,4128,Prolific
 62f17b6b63bd9e6627a19956,,feather,0,0,3,Read,heavy,Study2,M,Study Phase,Recall1,4509,Prolific
 6314c1e76c3f71e2127f1976,weight,feather,0.428571429,0,3,Read,heavy,Study2,M,Study Phase,Recall1,3926,Prolific
 63d16398d05b8126c30c19ea,feather,feather,1,1,3,Read,heavy,Study2,M,Study Phase,Recall1,2049,Prolific
@@ -1722,6 +1878,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,cow,0,0,3,Read,herd,Study2,F,Study Phase,Recall1,1019,Prolific
 60fd56db5fe37ebeca00bc83,animal,cow,0,0,3,Read,herd,Study2,F,Study Phase,Recall1,4614,Prolific
 61363ce02e6022a741d63a6e,barn\,cow,0,0,3,Read,herd,Study2,F,Study Phase,Recall1,4330,Prolific
+614f6bad672ef7cf5ecfd965,cow,cow,1,1,3,Read,herd,Study2,F,Study Phase,Recall1,4370,Prolific
 62f17b6b63bd9e6627a19956,,cow,0,0,3,Read,herd,Study2,F,Study Phase,Recall1,2274,Prolific
 6314c1e76c3f71e2127f1976,cow,cow,1,1,3,Read,herd,Study2,F,Study Phase,Recall1,3194,Prolific
 63d16398d05b8126c30c19ea,cattle,cow,0.166666667,0,3,Read,herd,Study2,F,Study Phase,Recall1,1721,Prolific
@@ -1733,6 +1890,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,sting,sting,1,1,3,Read,hornet,Study2,F,Study Phase,Recall1,1595,Prolific
 60fd56db5fe37ebeca00bc83,,sting,0,0,3,Read,hornet,Study2,F,Study Phase,Recall1,2897,Prolific
 61363ce02e6022a741d63a6e,bee,sting,0,0,3,Read,hornet,Study2,F,Study Phase,Recall1,3512,Prolific
+614f6bad672ef7cf5ecfd965,bee,sting,0,0,3,Read,hornet,Study2,F,Study Phase,Recall1,3506,Prolific
 62f17b6b63bd9e6627a19956,,sting,0,0,3,Read,hornet,Study2,F,Study Phase,Recall1,303,Prolific
 6314c1e76c3f71e2127f1976,wasp,sting,0.2,0,3,Read,hornet,Study2,F,Study Phase,Recall1,4395,Prolific
 63d16398d05b8126c30c19ea,sting,sting,1,1,3,Read,hornet,Study2,F,Study Phase,Recall1,1505,Prolific
@@ -1744,6 +1902,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,smell,smell,1,1,3,Read,incense,Study2,F,Study Phase,Recall1,2247,Prolific
 60fd56db5fe37ebeca00bc83,smell,smell,1,1,3,Read,incense,Study2,F,Study Phase,Recall1,2179,Prolific
 61363ce02e6022a741d63a6e,,smell,0,0,3,Read,incense,Study2,F,Study Phase,Recall1,1521,Prolific
+614f6bad672ef7cf5ecfd965,smell,smell,1,1,3,Read,incense,Study2,F,Study Phase,Recall1,4563,Prolific
 62f17b6b63bd9e6627a19956,,smell,0,0,3,Read,incense,Study2,F,Study Phase,Recall1,317,Prolific
 6314c1e76c3f71e2127f1976,peppermint,smell,0.2,0,3,Read,incense,Study2,F,Study Phase,Recall1,7734,Prolific
 63d16398d05b8126c30c19ea,smell,smell,1,1,3,Read,incense,Study2,F,Study Phase,Recall1,1660,Prolific
@@ -1755,6 +1914,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,vase,0,0,3,Read,king,Study2,U,Study Phase,Recall1,3394,Prolific
 60fd56db5fe37ebeca00bc83,vase,vase,1,1,3,Read,king,Study2,U,Study Phase,Recall1,6624,Prolific
 61363ce02e6022a741d63a6e,queen,vase,0.2,0,3,Read,king,Study2,U,Study Phase,Recall1,3091,Prolific
+614f6bad672ef7cf5ecfd965,,vase,0,0,3,Read,king,Study2,U,Study Phase,Recall1,3203,Prolific
 62f17b6b63bd9e6627a19956,pin,vase,0,0,3,Read,king,Study2,U,Study Phase,Recall1,5135,Prolific
 6314c1e76c3f71e2127f1976,queen,vase,0.2,0,3,Read,king,Study2,U,Study Phase,Recall1,3704,Prolific
 63d16398d05b8126c30c19ea,,vase,0,0,3,Read,king,Study2,U,Study Phase,Recall1,1209,Prolific
@@ -1766,6 +1926,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,baseball,baseball,1,1,3,Read,league,Study2,F,Study Phase,Recall1,3358,Prolific
 60fd56db5fe37ebeca00bc83,baseball,baseball,1,1,3,Read,league,Study2,F,Study Phase,Recall1,8378,Prolific
 61363ce02e6022a741d63a6e,,baseball,0,0,3,Read,league,Study2,F,Study Phase,Recall1,22176,Prolific
+614f6bad672ef7cf5ecfd965,baseball,baseball,1,1,3,Read,league,Study2,F,Study Phase,Recall1,12224,Prolific
 62f17b6b63bd9e6627a19956,,baseball,0,0,3,Read,league,Study2,F,Study Phase,Recall1,441,Prolific
 6314c1e76c3f71e2127f1976,baseball,baseball,1,1,3,Read,league,Study2,F,Study Phase,Recall1,3482,Prolific
 63d16398d05b8126c30c19ea,,baseball,0,0,3,Read,league,Study2,F,Study Phase,Recall1,1461,Prolific
@@ -1777,6 +1938,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,toil,0,0,3,Read,lease,Study2,U,Study Phase,Recall1,1943,Prolific
 60fd56db5fe37ebeca00bc83,car,toil,0,0,3,Read,lease,Study2,U,Study Phase,Recall1,9182,Prolific
 61363ce02e6022a741d63a6e,,toil,0,0,3,Read,lease,Study2,U,Study Phase,Recall1,4567,Prolific
+614f6bad672ef7cf5ecfd965,rent,toil,0.25,0,3,Read,lease,Study2,U,Study Phase,Recall1,4701,Prolific
 62f17b6b63bd9e6627a19956,,toil,0,0,3,Read,lease,Study2,U,Study Phase,Recall1,304,Prolific
 6314c1e76c3f71e2127f1976,paper,toil,0,0,3,Read,lease,Study2,U,Study Phase,Recall1,5502,Prolific
 63d16398d05b8126c30c19ea,struggle,toil,0.25,0,3,Read,lease,Study2,U,Study Phase,Recall1,2534,Prolific
@@ -1788,6 +1950,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,children,0,0,3,Read,mirror,Study2,U,Study Phase,Recall1,2832,Prolific
 60fd56db5fe37ebeca00bc83,children,children,1,1,3,Read,mirror,Study2,U,Study Phase,Recall1,9701,Prolific
 61363ce02e6022a741d63a6e,children,children,1,1,3,Read,mirror,Study2,U,Study Phase,Recall1,3352,Prolific
+614f6bad672ef7cf5ecfd965,light,children,0.375,0,3,Read,mirror,Study2,U,Study Phase,Recall1,6590,Prolific
 62f17b6b63bd9e6627a19956,,children,0,0,3,Read,mirror,Study2,U,Study Phase,Recall1,3882,Prolific
 6314c1e76c3f71e2127f1976,reflection,children,0.6,0,3,Read,mirror,Study2,U,Study Phase,Recall1,5188,Prolific
 63d16398d05b8126c30c19ea,children,children,1,1,3,Read,mirror,Study2,U,Study Phase,Recall1,1699,Prolific
@@ -1799,6 +1962,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,lawyer,0,0,3,Read,nurse,Study2,M,Study Phase,Recall1,1055,Prolific
 60fd56db5fe37ebeca00bc83,,lawyer,0,0,3,Read,nurse,Study2,M,Study Phase,Recall1,10357,Prolific
 61363ce02e6022a741d63a6e,doctor,lawyer,0.166666667,0,3,Read,nurse,Study2,M,Study Phase,Recall1,4637,Prolific
+614f6bad672ef7cf5ecfd965,lawyer,lawyer,1,1,3,Read,nurse,Study2,M,Study Phase,Recall1,3441,Prolific
 62f17b6b63bd9e6627a19956,,lawyer,0,0,3,Read,nurse,Study2,M,Study Phase,Recall1,401,Prolific
 6314c1e76c3f71e2127f1976,room,lawyer,0.166666667,0,3,Read,nurse,Study2,M,Study Phase,Recall1,4465,Prolific
 63d16398d05b8126c30c19ea,lawyer,lawyer,1,1,3,Read,nurse,Study2,M,Study Phase,Recall1,1740,Prolific
@@ -1810,6 +1974,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,bake,basket,0.666666667,0,3,Read,oven,Study2,M,Study Phase,Recall1,5426,Prolific
 60fd56db5fe37ebeca00bc83,basket,basket,1,1,3,Read,oven,Study2,M,Study Phase,Recall1,9888,Prolific
 61363ce02e6022a741d63a6e,load,basket,0.166666667,0,3,Read,oven,Study2,M,Study Phase,Recall1,23908,Prolific
+614f6bad672ef7cf5ecfd965,bake,basket,0.666666667,0,3,Read,oven,Study2,M,Study Phase,Recall1,5528,Prolific
 62f17b6b63bd9e6627a19956,place,basket,0.333333333,0,3,Read,oven,Study2,M,Study Phase,Recall1,4849,Prolific
 6314c1e76c3f71e2127f1976,,basket,0,0,3,Read,oven,Study2,M,Study Phase,Recall1,530,Prolific
 63d16398d05b8126c30c19ea,,basket,0,0,3,Read,oven,Study2,M,Study Phase,Recall1,1167,Prolific
@@ -1821,6 +1986,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,collar,0,0,3,Read,pants,Study2,M,Study Phase,Recall1,1111,Prolific
 60fd56db5fe37ebeca00bc83,iron,collar,0.333333333,0,3,Read,pants,Study2,M,Study Phase,Recall1,21991,Prolific
 61363ce02e6022a741d63a6e,,collar,0,0,3,Read,pants,Study2,M,Study Phase,Recall1,11234,Prolific
+614f6bad672ef7cf5ecfd965,,collar,0,0,3,Read,pants,Study2,M,Study Phase,Recall1,2471,Prolific
 62f17b6b63bd9e6627a19956,,collar,0,0,3,Read,pants,Study2,M,Study Phase,Recall1,284,Prolific
 6314c1e76c3f71e2127f1976,button,collar,0.166666667,0,3,Read,pants,Study2,M,Study Phase,Recall1,3945,Prolific
 63d16398d05b8126c30c19ea,collar,collar,1,1,3,Read,pants,Study2,M,Study Phase,Recall1,2411,Prolific
@@ -1832,6 +1998,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,clutter,0,0,3,Read,push,Study2,U,Study Phase,Recall1,2024,Prolific
 60fd56db5fe37ebeca00bc83,clutter,clutter,1,1,3,Read,push,Study2,U,Study Phase,Recall1,7461,Prolific
 61363ce02e6022a741d63a6e,,clutter,0,0,3,Read,push,Study2,U,Study Phase,Recall1,9229,Prolific
+614f6bad672ef7cf5ecfd965,,clutter,0,0,3,Read,push,Study2,U,Study Phase,Recall1,5708,Prolific
 62f17b6b63bd9e6627a19956,,clutter,0,0,3,Read,push,Study2,U,Study Phase,Recall1,356,Prolific
 6314c1e76c3f71e2127f1976,pull,clutter,0.285714286,0,3,Read,push,Study2,U,Study Phase,Recall1,3462,Prolific
 63d16398d05b8126c30c19ea,,clutter,0,0,3,Read,push,Study2,U,Study Phase,Recall1,1424,Prolific
@@ -1843,6 +2010,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,seed,0,0,3,Read,rake,Study2,M,Study Phase,Recall1,2615,Prolific
 60fd56db5fe37ebeca00bc83,seed,seed,1,1,3,Read,rake,Study2,M,Study Phase,Recall1,15065,Prolific
 61363ce02e6022a741d63a6e,,seed,0,0,3,Read,rake,Study2,M,Study Phase,Recall1,1577,Prolific
+614f6bad672ef7cf5ecfd965,leaf,seed,0.25,0,3,Read,rake,Study2,M,Study Phase,Recall1,4425,Prolific
 62f17b6b63bd9e6627a19956,,seed,0,0,3,Read,rake,Study2,M,Study Phase,Recall1,97,Prolific
 6314c1e76c3f71e2127f1976,,seed,0,0,3,Read,rake,Study2,M,Study Phase,Recall1,1611,Prolific
 63d16398d05b8126c30c19ea,,seed,0,0,3,Read,rake,Study2,M,Study Phase,Recall1,1110,Prolific
@@ -1854,6 +2022,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,muscle,muscle,1,1,3,Read,razor,Study2,M,Study Phase,Recall1,2267,Prolific
 60fd56db5fe37ebeca00bc83,sharp,muscle,0.166666667,0,3,Read,razor,Study2,M,Study Phase,Recall1,9429,Prolific
 61363ce02e6022a741d63a6e,thin,muscle,0,0,3,Read,razor,Study2,M,Study Phase,Recall1,35721,Prolific
+614f6bad672ef7cf5ecfd965,muscle,muscle,1,1,3,Read,razor,Study2,M,Study Phase,Recall1,8709,Prolific
 62f17b6b63bd9e6627a19956,,muscle,0,0,3,Read,razor,Study2,M,Study Phase,Recall1,316,Prolific
 6314c1e76c3f71e2127f1976,sharp,muscle,0.166666667,0,3,Read,razor,Study2,M,Study Phase,Recall1,4085,Prolific
 63d16398d05b8126c30c19ea,slice,muscle,0.666666667,0,3,Read,razor,Study2,M,Study Phase,Recall1,2099,Prolific
@@ -1865,6 +2034,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,island,0,0,3,Read,reality,Study2,M,Study Phase,Recall1,1358,Prolific
 60fd56db5fe37ebeca00bc83,,island,0,0,3,Read,reality,Study2,M,Study Phase,Recall1,3284,Prolific
 61363ce02e6022a741d63a6e,,island,0,0,3,Read,reality,Study2,M,Study Phase,Recall1,1201,Prolific
+614f6bad672ef7cf5ecfd965,show,island,0.166666667,0,3,Read,reality,Study2,M,Study Phase,Recall1,7134,Prolific
 62f17b6b63bd9e6627a19956,,island,0,0,3,Read,reality,Study2,M,Study Phase,Recall1,743,Prolific
 6314c1e76c3f71e2127f1976,,island,0,0,3,Read,reality,Study2,M,Study Phase,Recall1,2753,Prolific
 63d16398d05b8126c30c19ea,,island,0,0,3,Read,reality,Study2,M,Study Phase,Recall1,836,Prolific
@@ -1876,6 +2046,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,stop,0,0,3,Read,school,Study2,M,Study Phase,Recall1,1083,Prolific
 60fd56db5fe37ebeca00bc83,bus,stop,0.25,0,3,Read,school,Study2,M,Study Phase,Recall1,3050,Prolific
 61363ce02e6022a741d63a6e,,stop,0,0,3,Read,school,Study2,M,Study Phase,Recall1,19730,Prolific
+614f6bad672ef7cf5ecfd965,,stop,0,0,3,Read,school,Study2,M,Study Phase,Recall1,4508,Prolific
 62f17b6b63bd9e6627a19956,house,stop,0.4,0,3,Read,school,Study2,M,Study Phase,Recall1,7864,Prolific
 6314c1e76c3f71e2127f1976,bus,stop,0.25,0,3,Read,school,Study2,M,Study Phase,Recall1,3829,Prolific
 63d16398d05b8126c30c19ea,,stop,0,0,3,Read,school,Study2,M,Study Phase,Recall1,2083,Prolific
@@ -1887,6 +2058,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,hide,0,0,3,Read,sick,Study2,U,Study Phase,Recall1,2525,Prolific
 60fd56db5fe37ebeca00bc83,,hide,0,0,3,Read,sick,Study2,U,Study Phase,Recall1,13288,Prolific
 61363ce02e6022a741d63a6e,hurt,hide,0.25,0,3,Read,sick,Study2,U,Study Phase,Recall1,50010,Prolific
+614f6bad672ef7cf5ecfd965,leave,hide,0.2,0,3,Read,sick,Study2,U,Study Phase,Recall1,5555,Prolific
 62f17b6b63bd9e6627a19956,,hide,0,0,3,Read,sick,Study2,U,Study Phase,Recall1,3668,Prolific
 6314c1e76c3f71e2127f1976,leave,hide,0.2,0,3,Read,sick,Study2,U,Study Phase,Recall1,5435,Prolific
 63d16398d05b8126c30c19ea,tired,hide,0.6,0,3,Read,sick,Study2,U,Study Phase,Recall1,1608,Prolific
@@ -1898,6 +2070,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,drink,0,0,3,Read,soap,Study2,M,Study Phase,Recall1,1190,Prolific
 60fd56db5fe37ebeca00bc83,,drink,0,0,3,Read,soap,Study2,M,Study Phase,Recall1,6795,Prolific
 61363ce02e6022a741d63a6e,,drink,0,0,3,Read,soap,Study2,M,Study Phase,Recall1,2492,Prolific
+614f6bad672ef7cf5ecfd965,dish,drink,0.4,0,3,Read,soap,Study2,M,Study Phase,Recall1,7455,Prolific
 62f17b6b63bd9e6627a19956,,drink,0,0,3,Read,soap,Study2,M,Study Phase,Recall1,1091,Prolific
 6314c1e76c3f71e2127f1976,water,drink,0.2,0,3,Read,soap,Study2,M,Study Phase,Recall1,3771,Prolific
 63d16398d05b8126c30c19ea,eat,drink,0,0,3,Read,soap,Study2,M,Study Phase,Recall1,2156,Prolific
@@ -1909,6 +2082,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,weak,accident,0.25,0,3,Read,strong,Study2,U,Study Phase,Recall1,5464,Prolific
 60fd56db5fe37ebeca00bc83,snow,accident,0.125,0,3,Read,strong,Study2,U,Study Phase,Recall1,8362,Prolific
 61363ce02e6022a741d63a6e,,accident,0,0,3,Read,strong,Study2,U,Study Phase,Recall1,38321,Prolific
+614f6bad672ef7cf5ecfd965,sharp\,accident,0.125,0,3,Read,strong,Study2,U,Study Phase,Recall1,18348,Prolific
 62f17b6b63bd9e6627a19956,,accident,0,0,3,Read,strong,Study2,U,Study Phase,Recall1,295,Prolific
 6314c1e76c3f71e2127f1976,fit,accident,0.25,0,3,Read,strong,Study2,U,Study Phase,Recall1,8845,Prolific
 63d16398d05b8126c30c19ea,feather,accident,0.375,0,3,Read,strong,Study2,U,Study Phase,Recall1,3331,Prolific
@@ -1920,6 +2094,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,roll,riddle,0.333333333,0,3,Read,sugar,Study2,U,Study Phase,Recall1,4665,Prolific
 60fd56db5fe37ebeca00bc83,sweet,riddle,0.166666667,0,3,Read,sugar,Study2,U,Study Phase,Recall1,2347,Prolific
 61363ce02e6022a741d63a6e,,riddle,0,0,3,Read,sugar,Study2,U,Study Phase,Recall1,40759,Prolific
+614f6bad672ef7cf5ecfd965,,riddle,0,0,3,Read,sugar,Study2,U,Study Phase,Recall1,8798,Prolific
 62f17b6b63bd9e6627a19956,plum,riddle,0.166666667,0,3,Read,sugar,Study2,U,Study Phase,Recall1,3204,Prolific
 6314c1e76c3f71e2127f1976,baby,riddle,0,0,3,Read,sugar,Study2,U,Study Phase,Recall1,3579,Prolific
 63d16398d05b8126c30c19ea,,riddle,0,0,3,Read,sugar,Study2,U,Study Phase,Recall1,1171,Prolific
@@ -1931,6 +2106,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,chill,snow,0,0,3,Read,summer,Study2,M,Study Phase,Recall1,4166,Prolific
 60fd56db5fe37ebeca00bc83,snow,snow,1,1,3,Read,summer,Study2,M,Study Phase,Recall1,14303,Prolific
 61363ce02e6022a741d63a6e,,snow,0,0,3,Read,summer,Study2,M,Study Phase,Recall1,1842,Prolific
+614f6bad672ef7cf5ecfd965,,snow,0,0,3,Read,summer,Study2,M,Study Phase,Recall1,2848,Prolific
 62f17b6b63bd9e6627a19956,,snow,0,0,3,Read,summer,Study2,M,Study Phase,Recall1,498,Prolific
 6314c1e76c3f71e2127f1976,winter,snow,0.333333333,0,3,Read,summer,Study2,M,Study Phase,Recall1,5185,Prolific
 63d16398d05b8126c30c19ea,snow,snow,1,1,3,Read,summer,Study2,M,Study Phase,Recall1,3207,Prolific
@@ -1942,6 +2118,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,cave,cave,1,1,3,Read,trap,Study2,M,Study Phase,Recall1,4569,Prolific
 60fd56db5fe37ebeca00bc83,cave,cave,1,1,3,Read,trap,Study2,M,Study Phase,Recall1,12474,Prolific
 61363ce02e6022a741d63a6e,,cave,0,0,3,Read,trap,Study2,M,Study Phase,Recall1,1834,Prolific
+614f6bad672ef7cf5ecfd965,,cave,0,0,3,Read,trap,Study2,M,Study Phase,Recall1,10445,Prolific
 62f17b6b63bd9e6627a19956,,cave,0,0,3,Read,trap,Study2,M,Study Phase,Recall1,6818,Prolific
 6314c1e76c3f71e2127f1976,house,cave,0.2,0,3,Read,trap,Study2,M,Study Phase,Recall1,3537,Prolific
 63d16398d05b8126c30c19ea,cave,cave,1,1,3,Read,trap,Study2,M,Study Phase,Recall1,2142,Prolific
@@ -1953,6 +2130,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,peak,0,0,3,Read,valley,Study2,M,Study Phase,Recall1,1128,Prolific
 60fd56db5fe37ebeca00bc83,dip,peak,0.25,0,3,Read,valley,Study2,M,Study Phase,Recall1,2115,Prolific
 61363ce02e6022a741d63a6e,mountain,peak,0.125,0,3,Read,valley,Study2,M,Study Phase,Recall1,36024,Prolific
+614f6bad672ef7cf5ecfd965,,peak,0,0,3,Read,valley,Study2,M,Study Phase,Recall1,7020,Prolific
 62f17b6b63bd9e6627a19956,,peak,0,0,3,Read,valley,Study2,M,Study Phase,Recall1,4889,Prolific
 6314c1e76c3f71e2127f1976,peak,peak,1,1,3,Read,valley,Study2,M,Study Phase,Recall1,3206,Prolific
 63d16398d05b8126c30c19ea,,peak,0,0,3,Read,valley,Study2,M,Study Phase,Recall1,962,Prolific
@@ -1964,6 +2142,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,bug,0,0,3,Read,wasp,Study2,F,Study Phase,Recall1,3300,Prolific
 60fd56db5fe37ebeca00bc83,bee,bug,0.333333333,0,3,Read,wasp,Study2,F,Study Phase,Recall1,10832,Prolific
 61363ce02e6022a741d63a6e,,bug,0,0,3,Read,wasp,Study2,F,Study Phase,Recall1,46335,Prolific
+614f6bad672ef7cf5ecfd965,hornet,bug,0,0,3,Read,wasp,Study2,F,Study Phase,Recall1,6013,Prolific
 62f17b6b63bd9e6627a19956,,bug,0,0,3,Read,wasp,Study2,F,Study Phase,Recall1,301,Prolific
 6314c1e76c3f71e2127f1976,bug,bug,1,1,3,Read,wasp,Study2,F,Study Phase,Recall1,3984,Prolific
 63d16398d05b8126c30c19ea,sting,bug,0.2,0,3,Read,wasp,Study2,F,Study Phase,Recall1,1646,Prolific
@@ -1975,6 +2154,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 5e437d7404eaba215eafbd2a,,knob,0,0,3,Read,window,Study2,M,Study Phase,Recall1,1113,Prolific
 60fd56db5fe37ebeca00bc83,knob,knob,1,1,3,Read,window,Study2,M,Study Phase,Recall1,31730,Prolific
 61363ce02e6022a741d63a6e,glass,knob,0,0,3,Read,window,Study2,M,Study Phase,Recall1,6420,Prolific
+614f6bad672ef7cf5ecfd965,,knob,0,0,3,Read,window,Study2,M,Study Phase,Recall1,4471,Prolific
 62f17b6b63bd9e6627a19956,,knob,0,0,3,Read,window,Study2,M,Study Phase,Recall1,90,Prolific
 6314c1e76c3f71e2127f1976,open,knob,0.5,0,3,Read,window,Study2,M,Study Phase,Recall1,4990,Prolific
 63d16398d05b8126c30c19ea,mirror,knob,0.166666667,0,3,Read,window,Study2,M,Study Phase,Recall1,2886,Prolific

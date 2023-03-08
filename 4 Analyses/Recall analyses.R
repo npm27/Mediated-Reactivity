@@ -42,7 +42,8 @@ Read.wide = cast(Read3, id ~ direction, mean)
 combined = subset(combined,
                   combined$id != "W10057641NS" & combined$id != "10068469SJ" & combined$id != "W_10132867_LAA" &
                   combined$id != "62f17b6b63bd9e6627a19956" & combined$id != "5a8b1ee2000dab00018cc7cd" &
-                  combined$id != "62d43cee3d60ac98c1dcacc8" & combined$id != "63474e67a5fd298c6103c409")
+                  combined$id != "62d43cee3d60ac98c1dcacc8" & combined$id != "63474e67a5fd298c6103c409" &
+                  combined$id != "w963035" & combined$id != "5c2bb03b9fb36d000198e2d7" & combined$id != "w10162630_CAG")
 
 ####ANOVA####
 model1 = ezANOVA(combined,
@@ -95,6 +96,9 @@ read3 = subset(combined, combined$encoding == "Read")
 jol.ph = cast(jol3, id ~ direction, mean)
 read.ph = cast(read3, id ~ direction, mean)
 
+(apply(jol.ph[ , -1], 2, sd) / sqrt(nrow(jol.ph))) * 1.96
+(apply(read.ph[ , -1], 2, sd) / sqrt(nrow(read.ph))) * 1.96
+
 ##forward
 temp = t.test(jol.ph$F, read.ph$F, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
@@ -106,7 +110,7 @@ temp$statistic #sig!
 temp = t.test(jol.ph$M, read.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #Marginal (most likely a power thing...) #.09
+temp$statistic #Marginal (most likely a power thing...) #.074
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #unrelated
@@ -120,23 +124,29 @@ temp$statistic #Non-Sig
 
 ##get ns after cleaning
 ##get ns
-nrow(jol.ph) #37
-nrow(read.ph) #41
+nrow(jol.ph) #44
+nrow(read.ph) #44
 
 ##How many from each platform?
 jol4 = subset(jol3,
               jol3$Platform == "Prolific")
 length(unique(jol4$id)) #19
 
-jol4 = subset(jol3,
+jol5 = subset(jol3,
               jol3$Platform == "USM")
-length(unique(jol4$id)) #18
+length(unique(jol5$id)) #22
 
 read4 = subset(read3,
               read3$Platform == "Prolific")
 length(unique(read4$id)) #20
 
-read4 = subset(read3,
+read5 = subset(read3,
               read3$Platform == "USM")
-length(unique(read4$id)) #21
+length(unique(read5$id)) #22
 
+####platform differences?####
+combined2 = rbind(jol4, read4)
+combined3 = rbind(jol5, read5)
+
+tapply(combined2$score, list(combined2$encoding, combined2$direction), mean)
+tapply(combined3$score, list(combined3$encoding, combined3$direction), mean) #Not really, its about 8% increase.

@@ -1,5 +1,6 @@
 "Username","Response.Response","Stimuli.Answer","Condition.Number","Condition.Description","Stimuli.Cue","Stimuli.Shuffle","Stimuli.Stimuli.Notes","Procedure.Shuffle","Procedure.Shuffle.1","Response.RT"
 "55b2d3f2fdf99b525bc839aa","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",1537
+"56fc8248b5648e000fac9980","hug","love",1,"Read","affection","Study1","F","Study Phase","Recall1",4043
 "5a8b1ee2000dab00018cc7cd","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",4328
 "5d4225e01985380018375d83","kiss","love",1,"Read","affection","Study1","F","Study Phase","Recall1",1619
 "5f79bca83a2eb65c0983816d","love ","love",1,"Read","affection","Study1","F","Study Phase","Recall1",5192
@@ -11,6 +12,7 @@
 "631512727c23394ca21acbfb","","love",1,"Read","affection","Study1","F","Study Phase","Recall1",834
 "63d7d95057d77b4c34b3afe8","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",2958
 "55b2d3f2fdf99b525bc839aa","bounce","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",11665
+"56fc8248b5648e000fac9980","ball","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",3201
 "5a8b1ee2000dab00018cc7cd","bounce","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",4157
 "5d4225e01985380018375d83","ball","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",1456
 "5f79bca83a2eb65c0983816d","ball","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",5463
@@ -22,6 +24,7 @@
 "631512727c23394ca21acbfb","","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",1304
 "63d7d95057d77b4c34b3afe8","bounce","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",4342
 "55b2d3f2fdf99b525bc839aa","sand","box",1,"Read","beach","Study1","M","Study Phase","Recall1",4313
+"56fc8248b5648e000fac9980","shell","box",1,"Read","beach","Study1","M","Study Phase","Recall1",3774
 "5a8b1ee2000dab00018cc7cd","box","box",1,"Read","beach","Study1","M","Study Phase","Recall1",3271
 "5d4225e01985380018375d83","water","box",1,"Read","beach","Study1","M","Study Phase","Recall1",2348
 "5f79bca83a2eb65c0983816d","sand","box",1,"Read","beach","Study1","M","Study Phase","Recall1",38444
@@ -33,6 +36,7 @@
 "631512727c23394ca21acbfb","","box",1,"Read","beach","Study1","M","Study Phase","Recall1",1072
 "63d7d95057d77b4c34b3afe8","box","box",1,"Read","beach","Study1","M","Study Phase","Recall1",2008
 "55b2d3f2fdf99b525bc839aa","day","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",2020
+"56fc8248b5648e000fac9980","cake","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",10063
 "5a8b1ee2000dab00018cc7cd","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",3613
 "5d4225e01985380018375d83","candle","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",22595
 "5f79bca83a2eb65c0983816d","cake","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",6011
@@ -44,6 +48,7 @@
 "631512727c23394ca21acbfb","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",1892
 "63d7d95057d77b4c34b3afe8","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",1937
 "55b2d3f2fdf99b525bc839aa","bread","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",2978
+"56fc8248b5648e000fac9980","layer","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",7653
 "5a8b1ee2000dab00018cc7cd","hand","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",3985
 "5d4225e01985380018375d83","bake","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",7435
 "5f79bca83a2eb65c0983816d","eat","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",7526
@@ -55,6 +60,7 @@
 "631512727c23394ca21acbfb","","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",954
 "63d7d95057d77b4c34b3afe8","eat","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",5465
 "55b2d3f2fdf99b525bc839aa","maze","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",47294
+"56fc8248b5648e000fac9980","fan","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",3207
 "5a8b1ee2000dab00018cc7cd","carpet","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",4545
 "5d4225e01985380018375d83","high","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",2126
 "5f79bca83a2eb65c0983816d","floor","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",5599
@@ -66,6 +72,7 @@
 "631512727c23394ca21acbfb","","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",2370
 "63d7d95057d77b4c34b3afe8","carpet","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",3017
 "55b2d3f2fdf99b525bc839aa","dance","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",5681
+"56fc8248b5648e000fac9980","square","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",29915
 "5a8b1ee2000dab00018cc7cd","dance","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",8427
 "5d4225e01985380018375d83","shape","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",8172
 "5f79bca83a2eb65c0983816d","round ","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",7544
@@ -77,6 +84,7 @@
 "631512727c23394ca21acbfb","","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",1345
 "63d7d95057d77b4c34b3afe8","square","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",2788
 "55b2d3f2fdf99b525bc839aa","pop","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",1687
+"56fc8248b5648e000fac9980","glass","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",4026
 "5a8b1ee2000dab00018cc7cd","election","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",4740
 "5d4225e01985380018375d83","cackle ","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",4045
 "5f79bca83a2eb65c0983816d","fire","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",5539
@@ -88,6 +96,7 @@
 "631512727c23394ca21acbfb","","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",2459
 "63d7d95057d77b4c34b3afe8","election","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",9077
 "55b2d3f2fdf99b525bc839aa","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",1431
+"56fc8248b5648e000fac9980","debit","card",1,"Read","credit","Study1","F","Study Phase","Recall1",3228
 "5a8b1ee2000dab00018cc7cd","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",3446
 "5d4225e01985380018375d83","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",1676
 "5f79bca83a2eb65c0983816d","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",4542
@@ -99,6 +108,7 @@
 "631512727c23394ca21acbfb","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",3881
 "63d7d95057d77b4c34b3afe8","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",1657
 "55b2d3f2fdf99b525bc839aa","more","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",1723
+"56fc8248b5648e000fac9980","moan","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",2479
 "5a8b1ee2000dab00018cc7cd","bottle","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",4254
 "5d4225e01985380018375d83","sad","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",2122
 "5f79bca83a2eb65c0983816d","tears","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",6487
@@ -110,6 +120,7 @@
 "631512727c23394ca21acbfb","","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",1173
 "63d7d95057d77b4c34b3afe8","baby","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",1990
 "55b2d3f2fdf99b525bc839aa","dark","dark",1,"Read","day","Study1","M","Study Phase","Recall1",11449
+"56fc8248b5648e000fac9980","night","dark",1,"Read","day","Study1","M","Study Phase","Recall1",3778
 "5a8b1ee2000dab00018cc7cd","dark","dark",1,"Read","day","Study1","M","Study Phase","Recall1",3842
 "5d4225e01985380018375d83","night","dark",1,"Read","day","Study1","M","Study Phase","Recall1",2137
 "5f79bca83a2eb65c0983816d","week ","dark",1,"Read","day","Study1","M","Study Phase","Recall1",5706
@@ -121,6 +132,7 @@
 "631512727c23394ca21acbfb","dawn","dark",1,"Read","day","Study1","M","Study Phase","Recall1",3623
 "63d7d95057d77b4c34b3afe8","night","dark",1,"Read","day","Study1","M","Study Phase","Recall1",2043
 "55b2d3f2fdf99b525bc839aa","bang","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",15692
+"56fc8248b5648e000fac9980","dice","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",5150
 "5a8b1ee2000dab00018cc7cd","bangs","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",5827
 "5d4225e01985380018375d83","warm","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",2100
 "5f79bca83a2eb65c0983816d","hairy","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",10743
@@ -132,6 +144,7 @@
 "631512727c23394ca21acbfb","","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",783
 "63d7d95057d77b4c34b3afe8","wood","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",7183
 "55b2d3f2fdf99b525bc839aa","steak","steak",1,"Read","give","Study1","U","Study Phase","Recall1",10084
+"56fc8248b5648e000fac9980","hug","steak",1,"Read","give","Study1","U","Study Phase","Recall1",3134
 "5a8b1ee2000dab00018cc7cd","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",19319
 "5d4225e01985380018375d83","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",1767
 "5f79bca83a2eb65c0983816d","take ","steak",1,"Read","give","Study1","U","Study Phase","Recall1",9415
@@ -143,6 +156,7 @@
 "631512727c23394ca21acbfb","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",2006
 "63d7d95057d77b4c34b3afe8","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",3207
 "55b2d3f2fdf99b525bc839aa","soft","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",1583
+"56fc8248b5648e000fac9980","soda","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",4700
 "5a8b1ee2000dab00018cc7cd","","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",13447
 "5d4225e01985380018375d83","soft","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",1398
 "5f79bca83a2eb65c0983816d","tough ","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",16124
@@ -154,6 +168,7 @@
 "631512727c23394ca21acbfb","","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",1471
 "63d7d95057d77b4c34b3afe8","cotton","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",3118
 "55b2d3f2fdf99b525bc839aa","meat","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",1641
+"56fc8248b5648e000fac9980","cow","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",48333
 "5a8b1ee2000dab00018cc7cd","wheel","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",4420
 "5d4225e01985380018375d83","animal","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",8940
 "5f79bca83a2eb65c0983816d","mule","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",16042
@@ -165,6 +180,7 @@
 "631512727c23394ca21acbfb","wheel","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",4357
 "63d7d95057d77b4c34b3afe8","wheel","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",3666
 "55b2d3f2fdf99b525bc839aa","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",8713
+"56fc8248b5648e000fac9980","dentist","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",5294
 "5a8b1ee2000dab00018cc7cd","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",3378
 "5d4225e01985380018375d83","wash","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",1897
 "5f79bca83a2eb65c0983816d","wash","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",4792
@@ -176,6 +192,7 @@
 "631512727c23394ca21acbfb","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",2308
 "63d7d95057d77b4c34b3afe8","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",2300
 "55b2d3f2fdf99b525bc839aa","rod","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",10600
+"56fc8248b5648e000fac9980","money","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",10508
 "5a8b1ee2000dab00018cc7cd","rod","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",4213
 "5d4225e01985380018375d83","door","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",2672
 "5f79bca83a2eb65c0983816d","ring","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",22019
@@ -187,6 +204,7 @@
 "631512727c23394ca21acbfb","meat","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",2122
 "63d7d95057d77b4c34b3afe8","meat","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",1735
 "55b2d3f2fdf99b525bc839aa","tiger","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",2094
+"56fc8248b5648e000fac9980","cub","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",3726
 "5a8b1ee2000dab00018cc7cd","stripes","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",5434
 "5d4225e01985380018375d83","king","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",1540
 "5f79bca83a2eb65c0983816d","cat","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",4786
@@ -198,6 +216,7 @@
 "631512727c23394ca21acbfb","","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",1092
 "63d7d95057d77b4c34b3afe8","stripes","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",2493
 "55b2d3f2fdf99b525bc839aa","fiction","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",12555
+"56fc8248b5648e000fac9980","hear","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",4720
 "5a8b1ee2000dab00018cc7cd","spaek","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",23009
 "5d4225e01985380018375d83","sound","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",5406
 "5f79bca83a2eb65c0983816d","sound ","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",17190
@@ -209,6 +228,7 @@
 "631512727c23394ca21acbfb","","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",596
 "63d7d95057d77b4c34b3afe8","hear","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",2598
 "55b2d3f2fdf99b525bc839aa","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",2420
+"56fc8248b5648e000fac9980","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",8073
 "5a8b1ee2000dab00018cc7cd","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",3741
 "5d4225e01985380018375d83","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",2661
 "5f79bca83a2eb65c0983816d","box","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",5085
@@ -220,6 +240,7 @@
 "631512727c23394ca21acbfb","","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",922
 "63d7d95057d77b4c34b3afe8","cat","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",3656
 "55b2d3f2fdf99b525bc839aa","bird","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",10651
+"56fc8248b5648e000fac9980","lost","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",4664
 "5a8b1ee2000dab00018cc7cd","phone","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",9111
 "5d4225e01985380018375d83","runner","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",2062
 "5f79bca83a2eb65c0983816d","phone ","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",9938
@@ -231,6 +252,7 @@
 "631512727c23394ca21acbfb","phone","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",2695
 "63d7d95057d77b4c34b3afe8","phone","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",2421
 "55b2d3f2fdf99b525bc839aa","eat","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",1659
+"56fc8248b5648e000fac9980","treat","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",6644
 "5a8b1ee2000dab00018cc7cd","keys","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",7136
 "5d4225e01985380018375d83","ball","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",3338
 "5f79bca83a2eb65c0983816d","","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",8213
@@ -242,6 +264,7 @@
 "631512727c23394ca21acbfb","keys","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",3055
 "63d7d95057d77b4c34b3afe8","key","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",2373
 "55b2d3f2fdf99b525bc839aa","maroon","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",14808
+"56fc8248b5648e000fac9980","glass","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",7618
 "5a8b1ee2000dab00018cc7cd","maroon","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",4202
 "5d4225e01985380018375d83","minor","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",4646
 "5f79bca83a2eb65c0983816d","look","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",5973
@@ -254,6 +277,8 @@
 "63d7d95057d77b4c34b3afe8","mirage","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",6415
 "55b2d3f2fdf99b525bc839aa","horse","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",2022
 "55b2d3f2fdf99b525bc839aa","horse","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3459
+"56fc8248b5648e000fac9980","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3422
+"56fc8248b5648e000fac9980","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3662
 "5a8b1ee2000dab00018cc7cd","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3894
 "5a8b1ee2000dab00018cc7cd","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",4487
 "5d4225e01985380018375d83","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",5278
@@ -275,6 +300,7 @@
 "63d7d95057d77b4c34b3afe8","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",2623
 "63d7d95057d77b4c34b3afe8","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",1941
 "55b2d3f2fdf99b525bc839aa","sleep","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",7040
+"56fc8248b5648e000fac9980","clap","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",5274
 "5a8b1ee2000dab00018cc7cd","sleep","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",8044
 "5d4225e01985380018375d83","sleep","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",1808
 "5f79bca83a2eb65c0983816d","sleep ","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",4732
@@ -286,6 +312,7 @@
 "631512727c23394ca21acbfb","","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",761
 "63d7d95057d77b4c34b3afe8","tired","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",3595
 "55b2d3f2fdf99b525bc839aa","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",18348
+"56fc8248b5648e000fac9980","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",4543
 "5a8b1ee2000dab00018cc7cd","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",3924
 "5d4225e01985380018375d83","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",1496
 "5f79bca83a2eb65c0983816d","flower ","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",6743
@@ -297,6 +324,7 @@
 "631512727c23394ca21acbfb","","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",919
 "63d7d95057d77b4c34b3afe8","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",2001
 "55b2d3f2fdf99b525bc839aa","canal","plant",1,"Read","root","Study1","F","Study Phase","Recall1",1843
+"56fc8248b5648e000fac9980","plants","plant",1,"Read","root","Study1","F","Study Phase","Recall1",5690
 "5a8b1ee2000dab00018cc7cd","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",4673
 "5d4225e01985380018375d83","tree","plant",1,"Read","root","Study1","F","Study Phase","Recall1",1981
 "5f79bca83a2eb65c0983816d","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",8807
@@ -308,6 +336,7 @@
 "631512727c23394ca21acbfb","","plant",1,"Read","root","Study1","F","Study Phase","Recall1",1053
 "63d7d95057d77b4c34b3afe8","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",2364
 "55b2d3f2fdf99b525bc839aa","smooth","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",4194
+"56fc8248b5648e000fac9980","day","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",6423
 "5a8b1ee2000dab00018cc7cd","silk","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",4492
 "5d4225e01985380018375d83","estimate","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",2441
 "5f79bca83a2eb65c0983816d","rigid ","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",10964
@@ -319,6 +348,7 @@
 "631512727c23394ca21acbfb","","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",1371
 "63d7d95057d77b4c34b3afe8","satin","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",11335
 "55b2d3f2fdf99b525bc839aa","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",2224
+"56fc8248b5648e000fac9980"," hair","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",3818
 "5a8b1ee2000dab00018cc7cd","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",4829
 "5d4225e01985380018375d83","itchy ","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",3339
 "5f79bca83a2eb65c0983816d","sell ","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",9870
@@ -330,6 +360,7 @@
 "631512727c23394ca21acbfb","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",1858
 "63d7d95057d77b4c34b3afe8","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",1705
 "55b2d3f2fdf99b525bc839aa","shake","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",12787
+"56fc8248b5648e000fac9980","","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",17363
 "5a8b1ee2000dab00018cc7cd","shake","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",3255
 "5d4225e01985380018375d83","turtle","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",2836
 "5f79bca83a2eb65c0983816d","","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",5202
@@ -341,6 +372,7 @@
 "631512727c23394ca21acbfb","","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",874
 "63d7d95057d77b4c34b3afe8","shock","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",3225
 "55b2d3f2fdf99b525bc839aa","clean","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",6417
+"56fc8248b5648e000fac9980","post","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",4406
 "5a8b1ee2000dab00018cc7cd","tick","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",4102
 "5d4225e01985380018375d83","way","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",6061
 "5f79bca83a2eb65c0983816d","off","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",10450
@@ -352,6 +384,7 @@
 "631512727c23394ca21acbfb","","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",824
 "63d7d95057d77b4c34b3afe8","tick","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",1875
 "55b2d3f2fdf99b525bc839aa","cup","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",2653
+"56fc8248b5648e000fac9980","straw","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",5258
 "5a8b1ee2000dab00018cc7cd","drink","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",6732
 "5d4225e01985380018375d83","water","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",1488
 "5f79bca83a2eb65c0983816d","drink ","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",5405
@@ -363,6 +396,7 @@
 "631512727c23394ca21acbfb","","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",642
 "63d7d95057d77b4c34b3afe8","drink","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",3793
 "55b2d3f2fdf99b525bc839aa","later","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",1608
+"56fc8248b5648e000fac9980","later","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",3461
 "5a8b1ee2000dab00018cc7cd","belt","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",11181
 "5d4225e01985380018375d83","far","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",2470
 "5f79bca83a2eb65c0983816d","enough ","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",5799
@@ -374,6 +408,7 @@
 "631512727c23394ca21acbfb","","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",2116
 "63d7d95057d77b4c34b3afe8","later","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",2109
 "55b2d3f2fdf99b525bc839aa","cloth","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",16892
+"56fc8248b5648e000fac9980","reach","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",3997
 "5a8b1ee2000dab00018cc7cd","cloth","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",9877
 "5d4225e01985380018375d83","fit","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",8318
 "5f79bca83a2eb65c0983816d","far","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",4520
@@ -385,6 +420,7 @@
 "631512727c23394ca21acbfb","","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",1148
 "63d7d95057d77b4c34b3afe8","fabric","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",5726
 "55b2d3f2fdf99b525bc839aa","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",16540
+"56fc8248b5648e000fac9980","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4912
 "5a8b1ee2000dab00018cc7cd","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4537
 "5d4225e01985380018375d83","duck","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",3642
 "5f79bca83a2eb65c0983816d","song","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4591
@@ -396,6 +432,7 @@
 "631512727c23394ca21acbfb","","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",1119
 "63d7d95057d77b4c34b3afe8","dive","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4367
 "55b2d3f2fdf99b525bc839aa","rise","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",1896
+"56fc8248b5648e000fac9980","warm","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",5206
 "5a8b1ee2000dab00018cc7cd","morning","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",4547
 "5d4225e01985380018375d83","warm","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",1789
 "5f79bca83a2eb65c0983816d","","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",5269
@@ -407,6 +444,7 @@
 "631512727c23394ca21acbfb","","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",1510
 "63d7d95057d77b4c34b3afe8","morning","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",2478
 "55b2d3f2fdf99b525bc839aa","extract","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",2543
+"56fc8248b5648e000fac9980","decay","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",2980
 "5a8b1ee2000dab00018cc7cd","hair","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",4439
 "5d4225e01985380018375d83","ache","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",1428
 "5f79bca83a2eb65c0983816d","hair","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",10545
@@ -418,6 +456,7 @@
 "631512727c23394ca21acbfb","","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",698
 "63d7d95057d77b4c34b3afe8","hair","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",4521
 "55b2d3f2fdf99b525bc839aa","oak","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",4052
+"56fc8248b5648e000fac9980","leaf","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",2947
 "5a8b1ee2000dab00018cc7cd","","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",20032
 "5d4225e01985380018375d83","green","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",2931
 "5f79bca83a2eb65c0983816d","green ","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",5444
@@ -429,6 +468,7 @@
 "631512727c23394ca21acbfb","syrup","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",5645
 "63d7d95057d77b4c34b3afe8","sky","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",4296
 "55b2d3f2fdf99b525bc839aa","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",1769
+"56fc8248b5648e000fac9980","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",5708
 "5a8b1ee2000dab00018cc7cd","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",3616
 "5d4225e01985380018375d83","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",1229
 "5f79bca83a2eb65c0983816d","fish ","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",5130
@@ -440,6 +480,7 @@
 "631512727c23394ca21acbfb","","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",2424
 "63d7d95057d77b4c34b3afe8","wheel","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",4236
 "55b2d3f2fdf99b525bc839aa","car","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",1560
+"56fc8248b5648e000fac9980","truck","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",36329
 "5a8b1ee2000dab00018cc7cd","charm","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",5307
 "5d4225e01985380018375d83","car","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",1839
 "5f79bca83a2eb65c0983816d","car","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",4073
@@ -451,6 +492,7 @@
 "631512727c23394ca21acbfb","","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",1042
 "63d7d95057d77b4c34b3afe8","","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",5564
 "55b2d3f2fdf99b525bc839aa","money","money",1,"Read","wage","Study1","F","Study Phase","Recall1",1867
+"56fc8248b5648e000fac9980","war","money",1,"Read","wage","Study1","F","Study Phase","Recall1",7012
 "5a8b1ee2000dab00018cc7cd","money","money",1,"Read","wage","Study1","F","Study Phase","Recall1",7310
 "5d4225e01985380018375d83","cash","money",1,"Read","wage","Study1","F","Study Phase","Recall1",2330
 "5f79bca83a2eb65c0983816d","pay","money",1,"Read","wage","Study1","F","Study Phase","Recall1",7837
@@ -462,6 +504,7 @@
 "631512727c23394ca21acbfb","credit","money",1,"Read","wage","Study1","F","Study Phase","Recall1",4374
 "63d7d95057d77b4c34b3afe8","payment","money",1,"Read","wage","Study1","F","Study Phase","Recall1",5344
 "55b2d3f2fdf99b525bc839aa","kill","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",20130
+"56fc8248b5648e000fac9980","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3056
 "5a8b1ee2000dab00018cc7cd","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3694
 "5d4225e01985380018375d83","base","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",6160
 "5f79bca83a2eb65c0983816d","","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",5529
@@ -473,6 +516,7 @@
 "631512727c23394ca21acbfb","","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",4566
 "63d7d95057d77b4c34b3afe8","cry","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",2681
 "55b2d3f2fdf99b525bc839aa","wage","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",22699
+"56fc8248b5648e000fac9980","planner","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",3666
 "5a8b1ee2000dab00018cc7cd","finger","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",11425
 "5d4225e01985380018375d83","ring","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",1400
 "5f79bca83a2eb65c0983816d","ring","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",5264
@@ -484,6 +528,7 @@
 "631512727c23394ca21acbfb","","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",1707
 "63d7d95057d77b4c34b3afe8","hand","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",3872
 "55b2d3f2fdf99b525bc839aa","letter","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",3778
+"56fc8248b5648e000fac9980","phrase","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",9062
 "5a8b1ee2000dab00018cc7cd","sentence","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",7210
 "5d4225e01985380018375d83","sentence ","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",4156
 "5f79bca83a2eb65c0983816d","puzzle ","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",9154
@@ -501,6 +546,7 @@
 "5e437d7404eaba215eafbd2a","","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",2556
 "60fd56db5fe37ebeca00bc83","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",2434
 "61363ce02e6022a741d63a6e","","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",1322
+"614f6bad672ef7cf5ecfd965","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",4072
 "62f17b6b63bd9e6627a19956","","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",359
 "6314c1e76c3f71e2127f1976","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",2437
 "63d16398d05b8126c30c19ea","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",1592
@@ -512,6 +558,7 @@
 "5e437d7404eaba215eafbd2a","ball","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",1713
 "60fd56db5fe37ebeca00bc83","bounce","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",2040
 "61363ce02e6022a741d63a6e","bounce","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",2700
+"614f6bad672ef7cf5ecfd965","","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",2639
 "62f17b6b63bd9e6627a19956","","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",692
 "6314c1e76c3f71e2127f1976","bounce","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",6865
 "63d16398d05b8126c30c19ea","b","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",1398
@@ -523,6 +570,7 @@
 "5e437d7404eaba215eafbd2a","water","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",5583
 "60fd56db5fe37ebeca00bc83","sand","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",15193
 "61363ce02e6022a741d63a6e","","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",1513
+"614f6bad672ef7cf5ecfd965","sand","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",3202
 "62f17b6b63bd9e6627a19956","","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",685
 "6314c1e76c3f71e2127f1976","sand","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",3113
 "63d16398d05b8126c30c19ea","box","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",2384
@@ -534,6 +582,7 @@
 "5e437d7404eaba215eafbd2a","pie","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",5057
 "60fd56db5fe37ebeca00bc83","pie","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",10181
 "61363ce02e6022a741d63a6e","","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",1785
+"614f6bad672ef7cf5ecfd965","","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",5782
 "62f17b6b63bd9e6627a19956","","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",899
 "6314c1e76c3f71e2127f1976","cake","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",2709
 "63d16398d05b8126c30c19ea","pie","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",1436
@@ -545,6 +594,7 @@
 "5e437d7404eaba215eafbd2a","pie","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",4399
 "60fd56db5fe37ebeca00bc83","food","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",14143
 "61363ce02e6022a741d63a6e","","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",1667
+"614f6bad672ef7cf5ecfd965","candy","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",12660
 "62f17b6b63bd9e6627a19956","","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",1369
 "6314c1e76c3f71e2127f1976","festival","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",7283
 "63d16398d05b8126c30c19ea","pie","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",3350
@@ -556,6 +606,7 @@
 "5e437d7404eaba215eafbd2a","","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",1772
 "60fd56db5fe37ebeca00bc83","carpet","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",9681
 "61363ce02e6022a741d63a6e","","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",1164
+"614f6bad672ef7cf5ecfd965","floor","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",3439
 "62f17b6b63bd9e6627a19956","","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",696
 "6314c1e76c3f71e2127f1976","carpet","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",5704
 "63d16398d05b8126c30c19ea","floor","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",1546
@@ -567,6 +618,7 @@
 "5e437d7404eaba215eafbd2a","dance","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",2761
 "60fd56db5fe37ebeca00bc83","dance","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",2655
 "61363ce02e6022a741d63a6e","","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",1318
+"614f6bad672ef7cf5ecfd965","dance","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",2937
 "62f17b6b63bd9e6627a19956","","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",3911
 "6314c1e76c3f71e2127f1976","dot","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",2817
 "63d16398d05b8126c30c19ea","","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",1014
@@ -578,6 +630,7 @@
 "5e437d7404eaba215eafbd2a","","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",2725
 "60fd56db5fe37ebeca00bc83","election","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",10425
 "61363ce02e6022a741d63a6e","","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",1597
+"614f6bad672ef7cf5ecfd965","snap","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",7175
 "62f17b6b63bd9e6627a19956","","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",1013
 "6314c1e76c3f71e2127f1976","","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",2409
 "63d16398d05b8126c30c19ea","","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",1968
@@ -589,6 +642,7 @@
 "5e437d7404eaba215eafbd2a","","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",3197
 "60fd56db5fe37ebeca00bc83","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",1621
 "61363ce02e6022a741d63a6e","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",2606
+"614f6bad672ef7cf5ecfd965","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",3530
 "62f17b6b63bd9e6627a19956","","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",1637
 "6314c1e76c3f71e2127f1976","","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",7634
 "63d16398d05b8126c30c19ea","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",1657
@@ -600,6 +654,7 @@
 "5e437d7404eaba215eafbd2a","","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",2925
 "60fd56db5fe37ebeca00bc83","bottle","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",6654
 "61363ce02e6022a741d63a6e","","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",1311
+"614f6bad672ef7cf5ecfd965","laugh","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",4734
 "62f17b6b63bd9e6627a19956","","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",601
 "6314c1e76c3f71e2127f1976","laugh","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",2591
 "63d16398d05b8126c30c19ea","sob","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",1419
@@ -611,6 +666,7 @@
 "5e437d7404eaba215eafbd2a","week","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",5271
 "60fd56db5fe37ebeca00bc83","dark","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",21136
 "61363ce02e6022a741d63a6e","","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",1319
+"614f6bad672ef7cf5ecfd965","night","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",5360
 "62f17b6b63bd9e6627a19956","","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",2192
 "6314c1e76c3f71e2127f1976","sunny","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",5612
 "63d16398d05b8126c30c19ea","dusk","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",2433
@@ -622,6 +678,7 @@
 "5e437d7404eaba215eafbd2a","","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",5249
 "60fd56db5fe37ebeca00bc83","bang","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",11780
 "61363ce02e6022a741d63a6e","","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",1011
+"614f6bad672ef7cf5ecfd965","clear","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",4233
 "62f17b6b63bd9e6627a19956","","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",800
 "6314c1e76c3f71e2127f1976","flower","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",2802
 "63d16398d05b8126c30c19ea","","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",1596
@@ -633,6 +690,7 @@
 "5e437d7404eaba215eafbd2a","","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",1637
 "60fd56db5fe37ebeca00bc83","","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",20093
 "61363ce02e6022a741d63a6e","","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",1389
+"614f6bad672ef7cf5ecfd965","","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",4265
 "62f17b6b63bd9e6627a19956","","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",2094
 "6314c1e76c3f71e2127f1976","take","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",2538
 "63d16398d05b8126c30c19ea","take","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",2251
@@ -644,6 +702,7 @@
 "5e437d7404eaba215eafbd2a","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",2107
 "60fd56db5fe37ebeca00bc83","rough","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",15689
 "61363ce02e6022a741d63a6e","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",1406
+"614f6bad672ef7cf5ecfd965","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",6566
 "62f17b6b63bd9e6627a19956","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",818
 "6314c1e76c3f71e2127f1976","soft","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",2711
 "63d16398d05b8126c30c19ea","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",1042
@@ -655,6 +714,7 @@
 "5e437d7404eaba215eafbd2a","","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",1367
 "60fd56db5fe37ebeca00bc83","wheel","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",17342
 "61363ce02e6022a741d63a6e","mule","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",3644
+"614f6bad672ef7cf5ecfd965","donkey","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",6486
 "62f17b6b63bd9e6627a19956","","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",940
 "6314c1e76c3f71e2127f1976","pasture","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",3657
 "63d16398d05b8126c30c19ea","wheel","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",1767
@@ -666,6 +726,7 @@
 "5e437d7404eaba215eafbd2a","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",1753
 "60fd56db5fe37ebeca00bc83","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",5916
 "61363ce02e6022a741d63a6e","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",3639
+"614f6bad672ef7cf5ecfd965","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",2712
 "62f17b6b63bd9e6627a19956","smell","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",3452
 "6314c1e76c3f71e2127f1976","razor","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",3369
 "63d16398d05b8126c30c19ea","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",1280
@@ -677,6 +738,7 @@
 "5e437d7404eaba215eafbd2a","","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",1272
 "60fd56db5fe37ebeca00bc83","night","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",20853
 "61363ce02e6022a741d63a6e","","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",1127
+"614f6bad672ef7cf5ecfd965","rod","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",4088
 "62f17b6b63bd9e6627a19956","meat","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",6129
 "6314c1e76c3f71e2127f1976","jingle","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",2755
 "63d16398d05b8126c30c19ea","","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",951
@@ -688,6 +750,7 @@
 "5e437d7404eaba215eafbd2a","","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",1073
 "60fd56db5fe37ebeca00bc83","stripes","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",13751
 "61363ce02e6022a741d63a6e","","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",2985
+"614f6bad672ef7cf5ecfd965","stripe","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",2808
 "62f17b6b63bd9e6627a19956","","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",325
 "6314c1e76c3f71e2127f1976","jungle","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",3524
 "63d16398d05b8126c30c19ea","stripes","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",1978
@@ -699,6 +762,7 @@
 "5e437d7404eaba215eafbd2a","","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",6707
 "60fd56db5fe37ebeca00bc83","fiction","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",9854
 "61363ce02e6022a741d63a6e","","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",1346
+"614f6bad672ef7cf5ecfd965","","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",7785
 "62f17b6b63bd9e6627a19956","","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",653
 "6314c1e76c3f71e2127f1976","hear","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",2972
 "63d16398d05b8126c30c19ea","hear","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",1595
@@ -710,6 +774,7 @@
 "5e437d7404eaba215eafbd2a","trash","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",2114
 "60fd56db5fe37ebeca00bc83","trash","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",6949
 "61363ce02e6022a741d63a6e","trash","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",35724
+"614f6bad672ef7cf5ecfd965","trash","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",4086
 "62f17b6b63bd9e6627a19956","","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",410
 "6314c1e76c3f71e2127f1976","cat","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",4093
 "63d16398d05b8126c30c19ea","","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",1135
@@ -721,6 +786,7 @@
 "5e437d7404eaba215eafbd2a","","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",1242
 "60fd56db5fe37ebeca00bc83","","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",19492
 "61363ce02e6022a741d63a6e","","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",6599
+"614f6bad672ef7cf5ecfd965","","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",3726
 "62f17b6b63bd9e6627a19956","","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",1178
 "6314c1e76c3f71e2127f1976","jungle","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",3139
 "63d16398d05b8126c30c19ea","phone","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",1755
@@ -732,6 +798,7 @@
 "5e437d7404eaba215eafbd2a","","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",1731
 "60fd56db5fe37ebeca00bc83","keys","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",3197
 "61363ce02e6022a741d63a6e","","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",1182
+"614f6bad672ef7cf5ecfd965","","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",10594
 "62f17b6b63bd9e6627a19956","","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",1421
 "6314c1e76c3f71e2127f1976","fish","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",3148
 "63d16398d05b8126c30c19ea","","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",1595
@@ -743,6 +810,7 @@
 "5e437d7404eaba215eafbd2a","","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",1353
 "60fd56db5fe37ebeca00bc83","maroon","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",8456
 "61363ce02e6022a741d63a6e","","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",1428
+"614f6bad672ef7cf5ecfd965","","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",4958
 "62f17b6b63bd9e6627a19956","","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",415
 "6314c1e76c3f71e2127f1976","","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",9812
 "63d16398d05b8126c30c19ea","maroon","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",1835
@@ -761,6 +829,8 @@
 "60fd56db5fe37ebeca00bc83","donkey","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",2543
 "61363ce02e6022a741d63a6e","","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",2096
 "61363ce02e6022a741d63a6e","horse","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",3135
+"614f6bad672ef7cf5ecfd965","donkey","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",2740
+"614f6bad672ef7cf5ecfd965","donkey","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",2835
 "62f17b6b63bd9e6627a19956","","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",17706
 "62f17b6b63bd9e6627a19956","","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",1120
 "6314c1e76c3f71e2127f1976","cow","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",7352
@@ -776,6 +846,7 @@
 "5e437d7404eaba215eafbd2a","tired","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",3070
 "60fd56db5fe37ebeca00bc83","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",9337
 "61363ce02e6022a741d63a6e","","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",1128
+"614f6bad672ef7cf5ecfd965","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",2771
 "62f17b6b63bd9e6627a19956","","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",843
 "6314c1e76c3f71e2127f1976","baby","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",3439
 "63d16398d05b8126c30c19ea","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",1402
@@ -787,6 +858,7 @@
 "5e437d7404eaba215eafbd2a","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",1695
 "60fd56db5fe37ebeca00bc83","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",2299
 "61363ce02e6022a741d63a6e","tree","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",2795
+"614f6bad672ef7cf5ecfd965","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",2490
 "62f17b6b63bd9e6627a19956","","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",1495
 "6314c1e76c3f71e2127f1976","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",2961
 "63d16398d05b8126c30c19ea","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",1409
@@ -798,6 +870,7 @@
 "5e437d7404eaba215eafbd2a","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",1836
 "60fd56db5fe37ebeca00bc83","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",10783
 "61363ce02e6022a741d63a6e","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",3586
+"614f6bad672ef7cf5ecfd965","tree","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",12045
 "62f17b6b63bd9e6627a19956","","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",749
 "6314c1e76c3f71e2127f1976","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",3058
 "63d16398d05b8126c30c19ea","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",1590
@@ -809,6 +882,7 @@
 "5e437d7404eaba215eafbd2a","silk","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",2034
 "60fd56db5fe37ebeca00bc83","silk","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",7370
 "61363ce02e6022a741d63a6e","","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",921
+"614f6bad672ef7cf5ecfd965","silk","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",2921
 "62f17b6b63bd9e6627a19956","","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",1258
 "6314c1e76c3f71e2127f1976","soft","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",3688
 "63d16398d05b8126c30c19ea","","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",982
@@ -820,6 +894,7 @@
 "5e437d7404eaba215eafbd2a","hair","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",2718
 "60fd56db5fe37ebeca00bc83","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",18383
 "61363ce02e6022a741d63a6e","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",2858
+"614f6bad672ef7cf5ecfd965","hair","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",3870
 "62f17b6b63bd9e6627a19956","","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",1536
 "6314c1e76c3f71e2127f1976","bald","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",2888
 "63d16398d05b8126c30c19ea","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",1202
@@ -831,6 +906,7 @@
 "5e437d7404eaba215eafbd2a","shake","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",2608
 "60fd56db5fe37ebeca00bc83","beach","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",3968
 "61363ce02e6022a741d63a6e","","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",1399
+"614f6bad672ef7cf5ecfd965","shock","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",6552
 "62f17b6b63bd9e6627a19956","","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",510
 "6314c1e76c3f71e2127f1976","beach","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",8812
 "63d16398d05b8126c30c19ea","shock","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",1842
@@ -842,6 +918,7 @@
 "5e437d7404eaba215eafbd2a","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",1133
 "60fd56db5fe37ebeca00bc83","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",15897
 "61363ce02e6022a741d63a6e","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",1979
+"614f6bad672ef7cf5ecfd965","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",5114
 "62f17b6b63bd9e6627a19956","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",845
 "6314c1e76c3f71e2127f1976","anglw","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",10668
 "63d16398d05b8126c30c19ea","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",1595
@@ -853,6 +930,7 @@
 "5e437d7404eaba215eafbd2a","drinik","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",1933
 "60fd56db5fe37ebeca00bc83","drink","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",2304
 "61363ce02e6022a741d63a6e","","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",2420
+"614f6bad672ef7cf5ecfd965","drinkl","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",3139
 "62f17b6b63bd9e6627a19956","","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",1216
 "6314c1e76c3f71e2127f1976","drink","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",6244
 "63d16398d05b8126c30c19ea","drink","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",1584
@@ -864,6 +942,7 @@
 "5e437d7404eaba215eafbd2a","","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",2056
 "60fd56db5fe37ebeca00bc83","belt","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",12376
 "61363ce02e6022a741d63a6e","","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",738
+"614f6bad672ef7cf5ecfd965","","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",5781
 "62f17b6b63bd9e6627a19956","","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",1887
 "6314c1e76c3f71e2127f1976","after","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",2809
 "63d16398d05b8126c30c19ea","","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",964
@@ -875,6 +954,7 @@
 "5e437d7404eaba215eafbd2a","","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",1588
 "60fd56db5fe37ebeca00bc83","cloth","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",13689
 "61363ce02e6022a741d63a6e","","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",1276
+"614f6bad672ef7cf5ecfd965","cloth","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",3718
 "62f17b6b63bd9e6627a19956","","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",1278
 "6314c1e76c3f71e2127f1976","lift","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",5786
 "63d16398d05b8126c30c19ea","","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",1904
@@ -886,6 +966,7 @@
 "5e437d7404eaba215eafbd2a","duck","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",4867
 "60fd56db5fe37ebeca00bc83","bird","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",17832
 "61363ce02e6022a741d63a6e","bird","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",3459
+"614f6bad672ef7cf5ecfd965","bird","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",8290
 "62f17b6b63bd9e6627a19956","","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",633
 "6314c1e76c3f71e2127f1976","goose","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",3245
 "63d16398d05b8126c30c19ea","","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",1117
@@ -897,6 +978,7 @@
 "5e437d7404eaba215eafbd2a","morning","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",2747
 "60fd56db5fe37ebeca00bc83","morning","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",14998
 "61363ce02e6022a741d63a6e","hot","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",3481
+"614f6bad672ef7cf5ecfd965","cold","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",5659
 "62f17b6b63bd9e6627a19956","","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",941
 "6314c1e76c3f71e2127f1976","hot","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",2049
 "63d16398d05b8126c30c19ea","high","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",1874
@@ -908,6 +990,7 @@
 "5e437d7404eaba215eafbd2a","","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",2845
 "60fd56db5fe37ebeca00bc83","hair","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",6031
 "61363ce02e6022a741d63a6e","","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",2107
+"614f6bad672ef7cf5ecfd965","scalp","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",11091
 "62f17b6b63bd9e6627a19956","","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",792
 "6314c1e76c3f71e2127f1976","dentist","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",8012
 "63d16398d05b8126c30c19ea","ache","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",1650
@@ -919,6 +1002,7 @@
 "5e437d7404eaba215eafbd2a","","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",2329
 "60fd56db5fe37ebeca00bc83","green","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",9184
 "61363ce02e6022a741d63a6e","plant","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",11044
+"614f6bad672ef7cf5ecfd965","green","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",6109
 "62f17b6b63bd9e6627a19956","green","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",7743
 "6314c1e76c3f71e2127f1976","house","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",2799
 "63d16398d05b8126c30c19ea","","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",1635
@@ -930,6 +1014,7 @@
 "5e437d7404eaba215eafbd2a","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",3536
 "60fd56db5fe37ebeca00bc83","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",1782
 "61363ce02e6022a741d63a6e","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",2626
+"614f6bad672ef7cf5ecfd965","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",1945
 "62f17b6b63bd9e6627a19956","","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",1205
 "6314c1e76c3f71e2127f1976","cat","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",3935
 "63d16398d05b8126c30c19ea","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",1370
@@ -941,6 +1026,7 @@
 "5e437d7404eaba215eafbd2a","","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",3520
 "60fd56db5fe37ebeca00bc83","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",3903
 "61363ce02e6022a741d63a6e","","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",1157
+"614f6bad672ef7cf5ecfd965","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",3242
 "62f17b6b63bd9e6627a19956","","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",469
 "6314c1e76c3f71e2127f1976","model","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",2785
 "63d16398d05b8126c30c19ea","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",1628
@@ -952,6 +1038,7 @@
 "5e437d7404eaba215eafbd2a","","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",1523
 "60fd56db5fe37ebeca00bc83","money","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",10211
 "61363ce02e6022a741d63a6e","","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",1421
+"614f6bad672ef7cf5ecfd965","","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",3781
 "62f17b6b63bd9e6627a19956","","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",2326
 "6314c1e76c3f71e2127f1976","hour","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",4567
 "63d16398d05b8126c30c19ea","","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",1473
@@ -963,6 +1050,7 @@
 "5e437d7404eaba215eafbd2a","","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",4567
 "60fd56db5fe37ebeca00bc83","quiet","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",2827
 "61363ce02e6022a741d63a6e","","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",1429
+"614f6bad672ef7cf5ecfd965","quiet","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",3616
 "62f17b6b63bd9e6627a19956","","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",4397
 "6314c1e76c3f71e2127f1976","peace","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",5335
 "63d16398d05b8126c30c19ea","fight","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",1935
@@ -974,6 +1062,7 @@
 "5e437d7404eaba215eafbd2a","cake","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",3983
 "60fd56db5fe37ebeca00bc83","dance","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",19683
 "61363ce02e6022a741d63a6e","","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",1436
+"614f6bad672ef7cf5ecfd965","ring","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",4691
 "62f17b6b63bd9e6627a19956","","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",516
 "6314c1e76c3f71e2127f1976","ring","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",2379
 "63d16398d05b8126c30c19ea","ring","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",1488
@@ -985,11 +1074,13 @@
 "5e437d7404eaba215eafbd2a","sentence","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",2807
 "60fd56db5fe37ebeca00bc83","language","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",3707
 "61363ce02e6022a741d63a6e","","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",1663
+"614f6bad672ef7cf5ecfd965","document","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",7624
 "62f17b6b63bd9e6627a19956","","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",599
 "6314c1e76c3f71e2127f1976","pipe","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",5023
 "63d16398d05b8126c30c19ea","","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",1630
 "63e57dfe078c526e4fb9d33f","sentence","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",7959
 "55b2d3f2fdf99b525bc839aa","drawing","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",3240
+"56fc8248b5648e000fac9980","frame","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",5084
 "5a8b1ee2000dab00018cc7cd","","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",29347
 "5d4225e01985380018375d83","painting","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",2648
 "5f79bca83a2eb65c0983816d","look","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",5905
@@ -1001,6 +1092,7 @@
 "631512727c23394ca21acbfb","painting","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",3460
 "63d7d95057d77b4c34b3afe8","wolf","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",4793
 "55b2d3f2fdf99b525bc839aa","bronze","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",16554
+"56fc8248b5648e000fac9980","heart","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",5537
 "5a8b1ee2000dab00018cc7cd","bronze","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",7131
 "5d4225e01985380018375d83","vein ","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",4654
 "5f79bca83a2eb65c0983816d","blood","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",7626
@@ -1012,6 +1104,7 @@
 "631512727c23394ca21acbfb","copper","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",5501
 "63d7d95057d77b4c34b3afe8","vein","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",3162
 "55b2d3f2fdf99b525bc839aa","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",36938
+"56fc8248b5648e000fac9980","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",4666
 "5a8b1ee2000dab00018cc7cd","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",4425
 "5d4225e01985380018375d83","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",2255
 "5f79bca83a2eb65c0983816d","dress","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",4428
@@ -1023,6 +1116,7 @@
 "631512727c23394ca21acbfb","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",2305
 "63d7d95057d77b4c34b3afe8","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",2528
 "55b2d3f2fdf99b525bc839aa","warmer","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",1668
+"56fc8248b5648e000fac9980","press","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",10694
 "5a8b1ee2000dab00018cc7cd","horn","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",6238
 "5d4225e01985380018375d83","sit","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",2492
 "5f79bca83a2eb65c0983816d","wait","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",7448
@@ -1034,6 +1128,7 @@
 "631512727c23394ca21acbfb","","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",696
 "63d7d95057d77b4c34b3afe8","","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",2422
 "55b2d3f2fdf99b525bc839aa","smoke","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",2209
+"56fc8248b5648e000fac9980","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",2697
 "5a8b1ee2000dab00018cc7cd","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",3416
 "5d4225e01985380018375d83","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",1796
 "5f79bca83a2eb65c0983816d","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",4088
@@ -1045,6 +1140,7 @@
 "631512727c23394ca21acbfb","","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",1143
 "63d7d95057d77b4c34b3afe8","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",1740
 "55b2d3f2fdf99b525bc839aa","one","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",2390
+"56fc8248b5648e000fac9980","neither","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",4100
 "5a8b1ee2000dab00018cc7cd","ounce","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",11151
 "5d4225e01985380018375d83","none","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",3051
 "5f79bca83a2eb65c0983816d","either ","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",6882
@@ -1056,6 +1152,7 @@
 "631512727c23394ca21acbfb","","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",49129
 "63d7d95057d77b4c34b3afe8","chill","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",3777
 "55b2d3f2fdf99b525bc839aa","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",28747
+"56fc8248b5648e000fac9980","tunnel","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",7940
 "5a8b1ee2000dab00018cc7cd","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",3563
 "5d4225e01985380018375d83","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",2448
 "5f79bca83a2eb65c0983816d","drive ","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",8895
@@ -1067,6 +1164,7 @@
 "631512727c23394ca21acbfb","","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",263
 "63d7d95057d77b4c34b3afe8","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",1817
 "55b2d3f2fdf99b525bc839aa","salt","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",3191
+"56fc8248b5648e000fac9980","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",7403
 "5a8b1ee2000dab00018cc7cd","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",3463
 "5d4225e01985380018375d83","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",1567
 "5f79bca83a2eb65c0983816d","plant ","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",4830
@@ -1078,6 +1176,7 @@
 "631512727c23394ca21acbfb","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",2076
 "63d7d95057d77b4c34b3afe8","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",2403
 "55b2d3f2fdf99b525bc839aa","cow","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",1384
+"56fc8248b5648e000fac9980","flow","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",2413
 "5a8b1ee2000dab00018cc7cd","flow","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",12501
 "5d4225e01985380018375d83","money","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",1438
 "5f79bca83a2eb65c0983816d","money","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",8918
@@ -1089,6 +1188,7 @@
 "631512727c23394ca21acbfb","","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",927
 "63d7d95057d77b4c34b3afe8","pay","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",13983
 "55b2d3f2fdf99b525bc839aa","pop","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",1642
+"56fc8248b5648e000fac9980","soda","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",3470
 "5a8b1ee2000dab00018cc7cd","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2756
 "5d4225e01985380018375d83","blossom","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2269
 "5f79bca83a2eb65c0983816d","fire","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",5458
@@ -1100,6 +1200,7 @@
 "631512727c23394ca21acbfb","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2195
 "63d7d95057d77b4c34b3afe8","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",1621
 "55b2d3f2fdf99b525bc839aa","night","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",7547
+"56fc8248b5648e000fac9980","out","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",2888
 "5a8b1ee2000dab00018cc7cd","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",3736
 "5d4225e01985380018375d83","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",1548
 "5f79bca83a2eb65c0983816d","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",9190
@@ -1111,6 +1212,7 @@
 "631512727c23394ca21acbfb","","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",961
 "63d7d95057d77b4c34b3afe8","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",8891
 "55b2d3f2fdf99b525bc839aa","metal","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",2452
+"56fc8248b5648e000fac9980","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",17529
 "5a8b1ee2000dab00018cc7cd","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",3203
 "5d4225e01985380018375d83","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",3678
 "5f79bca83a2eb65c0983816d","hammer ","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",8684
@@ -1122,6 +1224,7 @@
 "631512727c23394ca21acbfb","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",2272
 "63d7d95057d77b4c34b3afe8","happy","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",3276
 "55b2d3f2fdf99b525bc839aa","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",8076
+"56fc8248b5648e000fac9980","meat","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",5333
 "5a8b1ee2000dab00018cc7cd","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",3407
 "5d4225e01985380018375d83","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",1991
 "5f79bca83a2eb65c0983816d","cut ","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",5333
@@ -1133,6 +1236,7 @@
 "631512727c23394ca21acbfb","","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",1012
 "63d7d95057d77b4c34b3afe8","","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",2580
 "55b2d3f2fdf99b525bc839aa","alive","business",1,"Read","death","Study2","U","Study Phase2","Recall2",2065
+"56fc8248b5648e000fac9980","bed'","business",1,"Read","death","Study2","U","Study Phase2","Recall2",5386
 "5a8b1ee2000dab00018cc7cd","business","business",1,"Read","death","Study2","U","Study Phase2","Recall2",4904
 "5d4225e01985380018375d83","life","business",1,"Read","death","Study2","U","Study Phase2","Recall2",1874
 "5f79bca83a2eb65c0983816d","","business",1,"Read","death","Study2","U","Study Phase2","Recall2",16406
@@ -1144,6 +1248,7 @@
 "631512727c23394ca21acbfb","","business",1,"Read","death","Study2","U","Study Phase2","Recall2",788
 "63d7d95057d77b4c34b3afe8","business","business",1,"Read","death","Study2","U","Study Phase2","Recall2",3301
 "55b2d3f2fdf99b525bc839aa","sack","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",7237
+"56fc8248b5648e000fac9980","needs","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",8186
 "5a8b1ee2000dab00018cc7cd","sack","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",11242
 "5d4225e01985380018375d83","food","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",1771
 "5f79bca83a2eb65c0983816d","eat","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",3740
@@ -1155,6 +1260,7 @@
 "631512727c23394ca21acbfb","","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",3334
 "63d7d95057d77b4c34b3afe8","","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",2936
 "55b2d3f2fdf99b525bc839aa","tape","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",4347
+"56fc8248b5648e000fac9980","finder","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",3819
 "5a8b1ee2000dab00018cc7cd","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",3431
 "5d4225e01985380018375d83","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",1760
 "5f79bca83a2eb65c0983816d","paper ","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",6476
@@ -1166,6 +1272,7 @@
 "631512727c23394ca21acbfb","","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",735
 "63d7d95057d77b4c34b3afe8","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",1815
 "55b2d3f2fdf99b525bc839aa","vision","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",3966
+"56fc8248b5648e000fac9980","smell","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",5906
 "5a8b1ee2000dab00018cc7cd","smell","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",3678
 "5d4225e01985380018375d83","look","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",7183
 "5f79bca83a2eb65c0983816d","nose ","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",5181
@@ -1177,6 +1284,7 @@
 "631512727c23394ca21acbfb","","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",1188
 "63d7d95057d77b4c34b3afe8","smell","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",1690
 "55b2d3f2fdf99b525bc839aa","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",7449
+"56fc8248b5648e000fac9980","family","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",4440
 "5a8b1ee2000dab00018cc7cd","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",6146
 "5d4225e01985380018375d83","family","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",2380
 "5f79bca83a2eb65c0983816d","fight ","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",6380
@@ -1188,6 +1296,7 @@
 "631512727c23394ca21acbfb","","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",691
 "63d7d95057d77b4c34b3afe8","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",1789
 "55b2d3f2fdf99b525bc839aa","smoke","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",4138
+"56fc8248b5648e000fac9980","marks","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",13193
 "5a8b1ee2000dab00018cc7cd","thigh","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",3874
 "5d4225e01985380018375d83","chicken","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",3333
 "5f79bca83a2eb65c0983816d","cook","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",4451
@@ -1199,6 +1308,7 @@
 "631512727c23394ca21acbfb","","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",955
 "63d7d95057d77b4c34b3afe8","","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",1262
 "55b2d3f2fdf99b525bc839aa","sad","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",1479
+"56fc8248b5648e000fac9980","smile","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",6092
 "5a8b1ee2000dab00018cc7cd","car","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",3037
 "5d4225e01985380018375d83","sad","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",1277
 "5f79bca83a2eb65c0983816d","glad","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",8726
@@ -1210,6 +1320,7 @@
 "631512727c23394ca21acbfb","","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",680
 "63d7d95057d77b4c34b3afe8","","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",2399
 "55b2d3f2fdf99b525bc839aa","soft","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",2111
+"56fc8248b5648e000fac9980","burden","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",4961
 "5a8b1ee2000dab00018cc7cd","feather","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",6664
 "5d4225e01985380018375d83","cream","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",2130
 "5f79bca83a2eb65c0983816d","feather ","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",5917
@@ -1221,6 +1332,7 @@
 "631512727c23394ca21acbfb","","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",560
 "63d7d95057d77b4c34b3afe8","load","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",2174
 "55b2d3f2fdf99b525bc839aa","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",12465
+"56fc8248b5648e000fac9980","sheep","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",8693
 "5a8b1ee2000dab00018cc7cd","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",2875
 "5d4225e01985380018375d83","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",1450
 "5f79bca83a2eb65c0983816d","cow ","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",8848
@@ -1232,6 +1344,7 @@
 "631512727c23394ca21acbfb","","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",1286
 "63d7d95057d77b4c34b3afe8","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",2577
 "55b2d3f2fdf99b525bc839aa","nest","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",2719
+"56fc8248b5648e000fac9980","wasp","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",2787
 "5a8b1ee2000dab00018cc7cd","sting","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",8060
 "5d4225e01985380018375d83","bee","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",2518
 "5f79bca83a2eb65c0983816d","nest","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",4227
@@ -1243,6 +1356,7 @@
 "631512727c23394ca21acbfb","","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",2624
 "63d7d95057d77b4c34b3afe8","wasp","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",3222
 "55b2d3f2fdf99b525bc839aa","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",25917
+"56fc8248b5648e000fac9980","burner","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",6154
 "5a8b1ee2000dab00018cc7cd","scent","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",16830
 "5d4225e01985380018375d83","scents","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",2830
 "5f79bca83a2eb65c0983816d","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",4394
@@ -1254,6 +1368,7 @@
 "631512727c23394ca21acbfb","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",2011
 "63d7d95057d77b4c34b3afe8","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",1657
 "55b2d3f2fdf99b525bc839aa","vase","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",42189
+"56fc8248b5648e000fac9980","queen","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",3051
 "5a8b1ee2000dab00018cc7cd","vase","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",3304
 "5d4225e01985380018375d83","throne","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",2512
 "5f79bca83a2eb65c0983816d","queen","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",5505
@@ -1265,6 +1380,7 @@
 "631512727c23394ca21acbfb","","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",774
 "63d7d95057d77b4c34b3afe8","vase","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",2102
 "55b2d3f2fdf99b525bc839aa","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",10309
+"56fc8248b5648e000fac9980","pass","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",3838
 "5a8b1ee2000dab00018cc7cd","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",4283
 "5d4225e01985380018375d83","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",3641
 "5f79bca83a2eb65c0983816d","team","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",5006
@@ -1276,6 +1392,7 @@
 "631512727c23394ca21acbfb","","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",1016
 "63d7d95057d77b4c34b3afe8","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",2214
 "55b2d3f2fdf99b525bc839aa","own","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",3115
+"56fc8248b5648e000fac9980","house","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",4028
 "5a8b1ee2000dab00018cc7cd","toil","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",3793
 "5d4225e01985380018375d83","house","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",2495
 "5f79bca83a2eb65c0983816d","buy","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",15235
@@ -1287,6 +1404,7 @@
 "631512727c23394ca21acbfb","","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",1448
 "63d7d95057d77b4c34b3afe8","","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",2063
 "55b2d3f2fdf99b525bc839aa","face","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",2316
+"56fc8248b5648e000fac9980","glass","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",7433
 "5a8b1ee2000dab00018cc7cd","children","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",4553
 "5d4225e01985380018375d83","see","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",2422
 "5f79bca83a2eb65c0983816d","reflection ","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",5663
@@ -1298,6 +1416,7 @@
 "631512727c23394ca21acbfb","reflection","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",6158
 "63d7d95057d77b4c34b3afe8","children","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",3860
 "55b2d3f2fdf99b525bc839aa","doctor","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",2879
+"56fc8248b5648e000fac9980","joy","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",2319
 "5a8b1ee2000dab00018cc7cd","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",4194
 "5d4225e01985380018375d83","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",5148
 "5f79bca83a2eb65c0983816d","doctor ","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",8765
@@ -1309,6 +1428,7 @@
 "631512727c23394ca21acbfb","","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",844
 "63d7d95057d77b4c34b3afe8","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",2693
 "55b2d3f2fdf99b525bc839aa","roast","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",2003
+"56fc8248b5648e000fac9980","grills","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",5422
 "5a8b1ee2000dab00018cc7cd","basket","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",4612
 "5d4225e01985380018375d83","hot","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",1521
 "5f79bca83a2eb65c0983816d","bake","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",5612
@@ -1320,6 +1440,7 @@
 "631512727c23394ca21acbfb","","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",927
 "63d7d95057d77b4c34b3afe8","clean","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",3137
 "55b2d3f2fdf99b525bc839aa","shorts","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",2313
+"56fc8248b5648e000fac9980","knickers","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",6984
 "5a8b1ee2000dab00018cc7cd","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",3884
 "5d4225e01985380018375d83","clothes","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",2354
 "5f79bca83a2eb65c0983816d","dress","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",4102
@@ -1331,6 +1452,7 @@
 "631512727c23394ca21acbfb","","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",715
 "63d7d95057d77b4c34b3afe8","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",2355
 "55b2d3f2fdf99b525bc839aa","shove","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",1671
+"56fc8248b5648e000fac9980","button","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",2778
 "5a8b1ee2000dab00018cc7cd","clutter","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",21936
 "5d4225e01985380018375d83","button","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",1838
 "5f79bca83a2eb65c0983816d","pull","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",5829
@@ -1342,6 +1464,7 @@
 "631512727c23394ca21acbfb","","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",1035
 "63d7d95057d77b4c34b3afe8","clutter","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",5281
 "55b2d3f2fdf99b525bc839aa","leaves","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",2635
+"56fc8248b5648e000fac9980","leaves","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",4943
 "5a8b1ee2000dab00018cc7cd","leaves","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",5323
 "5d4225e01985380018375d83","leaves","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",1496
 "5f79bca83a2eb65c0983816d","leaves ","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",5969
@@ -1353,6 +1476,7 @@
 "631512727c23394ca21acbfb","","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",677
 "63d7d95057d77b4c34b3afe8","seed","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",1885
 "55b2d3f2fdf99b525bc839aa","sharp","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",2246
+"56fc8248b5648e000fac9980","burn","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",5278
 "5a8b1ee2000dab00018cc7cd","muscle","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",5535
 "5d4225e01985380018375d83","muscle","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",2637
 "5f79bca83a2eb65c0983816d","shave ","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",10474
@@ -1364,6 +1488,7 @@
 "631512727c23394ca21acbfb","","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",798
 "63d7d95057d77b4c34b3afe8","muscle","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",3117
 "55b2d3f2fdf99b525bc839aa","fiction","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",2626
+"56fc8248b5648e000fac9980","check","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",3085
 "5a8b1ee2000dab00018cc7cd","island","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",4525
 "5d4225e01985380018375d83","show","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",1694
 "5f79bca83a2eb65c0983816d","","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",13768
@@ -1375,6 +1500,7 @@
 "631512727c23394ca21acbfb","island","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",3813
 "63d7d95057d77b4c34b3afe8","island","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",2565
 "55b2d3f2fdf99b525bc839aa","work","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",2011
+"56fc8248b5648e000fac9980","time","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",10901
 "5a8b1ee2000dab00018cc7cd","stop","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",3598
 "5d4225e01985380018375d83","kids","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",2615
 "5f79bca83a2eb65c0983816d","learn ","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",6473
@@ -1386,6 +1512,7 @@
 "631512727c23394ca21acbfb","","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",758
 "63d7d95057d77b4c34b3afe8","stop","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",2494
 "55b2d3f2fdf99b525bc839aa","hide","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",23157
+"56fc8248b5648e000fac9980","patient","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",62108
 "5a8b1ee2000dab00018cc7cd","hide","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",4167
 "5d4225e01985380018375d83","doctor","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",3843
 "5f79bca83a2eb65c0983816d","day","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",5433
@@ -1397,6 +1524,7 @@
 "631512727c23394ca21acbfb","","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",678
 "63d7d95057d77b4c34b3afe8","","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",1153
 "55b2d3f2fdf99b525bc839aa","wash","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",1854
+"56fc8248b5648e000fac9980","mild","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",4959
 "5a8b1ee2000dab00018cc7cd","drink","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",6316
 "5d4225e01985380018375d83","smell","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",2369
 "5f79bca83a2eb65c0983816d","wash","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",4032
@@ -1408,6 +1536,7 @@
 "631512727c23394ca21acbfb","","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",790
 "63d7d95057d77b4c34b3afe8","drink","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",8900
 "55b2d3f2fdf99b525bc839aa","accident","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",8658
+"56fc8248b5648e000fac9980","will","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",6347
 "5a8b1ee2000dab00018cc7cd","raise","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",19009
 "5d4225e01985380018375d83","weak","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",2866
 "5f79bca83a2eb65c0983816d","weak","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",3732
@@ -1419,6 +1548,7 @@
 "631512727c23394ca21acbfb","arm","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",4126
 "63d7d95057d77b4c34b3afe8","mild","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",3231
 "55b2d3f2fdf99b525bc839aa","coat","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",3345
+"56fc8248b5648e000fac9980","rush","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",7924
 "5a8b1ee2000dab00018cc7cd","riddle","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",4111
 "5d4225e01985380018375d83","dessert","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",3339
 "5f79bca83a2eb65c0983816d","sweet","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",6092
@@ -1430,6 +1560,7 @@
 "631512727c23394ca21acbfb","","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",743
 "63d7d95057d77b4c34b3afe8","loaf","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",2436
 "55b2d3f2fdf99b525bc839aa","winter","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",1680
+"56fc8248b5648e000fac9980","nights","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",5864
 "5a8b1ee2000dab00018cc7cd","snow","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",4361
 "5d4225e01985380018375d83","spring","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",8286
 "5f79bca83a2eb65c0983816d","spring ","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",15893
@@ -1441,6 +1572,7 @@
 "631512727c23394ca21acbfb","","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",2737
 "63d7d95057d77b4c34b3afe8","autumn","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",6178
 "55b2d3f2fdf99b525bc839aa","hazard","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",2144
+"56fc8248b5648e000fac9980","clap","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",6180
 "5a8b1ee2000dab00018cc7cd","cave","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",5076
 "5d4225e01985380018375d83","mouse","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",1643
 "5f79bca83a2eb65c0983816d","catch ","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",6904
@@ -1452,6 +1584,7 @@
 "631512727c23394ca21acbfb","","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",1408
 "63d7d95057d77b4c34b3afe8","cave","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",2396
 "55b2d3f2fdf99b525bc839aa","hill","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",1996
+"56fc8248b5648e000fac9980","ridge","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",3693
 "5a8b1ee2000dab00018cc7cd","peak","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",3661
 "5d4225e01985380018375d83","grass","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",2763
 "5f79bca83a2eb65c0983816d","","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",9484
@@ -1463,6 +1596,7 @@
 "631512727c23394ca21acbfb","","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",1616
 "63d7d95057d77b4c34b3afe8","peak","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",1903
 "55b2d3f2fdf99b525bc839aa","bee","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",2378
+"56fc8248b5648e000fac9980","queen","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",2869
 "5a8b1ee2000dab00018cc7cd","sting","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",8309
 "5d4225e01985380018375d83","stinger","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",2153
 "5f79bca83a2eb65c0983816d","sting","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",7126
@@ -1474,6 +1608,7 @@
 "631512727c23394ca21acbfb","nest","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",3194
 "63d7d95057d77b4c34b3afe8","hornet","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",2103
 "55b2d3f2fdf99b525bc839aa","clean","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",6368
+"56fc8248b5648e000fac9980","pane","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",5836
 "5a8b1ee2000dab00018cc7cd","knob","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",5791
 "5d4225e01985380018375d83","tint","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",1970
 "5f79bca83a2eb65c0983816d","knob","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",7558
@@ -1491,6 +1626,7 @@
 "5e437d7404eaba215eafbd2a","wolf","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",13270
 "60fd56db5fe37ebeca00bc83","wolf","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",9218
 "61363ce02e6022a741d63a6e","","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",5184
+"614f6bad672ef7cf5ecfd965","","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",7474
 "62f17b6b63bd9e6627a19956","","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",3717
 "6314c1e76c3f71e2127f1976","canvas","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",9099
 "63d16398d05b8126c30c19ea","","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",973
@@ -1502,6 +1638,7 @@
 "5e437d7404eaba215eafbd2a","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",3233
 "60fd56db5fe37ebeca00bc83","bronze","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",13467
 "61363ce02e6022a741d63a6e","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",1358
+"614f6bad672ef7cf5ecfd965","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",4716
 "62f17b6b63bd9e6627a19956","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",2944
 "6314c1e76c3f71e2127f1976","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",2706
 "63d16398d05b8126c30c19ea","gold","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",4753
@@ -1513,6 +1650,7 @@
 "5e437d7404eaba215eafbd2a","","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",1156
 "60fd56db5fe37ebeca00bc83","clothes","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",19936
 "61363ce02e6022a741d63a6e","","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",21924
+"614f6bad672ef7cf5ecfd965","clothes","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",4745
 "62f17b6b63bd9e6627a19956","","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",133
 "6314c1e76c3f71e2127f1976","","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",789
 "63d16398d05b8126c30c19ea","clothes","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",1682
@@ -1524,6 +1662,7 @@
 "5e437d7404eaba215eafbd2a","","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",3081
 "60fd56db5fe37ebeca00bc83","sirt","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",9727
 "61363ce02e6022a741d63a6e","","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",9709
+"614f6bad672ef7cf5ecfd965","","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",5756
 "62f17b6b63bd9e6627a19956","press","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",3480
 "6314c1e76c3f71e2127f1976","seat","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",3967
 "63d16398d05b8126c30c19ea","","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",2180
@@ -1535,6 +1674,7 @@
 "5e437d7404eaba215eafbd2a","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",2003
 "60fd56db5fe37ebeca00bc83","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",3603
 "61363ce02e6022a741d63a6e","","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",2511
+"614f6bad672ef7cf5ecfd965","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",4545
 "62f17b6b63bd9e6627a19956","","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",394
 "6314c1e76c3f71e2127f1976","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",3485
 "63d16398d05b8126c30c19ea","","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",1229
@@ -1546,6 +1686,7 @@
 "5e437d7404eaba215eafbd2a","","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",1470
 "60fd56db5fe37ebeca00bc83","","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",2837
 "61363ce02e6022a741d63a6e","chizel","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",11057
+"614f6bad672ef7cf5ecfd965","","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",4431
 "62f17b6b63bd9e6627a19956","","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",311
 "6314c1e76c3f71e2127f1976","neither","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",3891
 "63d16398d05b8126c30c19ea","each","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",1547
@@ -1557,6 +1698,7 @@
 "5e437d7404eaba215eafbd2a","water","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",2491
 "60fd56db5fe37ebeca00bc83","gap","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",4105
 "61363ce02e6022a741d63a6e","road","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",3760
+"614f6bad672ef7cf5ecfd965","water","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",2692
 "62f17b6b63bd9e6627a19956","","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",56
 "6314c1e76c3f71e2127f1976","water","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",3947
 "63d16398d05b8126c30c19ea","","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",1822
@@ -1568,6 +1710,7 @@
 "5e437d7404eaba215eafbd2a","","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",1208
 "60fd56db5fe37ebeca00bc83","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",7133
 "61363ce02e6022a741d63a6e","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",50397
+"614f6bad672ef7cf5ecfd965","","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",5572
 "62f17b6b63bd9e6627a19956","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",5468
 "6314c1e76c3f71e2127f1976","spike","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",7371
 "63d16398d05b8126c30c19ea","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",1482
@@ -1579,6 +1722,7 @@
 "5e437d7404eaba215eafbd2a","flow","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",3382
 "60fd56db5fe37ebeca00bc83","leg","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",15230
 "61363ce02e6022a741d63a6e","","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",8060
+"614f6bad672ef7cf5ecfd965","wallet","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",5439
 "62f17b6b63bd9e6627a19956","","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",3207
 "6314c1e76c3f71e2127f1976","society","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",5733
 "63d16398d05b8126c30c19ea","","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",1657
@@ -1590,6 +1734,7 @@
 "5e437d7404eaba215eafbd2a","","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",1060
 "60fd56db5fe37ebeca00bc83","red","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",3317
 "61363ce02e6022a741d63a6e","","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",2459
+"614f6bad672ef7cf5ecfd965","red","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",2013
 "62f17b6b63bd9e6627a19956","pie","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",5318
 "6314c1e76c3f71e2127f1976","","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",2088
 "63d16398d05b8126c30c19ea","","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",1553
@@ -1601,6 +1746,7 @@
 "5e437d7404eaba215eafbd2a","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",1831
 "60fd56db5fe37ebeca00bc83","free","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",5124
 "61363ce02e6022a741d63a6e","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",61446
+"614f6bad672ef7cf5ecfd965","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",5142
 "62f17b6b63bd9e6627a19956","","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",1248
 "6314c1e76c3f71e2127f1976","burn","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",3783
 "63d16398d05b8126c30c19ea","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",1878
@@ -1612,6 +1758,7 @@
 "5e437d7404eaba215eafbd2a","rake","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",3487
 "60fd56db5fe37ebeca00bc83","hammer","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",7818
 "61363ce02e6022a741d63a6e","hammer","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",6563
+"614f6bad672ef7cf5ecfd965","cold","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",5480
 "62f17b6b63bd9e6627a19956","wood","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",6544
 "6314c1e76c3f71e2127f1976","drill","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",3995
 "63d16398d05b8126c30c19ea","hammer","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",1487
@@ -1623,6 +1770,7 @@
 "5e437d7404eaba215eafbd2a","cut","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",2052
 "60fd56db5fe37ebeca00bc83","chip","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",15509
 "61363ce02e6022a741d63a6e","","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",27370
+"614f6bad672ef7cf5ecfd965","axe","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",6492
 "62f17b6b63bd9e6627a19956","","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",966
 "6314c1e76c3f71e2127f1976","steak","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",6859
 "63d16398d05b8126c30c19ea","leg","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",2389
@@ -1634,6 +1782,7 @@
 "5e437d7404eaba215eafbd2a","accident","business",3,"Read","death","Study2","U","Study Phase","Recall1",6381
 "60fd56db5fe37ebeca00bc83","","business",3,"Read","death","Study2","U","Study Phase","Recall1",7963
 "61363ce02e6022a741d63a6e","","business",3,"Read","death","Study2","U","Study Phase","Recall1",10999
+"614f6bad672ef7cf5ecfd965","life","business",3,"Read","death","Study2","U","Study Phase","Recall1",6612
 "62f17b6b63bd9e6627a19956","","business",3,"Read","death","Study2","U","Study Phase","Recall1",5482
 "6314c1e76c3f71e2127f1976","alive","business",3,"Read","death","Study2","U","Study Phase","Recall1",6005
 "63d16398d05b8126c30c19ea","","business",3,"Read","death","Study2","U","Study Phase","Recall1",1646
@@ -1645,6 +1794,7 @@
 "5e437d7404eaba215eafbd2a","","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",1301
 "60fd56db5fe37ebeca00bc83","food","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",15779
 "61363ce02e6022a741d63a6e","","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",24851
+"614f6bad672ef7cf5ecfd965","","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",6572
 "62f17b6b63bd9e6627a19956","","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",665
 "6314c1e76c3f71e2127f1976","supplement","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",4410
 "63d16398d05b8126c30c19ea","bag","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",2501
@@ -1656,6 +1806,7 @@
 "5e437d7404eaba215eafbd2a","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",1981
 "60fd56db5fe37ebeca00bc83","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",2751
 "61363ce02e6022a741d63a6e","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",12712
+"614f6bad672ef7cf5ecfd965","word","paper",3,"Read","document","Study2","F","Study Phase","Recall1",4421
 "62f17b6b63bd9e6627a19956","","paper",3,"Read","document","Study2","F","Study Phase","Recall1",4739
 "6314c1e76c3f71e2127f1976","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",4088
 "63d16398d05b8126c30c19ea","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",2345
@@ -1667,6 +1818,7 @@
 "5e437d7404eaba215eafbd2a","","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",1180
 "60fd56db5fe37ebeca00bc83","nose","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",15484
 "61363ce02e6022a741d63a6e","","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",17235
+"614f6bad672ef7cf5ecfd965","","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",6569
 "62f17b6b63bd9e6627a19956","","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",148
 "6314c1e76c3f71e2127f1976","blue","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",3758
 "63d16398d05b8126c30c19ea","","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",1527
@@ -1678,6 +1830,7 @@
 "5e437d7404eaba215eafbd2a","fight","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",1790
 "60fd56db5fe37ebeca00bc83","family","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",19080
 "61363ce02e6022a741d63a6e","fight","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",5056
+"614f6bad672ef7cf5ecfd965","fight","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",3914
 "62f17b6b63bd9e6627a19956","","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",1333
 "6314c1e76c3f71e2127f1976","quarrel","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",5186
 "63d16398d05b8126c30c19ea","fight","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",1314
@@ -1689,6 +1842,7 @@
 "5e437d7404eaba215eafbd2a","","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",4179
 "60fd56db5fe37ebeca00bc83","thigh","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",22488
 "61363ce02e6022a741d63a6e","","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",2432
+"614f6bad672ef7cf5ecfd965","thigh","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",6005
 "62f17b6b63bd9e6627a19956","","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",384
 "6314c1e76c3f71e2127f1976","barbeque","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",4903
 "63d16398d05b8126c30c19ea","thigh","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",2105
@@ -1700,6 +1854,7 @@
 "5e437d7404eaba215eafbd2a","sad","car",3,"Read","happy","Study2","U","Study Phase","Recall1",3380
 "60fd56db5fe37ebeca00bc83","car","car",3,"Read","happy","Study2","U","Study Phase","Recall1",5446
 "61363ce02e6022a741d63a6e","sad","car",3,"Read","happy","Study2","U","Study Phase","Recall1",5901
+"614f6bad672ef7cf5ecfd965","car","car",3,"Read","happy","Study2","U","Study Phase","Recall1",2717
 "62f17b6b63bd9e6627a19956","","car",3,"Read","happy","Study2","U","Study Phase","Recall1",976
 "6314c1e76c3f71e2127f1976","joyful","car",3,"Read","happy","Study2","U","Study Phase","Recall1",6034
 "63d16398d05b8126c30c19ea","","car",3,"Read","happy","Study2","U","Study Phase","Recall1",2308
@@ -1711,6 +1866,7 @@
 "5e437d7404eaba215eafbd2a","light","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",5834
 "60fd56db5fe37ebeca00bc83","duty","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",10608
 "61363ce02e6022a741d63a6e","load","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",20460
+"614f6bad672ef7cf5ecfd965","feather\","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",4128
 "62f17b6b63bd9e6627a19956","","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",4509
 "6314c1e76c3f71e2127f1976","weight","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",3926
 "63d16398d05b8126c30c19ea","feather","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",2049
@@ -1722,6 +1878,7 @@
 "5e437d7404eaba215eafbd2a","","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",1019
 "60fd56db5fe37ebeca00bc83","animal","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",4614
 "61363ce02e6022a741d63a6e","barn\","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",4330
+"614f6bad672ef7cf5ecfd965","cow","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",4370
 "62f17b6b63bd9e6627a19956","","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",2274
 "6314c1e76c3f71e2127f1976","cow","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",3194
 "63d16398d05b8126c30c19ea","cattle","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",1721
@@ -1733,6 +1890,7 @@
 "5e437d7404eaba215eafbd2a","sting","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",1595
 "60fd56db5fe37ebeca00bc83","","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",2897
 "61363ce02e6022a741d63a6e","bee","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",3512
+"614f6bad672ef7cf5ecfd965","bee","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",3506
 "62f17b6b63bd9e6627a19956","","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",303
 "6314c1e76c3f71e2127f1976","wasp","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",4395
 "63d16398d05b8126c30c19ea","sting","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",1505
@@ -1744,6 +1902,7 @@
 "5e437d7404eaba215eafbd2a","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",2247
 "60fd56db5fe37ebeca00bc83","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",2179
 "61363ce02e6022a741d63a6e","","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",1521
+"614f6bad672ef7cf5ecfd965","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",4563
 "62f17b6b63bd9e6627a19956","","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",317
 "6314c1e76c3f71e2127f1976","peppermint","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",7734
 "63d16398d05b8126c30c19ea","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",1660
@@ -1755,6 +1914,7 @@
 "5e437d7404eaba215eafbd2a","","vase",3,"Read","king","Study2","U","Study Phase","Recall1",3394
 "60fd56db5fe37ebeca00bc83","vase","vase",3,"Read","king","Study2","U","Study Phase","Recall1",6624
 "61363ce02e6022a741d63a6e","queen","vase",3,"Read","king","Study2","U","Study Phase","Recall1",3091
+"614f6bad672ef7cf5ecfd965","","vase",3,"Read","king","Study2","U","Study Phase","Recall1",3203
 "62f17b6b63bd9e6627a19956","pin","vase",3,"Read","king","Study2","U","Study Phase","Recall1",5135
 "6314c1e76c3f71e2127f1976","queen","vase",3,"Read","king","Study2","U","Study Phase","Recall1",3704
 "63d16398d05b8126c30c19ea","","vase",3,"Read","king","Study2","U","Study Phase","Recall1",1209
@@ -1766,6 +1926,7 @@
 "5e437d7404eaba215eafbd2a","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",3358
 "60fd56db5fe37ebeca00bc83","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",8378
 "61363ce02e6022a741d63a6e","","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",22176
+"614f6bad672ef7cf5ecfd965","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",12224
 "62f17b6b63bd9e6627a19956","","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",441
 "6314c1e76c3f71e2127f1976","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",3482
 "63d16398d05b8126c30c19ea","","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",1461
@@ -1777,6 +1938,7 @@
 "5e437d7404eaba215eafbd2a","","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",1943
 "60fd56db5fe37ebeca00bc83","car","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",9182
 "61363ce02e6022a741d63a6e","","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",4567
+"614f6bad672ef7cf5ecfd965","rent","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",4701
 "62f17b6b63bd9e6627a19956","","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",304
 "6314c1e76c3f71e2127f1976","paper","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",5502
 "63d16398d05b8126c30c19ea","struggle","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",2534
@@ -1788,6 +1950,7 @@
 "5e437d7404eaba215eafbd2a","","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",2832
 "60fd56db5fe37ebeca00bc83","children","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",9701
 "61363ce02e6022a741d63a6e","children","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",3352
+"614f6bad672ef7cf5ecfd965","light","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",6590
 "62f17b6b63bd9e6627a19956","","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",3882
 "6314c1e76c3f71e2127f1976","reflection","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",5188
 "63d16398d05b8126c30c19ea","children","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",1699
@@ -1799,6 +1962,7 @@
 "5e437d7404eaba215eafbd2a","","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",1055
 "60fd56db5fe37ebeca00bc83","","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",10357
 "61363ce02e6022a741d63a6e","doctor","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",4637
+"614f6bad672ef7cf5ecfd965","lawyer","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",3441
 "62f17b6b63bd9e6627a19956","","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",401
 "6314c1e76c3f71e2127f1976","room","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",4465
 "63d16398d05b8126c30c19ea","lawyer","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",1740
@@ -1810,6 +1974,7 @@
 "5e437d7404eaba215eafbd2a","bake","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",5426
 "60fd56db5fe37ebeca00bc83","basket","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",9888
 "61363ce02e6022a741d63a6e","load","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",23908
+"614f6bad672ef7cf5ecfd965","bake","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",5528
 "62f17b6b63bd9e6627a19956","place","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",4849
 "6314c1e76c3f71e2127f1976","","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",530
 "63d16398d05b8126c30c19ea","","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",1167
@@ -1821,6 +1986,7 @@
 "5e437d7404eaba215eafbd2a","","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",1111
 "60fd56db5fe37ebeca00bc83","iron","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",21991
 "61363ce02e6022a741d63a6e","","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",11234
+"614f6bad672ef7cf5ecfd965","","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",2471
 "62f17b6b63bd9e6627a19956","","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",284
 "6314c1e76c3f71e2127f1976","button","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",3945
 "63d16398d05b8126c30c19ea","collar","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",2411
@@ -1832,6 +1998,7 @@
 "5e437d7404eaba215eafbd2a","","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",2024
 "60fd56db5fe37ebeca00bc83","clutter","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",7461
 "61363ce02e6022a741d63a6e","","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",9229
+"614f6bad672ef7cf5ecfd965","","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",5708
 "62f17b6b63bd9e6627a19956","","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",356
 "6314c1e76c3f71e2127f1976","pull","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",3462
 "63d16398d05b8126c30c19ea","","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",1424
@@ -1843,6 +2010,7 @@
 "5e437d7404eaba215eafbd2a","","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",2615
 "60fd56db5fe37ebeca00bc83","seed","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",15065
 "61363ce02e6022a741d63a6e","","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",1577
+"614f6bad672ef7cf5ecfd965","leaf","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",4425
 "62f17b6b63bd9e6627a19956","","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",97
 "6314c1e76c3f71e2127f1976","","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",1611
 "63d16398d05b8126c30c19ea","","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",1110
@@ -1854,6 +2022,7 @@
 "5e437d7404eaba215eafbd2a","muscle","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",2267
 "60fd56db5fe37ebeca00bc83","sharp","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",9429
 "61363ce02e6022a741d63a6e","thin","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",35721
+"614f6bad672ef7cf5ecfd965","muscle","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",8709
 "62f17b6b63bd9e6627a19956","","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",316
 "6314c1e76c3f71e2127f1976","sharp","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",4085
 "63d16398d05b8126c30c19ea","slice","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",2099
@@ -1865,6 +2034,7 @@
 "5e437d7404eaba215eafbd2a","","island",3,"Read","reality","Study2","M","Study Phase","Recall1",1358
 "60fd56db5fe37ebeca00bc83","","island",3,"Read","reality","Study2","M","Study Phase","Recall1",3284
 "61363ce02e6022a741d63a6e","","island",3,"Read","reality","Study2","M","Study Phase","Recall1",1201
+"614f6bad672ef7cf5ecfd965","show","island",3,"Read","reality","Study2","M","Study Phase","Recall1",7134
 "62f17b6b63bd9e6627a19956","","island",3,"Read","reality","Study2","M","Study Phase","Recall1",743
 "6314c1e76c3f71e2127f1976","","island",3,"Read","reality","Study2","M","Study Phase","Recall1",2753
 "63d16398d05b8126c30c19ea","","island",3,"Read","reality","Study2","M","Study Phase","Recall1",836
@@ -1876,6 +2046,7 @@
 "5e437d7404eaba215eafbd2a","","stop",3,"Read","school","Study2","M","Study Phase","Recall1",1083
 "60fd56db5fe37ebeca00bc83","bus","stop",3,"Read","school","Study2","M","Study Phase","Recall1",3050
 "61363ce02e6022a741d63a6e","","stop",3,"Read","school","Study2","M","Study Phase","Recall1",19730
+"614f6bad672ef7cf5ecfd965","","stop",3,"Read","school","Study2","M","Study Phase","Recall1",4508
 "62f17b6b63bd9e6627a19956","house","stop",3,"Read","school","Study2","M","Study Phase","Recall1",7864
 "6314c1e76c3f71e2127f1976","bus","stop",3,"Read","school","Study2","M","Study Phase","Recall1",3829
 "63d16398d05b8126c30c19ea","","stop",3,"Read","school","Study2","M","Study Phase","Recall1",2083
@@ -1887,6 +2058,7 @@
 "5e437d7404eaba215eafbd2a","","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",2525
 "60fd56db5fe37ebeca00bc83","","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",13288
 "61363ce02e6022a741d63a6e","hurt","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",50010
+"614f6bad672ef7cf5ecfd965","leave","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",5555
 "62f17b6b63bd9e6627a19956","","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",3668
 "6314c1e76c3f71e2127f1976","leave","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",5435
 "63d16398d05b8126c30c19ea","tired","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",1608
@@ -1898,6 +2070,7 @@
 "5e437d7404eaba215eafbd2a","","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",1190
 "60fd56db5fe37ebeca00bc83","","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",6795
 "61363ce02e6022a741d63a6e","","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",2492
+"614f6bad672ef7cf5ecfd965","dish","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",7455
 "62f17b6b63bd9e6627a19956","","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",1091
 "6314c1e76c3f71e2127f1976","water","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",3771
 "63d16398d05b8126c30c19ea","eat","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",2156
@@ -1909,6 +2082,7 @@
 "5e437d7404eaba215eafbd2a","weak","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",5464
 "60fd56db5fe37ebeca00bc83","snow","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",8362
 "61363ce02e6022a741d63a6e","","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",38321
+"614f6bad672ef7cf5ecfd965","sharp\","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",18348
 "62f17b6b63bd9e6627a19956","","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",295
 "6314c1e76c3f71e2127f1976","fit","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",8845
 "63d16398d05b8126c30c19ea","feather","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",3331
@@ -1920,6 +2094,7 @@
 "5e437d7404eaba215eafbd2a","roll","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",4665
 "60fd56db5fe37ebeca00bc83","sweet","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",2347
 "61363ce02e6022a741d63a6e","","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",40759
+"614f6bad672ef7cf5ecfd965","","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",8798
 "62f17b6b63bd9e6627a19956","plum","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",3204
 "6314c1e76c3f71e2127f1976","baby","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",3579
 "63d16398d05b8126c30c19ea","","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",1171
@@ -1931,6 +2106,7 @@
 "5e437d7404eaba215eafbd2a","chill","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",4166
 "60fd56db5fe37ebeca00bc83","snow","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",14303
 "61363ce02e6022a741d63a6e","","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",1842
+"614f6bad672ef7cf5ecfd965","","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",2848
 "62f17b6b63bd9e6627a19956","","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",498
 "6314c1e76c3f71e2127f1976","winter","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",5185
 "63d16398d05b8126c30c19ea","snow","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",3207
@@ -1942,6 +2118,7 @@
 "5e437d7404eaba215eafbd2a","cave","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",4569
 "60fd56db5fe37ebeca00bc83","cave","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",12474
 "61363ce02e6022a741d63a6e","","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",1834
+"614f6bad672ef7cf5ecfd965","","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",10445
 "62f17b6b63bd9e6627a19956","","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",6818
 "6314c1e76c3f71e2127f1976","house","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",3537
 "63d16398d05b8126c30c19ea","cave","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",2142
@@ -1953,6 +2130,7 @@
 "5e437d7404eaba215eafbd2a","","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",1128
 "60fd56db5fe37ebeca00bc83","dip","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",2115
 "61363ce02e6022a741d63a6e","mountain","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",36024
+"614f6bad672ef7cf5ecfd965","","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",7020
 "62f17b6b63bd9e6627a19956","","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",4889
 "6314c1e76c3f71e2127f1976","peak","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",3206
 "63d16398d05b8126c30c19ea","","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",962
@@ -1964,6 +2142,7 @@
 "5e437d7404eaba215eafbd2a","","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",3300
 "60fd56db5fe37ebeca00bc83","bee","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",10832
 "61363ce02e6022a741d63a6e","","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",46335
+"614f6bad672ef7cf5ecfd965","hornet","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",6013
 "62f17b6b63bd9e6627a19956","","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",301
 "6314c1e76c3f71e2127f1976","bug","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",3984
 "63d16398d05b8126c30c19ea","sting","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",1646
@@ -1975,6 +2154,7 @@
 "5e437d7404eaba215eafbd2a","","knob",3,"Read","window","Study2","M","Study Phase","Recall1",1113
 "60fd56db5fe37ebeca00bc83","knob","knob",3,"Read","window","Study2","M","Study Phase","Recall1",31730
 "61363ce02e6022a741d63a6e","glass","knob",3,"Read","window","Study2","M","Study Phase","Recall1",6420
+"614f6bad672ef7cf5ecfd965","","knob",3,"Read","window","Study2","M","Study Phase","Recall1",4471
 "62f17b6b63bd9e6627a19956","","knob",3,"Read","window","Study2","M","Study Phase","Recall1",90
 "6314c1e76c3f71e2127f1976","open","knob",3,"Read","window","Study2","M","Study Phase","Recall1",4990
 "63d16398d05b8126c30c19ea","mirror","knob",3,"Read","window","Study2","M","Study Phase","Recall1",2886
