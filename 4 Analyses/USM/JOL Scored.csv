@@ -3,6 +3,7 @@ id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stim
 w100152402_MKT,love,love,1,1,2,JOL,affection,Study1,F,Study Phase,80,Recall1,3332,USM
 w10042654_kw,love,love,1,1,2,JOL,affection,Study1,F,Study Phase,55,Recall1,12572,USM
 w10090906KM,love,love,1,1,2,JOL,affection,Study1,F,Study Phase,95,Recall1,168377,USM
+w10098759_caa,love,love,1,1,2,JOL,affection,Study1,F,Study Phase,90,Recall1,2774,USM
 w10128905_IAT,love,love,1,1,2,JOL,affection,Study1,F,Study Phase,70,Recall1,1665,USM
 w10136452dns,love,love,1,1,2,JOL,affection,Study1,F,Study Phase,60,Recall1,1684,USM
 w10150573_kaj,love,love,1,1,2,JOL,affection,Study1,F,Study Phase,90,Recall1,1334,USM
@@ -14,6 +15,7 @@ w963035,love,love,1,1,2,JOL,affection,Study1,F,Study Phase,100,Recall1,1769,USM
 w100152402_MKT,bounce,bounce,1,1,2,JOL,bat,Study1,M,Study Phase,30,Recall1,3716,USM
 w10042654_kw,bathe,bounce,0.333333333,0,2,JOL,bat,Study1,M,Study Phase,34,Recall1,14178,USM
 w10090906KM,wing,bounce,0.166666667,0,2,JOL,bat,Study1,M,Study Phase,40,Recall1,17610,USM
+w10098759_caa,night,bounce,0.166666667,0,2,JOL,bat,Study1,M,Study Phase,60,Recall1,3372,USM
 w10128905_IAT,bounce,bounce,1,1,2,JOL,bat,Study1,M,Study Phase,15,Recall1,3225,USM
 w10136452dns,,bounce,0,0,2,JOL,bat,Study1,M,Study Phase,25,Recall1,1690,USM
 w10150573_kaj,,bounce,0,0,2,JOL,bat,Study1,M,Study Phase,10,Recall1,3003,USM
@@ -25,6 +27,7 @@ w963035,bounce ,bounce,0.857142857,1,2,JOL,bat,Study1,M,Study Phase,0,Recall1,62
 w100152402_MKT,waves,box,0,0,2,JOL,beach,Study1,M,Study Phase,40,Recall1,3275,USM
 w10042654_kw,box,box,1,1,2,JOL,beach,Study1,M,Study Phase,30,Recall1,5265,USM
 w10090906KM,wear,box,0,0,2,JOL,beach,Study1,M,Study Phase,15,Recall1,5981,USM
+w10098759_caa,sand,box,0,0,2,JOL,beach,Study1,M,Study Phase,15,Recall1,17855,USM
 w10128905_IAT,box,box,1,1,2,JOL,beach,Study1,M,Study Phase,10,Recall1,4071,USM
 w10136452dns,box,box,1,1,2,JOL,beach,Study1,M,Study Phase,30,Recall1,2204,USM
 w10150573_kaj,box,box,1,1,2,JOL,beach,Study1,M,Study Phase,10,Recall1,1976,USM
@@ -36,6 +39,7 @@ w963035,sand,box,0,0,2,JOL,beach,Study1,M,Study Phase,0,Recall1,2158,USM
 w100152402_MKT,cake,pie,0.25,0,2,JOL,birthday,Study1,M,Study Phase,40,Recall1,2955,USM
 w10042654_kw,birthnight,pie,0.1,0,2,JOL,birthday,Study1,M,Study Phase,50,Recall1,13560,USM
 w10090906KM,cake,pie,0.25,0,2,JOL,birthday,Study1,M,Study Phase,15,Recall1,24812,USM
+w10098759_caa,year,pie,0.25,0,2,JOL,birthday,Study1,M,Study Phase,70,Recall1,5804,USM
 w10128905_IAT,pie,pie,1,1,2,JOL,birthday,Study1,M,Study Phase,20,Recall1,2106,USM
 w10136452dns,cake,pie,0.25,0,2,JOL,birthday,Study1,M,Study Phase,25,Recall1,3279,USM
 w10150573_kaj,,pie,0,0,2,JOL,birthday,Study1,M,Study Phase,10,Recall1,4289,USM
@@ -47,6 +51,7 @@ w963035,cake,pie,0.25,0,2,JOL,birthday,Study1,M,Study Phase,0,Recall1,2332,USM
 w100152402_MKT,partuy,hand,0.166666667,0,2,JOL,cake,Study1,U,Study Phase,70,Recall1,2809,USM
 w10042654_kw,food,hand,0.25,0,2,JOL,cake,Study1,U,Study Phase,45,Recall1,8548,USM
 w10090906KM,pop,hand,0,0,2,JOL,cake,Study1,U,Study Phase,30,Recall1,4129,USM
+w10098759_caa,paper,hand,0.2,0,2,JOL,cake,Study1,U,Study Phase,14,Recall1,5638,USM
 w10128905_IAT,hand,hand,1,1,2,JOL,cake,Study1,U,Study Phase,20,Recall1,3787,USM
 w10136452dns,birthday,hand,0.375,0,2,JOL,cake,Study1,U,Study Phase,30,Recall1,3738,USM
 w10150573_kaj,,hand,0,0,2,JOL,cake,Study1,U,Study Phase,0,Recall1,1759,USM
@@ -58,6 +63,7 @@ w963035,batter,hand,0.166666667,0,2,JOL,cake,Study1,U,Study Phase,0,Recall1,4250
 w100152402_MKT,floor,carpet,0.166666667,0,2,JOL,ceiling,Study1,M,Study Phase,40,Recall1,2027,USM
 w10042654_kw,carpet,carpet,1,1,2,JOL,ceiling,Study1,M,Study Phase,58,Recall1,4962,USM
 w10090906KM,fan,carpet,0.166666667,0,2,JOL,ceiling,Study1,M,Study Phase,25,Recall1,32346,USM
+w10098759_caa,carpet,carpet,1,1,2,JOL,ceiling,Study1,M,Study Phase,5,Recall1,8558,USM
 w10128905_IAT,carpet,carpet,1,1,2,JOL,ceiling,Study1,M,Study Phase,85,Recall1,5680,USM
 w10136452dns,carpet,carpet,1,1,2,JOL,ceiling,Study1,M,Study Phase,30,Recall1,3572,USM
 w10150573_kaj,carpet,carpet,1,1,2,JOL,ceiling,Study1,M,Study Phase,10,Recall1,2502,USM
@@ -69,6 +75,7 @@ w963035,floor,carpet,0.166666667,0,2,JOL,ceiling,Study1,M,Study Phase,100,Recall
 w100152402_MKT,round,dance,0.4,0,2,JOL,circle,Study1,M,Study Phase,30,Recall1,3419,USM
 w10042654_kw,square,dance,0.333333333,0,2,JOL,circle,Study1,M,Study Phase,20,Recall1,6399,USM
 w10090906KM,square,dance,0.333333333,0,2,JOL,circle,Study1,M,Study Phase,23,Recall1,3279,USM
+w10098759_caa,square,dance,0.333333333,0,2,JOL,circle,Study1,M,Study Phase,10,Recall1,4451,USM
 w10128905_IAT,dance,dance,1,1,2,JOL,circle,Study1,M,Study Phase,20,Recall1,1931,USM
 w10136452dns,,dance,0,0,2,JOL,circle,Study1,M,Study Phase,20,Recall1,1623,USM
 w10150573_kaj,,dance,0,0,2,JOL,circle,Study1,M,Study Phase,60,Recall1,973,USM
@@ -80,6 +87,7 @@ w963035,ball,dance,0.2,0,2,JOL,circle,Study1,M,Study Phase,0,Recall1,5079,USM
 w100152402_MKT,soft,election,0.25,0,2,JOL,crackle,Study1,U,Study Phase,10,Recall1,4502,USM
 w10042654_kw,pop,election,0.125,0,2,JOL,crackle,Study1,U,Study Phase,10,Recall1,3805,USM
 w10090906KM,pop,election,0.125,0,2,JOL,crackle,Study1,U,Study Phase,45,Recall1,3059,USM
+w10098759_caa,fire,election,0.25,0,2,JOL,crackle,Study1,U,Study Phase,0,Recall1,3166,USM
 w10128905_IAT,,election,0,0,2,JOL,crackle,Study1,U,Study Phase,20,Recall1,4877,USM
 w10136452dns,,election,0,0,2,JOL,crackle,Study1,U,Study Phase,5,Recall1,975,USM
 w10150573_kaj,engine,election,0.5,0,2,JOL,crackle,Study1,U,Study Phase,0,Recall1,2435,USM
@@ -91,6 +99,7 @@ w963035,crack,election,0.125,0,2,JOL,crackle,Study1,U,Study Phase,0,Recall1,5605
 w100152402_MKT,cash,card,0.5,0,2,JOL,credit,Study1,F,Study Phase,100,Recall1,3268,USM
 w10042654_kw,card,card,1,1,2,JOL,credit,Study1,F,Study Phase,98,Recall1,3175,USM
 w10090906KM,card,card,1,1,2,JOL,credit,Study1,F,Study Phase,100,Recall1,2770,USM
+w10098759_caa,card,card,1,1,2,JOL,credit,Study1,F,Study Phase,100,Recall1,3734,USM
 w10128905_IAT,card,card,1,1,2,JOL,credit,Study1,F,Study Phase,100,Recall1,1742,USM
 w10136452dns,card,card,1,1,2,JOL,credit,Study1,F,Study Phase,100,Recall1,2041,USM
 w10150573_kaj,card,card,1,1,2,JOL,credit,Study1,F,Study Phase,100,Recall1,2078,USM
@@ -102,6 +111,7 @@ w963035,card,card,1,1,2,JOL,credit,Study1,F,Study Phase,100,Recall1,1876,USM
 w100152402_MKT,baby,bottle,0.166666667,0,2,JOL,cry,Study1,M,Study Phase,30,Recall1,1891,USM
 w10042654_kw,bottle,bottle,1,1,2,JOL,cry,Study1,M,Study Phase,56,Recall1,3556,USM
 w10090906KM,laugh,bottle,0.166666667,0,2,JOL,cry,Study1,M,Study Phase,90,Recall1,4074,USM
+w10098759_caa,whine,bottle,0.166666667,0,2,JOL,cry,Study1,M,Study Phase,80,Recall1,2609,USM
 w10128905_IAT,bottle,bottle,1,1,2,JOL,cry,Study1,M,Study Phase,65,Recall1,2408,USM
 w10136452dns,,bottle,0,0,2,JOL,cry,Study1,M,Study Phase,40,Recall1,2103,USM
 w10150573_kaj,bottle,bottle,1,1,2,JOL,cry,Study1,M,Study Phase,10,Recall1,3051,USM
@@ -113,6 +123,7 @@ w963035,baby,bottle,0.166666667,0,2,JOL,cry,Study1,M,Study Phase,0,Recall1,1772,
 w100152402_MKT,night,dark,0,0,2,JOL,day,Study1,M,Study Phase,50,Recall1,1742,USM
 w10042654_kw,night,dark,0,0,2,JOL,day,Study1,M,Study Phase,95,Recall1,4058,USM
 w10090906KM,dark,dark,1,1,2,JOL,day,Study1,M,Study Phase,65,Recall1,2681,USM
+w10098759_caa,weak,dark,0.5,0,2,JOL,day,Study1,M,Study Phase,45,Recall1,2880,USM
 w10128905_IAT,dark,dark,1,1,2,JOL,day,Study1,M,Study Phase,15,Recall1,1742,USM
 w10136452dns,dark,dark,1,1,2,JOL,day,Study1,M,Study Phase,75,Recall1,2752,USM
 w10150573_kaj,weaks,dark,0.4,0,2,JOL,day,Study1,M,Study Phase,0,Recall1,3745,USM
@@ -124,6 +135,7 @@ w963035,dark,dark,1,1,2,JOL,day,Study1,M,Study Phase,100,Recall1,2936,USM
 w100152402_MKT,hard,bang,0.25,0,2,JOL,fuzzy,Study1,U,Study Phase,20,Recall1,2882,USM
 w10042654_kw,sock,bang,0,0,2,JOL,fuzzy,Study1,U,Study Phase,10,Recall1,6326,USM
 w10090906KM,furry,bang,0,0,2,JOL,fuzzy,Study1,U,Study Phase,28,Recall1,3618,USM
+w10098759_caa,soft,bang,0,0,2,JOL,fuzzy,Study1,U,Study Phase,0,Recall1,7183,USM
 w10128905_IAT,hard,bang,0.25,0,2,JOL,fuzzy,Study1,U,Study Phase,10,Recall1,4425,USM
 w10136452dns,,bang,0,0,2,JOL,fuzzy,Study1,U,Study Phase,0,Recall1,1321,USM
 w10150573_kaj,bangs,bang,0.8,1,2,JOL,fuzzy,Study1,U,Study Phase,0,Recall1,7121,USM
@@ -135,6 +147,7 @@ w963035,blanket ,bang,0.375,0,2,JOL,fuzzy,Study1,U,Study Phase,0,Recall1,4282,US
 w100152402_MKT,thanks,steak,0.666666667,0,2,JOL,give,Study1,U,Study Phase,30,Recall1,2200,USM
 w10042654_kw,take,steak,0.8,1,2,JOL,give,Study1,U,Study Phase,30,Recall1,7964,USM
 w10090906KM,take,steak,0.8,1,2,JOL,give,Study1,U,Study Phase,5,Recall1,2913,USM
+w10098759_caa,go,steak,0,0,2,JOL,give,Study1,U,Study Phase,45,Recall1,2971,USM
 w10128905_IAT,thanks,steak,0.666666667,0,2,JOL,give,Study1,U,Study Phase,10,Recall1,6308,USM
 w10136452dns,take,steak,0.8,1,2,JOL,give,Study1,U,Study Phase,0,Recall1,3616,USM
 w10150573_kaj,take,steak,0.8,1,2,JOL,give,Study1,U,Study Phase,50,Recall1,3168,USM
@@ -146,6 +159,7 @@ w963035,thanks,steak,0.666666667,0,2,JOL,give,Study1,U,Study Phase,0,Recall1,259
 w100152402_MKT,soft,cotton,0.333333333,0,2,JOL,hard,Study1,M,Study Phase,30,Recall1,2135,USM
 w10042654_kw,soft,cotton,0.333333333,0,2,JOL,hard,Study1,M,Study Phase,15,Recall1,7412,USM
 w10090906KM,,cotton,0,0,2,JOL,hard,Study1,M,Study Phase,23,Recall1,10763,USM
+w10098759_caa,soft,cotton,0.333333333,0,2,JOL,hard,Study1,M,Study Phase,0,Recall1,4195,USM
 w10128905_IAT,cotton,cotton,1,1,2,JOL,hard,Study1,M,Study Phase,25,Recall1,2427,USM
 w10136452dns,cotton,cotton,1,1,2,JOL,hard,Study1,M,Study Phase,100,Recall1,3392,USM
 w10150573_kaj,,cotton,0,0,2,JOL,hard,Study1,M,Study Phase,0,Recall1,1229,USM
@@ -157,6 +171,7 @@ w963035,soft,cotton,0.333333333,0,2,JOL,hard,Study1,M,Study Phase,0,Recall1,3922
 w100152402_MKT,buggy,wheel,0,0,2,JOL,horse,Study1,M,Study Phase,50,Recall1,2594,USM
 w10042654_kw,hair,wheel,0.2,0,2,JOL,horse,Study1,M,Study Phase,35,Recall1,5686,USM
 w10090906KM,shoe,wheel,0.4,0,2,JOL,horse,Study1,M,Study Phase,15,Recall1,5815,USM
+w10098759_caa,rids,wheel,0,0,2,JOL,horse,Study1,M,Study Phase,0,Recall1,5161,USM
 w10128905_IAT,wheel,wheel,1,1,2,JOL,horse,Study1,M,Study Phase,35,Recall1,2284,USM
 w10136452dns,mule,wheel,0.4,0,2,JOL,horse,Study1,M,Study Phase,50,Recall1,3065,USM
 w10150573_kaj,,wheel,0,0,2,JOL,horse,Study1,M,Study Phase,10,Recall1,2602,USM
@@ -168,6 +183,7 @@ w963035,wagne,wheel,0.4,0,2,JOL,horse,Study1,M,Study Phase,0,Recall1,5695,USM
 w100152402_MKT,clean,clean,1,1,2,JOL,hygiene,Study1,F,Study Phase,80,Recall1,2015,USM
 w10042654_kw,clean,clean,1,1,2,JOL,hygiene,Study1,F,Study Phase,89,Recall1,5160,USM
 w10090906KM,clean,clean,1,1,2,JOL,hygiene,Study1,F,Study Phase,95,Recall1,3807,USM
+w10098759_caa,clean,clean,1,1,2,JOL,hygiene,Study1,F,Study Phase,90,Recall1,2135,USM
 w10128905_IAT,clean,clean,1,1,2,JOL,hygiene,Study1,F,Study Phase,80,Recall1,1870,USM
 w10136452dns,clean,clean,1,1,2,JOL,hygiene,Study1,F,Study Phase,100,Recall1,2243,USM
 w10150573_kaj,clean,clean,1,1,2,JOL,hygiene,Study1,F,Study Phase,90,Recall1,2830,USM
@@ -179,6 +195,7 @@ w963035,clean,clean,1,1,2,JOL,hygiene,Study1,F,Study Phase,100,Recall1,1780,USM
 w100152402_MKT,start,rod,0.2,0,2,JOL,keys,Study1,U,Study Phase,20,Recall1,2809,USM
 w10042654_kw,ring,rod,0.25,0,2,JOL,keys,Study1,U,Study Phase,10,Recall1,6886,USM
 w10090906KM,,rod,0,0,2,JOL,keys,Study1,U,Study Phase,15,Recall1,12053,USM
+w10098759_caa,dirty,rod,0.4,0,2,JOL,keys,Study1,U,Study Phase,0,Recall1,3700,USM
 w10128905_IAT,rod,rod,1,1,2,JOL,keys,Study1,U,Study Phase,15,Recall1,3104,USM
 w10136452dns,,rod,0,0,2,JOL,keys,Study1,U,Study Phase,30,Recall1,2242,USM
 w10150573_kaj,,rod,0,0,2,JOL,keys,Study1,U,Study Phase,0,Recall1,4175,USM
@@ -190,6 +207,7 @@ w963035,ring,rod,0.25,0,2,JOL,keys,Study1,U,Study Phase,0,Recall1,3345,USM
 w100152402_MKT,stripes,stripes,1,1,2,JOL,lion,Study1,M,Study Phase,90,Recall1,4275,USM
 w10042654_kw,stripes,stripes,1,1,2,JOL,lion,Study1,M,Study Phase,40,Recall1,3553,USM
 w10090906KM,stripes,stripes,1,1,2,JOL,lion,Study1,M,Study Phase,35,Recall1,3546,USM
+w10098759_caa,stripes,stripes,1,1,2,JOL,lion,Study1,M,Study Phase,6,Recall1,5144,USM
 w10128905_IAT,stripes,stripes,1,1,2,JOL,lion,Study1,M,Study Phase,30,Recall1,2983,USM
 w10136452dns,stripes,stripes,1,1,2,JOL,lion,Study1,M,Study Phase,25,Recall1,3634,USM
 w10150573_kaj,stripes,stripes,1,1,2,JOL,lion,Study1,M,Study Phase,20,Recall1,2550,USM
@@ -201,6 +219,7 @@ w963035,strips,stripes,0.857142857,1,2,JOL,lion,Study1,M,Study Phase,0,Recall1,3
 w100152402_MKT,speak,fiction,0,0,2,JOL,listen,Study1,U,Study Phase,40,Recall1,2511,USM
 w10042654_kw,learn,fiction,0.142857143,0,2,JOL,listen,Study1,U,Study Phase,42,Recall1,6195,USM
 w10090906KM,,fiction,0,0,2,JOL,listen,Study1,U,Study Phase,25,Recall1,21477,USM
+w10098759_caa,quiet,fiction,0.285714286,0,2,JOL,listen,Study1,U,Study Phase,15,Recall1,2846,USM
 w10128905_IAT,talk,fiction,0.142857143,0,2,JOL,listen,Study1,U,Study Phase,20,Recall1,4683,USM
 w10136452dns,speak,fiction,0,0,2,JOL,listen,Study1,U,Study Phase,40,Recall1,3108,USM
 w10150573_kaj,,fiction,0,0,2,JOL,listen,Study1,U,Study Phase,0,Recall1,1413,USM
@@ -212,6 +231,7 @@ w963035,ear,fiction,0,0,2,JOL,listen,Study1,U,Study Phase,0,Recall1,2148,USM
 w100152402_MKT,trash,trash,1,1,2,JOL,litter,Study1,F,Study Phase,70,Recall1,2764,USM
 w10042654_kw,dispose,trash,0.142857143,0,2,JOL,litter,Study1,F,Study Phase,80,Recall1,4636,USM
 w10090906KM,trash,trash,1,1,2,JOL,litter,Study1,F,Study Phase,95,Recall1,5404,USM
+w10098759_caa,trash,trash,1,1,2,JOL,litter,Study1,F,Study Phase,96,Recall1,3772,USM
 w10128905_IAT,trash,trash,1,1,2,JOL,litter,Study1,F,Study Phase,70,Recall1,2070,USM
 w10136452dns,trash,trash,1,1,2,JOL,litter,Study1,F,Study Phase,100,Recall1,2180,USM
 w10150573_kaj,trash,trash,1,1,2,JOL,litter,Study1,F,Study Phase,30,Recall1,2145,USM
@@ -223,6 +243,7 @@ w963035,trash,trash,1,1,2,JOL,litter,Study1,F,Study Phase,100,Recall1,2851,USM
 w100152402_MKT,corn,phone,0.4,0,2,JOL,maze,Study1,U,Study Phase,10,Recall1,1888,USM
 w10042654_kw,hand,phone,0.4,0,2,JOL,maze,Study1,U,Study Phase,5,Recall1,3863,USM
 w10090906KM,house,phone,0.6,0,2,JOL,maze,Study1,U,Study Phase,25,Recall1,15665,USM
+w10098759_caa,phone,phone,1,1,2,JOL,maze,Study1,U,Study Phase,0,Recall1,2213,USM
 w10128905_IAT,phone,phone,1,1,2,JOL,maze,Study1,U,Study Phase,10,Recall1,2372,USM
 w10136452dns,,phone,0,0,2,JOL,maze,Study1,U,Study Phase,0,Recall1,1403,USM
 w10150573_kaj,,phone,0,0,2,JOL,maze,Study1,U,Study Phase,0,Recall1,1662,USM
@@ -234,6 +255,7 @@ w963035,puzzle,phone,0.333333333,0,2,JOL,maze,Study1,U,Study Phase,0,Recall1,700
 w100152402_MKT,drink,keys,0.2,0,2,JOL,meat,Study1,U,Study Phase,10,Recall1,6293,USM
 w10042654_kw,box,keys,0,0,2,JOL,meat,Study1,U,Study Phase,10,Recall1,7572,USM
 w10090906KM,,keys,0,0,2,JOL,meat,Study1,U,Study Phase,13,Recall1,2325,USM
+w10098759_caa,steak,keys,0.6,0,2,JOL,meat,Study1,U,Study Phase,10,Recall1,3859,USM
 w10128905_IAT,keys,keys,1,1,2,JOL,meat,Study1,U,Study Phase,30,Recall1,2680,USM
 w10136452dns,,keys,0,0,2,JOL,meat,Study1,U,Study Phase,10,Recall1,4008,USM
 w10150573_kaj,,keys,0,0,2,JOL,meat,Study1,U,Study Phase,10,Recall1,1501,USM
@@ -245,6 +267,7 @@ w963035,steak,keys,0.6,0,2,JOL,meat,Study1,U,Study Phase,0,Recall1,2481,USM
 w100152402_MKT,maroon,maroon,1,1,2,JOL,mirror,Study1,U,Study Phase,40,Recall1,3619,USM
 w10042654_kw,maze,maroon,0.333333333,0,2,JOL,mirror,Study1,U,Study Phase,25,Recall1,55808,USM
 w10090906KM,maroon,maroon,1,1,2,JOL,mirror,Study1,U,Study Phase,30,Recall1,7105,USM
+w10098759_caa,cold,maroon,0.166666667,0,2,JOL,mirror,Study1,U,Study Phase,0,Recall1,3952,USM
 w10128905_IAT,maroon,maroon,1,1,2,JOL,mirror,Study1,U,Study Phase,20,Recall1,2145,USM
 w10136452dns,,maroon,0,0,2,JOL,mirror,Study1,U,Study Phase,25,Recall1,7199,USM
 w10150573_kaj,,maroon,0,0,2,JOL,mirror,Study1,U,Study Phase,0,Recall1,1647,USM
@@ -260,6 +283,8 @@ w10042654_kw,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,90,Recall1,3964,U
 w10042654_kw,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,90,Recall1,5667,USM
 w10090906KM,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,20,Recall1,7821,USM
 w10090906KM,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,70,Recall1,1800,USM
+w10098759_caa,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,100,Recall1,2580,USM
+w10098759_caa,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,100,Recall1,4806,USM
 w10128905_IAT,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,90,Recall1,2654,USM
 w10128905_IAT,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,85,Recall1,2156,USM
 w10136452dns,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,100,Recall1,4689,USM
@@ -278,6 +303,7 @@ w963035,donkey,donkey,1,1,2,JOL,mule,Study1,F,Study Phase,100,Recall1,3165,USM
 w100152402_MKT,sleep,sleep,1,1,2,JOL,nap,Study1,F,Study Phase,90,Recall1,3446,USM
 w10042654_kw,sleep,sleep,1,1,2,JOL,nap,Study1,F,Study Phase,56,Recall1,8768,USM
 w10090906KM,sleep,sleep,1,1,2,JOL,nap,Study1,F,Study Phase,95,Recall1,2455,USM
+w10098759_caa,sleep,sleep,1,1,2,JOL,nap,Study1,F,Study Phase,100,Recall1,2524,USM
 w10128905_IAT,sleep,sleep,1,1,2,JOL,nap,Study1,F,Study Phase,90,Recall1,2058,USM
 w10136452dns,sleep,sleep,1,1,2,JOL,nap,Study1,F,Study Phase,65,Recall1,1770,USM
 w10150573_kaj,sleep,sleep,1,1,2,JOL,nap,Study1,F,Study Phase,80,Recall1,1847,USM
@@ -289,6 +315,7 @@ w963035,sleep,sleep,1,1,2,JOL,nap,Study1,F,Study Phase,100,Recall1,2578,USM
 w100152402_MKT,flower,flower,1,1,2,JOL,orchid,Study1,F,Study Phase,30,Recall1,4744,USM
 w10042654_kw,flower,flower,1,1,2,JOL,orchid,Study1,F,Study Phase,64,Recall1,3340,USM
 w10090906KM,flower,flower,1,1,2,JOL,orchid,Study1,F,Study Phase,90,Recall1,14241,USM
+w10098759_caa,flower,flower,1,1,2,JOL,orchid,Study1,F,Study Phase,100,Recall1,2914,USM
 w10128905_IAT,flower,flower,1,1,2,JOL,orchid,Study1,F,Study Phase,55,Recall1,2248,USM
 w10136452dns,bird,flower,0.166666667,0,2,JOL,orchid,Study1,F,Study Phase,25,Recall1,5361,USM
 w10150573_kaj,flower,flower,1,1,2,JOL,orchid,Study1,F,Study Phase,90,Recall1,1450,USM
@@ -300,6 +327,7 @@ w963035,flower,flower,1,1,2,JOL,orchid,Study1,F,Study Phase,0,Recall1,2727,USM
 w100152402_MKT,tree,plant,0.2,0,2,JOL,root,Study1,F,Study Phase,80,Recall1,6148,USM
 w10042654_kw,plant,plant,1,1,2,JOL,root,Study1,F,Study Phase,80,Recall1,10662,USM
 w10090906KM,flower,plant,0.166666667,0,2,JOL,root,Study1,F,Study Phase,35,Recall1,6075,USM
+w10098759_caa,beee,plant,0,0,2,JOL,root,Study1,F,Study Phase,75,Recall1,2393,USM
 w10128905_IAT,plant,plant,1,1,2,JOL,root,Study1,F,Study Phase,80,Recall1,2829,USM
 w10136452dns,plant,plant,1,1,2,JOL,root,Study1,F,Study Phase,75,Recall1,3005,USM
 w10150573_kaj,tree,plant,0.2,0,2,JOL,root,Study1,F,Study Phase,30,Recall1,1919,USM
@@ -311,6 +339,7 @@ w963035,tree,plant,0.2,0,2,JOL,root,Study1,F,Study Phase,0,Recall1,3143,USM
 w100152402_MKT,silk,silk,1,1,2,JOL,rough,Study1,M,Study Phase,30,Recall1,7163,USM
 w10042654_kw,soft,silk,0.25,0,2,JOL,rough,Study1,M,Study Phase,10,Recall1,3527,USM
 w10090906KM,silk,silk,1,1,2,JOL,rough,Study1,M,Study Phase,20,Recall1,3293,USM
+w10098759_caa,silk,silk,1,1,2,JOL,rough,Study1,M,Study Phase,50,Recall1,6025,USM
 w10128905_IAT,silk,silk,1,1,2,JOL,rough,Study1,M,Study Phase,25,Recall1,4283,USM
 w10136452dns,silk,silk,1,1,2,JOL,rough,Study1,M,Study Phase,55,Recall1,3447,USM
 w10150573_kaj,,silk,0,0,2,JOL,rough,Study1,M,Study Phase,10,Recall1,1135,USM
@@ -322,6 +351,7 @@ w963035,slik ,silk,0.8,1,2,JOL,rough,Study1,M,Study Phase,0,Recall1,6816,USM
 w100152402_MKT,hair,head,0.5,0,2,JOL,scalp,Study1,F,Study Phase,70,Recall1,2543,USM
 w10042654_kw,head,head,1,1,2,JOL,scalp,Study1,F,Study Phase,45,Recall1,5876,USM
 w10090906KM,root,head,0,0,2,JOL,scalp,Study1,F,Study Phase,95,Recall1,8496,USM
+w10098759_caa,head,head,1,1,2,JOL,scalp,Study1,F,Study Phase,100,Recall1,2042,USM
 w10128905_IAT,head,head,1,1,2,JOL,scalp,Study1,F,Study Phase,85,Recall1,3366,USM
 w10136452dns,head,head,1,1,2,JOL,scalp,Study1,F,Study Phase,100,Recall1,3594,USM
 w10150573_kaj,head,head,1,1,2,JOL,scalp,Study1,F,Study Phase,80,Recall1,2602,USM
@@ -333,6 +363,7 @@ w963035,paint,head,0.2,0,2,JOL,scalp,Study1,F,Study Phase,0,Recall1,7951,USM
 w100152402_MKT,strong,shake,0.166666667,0,2,JOL,shell,Study1,U,Study Phase,40,Recall1,6527,USM
 w10042654_kw,shock,shake,0.6,0,2,JOL,shell,Study1,U,Study Phase,30,Recall1,4897,USM
 w10090906KM,oyster,shake,0.333333333,0,2,JOL,shell,Study1,U,Study Phase,55,Recall1,10029,USM
+w10098759_caa,beach,shake,0.6,0,2,JOL,shell,Study1,U,Study Phase,0,Recall1,6279,USM
 w10128905_IAT,shake,shake,1,1,2,JOL,shell,Study1,U,Study Phase,20,Recall1,5554,USM
 w10136452dns,,shake,0,0,2,JOL,shell,Study1,U,Study Phase,25,Recall1,2935,USM
 w10150573_kaj,sea,shake,0.6,0,2,JOL,shell,Study1,U,Study Phase,25,Recall1,4911,USM
@@ -344,6 +375,7 @@ w963035,fish,shake,0.4,0,2,JOL,shell,Study1,U,Study Phase,0,Recall1,2521,USM
 w100152402_MKT,see,tick,0,0,2,JOL,sign,Study1,U,Study Phase,20,Recall1,3898,USM
 w10042654_kw,initial,tick,0.285714286,0,2,JOL,sign,Study1,U,Study Phase,10,Recall1,7604,USM
 w10090906KM,language,tick,0,0,2,JOL,sign,Study1,U,Study Phase,5,Recall1,6163,USM
+w10098759_caa,board,tick,0,0,2,JOL,sign,Study1,U,Study Phase,0,Recall1,4760,USM
 w10128905_IAT,floor,tick,0,0,2,JOL,sign,Study1,U,Study Phase,20,Recall1,5189,USM
 w10136452dns,,tick,0,0,2,JOL,sign,Study1,U,Study Phase,15,Recall1,3551,USM
 w10150573_kaj,,tick,0,0,2,JOL,sign,Study1,U,Study Phase,0,Recall1,1606,USM
@@ -355,6 +387,7 @@ w963035,language ,tick,0,0,2,JOL,sign,Study1,U,Study Phase,0,Recall1,4343,USM
 w100152402_MKT,tea,drink,0,0,2,JOL,sip,Study1,F,Study Phase,80,Recall1,3068,USM
 w10042654_kw,dip,drink,0.4,0,2,JOL,sip,Study1,F,Study Phase,72,Recall1,3360,USM
 w10090906KM,drink,drink,1,1,2,JOL,sip,Study1,F,Study Phase,90,Recall1,2752,USM
+w10098759_caa,drink,drink,1,1,2,JOL,sip,Study1,F,Study Phase,70,Recall1,2282,USM
 w10128905_IAT,drink,drink,1,1,2,JOL,sip,Study1,F,Study Phase,75,Recall1,1933,USM
 w10136452dns,drink,drink,1,1,2,JOL,sip,Study1,F,Study Phase,95,Recall1,2789,USM
 w10150573_kaj,drink,drink,1,1,2,JOL,sip,Study1,F,Study Phase,75,Recall1,1630,USM
@@ -366,6 +399,7 @@ w963035,slide,drink,0.4,0,2,JOL,sip,Study1,F,Study Phase,100,Recall1,4707,USM
 w100152402_MKT,later,belt,0.6,0,2,JOL,soon,Study1,U,Study Phase,30,Recall1,5071,USM
 w10042654_kw,later,belt,0.6,0,2,JOL,soon,Study1,U,Study Phase,15,Recall1,4399,USM
 w10090906KM,later,belt,0.6,0,2,JOL,soon,Study1,U,Study Phase,20,Recall1,2000,USM
+w10098759_caa,later,belt,0.6,0,2,JOL,soon,Study1,U,Study Phase,O,Recall1,8936,USM
 w10128905_IAT,later,belt,0.6,0,2,JOL,soon,Study1,U,Study Phase,10,Recall1,3264,USM
 w10136452dns,,belt,0,0,2,JOL,soon,Study1,U,Study Phase,20,Recall1,2004,USM
 w10150573_kaj,,belt,0,0,2,JOL,soon,Study1,U,Study Phase,40,Recall1,1525,USM
@@ -377,6 +411,7 @@ w963035,later,belt,0.6,0,2,JOL,soon,Study1,U,Study Phase,0,Recall1,3260,USM
 w100152402_MKT,cloht,cloth,1,1,2,JOL,stretch,Study1,U,Study Phase,50,Recall1,2130,USM
 w10042654_kw,clotj,cloth,0.8,1,2,JOL,stretch,Study1,U,Study Phase,30,Recall1,4668,USM
 w10090906KM,,cloth,0,0,2,JOL,stretch,Study1,U,Study Phase,26,Recall1,6395,USM
+w10098759_caa,letter,cloth,0.333333333,0,2,JOL,stretch,Study1,U,Study Phase,28,Recall1,8883,USM
 w10128905_IAT,cloth,cloth,1,1,2,JOL,stretch,Study1,U,Study Phase,20,Recall1,2687,USM
 w10136452dns,,cloth,0,0,2,JOL,stretch,Study1,U,Study Phase,5,Recall1,1455,USM
 w10150573_kaj,,cloth,0,0,2,JOL,stretch,Study1,U,Study Phase,0,Recall1,2278,USM
@@ -388,6 +423,7 @@ w963035,long,cloth,0.4,0,2,JOL,stretch,Study1,U,Study Phase,0,Recall1,3494,USM
 w100152402_MKT,goose,bird,0,0,2,JOL,swan,Study1,F,Study Phase,60,Recall1,4216,USM
 w10042654_kw,bird,bird,1,1,2,JOL,swan,Study1,F,Study Phase,89,Recall1,3584,USM
 w10090906KM,swim,bird,0.25,0,2,JOL,swan,Study1,F,Study Phase,80,Recall1,4839,USM
+w10098759_caa,bird,bird,1,1,2,JOL,swan,Study1,F,Study Phase,70,Recall1,7293,USM
 w10128905_IAT,bird,bird,1,1,2,JOL,swan,Study1,F,Study Phase,70,Recall1,3502,USM
 w10136452dns,bird,bird,1,1,2,JOL,swan,Study1,F,Study Phase,75,Recall1,2324,USM
 w10150573_kaj,bird,bird,1,1,2,JOL,swan,Study1,F,Study Phase,70,Recall1,1696,USM
@@ -399,6 +435,7 @@ w963035,bird,bird,1,1,2,JOL,swan,Study1,F,Study Phase,100,Recall1,4559,USM
 w100152402_MKT,cold,morning,0.142857143,0,2,JOL,temperature,Study1,U,Study Phase,30,Recall1,1814,USM
 w10042654_kw,morning,morning,1,1,2,JOL,temperature,Study1,U,Study Phase,90,Recall1,5369,USM
 w10090906KM,hot,morning,0.142857143,0,2,JOL,temperature,Study1,U,Study Phase,32,Recall1,3830,USM
+w10098759_caa,cold,morning,0.142857143,0,2,JOL,temperature,Study1,U,Study Phase,50,Recall1,2750,USM
 w10128905_IAT,morning,morning,1,1,2,JOL,temperature,Study1,U,Study Phase,25,Recall1,5386,USM
 w10136452dns,day,morning,0,0,2,JOL,temperature,Study1,U,Study Phase,20,Recall1,8027,USM
 w10150573_kaj,cold,morning,0.142857143,0,2,JOL,temperature,Study1,U,Study Phase,0,Recall1,3818,USM
@@ -410,6 +447,7 @@ w963035,cold,morning,0.142857143,0,2,JOL,temperature,Study1,U,Study Phase,0,Reca
 w100152402_MKT,tie,hair,0.25,0,2,JOL,tooth,Study1,M,Study Phase,30,Recall1,3500,USM
 w10042654_kw,hair,hair,1,1,2,JOL,tooth,Study1,M,Study Phase,34,Recall1,13187,USM
 w10090906KM,fairy,hair,0.6,0,2,JOL,tooth,Study1,M,Study Phase,15,Recall1,3949,USM
+w10098759_caa,mouth,hair,0.2,0,2,JOL,tooth,Study1,M,Study Phase,O,Recall1,9033,USM
 w10128905_IAT,hair,hair,1,1,2,JOL,tooth,Study1,M,Study Phase,45,Recall1,2378,USM
 w10136452dns,paste,hair,0.2,0,2,JOL,tooth,Study1,M,Study Phase,20,Recall1,5399,USM
 w10150573_kaj,,hair,0,0,2,JOL,tooth,Study1,M,Study Phase,10,Recall1,3379,USM
@@ -421,6 +459,7 @@ w963035,brush,hair,0.4,0,2,JOL,tooth,Study1,M,Study Phase,NA,Recall1,7212,USM
 w100152402_MKT,branches,syrup,0.25,0,2,JOL,tree,Study1,M,Study Phase,50,Recall1,3583,USM
 w10042654_kw,green,syrup,0.2,0,2,JOL,tree,Study1,M,Study Phase,45,Recall1,3110,USM
 w10090906KM,green,syrup,0.2,0,2,JOL,tree,Study1,M,Study Phase,30,Recall1,2969,USM
+w10098759_caa,hut,syrup,0.2,0,2,JOL,tree,Study1,M,Study Phase,60,Recall1,1819,USM
 w10128905_IAT,syrup,syrup,1,1,2,JOL,tree,Study1,M,Study Phase,70,Recall1,3371,USM
 w10136452dns,syrup,syrup,1,1,2,JOL,tree,Study1,M,Study Phase,80,Recall1,4630,USM
 w10150573_kaj,,syrup,0,0,2,JOL,tree,Study1,M,Study Phase,50,Recall1,2262,USM
@@ -432,6 +471,7 @@ w963035,trunk,syrup,0.4,0,2,JOL,tree,Study1,M,Study Phase,0,Recall1,2793,USM
 w100152402_MKT,fish,fish,1,1,2,JOL,tuna,Study1,F,Study Phase,80,Recall1,2281,USM
 w10042654_kw,fish,fish,1,1,2,JOL,tuna,Study1,F,Study Phase,98,Recall1,2933,USM
 w10090906KM,fish,fish,1,1,2,JOL,tuna,Study1,F,Study Phase,90,Recall1,2032,USM
+w10098759_caa,fish,fish,1,1,2,JOL,tuna,Study1,F,Study Phase,100,Recall1,3916,USM
 w10128905_IAT,fish,fish,1,1,2,JOL,tuna,Study1,F,Study Phase,100,Recall1,1583,USM
 w10136452dns,fish,fish,1,1,2,JOL,tuna,Study1,F,Study Phase,100,Recall1,1659,USM
 w10150573_kaj,,fish,0,0,2,JOL,tuna,Study1,F,Study Phase,100,Recall1,3066,USM
@@ -443,6 +483,7 @@ w963035,fish,fish,1,1,2,JOL,tuna,Study1,F,Study Phase,100,Recall1,1665,USM
 w100152402_MKT,drive,charm,0.2,0,2,JOL,vehicle,Study1,U,Study Phase,20,Recall1,2509,USM
 w10042654_kw,,charm,0,0,2,JOL,vehicle,Study1,U,Study Phase,5,Recall1,7747,USM
 w10090906KM,car,charm,0.6,0,2,JOL,vehicle,Study1,U,Study Phase,10,Recall1,1797,USM
+w10098759_caa,car,charm,0.6,0,2,JOL,vehicle,Study1,U,Study Phase,0,Recall1,3199,USM
 w10128905_IAT,,charm,0,0,2,JOL,vehicle,Study1,U,Study Phase,15,Recall1,4171,USM
 w10136452dns,,charm,0,0,2,JOL,vehicle,Study1,U,Study Phase,0,Recall1,1544,USM
 w10150573_kaj,,charm,0,0,2,JOL,vehicle,Study1,U,Study Phase,0,Recall1,1571,USM
@@ -454,6 +495,7 @@ w963035,car,charm,0.6,0,2,JOL,vehicle,Study1,U,Study Phase,0,Recall1,1589,USM
 w100152402_MKT,dollar,money,0.166666667,0,2,JOL,wage,Study1,F,Study Phase,80,Recall1,1869,USM
 w10042654_kw,money,money,1,1,2,JOL,wage,Study1,F,Study Phase,70,Recall1,13567,USM
 w10090906KM,money,money,1,1,2,JOL,wage,Study1,F,Study Phase,80,Recall1,2294,USM
+w10098759_caa,money,money,1,1,2,JOL,wage,Study1,F,Study Phase,80,Recall1,2676,USM
 w10128905_IAT,money,money,1,1,2,JOL,wage,Study1,F,Study Phase,80,Recall1,2376,USM
 w10136452dns,money,money,1,1,2,JOL,wage,Study1,F,Study Phase,20,Recall1,3019,USM
 w10150573_kaj,money,money,1,1,2,JOL,wage,Study1,F,Study Phase,50,Recall1,2432,USM
@@ -465,6 +507,7 @@ w963035,money,money,1,1,2,JOL,wage,Study1,F,Study Phase,0,Recall1,3802,USM
 w100152402_MKT,quiet,quiet,1,1,2,JOL,war,Study1,M,Study Phase,10,Recall1,5455,USM
 w10042654_kw,calm,quiet,0,0,2,JOL,war,Study1,M,Study Phase,35,Recall1,4350,USM
 w10090906KM,battle,quiet,0.333333333,0,2,JOL,war,Study1,M,Study Phase,44,Recall1,30905,USM
+w10098759_caa,quiet,quiet,1,1,2,JOL,war,Study1,M,Study Phase,14,Recall1,4981,USM
 w10128905_IAT,quiet,quiet,1,1,2,JOL,war,Study1,M,Study Phase,45,Recall1,6096,USM
 w10136452dns,quiet,quiet,1,1,2,JOL,war,Study1,M,Study Phase,45,Recall1,3408,USM
 w10150573_kaj,quiet,quiet,1,1,2,JOL,war,Study1,M,Study Phase,0,Recall1,3105,USM
@@ -476,6 +519,7 @@ w963035,quiet,quiet,1,1,2,JOL,war,Study1,M,Study Phase,0,Recall1,3019,USM
 w100152402_MKT,party,finger,0.166666667,0,2,JOL,wedding,Study1,M,Study Phase,60,Recall1,5301,USM
 w10042654_kw,finger,finger,1,1,2,JOL,wedding,Study1,M,Study Phase,20,Recall1,5486,USM
 w10090906KM,cake,finger,0.166666667,0,2,JOL,wedding,Study1,M,Study Phase,90,Recall1,2114,USM
+w10098759_caa,ring,finger,0.666666667,0,2,JOL,wedding,Study1,M,Study Phase,80,Recall1,2605,USM
 w10128905_IAT,finger,finger,1,1,2,JOL,wedding,Study1,M,Study Phase,25,Recall1,4331,USM
 w10136452dns,ring,finger,0.666666667,0,2,JOL,wedding,Study1,M,Study Phase,100,Recall1,3073,USM
 w10150573_kaj,pie,finger,0.333333333,0,2,JOL,wedding,Study1,M,Study Phase,30,Recall1,5665,USM
@@ -487,6 +531,7 @@ w963035,cake,finger,0.166666667,0,2,JOL,wedding,Study1,M,Study Phase,0,Recall1,7
 w100152402_MKT,speak,sentence,0.25,0,2,JOL,word,Study1,F,Study Phase,90,Recall1,2513,USM
 w10042654_kw,,sentence,0,0,2,JOL,word,Study1,F,Study Phase,45,Recall1,7637,USM
 w10090906KM,cake,sentence,0.25,0,2,JOL,word,Study1,F,Study Phase,60,Recall1,3595,USM
+w10098759_caa,sentence,sentence,1,1,2,JOL,word,Study1,F,Study Phase,78,Recall1,7345,USM
 w10128905_IAT,sentence,sentence,1,1,2,JOL,word,Study1,F,Study Phase,80,Recall1,2977,USM
 w10136452dns,sentence,sentence,1,1,2,JOL,word,Study1,F,Study Phase,75,Recall1,5917,USM
 w10150573_kaj,sentence,sentence,1,1,2,JOL,word,Study1,F,Study Phase,100,Recall1,7492,USM
@@ -1218,6 +1263,7 @@ w952976AJH,bird,sentence,0,0,4,JOL,word,Study1,F,Study Phase2,100,Recall2,4295,U
 w100152402_MKT,read,wolf,0,0,2,JOL,art,Study2,U,Study Phase2,60,Recall2,2885,USM
 w10042654_kw,museum ,wolf,0,0,2,JOL,art,Study2,U,Study Phase2,10,Recall2,5155,USM
 w10090906KM,sculpture,wolf,0.111111111,0,2,JOL,art,Study2,U,Study Phase2,40,Recall2,7138,USM
+w10098759_caa,dolphin,wolf,0.285714286,0,2,JOL,art,Study2,U,Study Phase2,40,Recall2,41557,USM
 w10128905_IAT,show,wolf,0.5,0,2,JOL,art,Study2,U,Study Phase2,20,Recall2,3598,USM
 w10136452dns,lion,wolf,0.5,0,2,JOL,art,Study2,U,Study Phase2,80,Recall2,2715,USM
 w10150573_kaj,,wolf,0,0,2,JOL,art,Study2,U,Study Phase2,0,Recall2,1148,USM
@@ -1229,6 +1275,7 @@ w963035,work,wolf,0.5,0,2,JOL,art,Study2,U,Study Phase2,100,Recall2,3095,USM
 w100152402_MKT,vein,bronze,0.333333333,0,2,JOL,artery,Study2,U,Study Phase2,20,Recall2,4825,USM
 w10042654_kw,,bronze,0,0,2,JOL,artery,Study2,U,Study Phase2,10,Recall2,2321,USM
 w10090906KM,vein,bronze,0.333333333,0,2,JOL,artery,Study2,U,Study Phase2,15,Recall2,1678,USM
+w10098759_caa,bronze ,bronze,0.857142857,1,2,JOL,artery,Study2,U,Study Phase2,0,Recall2,5975,USM
 w10128905_IAT,,bronze,0,0,2,JOL,artery,Study2,U,Study Phase2,10,Recall2,1945,USM
 w10136452dns,blood,bronze,0.333333333,0,2,JOL,artery,Study2,U,Study Phase2,10,Recall2,3282,USM
 w10150573_kaj,,bronze,0,0,2,JOL,artery,Study2,U,Study Phase2,10,Recall2,1837,USM
@@ -1240,6 +1287,7 @@ w963035,lawyer,bronze,0.333333333,0,2,JOL,artery,Study2,U,Study Phase2,0,Recall2
 w100152402_MKT,clothes,clothes,1,1,2,JOL,attire,Study2,F,Study Phase2,80,Recall2,2306,USM
 w10042654_kw,clothes,clothes,1,1,2,JOL,attire,Study2,F,Study Phase2,15,Recall2,9060,USM
 w10090906KM,clothes,clothes,1,1,2,JOL,attire,Study2,F,Study Phase2,99,Recall2,1820,USM
+w10098759_caa,clothes,clothes,1,1,2,JOL,attire,Study2,F,Study Phase2,90,Recall2,2771,USM
 w10128905_IAT,clothes,clothes,1,1,2,JOL,attire,Study2,F,Study Phase2,60,Recall2,4299,USM
 w10136452dns,clothes,clothes,1,1,2,JOL,attire,Study2,F,Study Phase2,100,Recall2,2259,USM
 w10150573_kaj,,clothes,0,0,2,JOL,attire,Study2,F,Study Phase2,100,Recall2,2133,USM
@@ -1251,6 +1299,7 @@ w963035,clothes,clothes,1,1,2,JOL,attire,Study2,F,Study Phase2,0,Recall2,4025,US
 w100152402_MKT,sit,horn,0,0,2,JOL,bench,Study2,U,Study Phase2,20,Recall2,2336,USM
 w10042654_kw,box,horn,0.25,0,2,JOL,bench,Study2,U,Study Phase2,10,Recall2,8568,USM
 w10090906KM,press,horn,0.2,0,2,JOL,bench,Study2,U,Study Phase2,5,Recall2,2252,USM
+w10098759_caa,sit,horn,0,0,2,JOL,bench,Study2,U,Study Phase2,80,Recall2,479755,USM
 w10128905_IAT,warmer,horn,0.166666667,0,2,JOL,bench,Study2,U,Study Phase2,10,Recall2,3014,USM
 w10136452dns,,horn,0,0,2,JOL,bench,Study2,U,Study Phase2,20,Recall2,1851,USM
 w10150573_kaj,,horn,0,0,2,JOL,bench,Study2,U,Study Phase2,10,Recall2,1364,USM
@@ -1262,6 +1311,7 @@ w963035,mark,horn,0.25,0,2,JOL,bench,Study2,U,Study Phase2,100,Recall2,3080,USM
 w100152402_MKT,fire,fire,1,1,2,JOL,blaze,Study2,F,Study Phase2,80,Recall2,3099,USM
 w10042654_kw,fire,fire,1,1,2,JOL,blaze,Study2,F,Study Phase2,45,Recall2,3573,USM
 w10090906KM,fire,fire,1,1,2,JOL,blaze,Study2,F,Study Phase2,95,Recall2,8478,USM
+w10098759_caa,hot,fire,0,0,2,JOL,blaze,Study2,F,Study Phase2,70,Recall2,2030,USM
 w10128905_IAT,fire,fire,1,1,2,JOL,blaze,Study2,F,Study Phase2,75,Recall2,2135,USM
 w10136452dns,fire,fire,1,1,2,JOL,blaze,Study2,F,Study Phase2,100,Recall2,1829,USM
 w10150573_kaj,fire,fire,1,1,2,JOL,blaze,Study2,F,Study Phase2,100,Recall2,1272,USM
@@ -1273,6 +1323,7 @@ w963035,fire,fire,1,1,2,JOL,blaze,Study2,F,Study Phase2,100,Recall2,1778,USM
 w100152402_MKT,together,ounce,0.25,0,2,JOL,both,Study2,U,Study Phase2,50,Recall2,4610,USM
 w10042654_kw,two ,ounce,0.2,0,2,JOL,both,Study2,U,Study Phase2,5,Recall2,4967,USM
 w10090906KM,other,ounce,0.4,0,2,JOL,both,Study2,U,Study Phase2,10,Recall2,2464,USM
+w10098759_caa,pair,ounce,0,0,2,JOL,both,Study2,U,Study Phase2,10,Recall2,19566,USM
 w10128905_IAT,,ounce,0,0,2,JOL,both,Study2,U,Study Phase2,15,Recall2,2875,USM
 w10136452dns,,ounce,0,0,2,JOL,both,Study2,U,Study Phase2,20,Recall2,1756,USM
 w10150573_kaj,,ounce,0,0,2,JOL,both,Study2,U,Study Phase2,0,Recall2,1036,USM
@@ -1284,6 +1335,7 @@ w963035,same,ounce,0.2,0,2,JOL,both,Study2,U,Study Phase2,0,Recall2,2455,USM
 w100152402_MKT,gap,water,0.2,0,2,JOL,bridge,Study2,F,Study Phase2,80,Recall2,2305,USM
 w10042654_kw,water,water,1,1,2,JOL,bridge,Study2,F,Study Phase2,25,Recall2,3070,USM
 w10090906KM,water,water,1,1,2,JOL,bridge,Study2,F,Study Phase2,50,Recall2,2951,USM
+w10098759_caa,water,water,1,1,2,JOL,bridge,Study2,F,Study Phase2,100,Recall2,5540,USM
 w10128905_IAT,water,water,1,1,2,JOL,bridge,Study2,F,Study Phase2,50,Recall2,1654,USM
 w10136452dns,water,water,1,1,2,JOL,bridge,Study2,F,Study Phase2,100,Recall2,1847,USM
 w10150573_kaj,water,water,1,1,2,JOL,bridge,Study2,F,Study Phase2,100,Recall2,4846,USM
@@ -1295,6 +1347,7 @@ w963035,break,water,0.6,0,2,JOL,bridge,Study2,F,Study Phase2,100,Recall2,4362,US
 w100152402_MKT,plant,plant,1,1,2,JOL,cactus,Study2,F,Study Phase2,70,Recall2,2486,USM
 w10042654_kw,plant,plant,1,1,2,JOL,cactus,Study2,F,Study Phase2,40,Recall2,2937,USM
 w10090906KM,sharp,plant,0.4,0,2,JOL,cactus,Study2,F,Study Phase2,90,Recall2,19305,USM
+w10098759_caa,plant,plant,1,1,2,JOL,cactus,Study2,F,Study Phase2,100,Recall2,3093,USM
 w10128905_IAT,plant,plant,1,1,2,JOL,cactus,Study2,F,Study Phase2,70,Recall2,2045,USM
 w10136452dns,plant,plant,1,1,2,JOL,cactus,Study2,F,Study Phase2,100,Recall2,2939,USM
 w10150573_kaj,plant,plant,1,1,2,JOL,cactus,Study2,F,Study Phase2,100,Recall2,3958,USM
@@ -1306,6 +1359,7 @@ w963035,plant,plant,1,1,2,JOL,cactus,Study2,F,Study Phase2,0,Recall2,3994,USM
 w100152402_MKT,money,leg,0.2,0,2,JOL,cash,Study2,U,Study Phase2,30,Recall2,1774,USM
 w10042654_kw,money,leg,0.2,0,2,JOL,cash,Study2,U,Study Phase2,10,Recall2,2953,USM
 w10090906KM,money,leg,0.2,0,2,JOL,cash,Study2,U,Study Phase2,25,Recall2,2646,USM
+w10098759_caa,leg,leg,1,1,2,JOL,cash,Study2,U,Study Phase2,79,Recall2,12220,USM
 w10128905_IAT,leg,leg,1,1,2,JOL,cash,Study2,U,Study Phase2,20,Recall2,2478,USM
 w10136452dns,leg,leg,1,1,2,JOL,cash,Study2,U,Study Phase2,35,Recall2,2273,USM
 w10150573_kaj,,leg,0,0,2,JOL,cash,Study2,U,Study Phase2,20,Recall2,1592,USM
@@ -1317,6 +1371,7 @@ w963035,money,leg,0.2,0,2,JOL,cash,Study2,U,Study Phase2,0,Recall2,3132,USM
 w100152402_MKT,red,red,1,1,2,JOL,cherry,Study2,F,Study Phase2,90,Recall2,1482,USM
 w10042654_kw,red,red,1,1,2,JOL,cherry,Study2,F,Study Phase2,50,Recall2,4569,USM
 w10090906KM,pick,red,0,0,2,JOL,cherry,Study2,F,Study Phase2,90,Recall2,2179,USM
+w10098759_caa,red,red,1,1,2,JOL,cherry,Study2,F,Study Phase2,100,Recall2,2165,USM
 w10128905_IAT,red,red,1,1,2,JOL,cherry,Study2,F,Study Phase2,75,Recall2,1620,USM
 w10136452dns,red,red,1,1,2,JOL,cherry,Study2,F,Study Phase2,100,Recall2,1468,USM
 w10150573_kaj,red,red,1,1,2,JOL,cherry,Study2,F,Study Phase2,100,Recall2,1360,USM
@@ -1328,6 +1383,7 @@ w963035,red,red,1,1,2,JOL,cherry,Study2,F,Study Phase2,100,Recall2,1813,USM
 w100152402_MKT,out,cold,0.25,0,2,JOL,chill,Study2,F,Study Phase2,70,Recall2,1955,USM
 w10042654_kw,cold,cold,1,1,2,JOL,chill,Study2,F,Study Phase2,40,Recall2,4393,USM
 w10090906KM,cold,cold,1,1,2,JOL,chill,Study2,F,Study Phase2,65,Recall2,2620,USM
+w10098759_caa,ees,cold,0,0,2,JOL,chill,Study2,F,Study Phase2,100,Recall2,20757,USM
 w10128905_IAT,cold,cold,1,1,2,JOL,chill,Study2,F,Study Phase2,75,Recall2,4602,USM
 w10136452dns,cold,cold,1,1,2,JOL,chill,Study2,F,Study Phase2,100,Recall2,3986,USM
 w10150573_kaj,cold,cold,1,1,2,JOL,chill,Study2,F,Study Phase2,100,Recall2,1319,USM
@@ -1339,6 +1395,7 @@ w963035,cold,cold,1,1,2,JOL,chill,Study2,F,Study Phase2,100,Recall2,1552,USM
 w100152402_MKT,sharp,hammer,0.5,0,2,JOL,chisel,Study2,F,Study Phase2,50,Recall2,2236,USM
 w10042654_kw,hammer,hammer,1,1,2,JOL,chisel,Study2,F,Study Phase2,30,Recall2,3190,USM
 w10090906KM,cheek,hammer,0.333333333,0,2,JOL,chisel,Study2,F,Study Phase2,20,Recall2,2183,USM
+w10098759_caa,tool,hammer,0,0,2,JOL,chisel,Study2,F,Study Phase2,50,Recall2,3952,USM
 w10128905_IAT,hammer,hammer,1,1,2,JOL,chisel,Study2,F,Study Phase2,65,Recall2,1936,USM
 w10136452dns,tool,hammer,0,0,2,JOL,chisel,Study2,F,Study Phase2,40,Recall2,5263,USM
 w10150573_kaj,hammer,hammer,1,1,2,JOL,chisel,Study2,F,Study Phase2,10,Recall2,1543,USM
@@ -1350,6 +1407,7 @@ w963035,car,hammer,0.333333333,0,2,JOL,chisel,Study2,F,Study Phase2,0,Recall2,23
 w100152402_MKT,cut,cut,1,1,2,JOL,chop,Study2,F,Study Phase2,90,Recall2,3471,USM
 w10042654_kw,chip,cut,0.25,0,2,JOL,chop,Study2,F,Study Phase2,50,Recall2,13704,USM
 w10090906KM,,cut,0,0,2,JOL,chop,Study2,F,Study Phase2,85,Recall2,1350,USM
+w10098759_caa,sticks ,cut,0.285714286,0,2,JOL,chop,Study2,F,Study Phase2,100,Recall2,3260,USM
 w10128905_IAT,cut,cut,1,1,2,JOL,chop,Study2,F,Study Phase2,80,Recall2,2080,USM
 w10136452dns,cut,cut,1,1,2,JOL,chop,Study2,F,Study Phase2,100,Recall2,1504,USM
 w10150573_kaj,cut,cut,1,1,2,JOL,chop,Study2,F,Study Phase2,100,Recall2,1286,USM
@@ -1361,6 +1419,7 @@ w963035,cut,cut,1,1,2,JOL,chop,Study2,F,Study Phase2,100,Recall2,2906,USM
 w100152402_MKT,life,business,0.25,0,2,JOL,death,Study2,U,Study Phase2,30,Recall2,2355,USM
 w10042654_kw,life,business,0.25,0,2,JOL,death,Study2,U,Study Phase2,10,Recall2,5414,USM
 w10090906KM,dark,business,0,0,2,JOL,death,Study2,U,Study Phase2,10,Recall2,7187,USM
+w10098759_caa,casket,business,0.25,0,2,JOL,death,Study2,U,Study Phase2,50,Recall2,19751,USM
 w10128905_IAT,date,business,0.125,0,2,JOL,death,Study2,U,Study Phase2,35,Recall2,8161,USM
 w10136452dns,,business,0,0,2,JOL,death,Study2,U,Study Phase2,100,Recall2,3825,USM
 w10150573_kaj,,business,0,0,2,JOL,death,Study2,U,Study Phase2,30,Recall2,1264,USM
@@ -1372,6 +1431,7 @@ w963035,alive,business,0.25,0,2,JOL,death,Study2,U,Study Phase2,0,Recall2,3758,U
 w100152402_MKT,food,sack,0,0,2,JOL,dietary,Study2,U,Study Phase2,10,Recall2,1991,USM
 w10042654_kw,supplement ,sack,0.090909091,0,2,JOL,dietary,Study2,U,Study Phase2,5,Recall2,9623,USM
 w10090906KM,sack,sack,1,1,2,JOL,dietary,Study2,U,Study Phase2,10,Recall2,4357,USM
+w10098759_caa,bean,sack,0.25,0,2,JOL,dietary,Study2,U,Study Phase2,1,Recall2,5045,USM
 w10128905_IAT,,sack,0,0,2,JOL,dietary,Study2,U,Study Phase2,10,Recall2,3457,USM
 w10136452dns,plan,sack,0.25,0,2,JOL,dietary,Study2,U,Study Phase2,10,Recall2,5037,USM
 w10150573_kaj,,sack,0,0,2,JOL,dietary,Study2,U,Study Phase2,0,Recall2,3636,USM
@@ -1383,6 +1443,7 @@ w963035,eat,sack,0.25,0,2,JOL,dietary,Study2,U,Study Phase2,0,Recall2,3952,USM
 w100152402_MKT,read,paper,0.6,0,2,JOL,document,Study2,F,Study Phase2,80,Recall2,1777,USM
 w10042654_kw,paper,paper,1,1,2,JOL,document,Study2,F,Study Phase2,50,Recall2,2850,USM
 w10090906KM,paper,paper,1,1,2,JOL,document,Study2,F,Study Phase2,80,Recall2,2419,USM
+w10098759_caa,paper,paper,1,1,2,JOL,document,Study2,F,Study Phase2,100,Recall2,6075,USM
 w10128905_IAT,paper,paper,1,1,2,JOL,document,Study2,F,Study Phase2,65,Recall2,1827,USM
 w10136452dns,paper,paper,1,1,2,JOL,document,Study2,F,Study Phase2,100,Recall2,2381,USM
 w10150573_kaj,paper,paper,1,1,2,JOL,document,Study2,F,Study Phase2,10,Recall2,2207,USM
@@ -1394,6 +1455,7 @@ w963035,paper,paper,1,1,2,JOL,document,Study2,F,Study Phase2,1000,Recall2,1842,U
 w100152402_MKT,see,smell,0.4,0,2,JOL,eyes,Study2,M,Study Phase2,70,Recall2,1950,USM
 w10042654_kw,smell,smell,1,1,2,JOL,eyes,Study2,M,Study Phase2,10,Recall2,2885,USM
 w10090906KM,water,smell,0.2,0,2,JOL,eyes,Study2,M,Study Phase2,25,Recall2,3903,USM
+w10098759_caa,see,smell,0.4,0,2,JOL,eyes,Study2,M,Study Phase2,0,Recall2,4326,USM
 w10128905_IAT,smell,smell,1,1,2,JOL,eyes,Study2,M,Study Phase2,25,Recall2,2409,USM
 w10136452dns,nose,smell,0.4,0,2,JOL,eyes,Study2,M,Study Phase2,25,Recall2,6412,USM
 w10150573_kaj,smell,smell,1,1,2,JOL,eyes,Study2,M,Study Phase2,50,Recall2,2109,USM
@@ -1405,6 +1467,7 @@ w963035,smell,smell,1,1,2,JOL,eyes,Study2,M,Study Phase2,0,Recall2,4289,USM
 w100152402_MKT,family,fight,0.333333333,0,2,JOL,feud,Study2,F,Study Phase2,40,Recall2,2093,USM
 w10042654_kw,fight,fight,1,1,2,JOL,feud,Study2,F,Study Phase2,10,Recall2,4330,USM
 w10090906KM,family,fight,0.333333333,0,2,JOL,feud,Study2,F,Study Phase2,99,Recall2,4170,USM
+w10098759_caa,fight,fight,1,1,2,JOL,feud,Study2,F,Study Phase2,90,Recall2,4852,USM
 w10128905_IAT,fight,fight,1,1,2,JOL,feud,Study2,F,Study Phase2,85,Recall2,2406,USM
 w10136452dns,fight,fight,1,1,2,JOL,feud,Study2,F,Study Phase2,100,Recall2,2586,USM
 w10150573_kaj,fight,fight,1,1,2,JOL,feud,Study2,F,Study Phase2,100,Recall2,4169,USM
@@ -1416,6 +1479,7 @@ w963035,red,fight,0,0,2,JOL,feud,Study2,F,Study Phase2,0,Recall2,3032,USM
 w100152402_MKT,eat,thigh,0.2,0,2,JOL,grill,Study2,M,Study Phase2,30,Recall2,1857,USM
 w10042654_kw,food,thigh,0,0,2,JOL,grill,Study2,M,Study Phase2,10,Recall2,4545,USM
 w10090906KM,gas,thigh,0.2,0,2,JOL,grill,Study2,M,Study Phase2,30,Recall2,2562,USM
+w10098759_caa,thigh ,thigh,0.833333333,1,2,JOL,grill,Study2,M,Study Phase2,90,Recall2,6637,USM
 w10128905_IAT,thigh,thigh,1,1,2,JOL,grill,Study2,M,Study Phase2,10,Recall2,2036,USM
 w10136452dns,chicken,thigh,0.285714286,0,2,JOL,grill,Study2,M,Study Phase2,100,Recall2,2901,USM
 w10150573_kaj,basket,thigh,0.166666667,0,2,JOL,grill,Study2,M,Study Phase2,50,Recall2,4491,USM
@@ -1427,6 +1491,7 @@ w963035,fire,thigh,0.2,0,2,JOL,grill,Study2,M,Study Phase2,0,Recall2,2377,USM
 w100152402_MKT,mood,car,0,0,2,JOL,happy,Study2,U,Study Phase2,30,Recall2,3447,USM
 w10042654_kw,sad,car,0.333333333,0,2,JOL,happy,Study2,U,Study Phase2,20,Recall2,5579,USM
 w10090906KM,healthy,car,0.142857143,0,2,JOL,happy,Study2,U,Study Phase2,10,Recall2,2454,USM
+w10098759_caa,smile ,car,0,0,2,JOL,happy,Study2,U,Study Phase2,100,Recall2,4683,USM
 w10128905_IAT,car,car,1,1,2,JOL,happy,Study2,U,Study Phase2,15,Recall2,2722,USM
 w10136452dns,car,car,1,1,2,JOL,happy,Study2,U,Study Phase2,100,Recall2,2258,USM
 w10150573_kaj,car,car,1,1,2,JOL,happy,Study2,U,Study Phase2,70,Recall2,3996,USM
@@ -1438,6 +1503,7 @@ w963035,child,car,0.2,0,2,JOL,happy,Study2,U,Study Phase2,0,Recall2,4983,USM
 w100152402_MKT,eyes,feather,0.285714286,0,2,JOL,heavy,Study2,M,Study Phase2,40,Recall2,2024,USM
 w10042654_kw,feather,feather,1,1,2,JOL,heavy,Study2,M,Study Phase2,15,Recall2,3433,USM
 w10090906KM,duty,feather,0.142857143,0,2,JOL,heavy,Study2,M,Study Phase2,75,Recall2,5404,USM
+w10098759_caa,lift,feather,0.285714286,0,2,JOL,heavy,Study2,M,Study Phase2,40,Recall2,167114,USM
 w10128905_IAT,feather,feather,1,1,2,JOL,heavy,Study2,M,Study Phase2,70,Recall2,3094,USM
 w10136452dns,feather,feather,1,1,2,JOL,heavy,Study2,M,Study Phase2,100,Recall2,3102,USM
 w10150573_kaj,,feather,0,0,2,JOL,heavy,Study2,M,Study Phase2,50,Recall2,2223,USM
@@ -1449,6 +1515,7 @@ w963035,light,feather,0.285714286,0,2,JOL,heavy,Study2,M,Study Phase2,100,Recall
 w100152402_MKT,flock,cow,0.4,0,2,JOL,herd,Study2,F,Study Phase2,90,Recall2,5458,USM
 w10042654_kw,cow,cow,1,1,2,JOL,herd,Study2,F,Study Phase2,90,Recall2,2768,USM
 w10090906KM,cow,cow,1,1,2,JOL,herd,Study2,F,Study Phase2,80,Recall2,4837,USM
+w10098759_caa,cow,cow,1,1,2,JOL,herd,Study2,F,Study Phase2,100,Recall2,4463,USM
 w10128905_IAT,cow,cow,1,1,2,JOL,herd,Study2,F,Study Phase2,75,Recall2,2564,USM
 w10136452dns,cow,cow,1,1,2,JOL,herd,Study2,F,Study Phase2,50,Recall2,2425,USM
 w10150573_kaj,cow,cow,1,1,2,JOL,herd,Study2,F,Study Phase2,90,Recall2,1326,USM
@@ -1460,6 +1527,7 @@ w963035,cow,cow,1,1,2,JOL,herd,Study2,F,Study Phase2,0,Recall2,2752,USM
 w100152402_MKT,bug,sting,0.2,0,2,JOL,hornet,Study2,F,Study Phase2,70,Recall2,1276,USM
 w10042654_kw,sting,sting,1,1,2,JOL,hornet,Study2,F,Study Phase2,89,Recall2,2865,USM
 w10090906KM,sting,sting,1,1,2,JOL,hornet,Study2,F,Study Phase2,99,Recall2,3917,USM
+w10098759_caa,sting,sting,1,1,2,JOL,hornet,Study2,F,Study Phase2,100,Recall2,2320,USM
 w10128905_IAT,sting,sting,1,1,2,JOL,hornet,Study2,F,Study Phase2,80,Recall2,1882,USM
 w10136452dns,sting,sting,1,1,2,JOL,hornet,Study2,F,Study Phase2,100,Recall2,2007,USM
 w10150573_kaj,sting,sting,1,1,2,JOL,hornet,Study2,F,Study Phase2,100,Recall2,1595,USM
@@ -1471,6 +1539,7 @@ w963035,sting,sting,1,1,2,JOL,hornet,Study2,F,Study Phase2,0,Recall2,5020,USM
 w100152402_MKT,smell,smell,1,1,2,JOL,incense,Study2,F,Study Phase2,90,Recall2,1765,USM
 w10042654_kw,smell,smell,1,1,2,JOL,incense,Study2,F,Study Phase2,30,Recall2,4187,USM
 w10090906KM,smell,smell,1,1,2,JOL,incense,Study2,F,Study Phase2,90,Recall2,3486,USM
+w10098759_caa,sage,smell,0.4,0,2,JOL,incense,Study2,F,Study Phase2,100,Recall2,6938,USM
 w10128905_IAT,smells,smell,0.833333333,1,2,JOL,incense,Study2,F,Study Phase2,45,Recall2,4980,USM
 w10136452dns,scent,smell,0.4,0,2,JOL,incense,Study2,F,Study Phase2,100,Recall2,4012,USM
 w10150573_kaj,smell,smell,1,1,2,JOL,incense,Study2,F,Study Phase2,90,Recall2,1628,USM
@@ -1482,6 +1551,7 @@ w963035,kids,smell,0.2,0,2,JOL,incense,Study2,F,Study Phase2,0,Recall2,17986,USM
 w100152402_MKT,royal,vase,0.2,0,2,JOL,king,Study2,U,Study Phase2,230,Recall2,3538,USM
 w10042654_kw,kong,vase,0,0,2,JOL,king,Study2,U,Study Phase2,10,Recall2,3378,USM
 w10090906KM,cake,vase,0.5,0,2,JOL,king,Study2,U,Study Phase2,30,Recall2,3022,USM
+w10098759_caa,art,vase,0.25,0,2,JOL,king,Study2,U,Study Phase2,0,Recall2,5756,USM
 w10128905_IAT,sofa,vase,0.5,0,2,JOL,king,Study2,U,Study Phase2,15,Recall2,8068,USM
 w10136452dns,,vase,0,0,2,JOL,king,Study2,U,Study Phase2,15,Recall2,2801,USM
 w10150573_kaj,size,vase,0.5,0,2,JOL,king,Study2,U,Study Phase2,0,Recall2,6009,USM
@@ -1493,6 +1563,7 @@ w963035,queen,vase,0.2,0,2,JOL,king,Study2,U,Study Phase2,0,Recall2,3196,USM
 w100152402_MKT,baseball,baseball,1,1,2,JOL,league,Study2,F,Study Phase2,80,Recall2,2521,USM
 w10042654_kw,late,baseball,0.375,0,2,JOL,league,Study2,F,Study Phase2,10,Recall2,3474,USM
 w10090906KM,baseball,baseball,1,1,2,JOL,league,Study2,F,Study Phase2,70,Recall2,3645,USM
+w10098759_caa,baseball,baseball,1,1,2,JOL,league,Study2,F,Study Phase2,100,Recall2,2533,USM
 w10128905_IAT,baseball,baseball,1,1,2,JOL,league,Study2,F,Study Phase2,80,Recall2,2605,USM
 w10136452dns,baseball,baseball,1,1,2,JOL,league,Study2,F,Study Phase2,100,Recall2,3300,USM
 w10150573_kaj,baseball,baseball,1,1,2,JOL,league,Study2,F,Study Phase2,100,Recall2,4245,USM
@@ -1504,6 +1575,7 @@ w963035,baseball,baseball,1,1,2,JOL,league,Study2,F,Study Phase2,0,Recall2,3530,
 w100152402_MKT,money,toil,0.2,0,2,JOL,lease,Study2,U,Study Phase2,10,Recall2,6930,USM
 w10042654_kw,,toil,0,0,2,JOL,lease,Study2,U,Study Phase2,10,Recall2,4804,USM
 w10090906KM,,toil,0,0,2,JOL,lease,Study2,U,Study Phase2,5,Recall2,2651,USM
+w10098759_caa,money,toil,0.2,0,2,JOL,lease,Study2,U,Study Phase2,0,Recall2,6767,USM
 w10128905_IAT,,toil,0,0,2,JOL,lease,Study2,U,Study Phase2,15,Recall2,3378,USM
 w10136452dns,rent,toil,0.25,0,2,JOL,lease,Study2,U,Study Phase2,0,Recall2,2166,USM
 w10150573_kaj,,toil,0,0,2,JOL,lease,Study2,U,Study Phase2,0,Recall2,1466,USM
@@ -1515,6 +1587,7 @@ w963035,car,toil,0,0,2,JOL,lease,Study2,U,Study Phase2,0,Recall2,3173,USM
 w100152402_MKT,maroon,children,0.25,0,2,JOL,mirror,Study2,U,Study Phase2,40,Recall2,2885,USM
 w10042654_kw,children,children,1,1,2,JOL,mirror,Study2,U,Study Phase2,20,Recall2,5227,USM
 w10090906KM,children,children,1,1,2,JOL,mirror,Study2,U,Study Phase2,30,Recall2,6612,USM
+w10098759_caa,brocken,children,0.5,0,2,JOL,mirror,Study2,U,Study Phase2,7,Recall2,14254,USM
 w10128905_IAT,maroon,children,0.25,0,2,JOL,mirror,Study2,U,Study Phase2,20,Recall2,2169,USM
 w10136452dns,children,children,1,1,2,JOL,mirror,Study2,U,Study Phase2,10,Recall2,2758,USM
 w10150573_kaj,children,children,1,1,2,JOL,mirror,Study2,U,Study Phase2,0,Recall2,4864,USM
@@ -1526,6 +1599,7 @@ w963035,child,children,0.625,0,2,JOL,mirror,Study2,U,Study Phase2,100,Recall2,21
 w100152402_MKT,care,lawyer,0.5,0,2,JOL,nurse,Study2,M,Study Phase2,60,Recall2,6037,USM
 w10042654_kw,lawyer,lawyer,1,1,2,JOL,nurse,Study2,M,Study Phase2,30,Recall2,3616,USM
 w10090906KM,lawyer,lawyer,1,1,2,JOL,nurse,Study2,M,Study Phase2,40,Recall2,3213,USM
+w10098759_caa,hospital ,lawyer,0.222222222,0,2,JOL,nurse,Study2,M,Study Phase2,60,Recall2,7408,USM
 w10128905_IAT,lawyer,lawyer,1,1,2,JOL,nurse,Study2,M,Study Phase2,50,Recall2,3279,USM
 w10136452dns,lawyer,lawyer,1,1,2,JOL,nurse,Study2,M,Study Phase2,75,Recall2,8042,USM
 w10150573_kaj,lawyer,lawyer,1,1,2,JOL,nurse,Study2,M,Study Phase2,50,Recall2,2329,USM
@@ -1537,6 +1611,7 @@ w963035,doctor,lawyer,0.166666667,0,2,JOL,nurse,Study2,M,Study Phase2,0,Recall2,
 w100152402_MKT,cook,basket,0.166666667,0,2,JOL,oven,Study2,M,Study Phase2,40,Recall2,1909,USM
 w10042654_kw,bake,basket,0.666666667,0,2,JOL,oven,Study2,M,Study Phase2,15,Recall2,4455,USM
 w10090906KM,stove,basket,0.5,0,2,JOL,oven,Study2,M,Study Phase2,25,Recall2,2540,USM
+w10098759_caa,cook,basket,0.166666667,0,2,JOL,oven,Study2,M,Study Phase2,67,Recall2,3243,USM
 w10128905_IAT,basket,basket,1,1,2,JOL,oven,Study2,M,Study Phase2,15,Recall2,2758,USM
 w10136452dns,bake,basket,0.666666667,0,2,JOL,oven,Study2,M,Study Phase2,100,Recall2,2012,USM
 w10150573_kaj,,basket,0,0,2,JOL,oven,Study2,M,Study Phase2,0,Recall2,3562,USM
@@ -1548,6 +1623,7 @@ w963035,bake,basket,0.666666667,0,2,JOL,oven,Study2,M,Study Phase2,0,Recall2,325
 w100152402_MKT,clothes,collar,0.428571429,0,2,JOL,pants,Study2,M,Study Phase2,20,Recall2,2626,USM
 w10042654_kw,clothes ,collar,0.375,0,2,JOL,pants,Study2,M,Study Phase2,20,Recall2,8518,USM
 w10090906KM,shirt,collar,0.166666667,0,2,JOL,pants,Study2,M,Study Phase2,5,Recall2,2261,USM
+w10098759_caa,collar,collar,1,1,2,JOL,pants,Study2,M,Study Phase2,80,Recall2,9664,USM
 w10128905_IAT,collar,collar,1,1,2,JOL,pants,Study2,M,Study Phase2,30,Recall2,2573,USM
 w10136452dns,collar,collar,1,1,2,JOL,pants,Study2,M,Study Phase2,20,Recall2,3019,USM
 w10150573_kaj,collar,collar,1,1,2,JOL,pants,Study2,M,Study Phase2,100,Recall2,1898,USM
@@ -1559,6 +1635,7 @@ w963035,collar,collar,1,1,2,JOL,pants,Study2,M,Study Phase2,0,Recall2,2940,USM
 w100152402_MKT,pull,clutter,0.285714286,0,2,JOL,push,Study2,U,Study Phase2,49,Recall2,2291,USM
 w10042654_kw,past,clutter,0.142857143,0,2,JOL,push,Study2,U,Study Phase2,5,Recall2,7903,USM
 w10090906KM,pull,clutter,0.285714286,0,2,JOL,push,Study2,U,Study Phase2,10,Recall2,2794,USM
+w10098759_caa,pull,clutter,0.285714286,0,2,JOL,push,Study2,U,Study Phase2,0,Recall2,4047,USM
 w10128905_IAT,pull,clutter,0.285714286,0,2,JOL,push,Study2,U,Study Phase2,10,Recall2,3027,USM
 w10136452dns,button,clutter,0.428571429,0,2,JOL,push,Study2,U,Study Phase2,40,Recall2,4997,USM
 w10150573_kaj,,clutter,0,0,2,JOL,push,Study2,U,Study Phase2,10,Recall2,2115,USM
@@ -1570,6 +1647,7 @@ w963035,pull,clutter,0.285714286,0,2,JOL,push,Study2,U,Study Phase2,0,Recall2,74
 w100152402_MKT,string,seed,0.166666667,0,2,JOL,rake,Study2,M,Study Phase2,70,Recall2,5487,USM
 w10042654_kw,bake,seed,0.25,0,2,JOL,rake,Study2,M,Study Phase2,10,Recall2,3720,USM
 w10090906KM,leaves,seed,0.5,0,2,JOL,rake,Study2,M,Study Phase2,15,Recall2,2027,USM
+w10098759_caa,tool,seed,0,0,2,JOL,rake,Study2,M,Study Phase2,30,Recall2,4310,USM
 w10128905_IAT,seed,seed,1,1,2,JOL,rake,Study2,M,Study Phase2,25,Recall2,1786,USM
 w10136452dns,seeds,seed,0.8,1,2,JOL,rake,Study2,M,Study Phase2,50,Recall2,2280,USM
 w10150573_kaj,seeds,seed,0.8,1,2,JOL,rake,Study2,M,Study Phase2,50,Recall2,4607,USM
@@ -1581,6 +1659,7 @@ w963035,leafs,seed,0.4,0,2,JOL,rake,Study2,M,Study Phase2,0,Recall2,2311,USM
 w100152402_MKT,trim,muscle,0.166666667,0,2,JOL,razor,Study2,M,Study Phase2,39,Recall2,2671,USM
 w10042654_kw,burn,muscle,0.166666667,0,2,JOL,razor,Study2,M,Study Phase2,5,Recall2,3640,USM
 w10090906KM,sharp,muscle,0.166666667,0,2,JOL,razor,Study2,M,Study Phase2,10,Recall2,3330,USM
+w10098759_caa,muscle ,muscle,0.857142857,1,2,JOL,razor,Study2,M,Study Phase2,0,Recall2,7195,USM
 w10128905_IAT,sharp,muscle,0.166666667,0,2,JOL,razor,Study2,M,Study Phase2,10,Recall2,2413,USM
 w10136452dns,cut,muscle,0.333333333,0,2,JOL,razor,Study2,M,Study Phase2,20,Recall2,1864,USM
 w10150573_kaj,,muscle,0,0,2,JOL,razor,Study2,M,Study Phase2,0,Recall2,2313,USM
@@ -1592,6 +1671,7 @@ w963035,blade,muscle,0.333333333,0,2,JOL,razor,Study2,M,Study Phase2,0,Recall2,3
 w100152402_MKT,life,island,0.333333333,0,2,JOL,reality,Study2,M,Study Phase2,70,Recall2,7088,USM
 w10042654_kw,,island,0,0,2,JOL,reality,Study2,M,Study Phase2,30,Recall2,12824,USM
 w10090906KM,water,island,0.166666667,0,2,JOL,reality,Study2,M,Study Phase2,5,Recall2,5845,USM
+w10098759_caa,island,island,1,1,2,JOL,reality,Study2,M,Study Phase2,50,Recall2,5760,USM
 w10128905_IAT,island,island,1,1,2,JOL,reality,Study2,M,Study Phase2,30,Recall2,3562,USM
 w10136452dns,check,island,0,0,2,JOL,reality,Study2,M,Study Phase2,100,Recall2,5828,USM
 w10150573_kaj,,island,0,0,2,JOL,reality,Study2,M,Study Phase2,400,Recall2,4356,USM
@@ -1603,6 +1683,7 @@ w963035,fake,island,0.166666667,0,2,JOL,reality,Study2,M,Study Phase2,0,Recall2,
 w100152402_MKT,days,stop,0.25,0,2,JOL,school,Study2,M,Study Phase2,30,Recall2,2165,USM
 w10042654_kw,bus,stop,0.25,0,2,JOL,school,Study2,M,Study Phase2,45,Recall2,2941,USM
 w10090906KM,stop,stop,1,1,2,JOL,school,Study2,M,Study Phase2,70,Recall2,2998,USM
+w10098759_caa,bus,stop,0.25,0,2,JOL,school,Study2,M,Study Phase2,60,Recall2,3911,USM
 w10128905_IAT,stop,stop,1,1,2,JOL,school,Study2,M,Study Phase2,20,Recall2,4769,USM
 w10136452dns,waste,stop,0.4,0,2,JOL,school,Study2,M,Study Phase2,100,Recall2,5863,USM
 w10150573_kaj,,stop,0,0,2,JOL,school,Study2,M,Study Phase2,40,Recall2,2934,USM
@@ -1614,6 +1695,7 @@ w963035,child,stop,0,0,2,JOL,school,Study2,M,Study Phase2,100,Recall2,3256,USM
 w100152402_MKT,healthy,hide,0.285714286,0,2,JOL,sick,Study2,U,Study Phase2,60,Recall2,7443,USM
 w10042654_kw,sock,hide,0,0,2,JOL,sick,Study2,U,Study Phase2,3,Recall2,3445,USM
 w10090906KM,,hide,0,0,2,JOL,sick,Study2,U,Study Phase2,20,Recall2,2970,USM
+w10098759_caa,hide,hide,1,1,2,JOL,sick,Study2,U,Study Phase2,80,Recall2,2671,USM
 w10128905_IAT,hand,hide,0.5,0,2,JOL,sick,Study2,U,Study Phase2,10,Recall2,8847,USM
 w10136452dns,cold,hide,0.25,0,2,JOL,sick,Study2,U,Study Phase2,25,Recall2,6783,USM
 w10150573_kaj,,hide,0,0,2,JOL,sick,Study2,U,Study Phase2,10,Recall2,1071,USM
@@ -1625,6 +1707,7 @@ w963035,cold,hide,0.25,0,2,JOL,sick,Study2,U,Study Phase2,0,Recall2,1974,USM
 w100152402_MKT,wash,drink,0,0,2,JOL,soap,Study2,M,Study Phase2,70,Recall2,2207,USM
 w10042654_kw,smel,drink,0,0,2,JOL,soap,Study2,M,Study Phase2,10,Recall2,6103,USM
 w10090906KM,clean,drink,0.2,0,2,JOL,soap,Study2,M,Study Phase2,10,Recall2,2516,USM
+w10098759_caa,clean,drink,0.2,0,2,JOL,soap,Study2,M,Study Phase2,10,Recall2,14513,USM
 w10128905_IAT,soda,drink,0.2,0,2,JOL,soap,Study2,M,Study Phase2,45,Recall2,4340,USM
 w10136452dns,drink,drink,1,1,2,JOL,soap,Study2,M,Study Phase2,40,Recall2,2919,USM
 w10150573_kaj,clean,drink,0.2,0,2,JOL,soap,Study2,M,Study Phase2,0,Recall2,3803,USM
@@ -1636,6 +1719,7 @@ w963035,bar,drink,0.2,0,2,JOL,soap,Study2,M,Study Phase2,0,Recall2,2202,USM
 w100152402_MKT,arm,accident,0.125,0,2,JOL,strong,Study2,U,Study Phase2,30,Recall2,2272,USM
 w10042654_kw,weak,accident,0.25,0,2,JOL,strong,Study2,U,Study Phase2,45,Recall2,4428,USM
 w10090906KM,,accident,0,0,2,JOL,strong,Study2,U,Study Phase2,60,Recall2,8573,USM
+w10098759_caa,uncle,accident,0.375,0,2,JOL,strong,Study2,U,Study Phase2,10,Recall2,70636,USM
 w10128905_IAT,,accident,0,0,2,JOL,strong,Study2,U,Study Phase2,40,Recall2,5904,USM
 w10136452dns,weak,accident,0.25,0,2,JOL,strong,Study2,U,Study Phase2,100,Recall2,3772,USM
 w10150573_kaj,,accident,0,0,2,JOL,strong,Study2,U,Study Phase2,30,Recall2,2162,USM
@@ -1647,6 +1731,7 @@ w963035,weak,accident,0.25,0,2,JOL,strong,Study2,U,Study Phase2,0,Recall2,2451,U
 w100152402_MKT,eat,riddle,0.166666667,0,2,JOL,sugar,Study2,U,Study Phase2,10,Recall2,2251,USM
 w10042654_kw,sweet,riddle,0.166666667,0,2,JOL,sugar,Study2,U,Study Phase2,5,Recall2,11591,USM
 w10090906KM,salt,riddle,0.166666667,0,2,JOL,sugar,Study2,U,Study Phase2,10,Recall2,2865,USM
+w10098759_caa,dessert ,riddle,0.375,0,2,JOL,sugar,Study2,U,Study Phase2,36,Recall2,12096,USM
 w10128905_IAT,water,riddle,0.333333333,0,2,JOL,sugar,Study2,U,Study Phase2,10,Recall2,3413,USM
 w10136452dns,,riddle,0,0,2,JOL,sugar,Study2,U,Study Phase2,20,Recall2,2493,USM
 w10150573_kaj,,riddle,0,0,2,JOL,sugar,Study2,U,Study Phase2,10,Recall2,1117,USM
@@ -1658,6 +1743,7 @@ w963035,salt,riddle,0.166666667,0,2,JOL,sugar,Study2,U,Study Phase2,0,Recall2,32
 w100152402_MKT,swim,snow,0.5,0,2,JOL,summer,Study2,M,Study Phase2,70,Recall2,2300,USM
 w10042654_kw,winter,snow,0.333333333,0,2,JOL,summer,Study2,M,Study Phase2,55,Recall2,7269,USM
 w10090906KM,spring,snow,0.333333333,0,2,JOL,summer,Study2,M,Study Phase2,90,Recall2,2387,USM
+w10098759_caa,hot,snow,0.25,0,2,JOL,summer,Study2,M,Study Phase2,70,Recall2,1885,USM
 w10128905_IAT,season,snow,0.5,0,2,JOL,summer,Study2,M,Study Phase2,75,Recall2,13542,USM
 w10136452dns,winter,snow,0.333333333,0,2,JOL,summer,Study2,M,Study Phase2,100,Recall2,4512,USM
 w10150573_kaj,,snow,0,0,2,JOL,summer,Study2,M,Study Phase2,10,Recall2,2240,USM
@@ -1669,6 +1755,7 @@ w963035,winter,snow,0.333333333,0,2,JOL,summer,Study2,M,Study Phase2,100,Recall2
 w100152402_MKT,dog,cave,0,0,2,JOL,trap,Study2,M,Study Phase2,70,Recall2,2228,USM
 w10042654_kw,treat,cave,0.4,0,2,JOL,trap,Study2,M,Study Phase2,20,Recall2,13087,USM
 w10090906KM,bug,cave,0,0,2,JOL,trap,Study2,M,Study Phase2,90,Recall2,3281,USM
+w10098759_caa,cave,cave,1,1,2,JOL,trap,Study2,M,Study Phase2,80,Recall2,5383,USM
 w10128905_IAT,music,cave,0.2,0,2,JOL,trap,Study2,M,Study Phase2,20,Recall2,2859,USM
 w10136452dns,,cave,0,0,2,JOL,trap,Study2,M,Study Phase2,30,Recall2,1192,USM
 w10150573_kaj,cave,cave,1,1,2,JOL,trap,Study2,M,Study Phase2,10,Recall2,3188,USM
@@ -1680,6 +1767,7 @@ w963035,rat,cave,0.25,0,2,JOL,trap,Study2,M,Study Phase2,0,Recall2,3892,USM
 w100152402_MKT,peak,peak,1,1,2,JOL,valley,Study2,M,Study Phase2,70,Recall2,2906,USM
 w10042654_kw,ridge,peak,0.2,0,2,JOL,valley,Study2,M,Study Phase2,40,Recall2,3474,USM
 w10090906KM,dip,peak,0.25,0,2,JOL,valley,Study2,M,Study Phase2,85,Recall2,2114,USM
+w10098759_caa,peak,peak,1,1,2,JOL,valley,Study2,M,Study Phase2,80,Recall2,2637,USM
 w10128905_IAT,river,peak,0.2,0,2,JOL,valley,Study2,M,Study Phase2,80,Recall2,11808,USM
 w10136452dns,peak,peak,1,1,2,JOL,valley,Study2,M,Study Phase2,10,Recall2,2508,USM
 w10150573_kaj,,peak,0,0,2,JOL,valley,Study2,M,Study Phase2,100,Recall2,993,USM
@@ -1691,6 +1779,7 @@ w963035,high,peak,0,0,2,JOL,valley,Study2,M,Study Phase2,0,Recall2,4271,USM
 w100152402_MKT,bug,bug,1,1,2,JOL,wasp,Study2,F,Study Phase2,80,Recall2,2068,USM
 w10042654_kw,sting,bug,0.2,0,2,JOL,wasp,Study2,F,Study Phase2,45,Recall2,6025,USM
 w10090906KM,sting,bug,0.2,0,2,JOL,wasp,Study2,F,Study Phase2,90,Recall2,2308,USM
+w10098759_caa,bug,bug,1,1,2,JOL,wasp,Study2,F,Study Phase2,100,Recall2,4209,USM
 w10128905_IAT,sting,bug,0.2,0,2,JOL,wasp,Study2,F,Study Phase2,85,Recall2,2324,USM
 w10136452dns,bug,bug,1,1,2,JOL,wasp,Study2,F,Study Phase2,100,Recall2,2295,USM
 w10150573_kaj,bug,bug,1,1,2,JOL,wasp,Study2,F,Study Phase2,100,Recall2,5928,USM
@@ -1702,6 +1791,7 @@ w963035,sting,bug,0.2,0,2,JOL,wasp,Study2,F,Study Phase2,100,Recall2,3228,USM
 w100152402_MKT,open,knob,0.5,0,2,JOL,window,Study2,M,Study Phase2,80,Recall2,1887,USM
 w10042654_kw,knob,knob,1,1,2,JOL,window,Study2,M,Study Phase2,15,Recall2,4073,USM
 w10090906KM,ceiling,knob,0.142857143,0,2,JOL,window,Study2,M,Study Phase2,2,Recall2,6858,USM
+w10098759_caa,knob,knob,1,1,2,JOL,window,Study2,M,Study Phase2,60,Recall2,5688,USM
 w10128905_IAT,knob,knob,1,1,2,JOL,window,Study2,M,Study Phase2,30,Recall2,2772,USM
 w10136452dns,,knob,0,0,2,JOL,window,Study2,M,Study Phase2,50,Recall2,2285,USM
 w10150573_kaj,,knob,0,0,2,JOL,window,Study2,M,Study Phase2,50,Recall2,3238,USM

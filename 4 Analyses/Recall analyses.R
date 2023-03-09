@@ -110,7 +110,7 @@ temp$statistic #sig!
 temp = t.test(jol.ph$M, read.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #Marginal (most likely a power thing...) #.074
+temp$statistic #Marginal (most likely a power thing...) #.069
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #unrelated

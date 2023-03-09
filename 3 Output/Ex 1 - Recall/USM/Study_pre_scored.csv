@@ -8,6 +8,7 @@
 "w10101381_mgk","?","love",1,"Read","affection","Study1","F","Study Phase","Recall1",13288
 "w10128215_bnc","","love",1,"Read","affection","Study1","F","Study Phase","Recall1",4169
 "w10133134_lpc","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",2951
+"w10143398_abc","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",4386
 "w10157282_HBR","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",2939
 "10143815SK","","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",2145
 "w10046339_pw","bounce","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",2561
@@ -18,6 +19,7 @@
 "w10101381_mgk","bounce","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",9126
 "w10128215_bnc","balloon","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",8695
 "w10133134_lpc","butter","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",5861
+"w10143398_abc","bottom","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",10660
 "w10157282_HBR","ball","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",14944
 "10143815SK","","box",1,"Read","beach","Study1","M","Study Phase","Recall1",1553
 "w10046339_pw","box","box",1,"Read","beach","Study1","M","Study Phase","Recall1",8550
@@ -28,6 +30,7 @@
 "w10101381_mgk","?","box",1,"Read","beach","Study1","M","Study Phase","Recall1",2642
 "w10128215_bnc","lay","box",1,"Read","beach","Study1","M","Study Phase","Recall1",2878
 "w10133134_lpc","box","box",1,"Read","beach","Study1","M","Study Phase","Recall1",3839
+"w10143398_abc","idk","box",1,"Read","beach","Study1","M","Study Phase","Recall1",2314
 "w10157282_HBR","sand","box",1,"Read","beach","Study1","M","Study Phase","Recall1",5816
 "10143815SK","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",2460
 "w10046339_pw","cake","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",1719
@@ -38,6 +41,7 @@
 "w10101381_mgk","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",2620
 "w10128215_bnc","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",1696
 "w10133134_lpc","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",3149
+"w10143398_abc","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",2441
 "w10157282_HBR","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",2830
 "10143815SK","birthday","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",10627
 "w10046339_pw","hand","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",3402
@@ -48,6 +52,7 @@
 "w10101381_mgk","hand","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",4334
 "w10128215_bnc","","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",5074
 "w10133134_lpc","pie","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",9292
+"w10143398_abc","idk","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",3198
 "w10157282_HBR","plate","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",9320
 "10143815SK","","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",2063
 "w10046339_pw","carpet","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",2914
@@ -58,6 +63,7 @@
 "w10101381_mgk","rug?","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",10988
 "w10128215_bnc","fan","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",1918
 "w10133134_lpc","sky","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",8396
+"w10143398_abc","floor","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",3197
 "w10157282_HBR","roof","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",4907
 "10143815SK","root","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",56796
 "w10046339_pw","dance","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",3644
@@ -68,6 +74,7 @@
 "w10101381_mgk","?","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",2211
 "w10128215_bnc","shape","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",3558
 "w10133134_lpc","frank","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",9367
+"w10143398_abc","idk","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",2474
 "w10157282_HBR","round","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",2510
 "10143815SK","","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",1307
 "w10046339_pw","election","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",10912
@@ -78,6 +85,7 @@
 "w10101381_mgk","?","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",7234
 "w10128215_bnc","pop","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",2278
 "w10133134_lpc","pop","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",3092
+"w10143398_abc","idk","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",2351
 "w10157282_HBR","pop","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",2910
 "10143815SK","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",2974
 "w10046339_pw","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",1889
@@ -88,6 +96,7 @@
 "w10101381_mgk","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",2164
 "w10128215_bnc","money","card",1,"Read","credit","Study1","F","Study Phase","Recall1",7213
 "w10133134_lpc","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",3592
+"w10143398_abc","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",3070
 "w10157282_HBR","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",9280
 "10143815SK","","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",3684
 "w10046339_pw","bottle","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",2977
@@ -98,6 +107,7 @@
 "w10101381_mgk","?","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",12976
 "w10128215_bnc","sad","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",3036
 "w10133134_lpc","happy","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",3983
+"w10143398_abc","bottle","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",3880
 "w10157282_HBR","sad","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",4922
 "10143815SK","night","dark",1,"Read","day","Study1","M","Study Phase","Recall1",3343
 "w10046339_pw","dark","dark",1,"Read","day","Study1","M","Study Phase","Recall1",3420
@@ -108,6 +118,7 @@
 "w10101381_mgk","?","dark",1,"Read","day","Study1","M","Study Phase","Recall1",2450
 "w10128215_bnc","weak","dark",1,"Read","day","Study1","M","Study Phase","Recall1",5779
 "w10133134_lpc","night","dark",1,"Read","day","Study1","M","Study Phase","Recall1",4181
+"w10143398_abc","dark","dark",1,"Read","day","Study1","M","Study Phase","Recall1",4361
 "w10157282_HBR","night","dark",1,"Read","day","Study1","M","Study Phase","Recall1",4236
 "10143815SK","","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",1564
 "w10046339_pw","silk","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",5409
@@ -118,6 +129,7 @@
 "w10101381_mgk","?","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",3203
 "w10128215_bnc","","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",1598
 "w10133134_lpc","furry","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",3941
+"w10143398_abc","hard","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",3612
 "w10157282_HBR","soft","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",7252
 "10143815SK","","steak",1,"Read","give","Study1","U","Study Phase","Recall1",1768
 "w10046339_pw","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",2065
@@ -128,6 +140,7 @@
 "w10101381_mgk","?","steak",1,"Read","give","Study1","U","Study Phase","Recall1",2680
 "w10128215_bnc","","steak",1,"Read","give","Study1","U","Study Phase","Recall1",2257
 "w10133134_lpc","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",2852
+"w10143398_abc","steak","steak",1,"Read","give","Study1","U","Study Phase","Recall1",6960
 "w10157282_HBR","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",4614
 "10143815SK","","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",1228
 "w10046339_pw","ball","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",3891
@@ -138,6 +151,7 @@
 "w10101381_mgk","?","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",3869
 "w10128215_bnc","soft","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",2518
 "w10133134_lpc","rough","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",5185
+"w10143398_abc","idk","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",2608
 "w10157282_HBR","soft","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",10917
 "10143815SK","","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",1533
 "w10046339_pw","ride","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",3905
@@ -148,6 +162,7 @@
 "w10101381_mgk","?","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",6144
 "w10128215_bnc","saddle","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",5922
 "w10133134_lpc","ride","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",5704
+"w10143398_abc","idk","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",4744
 "w10157282_HBR","carriage","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",36876
 "10143815SK","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",2979
 "w10046339_pw","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",2620
@@ -158,6 +173,7 @@
 "w10101381_mgk","?","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",3115
 "w10128215_bnc","shower","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",3546
 "w10133134_lpc","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",3840
+"w10143398_abc","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",2505
 "w10157282_HBR","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",10956
 "10143815SK","hunt","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",7739
 "w10046339_pw","pole","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",2721
@@ -168,6 +184,7 @@
 "w10101381_mgk","?","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",5271
 "w10128215_bnc","fob","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",12225
 "w10133134_lpc","rod","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",2763
+"w10143398_abc","idk","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",3118
 "w10157282_HBR","lock","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",2838
 "10143815SK","","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",1765
 "w10046339_pw","stripes","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",2815
@@ -178,6 +195,7 @@
 "w10101381_mgk","stripe","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",3260
 "w10128215_bnc","","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",3833
 "w10133134_lpc","stripes","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",3407
+"w10143398_abc","stripes","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",4264
 "w10157282_HBR","mane ","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",2311
 "10143815SK","","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",3381
 "w10046339_pw","hear","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",2754
@@ -188,6 +206,7 @@
 "w10101381_mgk","?","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",2257
 "w10128215_bnc","hear","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",3841
 "w10133134_lpc","talk","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",4036
+"w10143398_abc","quiet","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",3714
 "w10157282_HBR","talk","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",1934
 "10143815SK","","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",3070
 "w10046339_pw","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",3022
@@ -198,6 +217,7 @@
 "w10101381_mgk","?","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",2896
 "w10128215_bnc","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",3361
 "w10133134_lpc","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",3150
+"w10143398_abc","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",6678
 "w10157282_HBR","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",4280
 "10143815SK","moot","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",3311
 "w10046339_pw","clear","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",8116
@@ -208,6 +228,7 @@
 "w10101381_mgk","phone","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",8020
 "w10128215_bnc","corn","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",3612
 "w10133134_lpc","phone","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",3277
+"w10143398_abc","idk","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",2412
 "w10157282_HBR","path","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",11840
 "10143815SK","","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",1614
 "w10046339_pw","cut","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",11672
@@ -218,6 +239,7 @@
 "w10101381_mgk","?","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",2559
 "w10128215_bnc","","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",1803
 "w10133134_lpc","bang","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",5950
+"w10143398_abc","fuzzy","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",9035
 "w10157282_HBR","loaf","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",4342
 "10143815SK","marrow","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",5160
 "w10046339_pw","maroon","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",3945
@@ -228,6 +250,7 @@
 "w10101381_mgk","?","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",7690
 "w10128215_bnc","","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",2821
 "w10133134_lpc","maroon","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",4569
+"w10143398_abc","maroon","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",4014
 "w10157282_HBR","","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",11568
 "10143815SK","","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",1970
 "10143815SK","","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",1545
@@ -247,6 +270,8 @@
 "w10128215_bnc","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",2966
 "w10133134_lpc","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3254
 "w10133134_lpc","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3303
+"w10143398_abc","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3311
+"w10143398_abc","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3728
 "w10157282_HBR","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",2029
 "w10157282_HBR","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3021
 "10143815SK","sleep","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",3218
@@ -258,6 +283,7 @@
 "w10101381_mgk","?","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",3219
 "w10128215_bnc","","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",2984
 "w10133134_lpc","sleep","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",3432
+"w10143398_abc","idk","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",3065
 "w10157282_HBR","sleep","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",2732
 "10143815SK","","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",2638
 "w10046339_pw","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",2821
@@ -268,6 +294,7 @@
 "w10101381_mgk","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",3076
 "w10128215_bnc","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",3367
 "w10133134_lpc","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",3510
+"w10143398_abc","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",2687
 "w10157282_HBR","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",6198
 "10143815SK","","plant",1,"Read","root","Study1","F","Study Phase","Recall1",4167
 "w10046339_pw","tree","plant",1,"Read","root","Study1","F","Study Phase","Recall1",2563
@@ -278,6 +305,7 @@
 "w10101381_mgk","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",7701
 "w10128215_bnc","tree","plant",1,"Read","root","Study1","F","Study Phase","Recall1",4087
 "w10133134_lpc","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",4793
+"w10143398_abc","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",3261
 "w10157282_HBR","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",3249
 "10143815SK","","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",3784
 "w10046339_pw","cotton","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",4006
@@ -288,6 +316,7 @@
 "w10101381_mgk","?","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",2169
 "w10128215_bnc","soft","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",3871
 "w10133134_lpc","silk","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",4009
+"w10143398_abc","silk","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",5685
 "w10157282_HBR","","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",6552
 "10143815SK","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",4132
 "w10046339_pw","hair","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",4796
@@ -298,6 +327,7 @@
 "w10101381_mgk","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",2177
 "w10128215_bnc","hair","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",3743
 "w10133134_lpc","hand","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",3655
+"w10143398_abc","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",2650
 "w10157282_HBR","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",4011
 "10143815SK","","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",5914
 "w10046339_pw","shake","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",7075
@@ -308,6 +338,7 @@
 "w10101381_mgk","shake","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",2436
 "w10128215_bnc","shock","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",1849
 "w10133134_lpc","slap","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",7181
+"w10143398_abc","idk","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",4781
 "w10157282_HBR","shock","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",2403
 "10143815SK","","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",3576
 "w10046339_pw","pole","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",6488
@@ -318,6 +349,7 @@
 "w10101381_mgk","?","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",2584
 "w10128215_bnc","","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",1426
 "w10133134_lpc","thin","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",9320
+"w10143398_abc","idk","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",4267
 "w10157282_HBR","stop","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",8086
 "10143815SK","code","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",3204
 "w10046339_pw","drink","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",3129
@@ -328,6 +360,7 @@
 "w10101381_mgk","?","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",2038
 "w10128215_bnc","drink","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",3087
 "w10133134_lpc","drink","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",3976
+"w10143398_abc","cup","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",6915
 "w10157282_HBR","stir","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",20498
 "10143815SK","","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",21641
 "w10046339_pw","later","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",6645
@@ -338,6 +371,7 @@
 "w10101381_mgk","?","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",6624
 "w10128215_bnc","quick","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",3026
 "w10133134_lpc","later","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",4277
+"w10143398_abc","noon","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",4168
 "w10157282_HBR","","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",4116
 "10143815SK","","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",1398
 "w10046339_pw","cloth","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",4514
@@ -348,6 +382,7 @@
 "w10101381_mgk","?","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",2270
 "w10128215_bnc","sleep","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",3939
 "w10133134_lpc","arm","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",3757
+"w10143398_abc","idk","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",3176
 "w10157282_HBR","pull","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",9066
 "10143815SK","","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",20610
 "w10046339_pw","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4526
@@ -358,6 +393,7 @@
 "w10101381_mgk","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4779
 "w10128215_bnc","duck","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4398
 "w10133134_lpc","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4401
+"w10143398_abc","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",3071
 "w10157282_HBR","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",23711
 "10143815SK","warm","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",8105
 "w10046339_pw","hot","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",2159
@@ -368,6 +404,7 @@
 "w10101381_mgk","?","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",8919
 "w10128215_bnc","hot","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",1990
 "w10133134_lpc","morning","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",3600
+"w10143398_abc","day","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",5857
 "w10157282_HBR","fever","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",3453
 "10143815SK","taste","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",9470
 "w10046339_pw","hair","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",2127
@@ -378,6 +415,7 @@
 "w10101381_mgk","hair","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",2606
 "w10128215_bnc","cake","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",3408
 "w10133134_lpc","hand","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",8919
+"w10143398_abc","clean","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",7609
 "w10157282_HBR","nail","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",1982
 "10143815SK","green","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",29014
 "w10046339_pw","sap","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",2246
@@ -388,6 +426,7 @@
 "w10101381_mgk","?","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",6010
 "w10128215_bnc","green","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",2103
 "w10133134_lpc","green","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",2959
+"w10143398_abc","syrup","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",7391
 "w10157282_HBR","bush","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",4279
 "10143815SK","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",2994
 "w10046339_pw","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",4851
@@ -398,6 +437,7 @@
 "w10101381_mgk","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",2363
 "w10128215_bnc","","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",2124
 "w10133134_lpc","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",2871
+"w10143398_abc","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",2710
 "w10157282_HBR","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",3828
 "10143815SK","bike","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",3223
 "w10046339_pw","praise","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",9062
@@ -408,6 +448,7 @@
 "w10101381_mgk","?","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",9554
 "w10128215_bnc","drive","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",2472
 "w10133134_lpc","car","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",2619
+"w10143398_abc","wheels","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",3894
 "w10157282_HBR","","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",19090
 "10143815SK","","money",1,"Read","wage","Study1","F","Study Phase","Recall1",1458
 "w10046339_pw","money","money",1,"Read","wage","Study1","F","Study Phase","Recall1",2715
@@ -418,6 +459,7 @@
 "w10101381_mgk","money","money",1,"Read","wage","Study1","F","Study Phase","Recall1",3207
 "w10128215_bnc","cost","money",1,"Read","wage","Study1","F","Study Phase","Recall1",2486
 "w10133134_lpc","money","money",1,"Read","wage","Study1","F","Study Phase","Recall1",3211
+"w10143398_abc","money","money",1,"Read","wage","Study1","F","Study Phase","Recall1",4735
 "w10157282_HBR","earn","money",1,"Read","wage","Study1","F","Study Phase","Recall1",6576
 "10143815SK","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",4726
 "w10046339_pw","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3422
@@ -428,6 +470,7 @@
 "w10101381_mgk","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3891
 "w10128215_bnc","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3215
 "w10133134_lpc","quite","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3728
+"w10143398_abc","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3857
 "w10157282_HBR","peace","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3836
 "10143815SK","ring","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",7267
 "w10046339_pw","cake","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",2265
@@ -438,6 +481,7 @@
 "w10101381_mgk","finger","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",4789
 "w10128215_bnc","band","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",2891
 "w10133134_lpc","ring","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",3107
+"w10143398_abc","pie","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",3584
 "w10157282_HBR","ring","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",8203
 "10143815SK","","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",2444
 "w10046339_pw","spell","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",3751
@@ -448,6 +492,7 @@
 "w10101381_mgk","?","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",2915
 "w10128215_bnc","game","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",2894
 "w10133134_lpc","sentence","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",4622
+"w10143398_abc","sentence","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",5505
 "w10157282_HBR","speak","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",11329
 "10134188andCC","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",2766
 "w10033523_hp","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",4298
@@ -457,6 +502,7 @@
 "w10083877_dzw","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",4431
 "w10089472","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",1704
 "w10124974_tcb","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",2949
+"w10128864","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",3043
 "w10133025_mjc","","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",379
 "w10140814DO","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",9351
 "w10148391-Jk","loge","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",2184
@@ -470,6 +516,7 @@
 "w10083877_dzw","bounce","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",3717
 "w10089472","man","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",1982
 "w10124974_tcb","bat","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",3466
+"w10128864","","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",1502
 "w10133025_mjc","bounce","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",38460
 "w10140814DO","fly","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",25102
 "w10148391-Jk","bounce","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",8246
@@ -483,6 +530,7 @@
 "w10083877_dzw","box","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",3606
 "w10089472","wave","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",2722
 "w10124974_tcb","sand","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",2299
+"w10128864","sand","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",6695
 "w10133025_mjc","","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",136
 "w10140814DO","box","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",2562
 "w10148391-Jk","ball","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",2799
@@ -496,6 +544,7 @@
 "w10083877_dzw","pie","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",3591
 "w10089472","party","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",2434
 "w10124974_tcb","branch","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",2981
+"w10128864","","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",4204
 "w10133025_mjc","pie","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",10839
 "w10140814DO","cake","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",8264
 "w10148391-Jk","pie","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",2386
@@ -509,6 +558,7 @@
 "w10083877_dzw","","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",5864
 "w10089472","party ","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",4887
 "w10124974_tcb","icing","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",2036
+"w10128864","","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",496
 "w10133025_mjc","","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",145
 "w10140814DO","hand","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",9602
 "w10148391-Jk","birthday","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",24598
@@ -522,6 +572,7 @@
 "w10083877_dzw","carpet","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",3429
 "w10089472","fan","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",2087
 "w10124974_tcb","tile","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",3190
+"w10128864","","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",651
 "w10133025_mjc","","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",127
 "w10140814DO","carpet","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",4723
 "w10148391-Jk","fam","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",2892
@@ -535,6 +586,7 @@
 "w10083877_dzw","","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",4239
 "w10089472","straight","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",3503
 "w10124974_tcb","round","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",2263
+"w10128864","","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",392
 "w10133025_mjc","orchid","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",5223
 "w10140814DO","draw","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",15522
 "w10148391-Jk","dance","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",4230
@@ -548,6 +600,7 @@
 "w10083877_dzw","","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",5267
 "w10089472","brck;e","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",3175
 "w10124974_tcb","crack","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",3004
+"w10128864","","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",767
 "w10133025_mjc","sparkle","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",4867
 "w10140814DO","sparkle","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",17799
 "w10148391-Jk","pop","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",2515
@@ -561,6 +614,7 @@
 "w10083877_dzw","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",2915
 "w10089472","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",3908
 "w10124974_tcb","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",2756
+"w10128864","","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",453
 "w10133025_mjc","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",2888
 "w10140814DO","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",2057
 "w10148391-Jk","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",39948
@@ -574,6 +628,7 @@
 "w10083877_dzw","bottle","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",5036
 "w10089472","baby","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",4172
 "w10124974_tcb","baby","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",2011
+"w10128864","","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",304
 "w10133025_mjc","dry","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",3207
 "w10140814DO","bottle","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",6247
 "w10148391-Jk","baby","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",2466
@@ -587,6 +642,7 @@
 "w10083877_dzw","weak","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",12489
 "w10089472","month","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",2786
 "w10124974_tcb","night","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",2802
+"w10128864","","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",373
 "w10133025_mjc","","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",29
 "w10140814DO","night","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",3227
 "w10148391-Jk","night ","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",6799
@@ -600,6 +656,7 @@
 "w10083877_dzw","bang","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",5124
 "w10089472","fuzzy","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",7081
 "w10124974_tcb","no","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",2995
+"w10128864","","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",1339
 "w10133025_mjc","","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",102
 "w10140814DO","touch","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",11302
 "w10148391-Jk","bang","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",6372
@@ -613,6 +670,7 @@
 "w10083877_dzw","","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",3843
 "w10089472","marriage","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",5313
 "w10124974_tcb","hug","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",2365
+"w10128864","hug","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",4188
 "w10133025_mjc","steak","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",11685
 "w10140814DO","take","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",8766
 "w10148391-Jk","take","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",56856
@@ -626,6 +684,7 @@
 "w10083877_dzw","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",6678
 "w10089472","soft","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",7344
 "w10124974_tcb","rough","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",3471
+"w10128864","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",450
 "w10133025_mjc","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",7030
 "w10140814DO","soft","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",12901
 "w10148391-Jk","soft","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",15694
@@ -639,6 +698,7 @@
 "w10083877_dzw","donkey","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",6893
 "w10089472","herb","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",3772
 "w10124974_tcb","mule","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",2980
+"w10128864","","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",993
 "w10133025_mjc","","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",48
 "w10140814DO","sattle","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",9906
 "w10148391-Jk","back","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",4332
@@ -652,6 +712,7 @@
 "w10083877_dzw","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",4727
 "w10089472","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",1914
 "w10124974_tcb","toothbrush","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",5446
+"w10128864","","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",337
 "w10133025_mjc","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",4267
 "w10140814DO","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",8642
 "w10148391-Jk","clean ","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",3278
@@ -665,6 +726,7 @@
 "w10083877_dzw","meat","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",5257
 "w10089472","car","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",3636
 "w10124974_tcb","gold","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",2637
+"w10128864","","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",3394
 "w10133025_mjc","rod","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",41274
 "w10140814DO","unlock","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",17793
 "w10148391-Jk","jingle ","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",4439
@@ -678,6 +740,7 @@
 "w10083877_dzw","stripes","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",4886
 "w10089472","trees","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",2293
 "w10124974_tcb","king","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",2631
+"w10128864","","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",537
 "w10133025_mjc","tigers","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",4642
 "w10140814DO","stripes","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",2477
 "w10148391-Jk","stripes","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",5166
@@ -691,6 +754,7 @@
 "w10083877_dzw","","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",5576
 "w10089472","yes","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",4001
 "w10124974_tcb","now","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",1957
+"w10128864","","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",1165
 "w10133025_mjc","","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",4645
 "w10140814DO","talk","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",13229
 "w10148391-Jk","talk","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",3999
@@ -704,6 +768,7 @@
 "w10083877_dzw","trash","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",3782
 "w10089472","bug","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",4343
 "w10124974_tcb","box","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",3539
+"w10128864","","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",531
 "w10133025_mjc","","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",1319
 "w10140814DO","trash","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",15826
 "w10148391-Jk","trash","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",3535
@@ -717,6 +782,7 @@
 "w10083877_dzw","phone","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",7301
 "w10089472","stage","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",4540
 "w10124974_tcb","runner","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",3291
+"w10128864","","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",302
 "w10133025_mjc","phone","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",3536
 "w10140814DO","corn","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",9316
 "w10148391-Jk","phone","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",14290
@@ -730,6 +796,7 @@
 "w10083877_dzw","keys","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",4934
 "w10089472","keys","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",2320
 "w10124974_tcb","ball","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",2393
+"w10128864","","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",2285
 "w10133025_mjc","head","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",6065
 "w10140814DO","raw","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",17667
 "w10148391-Jk","steka","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",3338
@@ -743,6 +810,7 @@
 "w10083877_dzw","maroon","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",5157
 "w10089472","morana","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",3200
 "w10124974_tcb","picture","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",4949
+"w10128864","","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",1344
 "w10133025_mjc","","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",5448
 "w10140814DO","child","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",20062
 "w10148391-Jk","maroon","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",34617
@@ -764,6 +832,8 @@
 "w10089472","herb","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",1909
 "w10124974_tcb","donkey","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",4732
 "w10124974_tcb","donkey","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",4429
+"w10128864","","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",2663
+"w10128864","","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",584
 "w10133025_mjc","donkey","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",28529
 "w10133025_mjc","donkey","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",8288
 "w10140814DO","donkey","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",7244
@@ -782,6 +852,7 @@
 "w10083877_dzw","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",3651
 "w10089472","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",1942
 "w10124974_tcb","time","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",3483
+"w10128864","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",4233
 "w10133025_mjc","","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",41678
 "w10140814DO","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",21163
 "w10148391-Jk","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",22777
@@ -795,6 +866,7 @@
 "w10083877_dzw","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",3747
 "w10089472","bird","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",2976
 "w10124974_tcb","apple","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",2431
+"w10128864","","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",547
 "w10133025_mjc","","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",144
 "w10140814DO","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",2545
 "w10148391-Jk","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",3412
@@ -808,6 +880,7 @@
 "w10083877_dzw","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",3732
 "w10089472","word","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",2159
 "w10124974_tcb","pre","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",3185
+"w10128864","","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",309
 "w10133025_mjc","","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",27217
 "w10140814DO","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",8007
 "w10148391-Jk","beer","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",2968
@@ -821,6 +894,7 @@
 "w10083877_dzw","","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",3102
 "w10089472","tough","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",2491
 "w10124974_tcb","hard","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",7327
+"w10128864","hard","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",6950
 "w10133025_mjc","","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",482
 "w10140814DO","smooth","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",10042
 "w10148391-Jk","silk","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",4117
@@ -834,6 +908,7 @@
 "w10083877_dzw","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",4229
 "w10089472","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",1683
 "w10124974_tcb","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",2077
+"w10128864","","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",36
 "w10133025_mjc","","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",5839
 "w10140814DO","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",12104
 "w10148391-Jk","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",9690
@@ -847,6 +922,7 @@
 "w10083877_dzw","smash","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",10218
 "w10089472","snow]","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",2462
 "w10124974_tcb","sea","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",2337
+"w10128864","","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",3174
 "w10133025_mjc","fish","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",5533
 "w10140814DO","fish","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",13736
 "w10148391-Jk","sea","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",2620
@@ -860,6 +936,7 @@
 "w10083877_dzw","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",3507
 "w10089472","paper","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",2221
 "w10124974_tcb","signature","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",5442
+"w10128864","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",3260
 "w10133025_mjc","stop","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",4670
 "w10140814DO","write","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",13769
 "w10148391-Jk","","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",5398
@@ -873,6 +950,7 @@
 "w10083877_dzw","","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",4677
 "w10089472","drink\","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",3501
 "w10124974_tcb","mississippi","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",5075
+"w10128864","","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",570
 "w10133025_mjc","","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",163
 "w10140814DO","drink","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",4647
 "w10148391-Jk","drink","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",3046
@@ -886,6 +964,7 @@
 "w10083877_dzw","","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",3970
 "w10089472","later","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",2529
 "w10124974_tcb","home","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",2729
+"w10128864","","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",356
 "w10133025_mjc","belt","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",50911
 "w10140814DO","far","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",11354
 "w10148391-Jk","","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",1046
@@ -899,6 +978,7 @@
 "w10083877_dzw","","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",7444
 "w10089472","out","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",2113
 "w10124974_tcb","stretch","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",6957
+"w10128864","expand","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",20122
 "w10133025_mjc","limb","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",5758
 "w10140814DO","muscle","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",14298
 "w10148391-Jk","cloth","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",15040
@@ -912,6 +992,7 @@
 "w10083877_dzw","bird","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",6076
 "w10089472","bird","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",1688
 "w10124974_tcb","dove","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",2939
+"w10128864","","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",368
 "w10133025_mjc","","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",31
 "w10140814DO","bird","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",9605
 "w10148391-Jk","white","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",8873
@@ -925,6 +1006,7 @@
 "w10083877_dzw","morning","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",4382
 "w10089472","cold","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",2217
 "w10124974_tcb","hot","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",1779
+"w10128864","morning","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",3989
 "w10133025_mjc","","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",97
 "w10140814DO","cold","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",4893
 "w10148391-Jk","cold","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",5092
@@ -938,6 +1020,7 @@
 "w10083877_dzw","hair","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",6023
 "w10089472","fairy","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",3152
 "w10124974_tcb","teeth","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",2753
+"w10128864","hair","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",2545
 "w10133025_mjc","hair","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",25648
 "w10140814DO","fairy","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",10089
 "w10148391-Jk","fairy","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",2954
@@ -951,6 +1034,7 @@
 "w10083877_dzw","root","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",4964
 "w10089472","branch","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",3214
 "w10124974_tcb","tree","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",3482
+"w10128864","","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",948
 "w10133025_mjc","orchid","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",3738
 "w10140814DO","green","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",2158
 "w10148391-Jk","green","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",7313
@@ -964,6 +1048,7 @@
 "w10083877_dzw","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",5264
 "w10089472","can","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",1853
 "w10124974_tcb","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",2059
+"w10128864","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",2314
 "w10133025_mjc","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",3052
 "w10140814DO","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",2557
 "w10148391-Jk","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",2295
@@ -977,6 +1062,7 @@
 "w10083877_dzw","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",5527
 "w10089472","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",2724
 "w10124974_tcb","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",1803
+"w10128864","","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",2210
 "w10133025_mjc","","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",74
 "w10140814DO","drive","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",16928
 "w10148391-Jk","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",8040
@@ -990,6 +1076,7 @@
 "w10083877_dzw","money","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",5951
 "w10089472","cash","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",4220
 "w10124974_tcb","minimum","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",2779
+"w10128864","","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",454
 "w10133025_mjc","money","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",51283
 "w10140814DO","pay","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",17327
 "w10148391-Jk","minimum","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",8153
@@ -1003,6 +1090,7 @@
 "w10083877_dzw","quiet","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",4544
 "w10089472","world","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",3641
 "w10124974_tcb","hug","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",3057
+"w10128864","","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",385
 "w10133025_mjc","quiet","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",7104
 "w10140814DO","quiet","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",4159
 "w10148391-Jk","quiet ","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",12178
@@ -1016,6 +1104,7 @@
 "w10083877_dzw","finger","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",6732
 "w10089472","ring","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",3099
 "w10124974_tcb","icing","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",2268
+"w10128864","finger","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",2867
 "w10133025_mjc","finger","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",15247
 "w10140814DO","finger","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",3859
 "w10148391-Jk","ring","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",2666
@@ -1029,6 +1118,7 @@
 "w10083877_dzw","sentence","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",4245
 "w10089472","letters","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",3561
 "w10124974_tcb","puzzle","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",5437
+"w10128864","","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",683
 "w10133025_mjc","","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",90
 "w10140814DO","sentence","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",38474
 "w10148391-Jk","sentence ","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",20157
@@ -1043,6 +1133,7 @@
 "w10101381_mgk","?","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",940
 "w10128215_bnc","deco","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",3121
 "w10133134_lpc","wolf","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",2518
+"w10143398_abc","idk","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",4531
 "w10157282_HBR","wolf","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",19430
 "10143815SK","blood","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",8901
 "w10046339_pw","heart","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",10655
@@ -1053,6 +1144,7 @@
 "w10101381_mgk","?","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",28032
 "w10128215_bnc","blood","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",3445
 "w10133134_lpc","heart","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",4123
+"w10143398_abc","bronze","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",3586
 "w10157282_HBR","vein","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",18688
 "10143815SK","","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",17181
 "w10046339_pw","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",6975
@@ -1063,6 +1155,7 @@
 "w10101381_mgk","?","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",1258
 "w10128215_bnc","dress","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",4239
 "w10133134_lpc","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",5248
+"w10143398_abc","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",3102
 "w10157282_HBR","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",22929
 "10143815SK","beach","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",6246
 "w10046339_pw","park","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",4379
@@ -1073,6 +1166,7 @@
 "w10101381_mgk","?","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",2646
 "w10128215_bnc","sit","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",2367
 "w10133134_lpc","","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",5444
+"w10143398_abc","seat","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",2962
 "w10157282_HBR","seat","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",22714
 "10143815SK","grease","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",18376
 "w10046339_pw","hot","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",4225
@@ -1083,6 +1177,7 @@
 "w10101381_mgk","?","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",1325
 "w10128215_bnc","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",2713
 "w10133134_lpc","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",2596
+"w10143398_abc","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",2448
 "w10157282_HBR","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",9800
 "10143815SK","face","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",11043
 "w10046339_pw","none","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",2461
@@ -1093,6 +1188,7 @@
 "w10101381_mgk","?","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",1405
 "w10128215_bnc","same","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",3229
 "w10133134_lpc","","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",1713
+"w10143398_abc","feud","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",14765
 "w10157282_HBR","ounce","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",22614
 "10143815SK","water ","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",4601
 "w10046339_pw","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",2626
@@ -1103,6 +1199,7 @@
 "w10101381_mgk","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",2666
 "w10128215_bnc","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",2433
 "w10133134_lpc","","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",1769
+"w10143398_abc","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",2812
 "w10157282_HBR","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",19245
 "10143815SK","","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",8447
 "w10046339_pw","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",2136
@@ -1113,6 +1210,7 @@
 "w10101381_mgk","flower","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",8353
 "w10128215_bnc","ouch","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",2887
 "w10133134_lpc","","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",1866
+"w10143398_abc","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",2562
 "w10157282_HBR","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",21270
 "10143815SK","","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",27723
 "w10046339_pw","wallet","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",5621
@@ -1123,6 +1221,7 @@
 "w10101381_mgk","feud","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",6423
 "w10128215_bnc","check","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",5357
 "w10133134_lpc","","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",1504
+"w10143398_abc","money","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",3577
 "w10157282_HBR","leg","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",12220
 "10143815SK","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2673
 "w10046339_pw","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2035
@@ -1133,6 +1232,7 @@
 "w10101381_mgk","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2743
 "w10128215_bnc","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",1967
 "w10133134_lpc","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2386
+"w10143398_abc","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2511
 "w10157282_HBR","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",21181
 "10143815SK","","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",1883
 "w10046339_pw","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",2286
@@ -1143,6 +1243,7 @@
 "w10101381_mgk","?","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",47211
 "w10128215_bnc","ice","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",2729
 "w10133134_lpc","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",2529
+"w10143398_abc","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",4329
 "w10157282_HBR","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",38417
 "10143815SK","","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",4408
 "w10046339_pw","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",3281
@@ -1153,6 +1254,7 @@
 "w10101381_mgk","?","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",906
 "w10128215_bnc","face","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",4896
 "w10133134_lpc","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",2754
+"w10143398_abc","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",2713
 "w10157282_HBR","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",36464
 "10143815SK","chip","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",4818
 "w10046339_pw","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",3022
@@ -1163,6 +1265,7 @@
 "w10101381_mgk","?","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",1239
 "w10128215_bnc","lamb","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",2877
 "w10133134_lpc","crush","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",3476
+"w10143398_abc","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",4366
 "w10157282_HBR","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",22146
 "10143815SK","","business",1,"Read","death","Study2","U","Study Phase2","Recall2",13995
 "w10046339_pw","buisness","business",1,"Read","death","Study2","U","Study Phase2","Recall2",4878
@@ -1173,6 +1276,7 @@
 "w10101381_mgk","?","business",1,"Read","death","Study2","U","Study Phase2","Recall2",1841
 "w10128215_bnc","drop","business",1,"Read","death","Study2","U","Study Phase2","Recall2",3931
 "w10133134_lpc","buisness","business",1,"Read","death","Study2","U","Study Phase2","Recall2",4232
+"w10143398_abc","idk","business",1,"Read","death","Study2","U","Study Phase2","Recall2",4100
 "w10157282_HBR","business","business",1,"Read","death","Study2","U","Study Phase2","Recall2",23791
 "10143815SK","sack","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",5503
 "w10046339_pw","food","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",5392
@@ -1183,6 +1287,7 @@
 "w10101381_mgk","?","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",1211
 "w10128215_bnc","eat","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",2814
 "w10133134_lpc","sack","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",4362
+"w10143398_abc","sack","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",4261
 "w10157282_HBR","food","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",35046
 "10143815SK","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",3003
 "w10046339_pw","note","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",3271
@@ -1193,6 +1298,7 @@
 "w10101381_mgk","?","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",1247
 "w10128215_bnc","read","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",3726
 "w10133134_lpc","","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",3125
+"w10143398_abc","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",2612
 "w10157282_HBR","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",11976
 "10143815SK","smell","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",5084
 "w10046339_pw","smell","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",2779
@@ -1203,6 +1309,7 @@
 "w10101381_mgk","?","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",899
 "w10128215_bnc","hear","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",3145
 "w10133134_lpc","smell","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",2287
+"w10143398_abc","brown","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",3554
 "w10157282_HBR","nose","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",64968
 "10143815SK","","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",2346
 "w10046339_pw","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",5078
@@ -1213,6 +1320,7 @@
 "w10101381_mgk","?","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",1525
 "w10128215_bnc","family","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",2701
 "w10133134_lpc","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",2771
+"w10143398_abc","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",2830
 "w10157282_HBR","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",3090
 "10143815SK","roast","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",5287
 "w10046339_pw","cook","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",2906
@@ -1223,6 +1331,7 @@
 "w10101381_mgk","?","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",1327
 "w10128215_bnc","chop","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",5497
 "w10133134_lpc","","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",1630
+"w10143398_abc","thigh","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",2897
 "w10157282_HBR","thigh","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",5693
 "10143815SK","","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",11593
 "w10046339_pw","mood","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",3140
@@ -1233,6 +1342,7 @@
 "w10101381_mgk","?","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",1371
 "w10128215_bnc","day","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",3507
 "w10133134_lpc","","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",3304
+"w10143398_abc","idk","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",4310
 "w10157282_HBR","sad","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",5271
 "10143815SK","","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",2390
 "w10046339_pw","feather","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",3454
@@ -1243,6 +1353,7 @@
 "w10101381_mgk","?","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",981
 "w10128215_bnc","lift","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",2006
 "w10133134_lpc","feather","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",5514
+"w10143398_abc","feather","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",4534
 "w10157282_HBR","feather","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",5036
 "10143815SK","","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",1898
 "w10046339_pw","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",3151
@@ -1253,6 +1364,7 @@
 "w10101381_mgk","?","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",935
 "w10128215_bnc","sheep","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",3649
 "w10133134_lpc","sheep","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",5031
+"w10143398_abc","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",3391
 "w10157282_HBR","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",17627
 "10143815SK","","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",8033
 "w10046339_pw","sting","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",4510
@@ -1263,6 +1375,7 @@
 "w10101381_mgk","?","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",2354
 "w10128215_bnc","sting","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",3145
 "w10133134_lpc","wasp","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",3956
+"w10143398_abc","sting","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",3347
 "w10157282_HBR","sting","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",17392
 "10143815SK","","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",8984
 "w10046339_pw","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",3911
@@ -1273,6 +1386,7 @@
 "w10101381_mgk","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",4968
 "w10128215_bnc","burn","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",1933
 "w10133134_lpc","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",2962
+"w10143398_abc","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",2662
 "w10157282_HBR","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",26039
 "10143815SK","","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",1484
 "w10046339_pw","vase","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",2867
@@ -1283,6 +1397,7 @@
 "w10101381_mgk","?","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",31271
 "w10128215_bnc","queen","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",3841
 "w10133134_lpc","","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",1713
+"w10143398_abc","vase","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",3410
 "w10157282_HBR","queen","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",15198
 "10143815SK","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",8436
 "w10046339_pw","basketball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",4353
@@ -1293,6 +1408,7 @@
 "w10101381_mgk","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",3418
 "w10128215_bnc","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",3349
 "w10133134_lpc","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",2861
+"w10143398_abc","idk","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",2334
 "w10157282_HBR","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",17929
 "10143815SK","greene","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",4966
 "w10046339_pw","house","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",7842
@@ -1303,6 +1419,7 @@
 "w10101381_mgk","?","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",1922
 "w10128215_bnc","out","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",2344
 "w10133134_lpc","artery","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",4214
+"w10143398_abc","sign","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",5778
 "w10157282_HBR","agreement","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",3220
 "10143815SK","","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",8550
 "w10046339_pw","children","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",3262
@@ -1313,6 +1430,7 @@
 "w10101381_mgk","?","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",5060
 "w10128215_bnc","see","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",2356
 "w10133134_lpc","","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",3041
+"w10143398_abc","maroon","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",5311
 "w10157282_HBR","reflection","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",21027
 "10143815SK","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",5172
 "w10046339_pw","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",2902
@@ -1323,6 +1441,7 @@
 "w10101381_mgk","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",4609
 "w10128215_bnc","heal","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",6556
 "w10133134_lpc","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",3316
+"w10143398_abc","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",4371
 "w10157282_HBR","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",34184
 "10143815SK","","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",4027
 "w10046339_pw","slove","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",4103
@@ -1333,6 +1452,7 @@
 "w10101381_mgk","?","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",2012
 "w10128215_bnc","bake","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",1868
 "w10133134_lpc","basket","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",3337
+"w10143398_abc","basket","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",3587
 "w10157282_HBR","roasted","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",8999
 "10143815SK","","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",3586
 "w10046339_pw","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",4877
@@ -1343,6 +1463,7 @@
 "w10101381_mgk","?","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",10848
 "w10128215_bnc","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",6146
 "w10133134_lpc","","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",2241
+"w10143398_abc","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",4842
 "w10157282_HBR","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",9416
 "10143815SK","","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",10817
 "w10046339_pw","pull","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",6346
@@ -1353,6 +1474,7 @@
 "w10101381_mgk","?","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",1604
 "w10128215_bnc","pull","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",4698
 "w10133134_lpc","","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",1976
+"w10143398_abc","over","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",3258
 "w10157282_HBR","pull","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",7200
 "10143815SK","","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",3621
 "w10046339_pw","leaf","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",3320
@@ -1363,6 +1485,7 @@
 "w10101381_mgk","?","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",32275
 "w10128215_bnc","leaves","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",3916
 "w10133134_lpc","seed","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",2182
+"w10143398_abc","leaves","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",3512
 "w10157282_HBR","sew","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",27141
 "10143815SK","back","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",4443
 "w10046339_pw","muscle","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",4092
@@ -1373,6 +1496,7 @@
 "w10101381_mgk","?","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",10364
 "w10128215_bnc","blade","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",3399
 "w10133134_lpc","","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",2055
+"w10143398_abc","burn","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",3341
 "w10157282_HBR","muscle","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",46899
 "10143815SK","","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",1602
 "w10046339_pw","broke","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",4810
@@ -1383,6 +1507,7 @@
 "w10101381_mgk","?","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",1417
 "w10128215_bnc","home","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",4383
 "w10133134_lpc","","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",2595
+"w10143398_abc","beach","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",4381
 "w10157282_HBR","island","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",13431
 "10143815SK","","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",2114
 "w10046339_pw","stop","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",3521
@@ -1393,6 +1518,7 @@
 "w10101381_mgk","?","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",2560
 "w10128215_bnc","learn","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",6129
 "w10133134_lpc","bus","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",2487
+"w10143398_abc","bus","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",4470
 "w10157282_HBR","stop","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",6099
 "10143815SK","","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",6021
 "w10046339_pw","sack","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",5276
@@ -1403,6 +1529,7 @@
 "w10101381_mgk","?","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",14886
 "w10128215_bnc","hide","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",3457
 "w10133134_lpc","","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",1926
+"w10143398_abc","hide","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",3258
 "w10157282_HBR","hide","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",14633
 "10143815SK","drink","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",3383
 "w10046339_pw","eat","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",4503
@@ -1413,6 +1540,7 @@
 "w10101381_mgk","?","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",1737
 "w10128215_bnc","wash","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",2368
 "w10133134_lpc","","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",3266
+"w10143398_abc","drink","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",4078
 "w10157282_HBR","clean","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",12874
 "10143815SK","","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",3559
 "w10046339_pw","muscle","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",3299
@@ -1423,6 +1551,7 @@
 "w10101381_mgk","?","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",2321
 "w10128215_bnc","smell","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",3256
 "w10133134_lpc","feather","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",3298
+"w10143398_abc","feather","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",4355
 "w10157282_HBR","weak","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",14252
 "10143815SK","","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",1238
 "w10046339_pw","sweet","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",3211
@@ -1433,6 +1562,7 @@
 "w10101381_mgk","?","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",1431
 "w10128215_bnc","spice","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",2867
 "w10133134_lpc","","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",4195
+"w10143398_abc","idk","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",2615
 "w10157282_HBR","riddle","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",23578
 "10143815SK","winter","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",6757
 "w10046339_pw","winter","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",9196
@@ -1443,6 +1573,7 @@
 "w10101381_mgk","snow","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",4477
 "w10128215_bnc","beach","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",4724
 "w10133134_lpc","","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",3764
+"w10143398_abc","winter","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",6410
 "w10157282_HBR","snow","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",34472
 "10143815SK","putt","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",10226
 "w10046339_pw","cave","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",6334
@@ -1453,6 +1584,7 @@
 "w10101381_mgk","?","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",956
 "w10128215_bnc","cave","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",4830
 "w10133134_lpc","cave","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",2372
+"w10143398_abc","cave","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",4495
 "w10157282_HBR","catch","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",43208
 "10143815SK","","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",11610
 "w10046339_pw","peek","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",4247
@@ -1463,6 +1595,7 @@
 "w10101381_mgk","?","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",864
 "w10128215_bnc","","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",2426
 "w10133134_lpc","peak","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",3279
+"w10143398_abc","peak","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",3085
 "w10157282_HBR","peak","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",19921
 "10143815SK","insect","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",12790
 "w10046339_pw","sbug","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",4146
@@ -1473,6 +1606,7 @@
 "w10101381_mgk","?","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",1381
 "w10128215_bnc","sting","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",2766
 "w10133134_lpc","sting","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",3200
+"w10143398_abc","bug","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",8586
 "w10157282_HBR","bug","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",5616
 "10143815SK","","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",8096
 "w10046339_pw","knob","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",3112
@@ -1483,6 +1617,7 @@
 "w10101381_mgk","?","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",1089
 "w10128215_bnc","door","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",3113
 "w10133134_lpc","","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",2219
+"w10143398_abc","knob","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",3835
 "w10157282_HBR","knob","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",21594
 "10134188andCC","gallery","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",2765
 "w10033523_hp","work","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",2106
@@ -1492,6 +1627,7 @@
 "w10083877_dzw","","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",4854
 "w10089472","work","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",4370
 "w10124974_tcb","gallery","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",8675
+"w10128864","","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",353
 "w10133025_mjc","gallery","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",6792
 "w10140814DO","paint","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",21845
 "w10148391-Jk","music","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",3623
@@ -1505,6 +1641,7 @@
 "w10083877_dzw","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",7997
 "w10089472","bronze","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",2840
 "w10124974_tcb","heart","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",3325
+"w10128864","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",21
 "w10133025_mjc","bronze","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",4733
 "w10140814DO","bronze","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",14278
 "w10148391-Jk","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",1253
@@ -1518,6 +1655,7 @@
 "w10083877_dzw","","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",6233
 "w10089472","tires","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",2751
 "w10124974_tcb","dress","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",3204
+"w10128864","","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",1263
 "w10133025_mjc","clothing","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",3929
 "w10140814DO","clothes","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",7541
 "w10148391-Jk","clothes","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",4536
@@ -1531,6 +1669,7 @@
 "w10083877_dzw","horn","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",5339
 "w10089472","walker","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",3155
 "w10124974_tcb","seat","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",2403
+"w10128864","","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",701
 "w10133025_mjc","chair","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",29141
 "w10140814DO","warmer","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",22417
 "w10148391-Jk","","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",1198
@@ -1544,6 +1683,7 @@
 "w10083877_dzw","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",3418
 "w10089472","fan","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",3864
 "w10124974_tcb","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",3354
+"w10128864","","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",446
 "w10133025_mjc","","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",6526
 "w10140814DO","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",11365
 "w10148391-Jk","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",2824
@@ -1557,6 +1697,7 @@
 "w10083877_dzw","","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",15401
 "w10089472","none","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",2410
 "w10124974_tcb","one","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",6888
+"w10128864","","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",376
 "w10133025_mjc","single","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",5190
 "w10140814DO","same","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",10992
 "w10148391-Jk","","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",4013
@@ -1570,6 +1711,7 @@
 "w10083877_dzw","water","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",5208
 "w10089472","wall ","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",3521
 "w10124974_tcb","bridge","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",3435
+"w10128864","","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",424
 "w10133025_mjc","walk","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",3973
 "w10140814DO","water","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",7397
 "w10148391-Jk","","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",1355
@@ -1583,6 +1725,7 @@
 "w10083877_dzw","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",4883
 "w10089472","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",3184
 "w10124974_tcb","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",4090
+"w10128864","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",32162
 "w10133025_mjc","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",4282
 "w10140814DO","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",15127
 "w10148391-Jk","dry","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",2376
@@ -1596,6 +1739,7 @@
 "w10083877_dzw","","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",5553
 "w10089472","money","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",2490
 "w10124974_tcb","money","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",2774
+"w10128864","coins ","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",9812
 "w10133025_mjc","liquid","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",4190
 "w10140814DO","money","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",14739
 "w10148391-Jk","card","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",3332
@@ -1609,6 +1753,7 @@
 "w10083877_dzw","red","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",3334
 "w10089472","bomb","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",3046
 "w10124974_tcb","cherry","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",8160
+"w10128864","red","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",2175
 "w10133025_mjc","blossom","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",3845
 "w10140814DO","red","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",10129
 "w10148391-Jk","red","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",5732
@@ -1622,6 +1767,7 @@
 "w10083877_dzw","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",3516
 "w10089472","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",1948
 "w10124974_tcb","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",2798
+"w10128864","","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",767
 "w10133025_mjc","cool","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",5060
 "w10140814DO","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",5277
 "w10148391-Jk","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",2930
@@ -1635,6 +1781,7 @@
 "w10083877_dzw","hammer","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",4429
 "w10089472","sad","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",1719
 "w10124974_tcb","shovel","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",6128
+"w10128864","","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",499
 "w10133025_mjc","","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",3931
 "w10140814DO","stone","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",44753
 "w10148391-Jk","attic","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",3901
@@ -1648,6 +1795,7 @@
 "w10083877_dzw","cut","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",4165
 "w10089472","chomp","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",2588
 "w10124974_tcb","chop","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",3972
+"w10128864","","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",1131
 "w10133025_mjc","cut","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",5896
 "w10140814DO","cut","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",12019
 "w10148391-Jk","lamb","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",6477
@@ -1661,6 +1809,7 @@
 "w10083877_dzw","business","business",3,"Read","death","Study2","U","Study Phase","Recall1",17478
 "w10089472","alive","business",3,"Read","death","Study2","U","Study Phase","Recall1",2741
 "w10124974_tcb","row","business",3,"Read","death","Study2","U","Study Phase","Recall1",4794
+"w10128864","","business",3,"Read","death","Study2","U","Study Phase","Recall1",4230
 "w10133025_mjc","alive","business",3,"Read","death","Study2","U","Study Phase","Recall1",4527
 "w10140814DO","job","business",3,"Read","death","Study2","U","Study Phase","Recall1",6750
 "w10148391-Jk","business ","business",3,"Read","death","Study2","U","Study Phase","Recall1",3182
@@ -1674,6 +1823,7 @@
 "w10083877_dzw","","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",6766
 "w10089472","diet","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",2994
 "w10124974_tcb","lunch","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",3167
+"w10128864","","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",289
 "w10133025_mjc","supplement","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",6930
 "w10140814DO","sack","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",24793
 "w10148391-Jk","","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",2683
@@ -1687,6 +1837,7 @@
 "w10083877_dzw","sign","paper",3,"Read","document","Study2","F","Study Phase","Recall1",7326
 "w10089472","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",1783
 "w10124974_tcb","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",5982
+"w10128864","","paper",3,"Read","document","Study2","F","Study Phase","Recall1",353
 "w10133025_mjc","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",3342
 "w10140814DO","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",3787
 "w10148391-Jk","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",3160
@@ -1700,6 +1851,7 @@
 "w10083877_dzw","smell","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",3881
 "w10089472","lips","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",2504
 "w10124974_tcb","brown","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",2362
+"w10128864","see","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",3562
 "w10133025_mjc","pupil","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",5853
 "w10140814DO","smell","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",8649
 "w10148391-Jk","ears","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",5060
@@ -1713,6 +1865,7 @@
 "w10083877_dzw","fight","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",3834
 "w10089472","gas","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",2557
 "w10124974_tcb","hard","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",4998
+"w10128864","","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",100
 "w10133025_mjc","","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",1247
 "w10140814DO","fight","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",6514
 "w10148391-Jk","","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",2149
@@ -1726,6 +1879,7 @@
 "w10083877_dzw","thigh","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",6736
 "w10089472","oven","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",2964
 "w10124974_tcb","barbecue","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",4674
+"w10128864","chicken","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",18430
 "w10133025_mjc","","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",1675
 "w10140814DO","thigh","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",11358
 "w10148391-Jk","","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",1654
@@ -1739,6 +1893,7 @@
 "w10083877_dzw","sad","car",3,"Read","happy","Study2","U","Study Phase","Recall1",7411
 "w10089472","sad","car",3,"Read","happy","Study2","U","Study Phase","Recall1",1618
 "w10124974_tcb","excited","car",3,"Read","happy","Study2","U","Study Phase","Recall1",6404
+"w10128864","excited","car",3,"Read","happy","Study2","U","Study Phase","Recall1",5322
 "w10133025_mjc","sad","car",3,"Read","happy","Study2","U","Study Phase","Recall1",2380
 "w10140814DO","car","car",3,"Read","happy","Study2","U","Study Phase","Recall1",12062
 "w10148391-Jk","sad","car",3,"Read","happy","Study2","U","Study Phase","Recall1",4731
@@ -1752,6 +1907,7 @@
 "w10083877_dzw","","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",4489
 "w10089472","feather","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",3917
 "w10124974_tcb","light","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",5405
+"w10128864","large","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",24731
 "w10133025_mjc","light","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",4684
 "w10140814DO","light","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",37522
 "w10148391-Jk","strong","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",6646
@@ -1765,6 +1921,7 @@
 "w10083877_dzw","cow","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",5879
 "w10089472","collective","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",5698
 "w10124974_tcb","cow","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",2515
+"w10128864","","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",581
 "w10133025_mjc","shepard","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",3834
 "w10140814DO","cow","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",2356
 "w10148391-Jk","cow","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",2643
@@ -1778,6 +1935,7 @@
 "w10083877_dzw","sting","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",4949
 "w10089472","nest","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",3895
 "w10124974_tcb","horn","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",3556
+"w10128864","","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",292
 "w10133025_mjc","nest","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",3026
 "w10140814DO","sting","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",5084
 "w10148391-Jk","wasp","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",2668
@@ -1791,6 +1949,7 @@
 "w10083877_dzw","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",7483
 "w10089472","family","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",7036
 "w10124974_tcb","money","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",4642
+"w10128864","","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",658
 "w10133025_mjc","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",3401
 "w10140814DO","burn","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",5847
 "w10148391-Jk","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",2592
@@ -1804,6 +1963,7 @@
 "w10083877_dzw","vase","vase",3,"Read","king","Study2","U","Study Phase","Recall1",5327
 "w10089472","vase","vase",3,"Read","king","Study2","U","Study Phase","Recall1",1810
 "w10124974_tcb","queen","vase",3,"Read","king","Study2","U","Study Phase","Recall1",2616
+"w10128864","","vase",3,"Read","king","Study2","U","Study Phase","Recall1",3799
 "w10133025_mjc","queen","vase",3,"Read","king","Study2","U","Study Phase","Recall1",3347
 "w10140814DO","sword","vase",3,"Read","king","Study2","U","Study Phase","Recall1",12539
 "w10148391-Jk","queen","vase",3,"Read","king","Study2","U","Study Phase","Recall1",2812
@@ -1817,6 +1977,7 @@
 "w10083877_dzw","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",4805
 "w10089472","teams","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",3187
 "w10124974_tcb","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",3395
+"w10128864","","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",395
 "w10133025_mjc","association","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",7620
 "w10140814DO","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",9439
 "w10148391-Jk","basketball ","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",3167
@@ -1830,6 +1991,7 @@
 "w10083877_dzw","","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",5286
 "w10089472","rent","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",2401
 "w10124974_tcb","build","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",3283
+"w10128864","","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",2509
 "w10133025_mjc","buy","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",5803
 "w10140814DO","money","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",31708
 "w10148391-Jk","leaving ","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",5163
@@ -1843,6 +2005,7 @@
 "w10083877_dzw","children","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",5485
 "w10089472","wall","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",2923
 "w10124974_tcb","mirror","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",2465
+"w10128864","","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",428
 "w10133025_mjc","picture","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",4651
 "w10140814DO","child","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",13806
 "w10148391-Jk","desk","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",6125
@@ -1856,6 +2019,7 @@
 "w10083877_dzw","lawyer","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",4480
 "w10089472","cna","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",4471
 "w10124974_tcb","doctor","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",2814
+"w10128864","doctor","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",9676
 "w10133025_mjc","lawyer","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",3975
 "w10140814DO","lawyer","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",3792
 "w10148391-Jk","lawyer ","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",5020
@@ -1869,6 +2033,7 @@
 "w10083877_dzw","","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",5782
 "w10089472","stove","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",2756
 "w10124974_tcb","stove","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",2731
+"w10128864","","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",700
 "w10133025_mjc","microwave","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",5481
 "w10140814DO","bread","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",15533
 "w10148391-Jk","stove ","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",4430
@@ -1882,6 +2047,7 @@
 "w10083877_dzw","collar","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",4346
 "w10089472","shorts","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",3430
 "w10124974_tcb","brown","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",3534
+"w10128864","","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",677
 "w10133025_mjc","collar","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",4012
 "w10140814DO","shoes","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",9205
 "w10148391-Jk","collar","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",3944
@@ -1895,6 +2061,7 @@
 "w10083877_dzw","clutter","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",7857
 "w10089472","fall","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",2902
 "w10124974_tcb","shove","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",2327
+"w10128864","","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",573
 "w10133025_mjc","pull","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",2815
 "w10140814DO","pull","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",15199
 "w10148391-Jk","pull","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",3943
@@ -1908,6 +2075,7 @@
 "w10083877_dzw","","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",7751
 "w10089472","leaves","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",2974
 "w10124974_tcb","shovel","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",3623
+"w10128864","","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",494
 "w10133025_mjc","leaves","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",4243
 "w10140814DO","seed","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",6090
 "w10148391-Jk","garden","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",4377
@@ -1921,6 +2089,7 @@
 "w10083877_dzw","muscle","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",5933
 "w10089472","pop","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",8415
 "w10124974_tcb","blade","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",2666
+"w10128864","","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",875
 "w10133025_mjc","burn","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",5043
 "w10140814DO","muscle","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",11028
 "w10148391-Jk","sharp","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",4633
@@ -1934,6 +2103,7 @@
 "w10083877_dzw","show","island",3,"Read","reality","Study2","M","Study Phase","Recall1",9059
 "w10089472","fantasy","island",3,"Read","reality","Study2","M","Study Phase","Recall1",7226
 "w10124974_tcb","show","island",3,"Read","reality","Study2","M","Study Phase","Recall1",3402
+"w10128864","","island",3,"Read","reality","Study2","M","Study Phase","Recall1",902
 "w10133025_mjc","dream","island",3,"Read","reality","Study2","M","Study Phase","Recall1",3538
 "w10140814DO","island","island",3,"Read","reality","Study2","M","Study Phase","Recall1",9455
 "w10148391-Jk","tv","island",3,"Read","reality","Study2","M","Study Phase","Recall1",9008
@@ -1947,6 +2117,7 @@
 "w10083877_dzw","stop","stop",3,"Read","school","Study2","M","Study Phase","Recall1",3608
 "w10089472","home","stop",3,"Read","school","Study2","M","Study Phase","Recall1",3781
 "w10124974_tcb","work","stop",3,"Read","school","Study2","M","Study Phase","Recall1",2753
+"w10128864","","stop",3,"Read","school","Study2","M","Study Phase","Recall1",1250
 "w10133025_mjc","stop","stop",3,"Read","school","Study2","M","Study Phase","Recall1",3258
 "w10140814DO","stop","stop",3,"Read","school","Study2","M","Study Phase","Recall1",12331
 "w10148391-Jk","","stop",3,"Read","school","Study2","M","Study Phase","Recall1",1501
@@ -1960,6 +2131,7 @@
 "w10083877_dzw","hide","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",5886
 "w10089472","healthy","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",3448
 "w10124974_tcb","sickly","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",2785
+"w10128864","","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",361
 "w10133025_mjc","healthy","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",4227
 "w10140814DO","healthy","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",25930
 "w10148391-Jk","cold","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",33434
@@ -1973,6 +2145,7 @@
 "w10083877_dzw","","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",4967
 "w10089472","water","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",2539
 "w10124974_tcb","wash","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",6625
+"w10128864","","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",6847
 "w10133025_mjc","","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",3718
 "w10140814DO","drink","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",14941
 "w10148391-Jk","drink","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",16238
@@ -1986,6 +2159,7 @@
 "w10083877_dzw","muscle","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",9517
 "w10089472","heavy","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",2817
 "w10124974_tcb","word","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",3956
+"w10128864","buff","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",8833
 "w10133025_mjc","weakling","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",3300
 "w10140814DO","muscle","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",15836
 "w10148391-Jk","bulk","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",4651
@@ -1999,6 +2173,7 @@
 "w10083877_dzw","sweet","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",6037
 "w10089472","salt","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",2142
 "w10124974_tcb","diabetes","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",5099
+"w10128864","","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",320
 "w10133025_mjc","coffee","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",4394
 "w10140814DO","spice","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",17604
 "w10148391-Jk","dietary ","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",5238
@@ -2012,6 +2187,7 @@
 "w10083877_dzw","snow","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",5309
 "w10089472","july","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",4770
 "w10124974_tcb","break","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",3877
+"w10128864","","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",24
 "w10133025_mjc","weak","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",3719
 "w10140814DO","sunny","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",16529
 "w10148391-Jk","spring","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",3235
@@ -2025,6 +2201,7 @@
 "w10083877_dzw","door","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",5597
 "w10089472","gate","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",7891
 "w10124974_tcb","open","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",4137
+"w10128864","","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",934
 "w10133025_mjc","","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",3527
 "w10140814DO","hidden","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",22348
 "w10148391-Jk","door","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",5867
@@ -2038,6 +2215,7 @@
 "w10083877_dzw","peak","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",3430
 "w10089472","street","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",11782
 "w10124974_tcb","mountain","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",40530
+"w10128864","","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",363
 "w10133025_mjc","mountain","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",5576
 "w10140814DO","ridge","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",4348
 "w10148391-Jk","","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",3689
@@ -2051,6 +2229,7 @@
 "w10083877_dzw","bug","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",3576
 "w10089472","bug","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",1821
 "w10124974_tcb","bug","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",2804
+"w10128864","","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",564
 "w10133025_mjc","nest","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",3133
 "w10140814DO","sting","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",7864
 "w10148391-Jk","hornet","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",2673
@@ -2064,6 +2243,7 @@
 "w10083877_dzw","knob","knob",3,"Read","window","Study2","M","Study Phase","Recall1",6499
 "w10089472","door","knob",3,"Read","window","Study2","M","Study Phase","Recall1",2392
 "w10124974_tcb","light","knob",3,"Read","window","Study2","M","Study Phase","Recall1",4634
+"w10128864","","knob",3,"Read","window","Study2","M","Study Phase","Recall1",395
 "w10133025_mjc","lookout","knob",3,"Read","window","Study2","M","Study Phase","Recall1",5472
 "w10140814DO","glass","knob",3,"Read","window","Study2","M","Study Phase","Recall1",15344
 "w10148391-Jk","payne ","knob",3,"Read","window","Study2","M","Study Phase","Recall1",4521
