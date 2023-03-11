@@ -22,6 +22,9 @@ combined = combined[ , c(1, 3, 4, 5, 6, 2)]
 #rename columns
 colnames(combined)[c(3:4, 6)] = c("encoding", "direction", "score")
 
+combined$encoding[combined$encoding == "JOL Recall"] = "JOL"
+combined$encoding[combined$encoding == "Read Recall"] = "Read"
+
 #get score on correct scale
 combined$score = combined$score * 100
 
@@ -43,7 +46,8 @@ combined = subset(combined,
                   combined$id != "W10057641NS" & combined$id != "10068469SJ" & combined$id != "W_10132867_LAA" &
                   combined$id != "62f17b6b63bd9e6627a19956" & combined$id != "5a8b1ee2000dab00018cc7cd" &
                   combined$id != "62d43cee3d60ac98c1dcacc8" & combined$id != "63474e67a5fd298c6103c409" &
-                  combined$id != "w963035" & combined$id != "5c2bb03b9fb36d000198e2d7" & combined$id != "w10162630_CAG")
+                  combined$id != "w963035" & combined$id != "5c2bb03b9fb36d000198e2d7" & combined$id != "w10162630_CAG" &
+                  combined$id != "TaravionCosey" & combined$id != "w10055946")
 
 ####ANOVA####
 model1 = ezANOVA(combined,
@@ -110,7 +114,7 @@ temp$statistic #sig!
 temp = t.test(jol.ph$M, read.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #Marginal (most likely a power thing...) #.069
+temp$statistic #Significant! p = .018
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #unrelated
@@ -123,9 +127,9 @@ temp$statistic #Non-Sig
 #okay, so trending in the right direction!
 
 ##get ns after cleaning
-##get ns
-nrow(jol.ph) #44
-nrow(read.ph) #44
+##get N
+nrow(jol.ph) #54
+nrow(read.ph) #55
 
 ##How many from each platform?
 jol4 = subset(jol3,
