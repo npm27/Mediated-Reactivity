@@ -114,7 +114,7 @@ temp$statistic #sig!
 temp = t.test(jol.ph$M, read.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #Significant! p = .018
+temp$statistic #Significant! p = .009
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #unrelated
@@ -128,25 +128,25 @@ temp$statistic #Non-Sig
 
 ##get ns after cleaning
 ##get N
-nrow(jol.ph) #54
-nrow(read.ph) #55
+nrow(jol.ph) #56
+nrow(read.ph) #56
 
 ##How many from each platform?
 jol4 = subset(jol3,
               jol3$Platform == "Prolific")
-length(unique(jol4$id)) #19
+length(unique(jol4$id)) #21
 
 jol5 = subset(jol3,
               jol3$Platform == "USM")
-length(unique(jol5$id)) #22
+length(unique(jol5$id)) #35
 
 read4 = subset(read3,
               read3$Platform == "Prolific")
-length(unique(read4$id)) #20
+length(unique(read4$id)) #22
 
 read5 = subset(read3,
               read3$Platform == "USM")
-length(unique(read5$id)) #22
+length(unique(read5$id)) #34
 
 ####platform differences?####
 combined2 = rbind(jol4, read4)
