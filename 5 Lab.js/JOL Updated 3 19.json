@@ -1,0 +1,2875 @@
+{
+  "components": {
+    "1": {
+      "id": "1",
+      "type": "lab.flow.Loop",
+      "children": [
+        "12"
+      ],
+      "templateParameters": {
+        "columns": [
+          {
+            "name": "Cue",
+            "type": "string"
+          },
+          {
+            "name": "Target",
+            "type": "string"
+          },
+          {
+            "name": "Direction",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          [
+            "Lion",
+            "Stripes",
+            "M"
+          ],
+          [
+            "Beach",
+            "Box",
+            "M"
+          ],
+          [
+            "War",
+            "Quiet",
+            "M"
+          ],
+          [
+            "Birthday",
+            "Pie",
+            "M"
+          ],
+          [
+            "Rough",
+            "Silk",
+            "M"
+          ],
+          [
+            "Tree",
+            "Syrup",
+            "M"
+          ],
+          [
+            "Bat",
+            "Bounce",
+            "M"
+          ],
+          [
+            "Circle",
+            "Dance",
+            "M"
+          ],
+          [
+            "Horse",
+            "Wheel",
+            "M"
+          ],
+          [
+            "Ceiling",
+            "Carpet",
+            "M"
+          ],
+          [
+            "Cry",
+            "Bottle",
+            "M"
+          ],
+          [
+            "Wedding",
+            "Finger",
+            "M"
+          ],
+          [
+            "Day",
+            "Dark",
+            "M"
+          ],
+          [
+            "Tooth",
+            "Hair",
+            "M"
+          ],
+          [
+            "Hard",
+            "Cotton",
+            "M"
+          ],
+          [
+            "Litter",
+            "Trash",
+            "F"
+          ],
+          [
+            "Wage",
+            "Money",
+            "F"
+          ],
+          [
+            "Scalp",
+            "Head",
+            "F"
+          ],
+          [
+            "Mule",
+            "Donkey",
+            "F"
+          ],
+          [
+            "Root",
+            "Plant",
+            "F"
+          ],
+          [
+            "Swan",
+            "Bird",
+            "F"
+          ],
+          [
+            "Word",
+            "Sentence",
+            "F"
+          ],
+          [
+            "Hygiene",
+            "Clean",
+            "F"
+          ],
+          [
+            "Nap",
+            "Sleep",
+            "F"
+          ],
+          [
+            "Hot",
+            "Chili",
+            "F"
+          ],
+          [
+            "Affection",
+            "Love",
+            "F"
+          ],
+          [
+            "Sip",
+            "Drink",
+            "F"
+          ],
+          [
+            "Credit",
+            "Card",
+            "F"
+          ],
+          [
+            "Orchid",
+            "Flower",
+            "F"
+          ],
+          [
+            "Tuna",
+            "Fish",
+            "F"
+          ],
+          [
+            "Mirror",
+            "Maroon",
+            "U"
+          ],
+          [
+            "Stretch",
+            "Cloth",
+            "U"
+          ],
+          [
+            "Give",
+            "Steak",
+            "U"
+          ],
+          [
+            "Crackle",
+            "Election",
+            "U"
+          ],
+          [
+            "Vehicle",
+            "Charm",
+            "U"
+          ],
+          [
+            "Meat",
+            "Keys",
+            "U"
+          ],
+          [
+            "Shell",
+            "Shake",
+            "U"
+          ],
+          [
+            "Listen",
+            "Fiction",
+            "U"
+          ],
+          [
+            "Smart",
+            "Rod",
+            "U"
+          ],
+          [
+            "Soon",
+            "Belt",
+            "U"
+          ],
+          [
+            "Sign",
+            "Tick",
+            "U"
+          ],
+          [
+            "Temperature",
+            "Morning",
+            "U"
+          ],
+          [
+            "Cake",
+            "Hand",
+            "U"
+          ],
+          [
+            "Fuzzy",
+            "Bang",
+            "U"
+          ],
+          [
+            "Maze",
+            "Phone",
+            "U"
+          ]
+        ]
+      },
+      "sample": {
+        "mode": "draw-shuffle",
+        "n": "use all"
+      },
+      "files": [],
+      "responses": [
+        {
+          "label": "Advance",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Full Task",
+      "_tab": "Content",
+      "indexParameter": ""
+    },
+    "2": {
+      "id": "2",
+      "type": "lab.html.Page",
+      "items": [
+        {
+          "type": "text",
+          "content": "In this study you will be shown a series a word pairs. Please study each pair carefully. Your memory for these items may be tested!",
+          "title": " "
+        }
+      ],
+      "scrollTop": true,
+      "submitButtonText": "Continue →",
+      "submitButtonPosition": "right",
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Task Instructions 1"
+    },
+    "3": {
+      "id": "3",
+      "type": "lab.html.Page",
+      "items": [
+        {
+          "type": "text",
+          "content": "You have completed this section. Please click continue.",
+          "title": " "
+        }
+      ],
+      "scrollTop": true,
+      "submitButtonText": "Continue →",
+      "submitButtonPosition": "right",
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Complete"
+    },
+    "4": {
+      "id": "4",
+      "type": "lab.html.Page",
+      "items": [
+        {
+          "type": "text",
+          "content": "This section of the experiment is concerned with how people process words. You will be asked to view words and judge them.\n\nThe words will be presented in the middle of the screen. You should ask yourself if the word on the screen is a real word or a fake word.\n\nIf you recognize the word on the screen like COLD, please press the \"z\" key for real word. If the word is made-up nonsense, like WERM, please press \"/\" for fake word. During practice, we will give you feedback.\n\nPlease respond as quickly as you can while remaining accurate. You have three seconds to respond to every word.",
+          "title": " "
+        }
+      ],
+      "scrollTop": true,
+      "submitButtonText": "Continue →",
+      "submitButtonPosition": "right",
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT Instructions"
+    },
+    "5": {
+      "id": "5",
+      "type": "lab.html.Page",
+      "items": [
+        {
+          "type": "text",
+          "content": "You have completed the study! If you have any questions about your participation, please email nicholas.maxwell@msutexas.edu. Thank you for participating! You may now close this window.",
+          "title": " "
+        }
+      ],
+      "scrollTop": true,
+      "submitButtonText": "Continue →",
+      "submitButtonPosition": "hidden",
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Done!"
+    },
+    "6": {
+      "id": "6",
+      "type": "lab.flow.Loop",
+      "children": [
+        "10"
+      ],
+      "templateParameters": {
+        "columns": [
+          {
+            "name": "Cue",
+            "type": "string"
+          },
+          {
+            "name": "Target",
+            "type": "string"
+          },
+          {
+            "name": "Direction",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          [
+            "Trees",
+            "Green",
+            "Buffer"
+          ],
+          [
+            "Pitcher",
+            "Catcher",
+            "Buffer"
+          ],
+          [
+            "Peanut",
+            "Butter",
+            "Buffer"
+          ],
+          [
+            "Scare",
+            "Fright",
+            "Buffer"
+          ],
+          [
+            "Space",
+            "Jam",
+            "Buffer"
+          ]
+        ]
+      },
+      "sample": {
+        "mode": "draw-shuffle",
+        "n": "use all"
+      },
+      "files": [],
+      "responses": [
+        {
+          "label": "Advance",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Buffer 1",
+      "_tab": "Content",
+      "indexParameter": ""
+    },
+    "7": {
+      "id": "7",
+      "type": "lab.html.Page",
+      "items": [
+        {
+          "type": "text",
+          "content": "You will now begin this section of the study. Click Continue when you are ready to begin",
+          "title": " "
+        }
+      ],
+      "scrollTop": true,
+      "submitButtonText": "Continue →",
+      "submitButtonPosition": "right",
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Task Instructions 3"
+    },
+    "8": {
+      "id": "8",
+      "type": "lab.html.Page",
+      "items": [
+        {
+          "type": "text",
+          "content": "As you study, you will be asked to rate your ability to remember the second item in the pair if you were only shown the first at test. You will make these ratings using a 0 to 100 Scale. For  example, if you are given the pair CAT - DOG, a rating of 0 indicates that you would not remember DOG at test, while a rating of 100 indicates full certainty that you would remember the word DOG at test. When making your ratings, it is critical that you use the full range of the scale! You will be disqualified for only giving ratings of 0 or 100! After studying each pair and typing your rating, press Enter to advance to the next pair..",
+          "title": " "
+        }
+      ],
+      "scrollTop": true,
+      "submitButtonText": "Continue →",
+      "submitButtonPosition": "right",
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Task Instructions 2"
+    },
+    "9": {
+      "id": "9",
+      "type": "lab.html.Form",
+      "content": "<main class=\"content-horizontal-center\">\n  <article class=\"center\">\n    <p style=\"text-align:center;font-size:20px\">How likely are you to correctly recall the second item in the pair? <br> Type your response on a scale from 0-100 and then press Enter.</p>\n    \n    <p style=\"text-align:center;font-size:50px\">\n         ${ parameters.Cue } : ${parameters.Target}\n    </p>\n\n <form>\n      <table class=\"table-plain stimulus\">\n          <tr>\n            <td style=\"width: 50%\">\n              <p style=\"font-size:40px\"><b>Rating:</b></p>\n            </td>\n            <td style=\"width: 50%\">\n              <input type=\"text\" name=\"response\" autocomplete=\"off\" autofocus=\"autofocus\">\n            </td>\n          </tr>\n          <tr>\n          \n            <td></td>\n          </tr>\n\n        </table>\n     \n    </form>\n\n  </article>\n\n</main>\n",
+      "scrollTop": true,
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "keypress",
+          "target": "",
+          "filter": "Enter"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Trial",
+      "_tab": "Content"
+    },
+    "10": {
+      "id": "10",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "9",
+        "16"
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Buffer 1 Seq"
+    },
+    "11": {
+      "id": "11",
+      "type": "lab.canvas.Screen",
+      "content": [
+        {
+          "type": "i-text",
+          "version": "4.3.1",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 0,
+          "width": 371.31,
+          "height": 45.2,
+          "fill": "black",
+          "stroke": null,
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "text": "${ parameters.word }",
+          "fontSize": "40",
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "24",
+          "styles": {}
+        }
+      ],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "word",
+          "event": "keypress",
+          "target": "",
+          "filter": "z"
+        },
+        {
+          "label": "nonword",
+          "filter": "/",
+          "event": "keypress"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT 1",
+      "_tab": "Behavior",
+      "timeout": "3000"
+    },
+    "12": {
+      "id": "12",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "17",
+        "18"
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Sequence"
+    },
+    "13": {
+      "id": "13",
+      "type": "lab.html.Form",
+      "content": "<main class=\"content-horizontal-center content-vertical-center\">\n  <div class=\"w-l text-left\" style=\"display: block\">\n    \n    <h2 class=\"text-center\">Please tell us about yourself</h2>\n    <p class=\"text-center\">Before the study can start, we would like to learn a bit more about you. </p>\n    \n    <form id=\"demography\">\n      <table>\n        <!-- Age -->\n        <tr style=\"height: 50px\">\n          <td class=\"font-weight-bold\">\n            How old are you, in years?\n          </td>\n          <td>\n            <input name=\"age\" type=\"number\" required class=\"w-100\">\n          </td>\n        </tr>\n        \n        <!-- Gender -->\n        <tr style=\"height: 100px\">\n          <td class=\"font-weight-bold\">\n            What is your current gender identity?\n          </td>\n          <td>\n            <select name=\"gender\" required class=\"w-100\">\n              <option value=\"\" selected>\n                -- Please click to select --\n              </option>\n              <option value=\"female\">Female</option>\n              <option value=\"male\">Male</option>\n              <option value=\"transgender\">Transgender</option>\n              <option value=\"prefer not to respond\">no response</option>\n            </select>\n          </td>\n        </tr>\n\n        <!-- Education -->\n        <tr style=\"height: 100px\">\n          <td class=\"font-weight-bold\">\n            Please specify your highest degree:\n          </td>\n          <td>\n            <select name=\"education\" class=\"w-100\">\n              <option value=\"\" selected>\n                -- Please click to select --\n              </option>\n              <option value=\"no\">no degree</option>\n              <option value=\"highschool\">High school diploma</option>\n              <option value=\"bachelor\">Bachelor's</option>\n              <option value=\"master\">Master's</option>\n              <option value=\"phd\">PhD</option>\n            </select>\n          </td>\n        </tr>\n\n        <!-- Ethnicity -->\n        <tr style=\"height: 100px\">\n          <td class=\"font-weight-bold\">\n            What is your Ethnicity?\n          </td>\n          <td>\n            <select name=\"education\" class=\"w-100\">\n              <option value=\"\" selected>\n                -- Please click to select --\n              </option>\n              <option value=\"Native American\">American Indian/Alaskan Native</option>\n              <option value=\"Asian\">Asian/Pacific Islander</option>\n              <option value=\"Black\">Black/African American</option>\n              <option value=\"White\">White</option>\n              <option value=\"Other\">Other</option>\n            </select>\n          </td>\n        </tr>\n\n        <!-- Hispanic -->\n        <tr style=\"height: 100px\">\n          <td class=\"font-weight-bold\">\n            Do you identify as Hispanic?\n          </td>\n          <td>\n            <select name=\"education\" class=\"w-100\">\n              <option value=\"\" selected>\n                -- Please click to select --\n              </option>\n              <option value=\"hispanic\">Yes</option>\n              <option value=\"not hispanic\">No</option>\n            </select>\n          </td>\n        </tr>\n\n        <!-- Occupation\n        <tr style=\"height: 100px\">\n          <td>\n            What is your occupation, or if you still study, your field?\n          </td>\n          <td>\n            <input name=\"occupation\" class=\"w-100\">\n          </td>\n        </tr>\n        -->\n\n        <!-- Column balance -->\n        <colgroup>\n          <col style=\"width: 45%\">\n          <col style=\"width: 65%\">\n        </colgroup>\n      </table>\n    </form>\n  </div>\n</main>\n\n<footer class=\"content-vertical-center content-horizontal-right\">\n  <button type=\"submit\" form=\"demography\">Continue &rarr;</button>\n</footer>",
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Basic Demographics form",
+      "files": [],
+      "_tab": "Behavior"
+    },
+    "14": {
+      "id": "14",
+      "type": "lab.canvas.Screen",
+      "content": [
+        {
+          "type": "i-text",
+          "version": "4.3.1",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 0,
+          "width": 29.2,
+          "height": 56.5,
+          "fill": "black",
+          "stroke": null,
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "text": "+",
+          "fontSize": "50",
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "97",
+          "styles": {}
+        }
+      ],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT Fixation"
+    },
+    "15": {
+      "id": "15",
+      "type": "lab.html.Page",
+      "items": [
+        {
+          "type": "text",
+          "title": "Welcome to the Experiment!",
+          "content": "This study will take approximately 20 minute to complete."
+        },
+        {
+          "required": true,
+          "type": "input",
+          "label": "To begin, please type your first and last name in the box below, then click continue."
+        }
+      ],
+      "scrollTop": true,
+      "submitButtonText": "Continue →",
+      "submitButtonPosition": "right",
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Welcome screen"
+    },
+    "16": {
+      "id": "16",
+      "type": "lab.canvas.Screen",
+      "content": [],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Inter_Trial",
+      "_tab": "Behavior",
+      "timeout": "250"
+    },
+    "17": {
+      "id": "17",
+      "type": "lab.html.Form",
+      "content": "<main class=\"content-horizontal-center\">\n  <article class=\"center\">\n    <p style=\"text-align:center;font-size:20px\">How likely are you to correctly recall the second item in the pair? <br> Type your response on a scale from 0-100 and then press Enter.</p>\n    \n    <p style=\"text-align:center;font-size:50px\">\n         ${ parameters.Cue } : ${parameters.Target}\n    </p>\n\n <form>\n      <table class=\"table-plain stimulus\">\n          <tr>\n            <td style=\"width: 50%\">\n              <p style=\"font-size:40px\"><b>Rating:</b></p>\n            </td>\n            <td style=\"width: 50%\">\n              <input type=\"text\" name=\"response\" autocomplete=\"off\" autofocus=\"autofocus\">\n            </td>\n          </tr>\n          <tr>\n          \n            <td></td>\n          </tr>\n\n        </table>\n     \n    </form>\n\n  </article>\n\n</main>\n",
+      "scrollTop": true,
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "keypress",
+          "target": "",
+          "filter": "Enter"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Trial",
+      "_tab": "Content"
+    },
+    "18": {
+      "id": "18",
+      "type": "lab.canvas.Screen",
+      "content": [],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Inter_Trial",
+      "_tab": "Behavior",
+      "timeout": "250"
+    },
+    "19": {
+      "id": "19",
+      "type": "lab.html.Screen",
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "click",
+          "target": "button#option_a ",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Consent",
+      "content": "<main class=\"content-horizontal-center content-vertical-center\">\r\n  <div class=\"w-l text-left\" style=\"display: block\">\r\n    <h1> Informed Consent </h1>\r\n\r\n        <p> <b> Project Information: </b> <br>\r\n        <b> Project Title: </b> Effects of Word Properties on Judgments of Learning <br>\r\n        <b> Principle Investigator: </b> Nicholas P. Maxwell <br>\r\n        <b> Department: </b> Psychology <br>\r\n        <b> Email: </b> <a href=\"nicholas.maxwell@msutexas.edu/\">nicholas.maxwell@msutexas.edu</a> </p>\r\n\r\n        <h2> Research Description </h2> \r\n\r\n        <h3> 1. Purpose: </h3>\r\n         <p>The goal of this study is to examine how different levels of associative relationships influence metamemory and memory. </p>\r\n\r\n        <h3> 2. Description of Study: </h3>\r\n        <p>You will be shown word pairs presented one at a time on a computer screen. You will be asked to study each word pairs and depending on the condition to which you are randomly assigned, you may be asked to complete a judgment task involving the words. Following study, your memory for the word pairs will be tested. This experiment is expected to take approximately 45 minutes to complete. </p>\r\n\r\n       <h3> 3. Benefits: </h3>\r\n        <p>Participants are not expected to directly benefit from participation. However, you will receive 30 minutes of research credit they can be used towards an applicable course (e.g., PSCY 1103, PSCY 2203, etc.). Additionally, participants will receive exposure to research methods in cognitive psychology. </p>\r\n\r\n        <h3> 4. Risks: </h3>\r\n        <p>The researchers do not identify any risks beyond slight boredom due to the repetitive nature of the task. However, if participants find that they are distressed, they may discontinue their participation at any time by closing their browser window and notifying the researcher. </p>\r\n\r\n        <h3> 5. Confidentiality: </h3>\r\n        <p>Other than the consent form, participants will not place their name on any form or document associated with this experiment. Participants will be assigned a random identification number. Any data linking participant responses to their identification number will be destroyed immediately following conclusion of this study. All findings will be aggregated across participants, such that individual responses will not be linked to individual participants. </p>\r\n\r\n        <h3>6. Alternative Procedures: </h3>\r\n        <p>You are free to discontinue your participation at any time. Students completing this study in exchange for course credit may instead opt to complete alternate assignments. Please check with your instructor for details, as the nature of these assignments may vary between instructors/courses. </p>\r\n\r\n        <h3>7. Participant’s Assurance:</h3>\r\n        <p>This project and consent form have been reviewed by the Human Subjects Review Committee at Midwestern State University. Any concerns regarding your participation in this study can be made in writing to the Office of the Provost (Hardin Administration Building; 3410 Taft Blvd., Wichita Falls, TX, 76308) or by phone (940-397-4226). Any questions regarding this study can be directed to towards Nicholas P. Maxwell (<a href=\"nicholas.maxwell@msutexas.edu/\">nicholas.maxwell@msutexas.edu</a>).</p>\r\n\r\n        <h2> Consent to Participate in Research </h2>\r\n        <p>I understand that participation in this project is completely voluntary, and I may withdraw at any time without penalty. Unless described above, all personal information will be strictly confidential, including my name and other identifying information. All procedures will be followed as their purposes were explained to me. I received information regarding any anticipated inconveniences, risks and/or benefits regarding my participation in this study. Any new information that develops during this project will be provided to me if that information may affect my willingness to continue my participation in this study.<p>\r\n\r\n        <p><b>By clicking Continue, I give my consent to participate in this research project.</b></p>\r\n\r\n </div>\r\n</main>\r\n\r\n<footer class=\"content-vertical-center content-horizontal-right\">\r\n  <button id=\"option_a\" type=\"submit\" form=\"consent\">Continue &rarr;</button>\r\n</footer>",
+      "_tab": "Content"
+    },
+    "20": {
+      "id": "20",
+      "type": "lab.flow.Loop",
+      "children": [
+        "21"
+      ],
+      "templateParameters": {
+        "columns": [
+          {
+            "name": "Cue",
+            "type": "string"
+          },
+          {
+            "name": "Target",
+            "type": "string"
+          },
+          {
+            "name": "Direction",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          [
+            "Geese",
+            "Goose",
+            "Buffer"
+          ],
+          [
+            "Sherrif",
+            "Police",
+            "Buffer"
+          ],
+          [
+            "Malt",
+            "Chocolate",
+            "Buffer"
+          ],
+          [
+            "Moon",
+            "Space",
+            "Buffer"
+          ],
+          [
+            "Thing",
+            "Stuff",
+            "Buffer"
+          ]
+        ]
+      },
+      "sample": {
+        "mode": "draw-shuffle",
+        "n": "use all"
+      },
+      "files": [],
+      "responses": [
+        {
+          "label": "Advance",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Buffer 2",
+      "_tab": "Content",
+      "indexParameter": ""
+    },
+    "21": {
+      "id": "21",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "22",
+        "23"
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Buffer 2 Seq"
+    },
+    "22": {
+      "id": "22",
+      "type": "lab.html.Form",
+      "content": "<main class=\"content-horizontal-center\">\n  <article class=\"center\">\n    <p style=\"text-align:center;font-size:20px\">How likely are you to correctly recall the second item in the pair? <br> Type your response on a scale from 0-100 and then press Enter.</p>\n    \n    <p style=\"text-align:center;font-size:50px\">\n         ${ parameters.Cue } : ${parameters.Target}\n    </p>\n\n <form>\n      <table class=\"table-plain stimulus\">\n          <tr>\n            <td style=\"width: 50%\">\n              <p style=\"font-size:40px\"><b>Rating:</b></p>\n            </td>\n            <td style=\"width: 50%\">\n              <input type=\"text\" name=\"response\" autocomplete=\"off\" autofocus=\"autofocus\">\n            </td>\n          </tr>\n          <tr>\n          \n            <td></td>\n          </tr>\n\n        </table>\n     \n    </form>\n\n  </article>\n\n</main>\n",
+      "scrollTop": true,
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "keypress",
+          "target": "",
+          "filter": "Enter"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "JOL Trial",
+      "_tab": "Content"
+    },
+    "23": {
+      "id": "23",
+      "type": "lab.canvas.Screen",
+      "content": [],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Inter_Trial",
+      "_tab": "Behavior",
+      "timeout": "250"
+    },
+    "24": {
+      "id": "24",
+      "type": "lab.html.Form",
+      "content": "<main>\n\n\n<p> In the box below, please list the 50 US States in alphabetical order. <br> This task is timed for two minutes. This screen will automatically advance to the next page when time is up.</p>\n  \n  <div align = \"center\">\n\n    <textarea name=\"filler\" cols=\"50\" rows=\"10\"> </textarea>\n \n  </div>\n\n</main>",
+      "scrollTop": true,
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Filler Task",
+      "_tab": "Content",
+      "timeout": "120000"
+    },
+    "25": {
+      "id": "25",
+      "type": "lab.canvas.Screen",
+      "content": [],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Inter_Trial",
+      "_tab": "Behavior",
+      "timeout": "250"
+    },
+    "26": {
+      "id": "26",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "11",
+        "25"
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT Seq 1"
+    },
+    "27": {
+      "id": "27",
+      "type": "lab.flow.Loop",
+      "children": [
+        "26"
+      ],
+      "templateParameters": {
+        "columns": [
+          {
+            "name": "word",
+            "type": "string"
+          },
+          {
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "name": "Direction",
+            "type": "string"
+          },
+          {
+            "name": "Num",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          [
+            "Stripes",
+            "W",
+            "M",
+            "1"
+          ],
+          [
+            "Box",
+            "W",
+            "M",
+            "2"
+          ],
+          [
+            "Quiet",
+            "W",
+            "M",
+            "3"
+          ],
+          [
+            "Pie",
+            "W",
+            "M",
+            "4"
+          ],
+          [
+            "Silk",
+            "W",
+            "M",
+            "5"
+          ],
+          [
+            "Syrup",
+            "W",
+            "M",
+            "6"
+          ],
+          [
+            "Bounce",
+            "W",
+            "M",
+            "7"
+          ],
+          [
+            "Trash",
+            "W",
+            "F",
+            "8"
+          ],
+          [
+            "Money",
+            "W",
+            "F",
+            "9"
+          ],
+          [
+            "Head",
+            "W",
+            "F",
+            "10"
+          ],
+          [
+            "Donkey",
+            "W",
+            "F",
+            "11"
+          ],
+          [
+            "Plant",
+            "W",
+            "F",
+            "12"
+          ],
+          [
+            "Bird",
+            "W",
+            "F",
+            "13"
+          ],
+          [
+            "Sentence",
+            "W",
+            "F",
+            "14"
+          ],
+          [
+            "Maroon",
+            "W",
+            "U",
+            "15"
+          ],
+          [
+            "Cloth",
+            "W",
+            "U",
+            "16"
+          ],
+          [
+            "Steak",
+            "W",
+            "U",
+            "17"
+          ],
+          [
+            "Election",
+            "W",
+            "U",
+            "18"
+          ],
+          [
+            "Charm",
+            "W",
+            "U",
+            "19"
+          ],
+          [
+            "Keys",
+            "W",
+            "U",
+            "20"
+          ],
+          [
+            "Phone",
+            "W",
+            "U",
+            "21"
+          ],
+          [
+            "Shake",
+            "W",
+            "U",
+            "22"
+          ],
+          [
+            "Clean",
+            "W",
+            "F",
+            "23"
+          ],
+          [
+            "Razor",
+            "W",
+            "C",
+            "24"
+          ],
+          [
+            "Cactus",
+            "W",
+            "C",
+            "25"
+          ],
+          [
+            "Chop",
+            "W",
+            "C",
+            "26"
+          ],
+          [
+            "Chisel",
+            "W",
+            "C",
+            "27"
+          ],
+          [
+            "Attire",
+            "W",
+            "C",
+            "28"
+          ],
+          [
+            "Cherry",
+            "W",
+            "C",
+            "29"
+          ],
+          [
+            "Blaze",
+            "W",
+            "C",
+            "30"
+          ],
+          [
+            "Documentary",
+            "W",
+            "C",
+            "31"
+          ],
+          [
+            "Incense",
+            "W",
+            "C",
+            "32"
+          ],
+          [
+            "League",
+            "W",
+            "C",
+            "33"
+          ],
+          [
+            "Hornet",
+            "W",
+            "C",
+            "34"
+          ],
+          [
+            "Feud",
+            "W",
+            "C",
+            "35"
+          ],
+          [
+            "Chill",
+            "W",
+            "C",
+            "36"
+          ],
+          [
+            "Herd",
+            "W",
+            "C",
+            "37"
+          ],
+          [
+            "Wasp",
+            "W",
+            "C",
+            "38"
+          ],
+          [
+            "Bridge",
+            "W",
+            "C",
+            "39"
+          ],
+          [
+            "King",
+            "W",
+            "C",
+            "40"
+          ],
+          [
+            "Happy",
+            "W",
+            "C",
+            "41"
+          ],
+          [
+            "Art",
+            "W",
+            "C",
+            "42"
+          ],
+          [
+            "Strong",
+            "W",
+            "C",
+            "43"
+          ],
+          [
+            "Sugar",
+            "W",
+            "C",
+            "44"
+          ],
+          [
+            "Push",
+            "W",
+            "C",
+            "45"
+          ],
+          [
+            "Dernce",
+            "N",
+            "N",
+            "46"
+          ],
+          [
+            "Whool",
+            "N",
+            "N",
+            "47"
+          ],
+          [
+            "Banpet",
+            "N",
+            "N",
+            "48"
+          ],
+          [
+            "Boadle",
+            "N",
+            "N",
+            "49"
+          ],
+          [
+            "Ferten",
+            "N",
+            "N",
+            "50"
+          ],
+          [
+            "Dard",
+            "N",
+            "N",
+            "51"
+          ],
+          [
+            "Hact",
+            "N",
+            "N",
+            "52"
+          ],
+          [
+            "Cattid",
+            "N",
+            "N",
+            "53"
+          ],
+          [
+            "Fleep",
+            "N",
+            "N",
+            "54"
+          ],
+          [
+            "Mot",
+            "N",
+            "N",
+            "55"
+          ],
+          [
+            "Lonk",
+            "N",
+            "N",
+            "56"
+          ],
+          [
+            "Drine",
+            "N",
+            "N",
+            "57"
+          ],
+          [
+            "Cewn",
+            "N",
+            "N",
+            "58"
+          ],
+          [
+            "Flimer",
+            "N",
+            "N",
+            "59"
+          ],
+          [
+            "Fimp",
+            "N",
+            "N",
+            "60"
+          ],
+          [
+            "Lirtion",
+            "N",
+            "N",
+            "61"
+          ],
+          [
+            "Rud",
+            "N",
+            "N",
+            "62"
+          ],
+          [
+            "Bech",
+            "N",
+            "N",
+            "63"
+          ],
+          [
+            "Tockle",
+            "N",
+            "N",
+            "64"
+          ],
+          [
+            "Serning",
+            "N",
+            "N",
+            "65"
+          ],
+          [
+            "Hant",
+            "N",
+            "N",
+            "66"
+          ],
+          [
+            "Bawns",
+            "N",
+            "N",
+            "67"
+          ],
+          [
+            "Miel",
+            "N",
+            "N",
+            "68"
+          ],
+          [
+            "Bedge",
+            "N",
+            "N",
+            "69"
+          ],
+          [
+            "Weath",
+            "N",
+            "N",
+            "70"
+          ],
+          [
+            "Stins",
+            "N",
+            "N",
+            "71"
+          ],
+          [
+            "Leals",
+            "N",
+            "N",
+            "72"
+          ],
+          [
+            "Borp",
+            "N",
+            "N",
+            "73"
+          ],
+          [
+            "Etcery",
+            "N",
+            "N",
+            "74"
+          ],
+          [
+            "Surror",
+            "N",
+            "N",
+            "75"
+          ],
+          [
+            "Cank",
+            "N",
+            "N",
+            "76"
+          ],
+          [
+            "Satser",
+            "N",
+            "N",
+            "77"
+          ],
+          [
+            "Nunge",
+            "N",
+            "N",
+            "78"
+          ],
+          [
+            "Schook",
+            "N",
+            "N",
+            "79"
+          ],
+          [
+            "Pends",
+            "N",
+            "N",
+            "80"
+          ],
+          [
+            "Roap",
+            "N",
+            "N",
+            "81"
+          ],
+          [
+            "Beiraty",
+            "N",
+            "N",
+            "82"
+          ],
+          [
+            "Quenge",
+            "N",
+            "N",
+            "83"
+          ],
+          [
+            "Houvy",
+            "N",
+            "N",
+            "84"
+          ],
+          [
+            "Rale",
+            "N",
+            "N",
+            "85"
+          ],
+          [
+            "Trin",
+            "N",
+            "N",
+            "86"
+          ],
+          [
+            "Uden",
+            "N",
+            "N",
+            "87"
+          ],
+          [
+            "Crile",
+            "N",
+            "N",
+            "88"
+          ],
+          [
+            "Vessey",
+            "N",
+            "N",
+            "89"
+          ],
+          [
+            "Wirtop",
+            "N",
+            "N",
+            "90"
+          ]
+        ]
+      },
+      "sample": {
+        "mode": "draw-shuffle"
+      },
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT Loop 1"
+    },
+    "32": {
+      "id": "32",
+      "type": "lab.canvas.Screen",
+      "content": [],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Break!"
+    },
+    "33": {
+      "id": "33",
+      "type": "lab.canvas.Screen",
+      "content": [
+        {
+          "type": "i-text",
+          "version": "4.3.1",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 0,
+          "width": 29.2,
+          "height": 56.5,
+          "fill": "black",
+          "stroke": null,
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "text": "+",
+          "fontSize": "50",
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "97",
+          "styles": {}
+        }
+      ],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT Fixation 2"
+    },
+    "34": {
+      "id": "34",
+      "type": "lab.flow.Loop",
+      "children": [
+        "35"
+      ],
+      "templateParameters": {
+        "columns": [
+          {
+            "name": "word",
+            "type": "string"
+          },
+          {
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "name": "Direction",
+            "type": "string"
+          },
+          {
+            "name": "Num",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          [
+            "Dance",
+            "W",
+            "M",
+            "1"
+          ],
+          [
+            "Wheel",
+            "W",
+            "M",
+            "2"
+          ],
+          [
+            "Carpet",
+            "W",
+            "M",
+            "3"
+          ],
+          [
+            "Bottle",
+            "W",
+            "M",
+            "4"
+          ],
+          [
+            "Finger",
+            "W",
+            "M",
+            "5"
+          ],
+          [
+            "Dark",
+            "W",
+            "M",
+            "6"
+          ],
+          [
+            "Hair",
+            "W",
+            "M",
+            "7"
+          ],
+          [
+            "Clean",
+            "W",
+            "F",
+            "8"
+          ],
+          [
+            "Sleep",
+            "W",
+            "F",
+            "9"
+          ],
+          [
+            "Hot",
+            "W",
+            "F",
+            "10"
+          ],
+          [
+            "Love",
+            "W",
+            "F",
+            "11"
+          ],
+          [
+            "Drink",
+            "W",
+            "F",
+            "12"
+          ],
+          [
+            "Card",
+            "W",
+            "F",
+            "13"
+          ],
+          [
+            "Flower",
+            "W",
+            "F",
+            "14"
+          ],
+          [
+            "Fiction",
+            "W",
+            "U",
+            "15"
+          ],
+          [
+            "Rod",
+            "W",
+            "U",
+            "16"
+          ],
+          [
+            "Belt",
+            "W",
+            "U",
+            "17"
+          ],
+          [
+            "Tick",
+            "W",
+            "U",
+            "18"
+          ],
+          [
+            "Morning",
+            "W",
+            "U",
+            "19"
+          ],
+          [
+            "Hand",
+            "W",
+            "U",
+            "20"
+          ],
+          [
+            "Bang",
+            "W",
+            "U",
+            "21"
+          ],
+          [
+            "Fish",
+            "W",
+            "F",
+            "22"
+          ],
+          [
+            "Cotton",
+            "W",
+            "M",
+            "23"
+          ],
+          [
+            "Summer",
+            "W",
+            "C",
+            "24"
+          ],
+          [
+            "School",
+            "W",
+            "C",
+            "25"
+          ],
+          [
+            "Pants",
+            "W",
+            "C",
+            "26"
+          ],
+          [
+            "Reality",
+            "W",
+            "C",
+            "27"
+          ],
+          [
+            "Eyes",
+            "W",
+            "C",
+            "28"
+          ],
+          [
+            "Nurse",
+            "W",
+            "C",
+            "29"
+          ],
+          [
+            "Soap",
+            "W",
+            "C",
+            "30"
+          ],
+          [
+            "Heavy",
+            "W",
+            "C",
+            "31"
+          ],
+          [
+            "Rake",
+            "W",
+            "C",
+            "32"
+          ],
+          [
+            "Trap",
+            "W",
+            "C",
+            "33"
+          ],
+          [
+            "Oven",
+            "W",
+            "C",
+            "34"
+          ],
+          [
+            "Grill",
+            "W",
+            "C",
+            "35"
+          ],
+          [
+            "Valley",
+            "W",
+            "C",
+            "36"
+          ],
+          [
+            "Window",
+            "W",
+            "C",
+            "37"
+          ],
+          [
+            "Diet",
+            "W",
+            "C",
+            "38"
+          ],
+          [
+            "Bench",
+            "W",
+            "C",
+            "39"
+          ],
+          [
+            "Death",
+            "W",
+            "C",
+            "40"
+          ],
+          [
+            "Sick",
+            "W",
+            "C",
+            "41"
+          ],
+          [
+            "Lease",
+            "W",
+            "C",
+            "42"
+          ],
+          [
+            "Both",
+            "W",
+            "C",
+            "43"
+          ],
+          [
+            "Artery",
+            "W",
+            "C",
+            "44"
+          ],
+          [
+            "Mirror",
+            "W",
+            "C",
+            "45"
+          ],
+          [
+            "Pozor",
+            "N",
+            "N",
+            "46"
+          ],
+          [
+            "Bactos",
+            "N",
+            "N",
+            "47"
+          ],
+          [
+            "Chon",
+            "N",
+            "N",
+            "48"
+          ],
+          [
+            "Spiset",
+            "N",
+            "N",
+            "49"
+          ],
+          [
+            "Alico",
+            "N",
+            "N",
+            "50"
+          ],
+          [
+            "Shurry",
+            "N",
+            "N",
+            "51"
+          ],
+          [
+            "Blard",
+            "N",
+            "N",
+            "52"
+          ],
+          [
+            "Rutlumen",
+            "N",
+            "N",
+            "53"
+          ],
+          [
+            "Inganse",
+            "N",
+            "N",
+            "54"
+          ],
+          [
+            "Hensh",
+            "N",
+            "N",
+            "55"
+          ],
+          [
+            "Hurtet",
+            "N",
+            "N",
+            "56"
+          ],
+          [
+            "Foeld",
+            "N",
+            "N",
+            "57"
+          ],
+          [
+            "Shulp",
+            "N",
+            "N",
+            "58"
+          ],
+          [
+            "Hern",
+            "N",
+            "N",
+            "59"
+          ],
+          [
+            "Wairk",
+            "N",
+            "N",
+            "60"
+          ],
+          [
+            "Clidge",
+            "N",
+            "N",
+            "61"
+          ],
+          [
+            "Kimt",
+            "N",
+            "N",
+            "62"
+          ],
+          [
+            "Tauly",
+            "N",
+            "N",
+            "63"
+          ],
+          [
+            "Amb",
+            "N",
+            "N",
+            "64"
+          ],
+          [
+            "Stronk",
+            "N",
+            "N",
+            "65"
+          ],
+          [
+            "Sacar",
+            "N",
+            "N",
+            "66"
+          ],
+          [
+            "Pung",
+            "N",
+            "N",
+            "67"
+          ],
+          [
+            "striled",
+            "N",
+            "N",
+            "68"
+          ],
+          [
+            "Clort",
+            "N",
+            "N",
+            "69"
+          ],
+          [
+            "Stook",
+            "N",
+            "N",
+            "70"
+          ],
+          [
+            "Runkey",
+            "N",
+            "N",
+            "71"
+          ],
+          [
+            "Swant",
+            "N",
+            "N",
+            "72"
+          ],
+          [
+            "Encontion",
+            "N",
+            "N",
+            "73"
+          ],
+          [
+            "Bof",
+            "N",
+            "N",
+            "74"
+          ],
+          [
+            "Fliel",
+            "N",
+            "N",
+            "75"
+          ],
+          [
+            "Chage",
+            "N",
+            "N",
+            "76"
+          ],
+          [
+            "Ipen",
+            "N",
+            "N",
+            "77"
+          ],
+          [
+            "Sirl",
+            "N",
+            "N",
+            "78"
+          ],
+          [
+            "Mynop",
+            "N",
+            "N",
+            "79"
+          ],
+          [
+            "Buths",
+            "N",
+            "N",
+            "80"
+          ],
+          [
+            "Muntork",
+            "N",
+            "N",
+            "81"
+          ],
+          [
+            "Haid",
+            "N",
+            "N",
+            "82"
+          ],
+          [
+            "Clorp",
+            "N",
+            "N",
+            "83"
+          ],
+          [
+            "Trank",
+            "N",
+            "N",
+            "84"
+          ],
+          [
+            "pikat",
+            "N",
+            "N",
+            "85"
+          ],
+          [
+            "spruride",
+            "N",
+            "N",
+            "86"
+          ],
+          [
+            "blinx",
+            "N",
+            "N",
+            "87"
+          ],
+          [
+            "reoet",
+            "N",
+            "N",
+            "88"
+          ],
+          [
+            "tirape",
+            "N",
+            "N",
+            "89"
+          ],
+          [
+            "spivor",
+            "N",
+            "N",
+            "90"
+          ]
+        ]
+      },
+      "sample": {
+        "mode": "draw-shuffle"
+      },
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT Loop 2"
+    },
+    "35": {
+      "id": "35",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "36",
+        "37"
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT Seq 2"
+    },
+    "36": {
+      "id": "36",
+      "type": "lab.canvas.Screen",
+      "content": [
+        {
+          "type": "i-text",
+          "version": "4.3.1",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 0,
+          "width": 371.31,
+          "height": 45.2,
+          "fill": "black",
+          "stroke": null,
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "text": "${ parameters.word }",
+          "fontSize": "40",
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "24",
+          "styles": {}
+        }
+      ],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "word",
+          "event": "keypress",
+          "target": "",
+          "filter": "z"
+        },
+        {
+          "label": "nonword",
+          "filter": "/",
+          "event": "keypress"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "LDT 2",
+      "_tab": "Behavior",
+      "timeout": "3000"
+    },
+    "37": {
+      "id": "37",
+      "type": "lab.canvas.Screen",
+      "content": [],
+      "viewport": [
+        800,
+        600
+      ],
+      "files": [],
+      "responses": [
+        {
+          "label": "",
+          "event": "",
+          "target": "",
+          "filter": ""
+        }
+      ],
+      "parameters": [
+        {
+          "name": "",
+          "value": "",
+          "type": "string"
+        }
+      ],
+      "messageHandlers": [
+        {
+          "title": "",
+          "message": "",
+          "code": ""
+        }
+      ],
+      "title": "Inter_Trial",
+      "_tab": "Behavior",
+      "timeout": "250"
+    },
+    "root": {
+      "id": "root",
+      "title": "root",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "15",
+        "13",
+        "19",
+        "2",
+        "8",
+        "7",
+        "6",
+        "1",
+        "20",
+        "3",
+        "24",
+        "4",
+        "14",
+        "27",
+        "32",
+        "33",
+        "34",
+        "5"
+      ],
+      "parameters": [],
+      "plugins": [
+        {
+          "type": "lab.plugins.Metadata"
+        }
+      ],
+      "metadata": {
+        "title": "",
+        "description": "",
+        "repository": "",
+        "contributors": ""
+      }
+    }
+  },
+  "version": [
+    20,
+    2,
+    4
+  ],
+  "files": {
+    "files": {
+      "index.html": {
+        "content": "data:text/html,%3C!doctype%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%20%20%3Cmeta%20charset%3D%22utf-8%22%3E%0A%20%20%3Ctitle%3EExperiment%3C%2Ftitle%3E%0A%20%20%3C!--%20viewport%20setup%20--%3E%0A%20%20%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1%22%3E%0A%20%20%3C!--%20lab.js%20library%20and%20experiment%20code%20--%3E%0A%20%20%24%7B%20header%20%7D%0A%3C%2Fhead%3E%0A%3Cbody%3E%0A%20%20%3C!--%20If%20you'd%20rather%20have%20a%20container%20with%20a%20fixed%20width%0A%20%20%20%20%20%20%20and%20variable%20height%2C%20try%20removing%20the%20fullscreen%20class%20below%20--%3E%0A%20%20%3Cdiv%20class%3D%22container%20fullscreen%22%20data-labjs-section%3D%22main%22%3E%0A%20%20%20%20%3Cmain%20class%3D%22content-vertical-center%20content-horizontal-center%22%3E%0A%20%20%20%20%20%20%3Cdiv%3E%0A%20%20%20%20%20%20%20%20%3Ch2%3ELoading%20Experiment%3C%2Fh2%3E%0A%20%20%20%20%20%20%20%20%3Cp%3EThe%20experiment%20is%20loading%20and%20should%20start%20in%20a%20few%20seconds%3C%2Fp%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%3C%2Fmain%3E%0A%20%20%3C%2Fdiv%3E%0A%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A",
+        "source": "library"
+      },
+      "style.css": {
+        "content": "data:text/css,%2F*%20Please%20define%20your%20custom%20styles%20here%20*%2F",
+        "source": "library"
+      }
+    },
+    "bundledFiles": {
+      "lib/lab.js": {
+        "type": "application/javascript"
+      },
+      "lib/lab.js.map": {
+        "type": "text/plain"
+      },
+      "lib/lab.fallback.js": {
+        "type": "application/javascript"
+      },
+      "lib/lab.legacy.js": {
+        "type": "application/javascript"
+      },
+      "lib/lab.legacy.js.map": {
+        "type": "text/plain"
+      },
+      "lib/lab.css": {
+        "type": "text/css"
+      },
+      "lib/loading.svg": {
+        "type": "image/svg+xml"
+      }
+    }
+  }
+}

@@ -60,6 +60,11 @@ model1 = ezANOVA(combined,
 
 model1 #basically everything is sig!
 
+model1$ANOVA$MSE = model1$ANOVA$SSd/model1$ANOVA$DFd
+model1$ANOVA$MSE
+
+aovEffectSize(model1, effectSize = "pes")
+
 ####Post-hocs####
 tapply(combined$score, combined$encoding, mean) #main effect of encoding
 tapply(combined$score, combined$direction, mean) #main effect of direction
@@ -114,7 +119,7 @@ temp$statistic #sig!
 temp = t.test(jol.ph$M, read.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #Significant! p = .009
+temp$statistic #Significant! p = .0057
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #unrelated
@@ -124,12 +129,34 @@ round(temp$p.value, 3)
 temp$statistic #Non-Sig
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
-#okay, so trending in the right direction!
+#get pbic
+pbic1 = jol.ph[ , c(1, 4)]
+pbic2 = read.ph[ , c(1, 4)]
+
+pbic1$encoding = rep("JOL")
+pbic2$encoding = rep("read")
+
+pbic3 = rbind(pbic1, pbic2)
+
+ezANOVA(pbic3,
+        dv = U,
+        wid = id,
+        between = encoding,
+        detailed = T,
+        type = 3)
+
+#get sds
+apply(jol.ph, 2, sd)
+apply(read.ph, 2, sd)
+
+#get 95% CI
+(apply(jol.ph, 2, sd) / sqrt(nrow(jol.ph))) * 1.96
+(apply(read.ph, 2, sd) / sqrt(nrow(read.ph))) * 1.96
 
 ##get ns after cleaning
 ##get N
-nrow(jol.ph) #56
-nrow(read.ph) #56
+nrow(jol.ph) #60
+nrow(read.ph) #60
 
 ##How many from each platform?
 jol4 = subset(jol3,
@@ -138,7 +165,7 @@ length(unique(jol4$id)) #21
 
 jol5 = subset(jol3,
               jol3$Platform == "USM")
-length(unique(jol5$id)) #35
+length(unique(jol5$id)) #39
 
 read4 = subset(read3,
               read3$Platform == "Prolific")
@@ -146,7 +173,7 @@ length(unique(read4$id)) #22
 
 read5 = subset(read3,
               read3$Platform == "USM")
-length(unique(read5$id)) #34
+length(unique(read5$id)) #38
 
 ####platform differences?####
 combined2 = rbind(jol4, read4)
@@ -154,3 +181,28 @@ combined3 = rbind(jol5, read5)
 
 tapply(combined2$score, list(combined2$encoding, combined2$direction), mean)
 tapply(combined3$score, list(combined3$encoding, combined3$direction), mean) #Not really, its about 8% increase.
+
+####DO JOLs differ?####
+##remove outliers
+jol = JOL
+
+jol = subset(jol,
+              jol$id != "W10057641NS" & jol$id != "10068469SJ" & jol$id != "W_10132867_LAA" &
+              jol$id != "62f17b6b63bd9e6627a19956" & jol$id != "5a8b1ee2000dab00018cc7cd" &
+              jol$id != "62d43cee3d60ac98c1dcacc8" & jol$id != "63474e67a5fd298c6103c409" &
+              jol$id != "w963035" & jol$id != "5c2bb03b9fb36d000198e2d7" & jol$id != "w10162630_CAG" &
+              jol$id != "TaravionCosey" & jol$id != "w10055946")
+
+##descriptives
+jol = jol[ , -c(2:4, 6:9, 11, 13:14)]
+
+colnames(jol)[3:4] = c("Direction", "JOL")
+
+jol$JOL = as.numeric(jol$JOL)
+jol$JOL[jol$JOL > 100] = NA
+
+tapply(jol$JOL, jol$Direction, mean, na.rm = T)
+
+##one-way anova
+
+##t-tests

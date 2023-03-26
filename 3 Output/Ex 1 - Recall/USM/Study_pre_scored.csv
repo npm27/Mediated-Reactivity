@@ -1,7 +1,9 @@
 "Username","Response.Response","Stimuli.Answer","Condition.Number","Condition.Description","Stimuli.Cue","Stimuli.Shuffle","Stimuli.Stimuli.Notes","Procedure.Shuffle","Procedure.Shuffle.1","Response.RT"
 "10143815SK","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",3109
+"BrettThompson","love","love",1,"Read Recall","affection","Study1","F","Study Phase","Recall1",3867
 "BrookeMask","love","love",1,"Read Recall","affection","Study1","F","Study Phase","Recall1",1555
 "jasminesherman","","love",1,"Read Recall","affection","Study1","F","Study Phase","Recall1",3449
+"NicolasMunoz","","love",1,"Read Recall","affection","Study1","F","Study Phase","Recall1",908
 "TaravionCosey","love","love",1,"Read Recall","affection","Study1","F","Study Phase","Recall1",9307
 "w10046339_pw","like","love",1,"Read","affection","Study1","F","Study Phase","Recall1",3281
 "W10057641NS","","love",1,"Read","affection","Study1","F","Study Phase","Recall1",740
@@ -15,8 +17,10 @@
 "w10143398_abc","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",4386
 "w10157282_HBR","love","love",1,"Read","affection","Study1","F","Study Phase","Recall1",2939
 "10143815SK","","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",2145
+"BrettThompson","bounce","bounce",1,"Read Recall","bat","Study1","M","Study Phase","Recall1",7067
 "BrookeMask","baseball","bounce",1,"Read Recall","bat","Study1","M","Study Phase","Recall1",4362
 "jasminesherman","cave","bounce",1,"Read Recall","bat","Study1","M","Study Phase","Recall1",4244
+"NicolasMunoz","","bounce",1,"Read Recall","bat","Study1","M","Study Phase","Recall1",1684
 "TaravionCosey","bounce ","bounce",1,"Read Recall","bat","Study1","M","Study Phase","Recall1",12573
 "w10046339_pw","bounce","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",2561
 "W10057641NS","","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",350
@@ -30,8 +34,10 @@
 "w10143398_abc","bottom","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",10660
 "w10157282_HBR","ball","bounce",1,"Read","bat","Study1","M","Study Phase","Recall1",14944
 "10143815SK","","box",1,"Read","beach","Study1","M","Study Phase","Recall1",1553
+"BrettThompson","sun","box",1,"Read Recall","beach","Study1","M","Study Phase","Recall1",3385
 "BrookeMask","sand","box",1,"Read Recall","beach","Study1","M","Study Phase","Recall1",1888
 "jasminesherman","","box",1,"Read Recall","beach","Study1","M","Study Phase","Recall1",1802
+"NicolasMunoz","","box",1,"Read Recall","beach","Study1","M","Study Phase","Recall1",2778
 "TaravionCosey","box","box",1,"Read Recall","beach","Study1","M","Study Phase","Recall1",11681
 "w10046339_pw","box","box",1,"Read","beach","Study1","M","Study Phase","Recall1",8550
 "W10057641NS","","box",1,"Read","beach","Study1","M","Study Phase","Recall1",255
@@ -45,8 +51,10 @@
 "w10143398_abc","idk","box",1,"Read","beach","Study1","M","Study Phase","Recall1",2314
 "w10157282_HBR","sand","box",1,"Read","beach","Study1","M","Study Phase","Recall1",5816
 "10143815SK","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",2460
+"BrettThompson","pie","pie",1,"Read Recall","birthday","Study1","M","Study Phase","Recall1",2636
 "BrookeMask","pie","pie",1,"Read Recall","birthday","Study1","M","Study Phase","Recall1",1763
 "jasminesherman","","pie",1,"Read Recall","birthday","Study1","M","Study Phase","Recall1",927
+"NicolasMunoz","","pie",1,"Read Recall","birthday","Study1","M","Study Phase","Recall1",1347
 "TaravionCosey","cake ","pie",1,"Read Recall","birthday","Study1","M","Study Phase","Recall1",19989
 "w10046339_pw","cake","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",1719
 "W10057641NS","","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",261
@@ -60,8 +68,10 @@
 "w10143398_abc","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",2441
 "w10157282_HBR","pie","pie",1,"Read","birthday","Study1","M","Study Phase","Recall1",2830
 "10143815SK","birthday","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",10627
+"BrettThompson","cup","hand",1,"Read Recall","cake","Study1","U","Study Phase","Recall1",21646
 "BrookeMask","pie","hand",1,"Read Recall","cake","Study1","U","Study Phase","Recall1",2228
 "jasminesherman","","hand",1,"Read Recall","cake","Study1","U","Study Phase","Recall1",1490
+"NicolasMunoz","charm","hand",1,"Read Recall","cake","Study1","U","Study Phase","Recall1",4957
 "TaravionCosey","hand","hand",1,"Read Recall","cake","Study1","U","Study Phase","Recall1",9400
 "w10046339_pw","hand","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",3402
 "W10057641NS","jam","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",2852
@@ -75,8 +85,10 @@
 "w10143398_abc","idk","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",3198
 "w10157282_HBR","plate","hand",1,"Read","cake","Study1","U","Study Phase","Recall1",9320
 "10143815SK","","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",2063
+"BrettThompson","floor","carpet",1,"Read Recall","ceiling","Study1","M","Study Phase","Recall1",3461
 "BrookeMask","floor","carpet",1,"Read Recall","ceiling","Study1","M","Study Phase","Recall1",3427
 "jasminesherman","","carpet",1,"Read Recall","ceiling","Study1","M","Study Phase","Recall1",787
+"NicolasMunoz","fan","carpet",1,"Read Recall","ceiling","Study1","M","Study Phase","Recall1",1845
 "TaravionCosey","carpet ","carpet",1,"Read Recall","ceiling","Study1","M","Study Phase","Recall1",10254
 "w10046339_pw","carpet","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",2914
 "W10057641NS","","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",245
@@ -90,8 +102,10 @@
 "w10143398_abc","floor","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",3197
 "w10157282_HBR","roof","carpet",1,"Read","ceiling","Study1","M","Study Phase","Recall1",4907
 "10143815SK","root","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",56796
+"BrettThompson","pizza","dance",1,"Read Recall","circle","Study1","M","Study Phase","Recall1",7441
 "BrookeMask","dance","dance",1,"Read Recall","circle","Study1","M","Study Phase","Recall1",1888
 "jasminesherman","","dance",1,"Read Recall","circle","Study1","M","Study Phase","Recall1",988
+"NicolasMunoz","","dance",1,"Read Recall","circle","Study1","M","Study Phase","Recall1",2909
 "TaravionCosey","dance ","dance",1,"Read Recall","circle","Study1","M","Study Phase","Recall1",9722
 "w10046339_pw","dance","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",3644
 "W10057641NS","","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",553
@@ -105,8 +119,10 @@
 "w10143398_abc","idk","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",2474
 "w10157282_HBR","round","dance",1,"Read","circle","Study1","M","Study Phase","Recall1",2510
 "10143815SK","","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",1307
+"BrettThompson","pop","election",1,"Read Recall","crackle","Study1","U","Study Phase","Recall1",4850
 "BrookeMask","","election",1,"Read Recall","crackle","Study1","U","Study Phase","Recall1",2611
 "jasminesherman","","election",1,"Read Recall","crackle","Study1","U","Study Phase","Recall1",815
+"NicolasMunoz","electric","election",1,"Read Recall","crackle","Study1","U","Study Phase","Recall1",3365
 "TaravionCosey","election","election",1,"Read Recall","crackle","Study1","U","Study Phase","Recall1",22526
 "w10046339_pw","election","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",10912
 "W10057641NS","","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",115
@@ -120,8 +136,10 @@
 "w10143398_abc","idk","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",2351
 "w10157282_HBR","pop","election",1,"Read","crackle","Study1","U","Study Phase","Recall1",2910
 "10143815SK","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",2974
+"BrettThompson","card","card",1,"Read Recall","credit","Study1","F","Study Phase","Recall1",3986
 "BrookeMask","card","card",1,"Read Recall","credit","Study1","F","Study Phase","Recall1",1413
 "jasminesherman","","card",1,"Read Recall","credit","Study1","F","Study Phase","Recall1",930
+"NicolasMunoz","","card",1,"Read Recall","credit","Study1","F","Study Phase","Recall1",1509
 "TaravionCosey","card","card",1,"Read Recall","credit","Study1","F","Study Phase","Recall1",22543
 "w10046339_pw","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",1889
 "W10057641NS","","card",1,"Read","credit","Study1","F","Study Phase","Recall1",248
@@ -135,8 +153,10 @@
 "w10143398_abc","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",3070
 "w10157282_HBR","card","card",1,"Read","credit","Study1","F","Study Phase","Recall1",9280
 "10143815SK","","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",3684
+"BrettThompson","bottle","bottle",1,"Read Recall","cry","Study1","M","Study Phase","Recall1",6032
 "BrookeMask","sad","bottle",1,"Read Recall","cry","Study1","M","Study Phase","Recall1",2857
 "jasminesherman","","bottle",1,"Read Recall","cry","Study1","M","Study Phase","Recall1",3766
+"NicolasMunoz","bottle","bottle",1,"Read Recall","cry","Study1","M","Study Phase","Recall1",2093
 "TaravionCosey","bottle ","bottle",1,"Read Recall","cry","Study1","M","Study Phase","Recall1",19156
 "w10046339_pw","bottle","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",2977
 "W10057641NS","","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",1052
@@ -150,8 +170,10 @@
 "w10143398_abc","bottle","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",3880
 "w10157282_HBR","sad","bottle",1,"Read","cry","Study1","M","Study Phase","Recall1",4922
 "10143815SK","night","dark",1,"Read","day","Study1","M","Study Phase","Recall1",3343
+"BrettThompson","suset","dark",1,"Read Recall","day","Study1","M","Study Phase","Recall1",6890
 "BrookeMask","night","dark",1,"Read Recall","day","Study1","M","Study Phase","Recall1",6791
 "jasminesherman","","dark",1,"Read Recall","day","Study1","M","Study Phase","Recall1",999
+"NicolasMunoz","night","dark",1,"Read Recall","day","Study1","M","Study Phase","Recall1",1748
 "TaravionCosey","dark","dark",1,"Read Recall","day","Study1","M","Study Phase","Recall1",19906
 "w10046339_pw","dark","dark",1,"Read","day","Study1","M","Study Phase","Recall1",3420
 "W10057641NS","","dark",1,"Read","day","Study1","M","Study Phase","Recall1",251
@@ -165,8 +187,10 @@
 "w10143398_abc","dark","dark",1,"Read","day","Study1","M","Study Phase","Recall1",4361
 "w10157282_HBR","night","dark",1,"Read","day","Study1","M","Study Phase","Recall1",4236
 "10143815SK","","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",1564
+"BrettThompson","warm","bang",1,"Read Recall","fuzzy","Study1","U","Study Phase","Recall1",3699
 "BrookeMask","socks","bang",1,"Read Recall","fuzzy","Study1","U","Study Phase","Recall1",1493
 "jasminesherman","","bang",1,"Read Recall","fuzzy","Study1","U","Study Phase","Recall1",811
+"NicolasMunoz","","bang",1,"Read Recall","fuzzy","Study1","U","Study Phase","Recall1",1939
 "TaravionCosey","bong","bang",1,"Read Recall","fuzzy","Study1","U","Study Phase","Recall1",11309
 "w10046339_pw","silk","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",5409
 "W10057641NS","","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",281
@@ -180,8 +204,10 @@
 "w10143398_abc","hard","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",3612
 "w10157282_HBR","soft","bang",1,"Read","fuzzy","Study1","U","Study Phase","Recall1",7252
 "10143815SK","","steak",1,"Read","give","Study1","U","Study Phase","Recall1",1768
+"BrettThompson","taken","steak",1,"Read Recall","give","Study1","U","Study Phase","Recall1",5909
 "BrookeMask","take","steak",1,"Read Recall","give","Study1","U","Study Phase","Recall1",2544
 "jasminesherman","","steak",1,"Read Recall","give","Study1","U","Study Phase","Recall1",837
+"NicolasMunoz","steak","steak",1,"Read Recall","give","Study1","U","Study Phase","Recall1",2138
 "TaravionCosey","steak","steak",1,"Read Recall","give","Study1","U","Study Phase","Recall1",22643
 "w10046339_pw","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",2065
 "W10057641NS","","steak",1,"Read","give","Study1","U","Study Phase","Recall1",339
@@ -195,8 +221,10 @@
 "w10143398_abc","steak","steak",1,"Read","give","Study1","U","Study Phase","Recall1",6960
 "w10157282_HBR","take","steak",1,"Read","give","Study1","U","Study Phase","Recall1",4614
 "10143815SK","","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",1228
+"BrettThompson","marble","cotton",1,"Read Recall","hard","Study1","M","Study Phase","Recall1",8665
 "BrookeMask","surface","cotton",1,"Read Recall","hard","Study1","M","Study Phase","Recall1",2356
 "jasminesherman","","cotton",1,"Read Recall","hard","Study1","M","Study Phase","Recall1",4341
+"NicolasMunoz","soft","cotton",1,"Read Recall","hard","Study1","M","Study Phase","Recall1",1901
 "TaravionCosey","soft","cotton",1,"Read Recall","hard","Study1","M","Study Phase","Recall1",13672
 "w10046339_pw","ball","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",3891
 "W10057641NS","","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",330
@@ -210,8 +238,10 @@
 "w10143398_abc","idk","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",2608
 "w10157282_HBR","soft","cotton",1,"Read","hard","Study1","M","Study Phase","Recall1",10917
 "10143815SK","","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",1533
+"BrettThompson","mule","wheel",1,"Read Recall","horse","Study1","M","Study Phase","Recall1",5462
 "BrookeMask","ride","wheel",1,"Read Recall","horse","Study1","M","Study Phase","Recall1",3021
 "jasminesherman","","wheel",1,"Read Recall","horse","Study1","M","Study Phase","Recall1",1679
+"NicolasMunoz","","wheel",1,"Read Recall","horse","Study1","M","Study Phase","Recall1",1211
 "TaravionCosey","wheel ","wheel",1,"Read Recall","horse","Study1","M","Study Phase","Recall1",39404
 "w10046339_pw","ride","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",3905
 "W10057641NS","","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",362
@@ -225,8 +255,10 @@
 "w10143398_abc","idk","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",4744
 "w10157282_HBR","carriage","wheel",1,"Read","horse","Study1","M","Study Phase","Recall1",36876
 "10143815SK","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",2979
+"BrettThompson","clean","clean",1,"Read Recall","hygiene","Study1","F","Study Phase","Recall1",3903
 "BrookeMask","clean","clean",1,"Read Recall","hygiene","Study1","F","Study Phase","Recall1",2302
 "jasminesherman","clean","clean",1,"Read Recall","hygiene","Study1","F","Study Phase","Recall1",6240
+"NicolasMunoz","clean","clean",1,"Read Recall","hygiene","Study1","F","Study Phase","Recall1",1815
 "TaravionCosey","clean ","clean",1,"Read Recall","hygiene","Study1","F","Study Phase","Recall1",52937
 "w10046339_pw","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",2620
 "W10057641NS","","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",205
@@ -240,8 +272,10 @@
 "w10143398_abc","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",2505
 "w10157282_HBR","clean","clean",1,"Read","hygiene","Study1","F","Study Phase","Recall1",10956
 "10143815SK","hunt","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",7739
+"BrettThompson","car","rod",1,"Read Recall","keys","Study1","U","Study Phase","Recall1",5412
 "BrookeMask","meat","rod",1,"Read Recall","keys","Study1","U","Study Phase","Recall1",4158
 "jasminesherman","","rod",1,"Read Recall","keys","Study1","U","Study Phase","Recall1",3331
+"NicolasMunoz","flash","rod",1,"Read Recall","keys","Study1","U","Study Phase","Recall1",5226
 "TaravionCosey","car","rod",1,"Read Recall","keys","Study1","U","Study Phase","Recall1",5614
 "w10046339_pw","pole","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",2721
 "W10057641NS","","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",260
@@ -255,8 +289,10 @@
 "w10143398_abc","idk","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",3118
 "w10157282_HBR","lock","rod",1,"Read","keys","Study1","U","Study Phase","Recall1",2838
 "10143815SK","","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",1765
+"BrettThompson","strips","stripes",1,"Read Recall","lion","Study1","M","Study Phase","Recall1",5563
 "BrookeMask","main","stripes",1,"Read Recall","lion","Study1","M","Study Phase","Recall1",2534
 "jasminesherman","","stripes",1,"Read Recall","lion","Study1","M","Study Phase","Recall1",479
+"NicolasMunoz","stripes","stripes",1,"Read Recall","lion","Study1","M","Study Phase","Recall1",2434
 "TaravionCosey","stripes ","stripes",1,"Read Recall","lion","Study1","M","Study Phase","Recall1",33742
 "w10046339_pw","stripes","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",2815
 "W10057641NS","","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",489
@@ -270,8 +306,10 @@
 "w10143398_abc","stripes","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",4264
 "w10157282_HBR","mane ","stripes",1,"Read","lion","Study1","M","Study Phase","Recall1",2311
 "10143815SK","","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",3381
+"BrettThompson","talk","fiction",1,"Read Recall","listen","Study1","U","Study Phase","Recall1",6803
 "BrookeMask","","fiction",1,"Read Recall","listen","Study1","U","Study Phase","Recall1",1420
 "jasminesherman","","fiction",1,"Read Recall","listen","Study1","U","Study Phase","Recall1",2883
+"NicolasMunoz","","fiction",1,"Read Recall","listen","Study1","U","Study Phase","Recall1",1800
 "TaravionCosey","fiction ","fiction",1,"Read Recall","listen","Study1","U","Study Phase","Recall1",47436
 "w10046339_pw","hear","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",2754
 "W10057641NS","hear","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",7903
@@ -285,8 +323,10 @@
 "w10143398_abc","quiet","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",3714
 "w10157282_HBR","talk","fiction",1,"Read","listen","Study1","U","Study Phase","Recall1",1934
 "10143815SK","","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",3070
+"BrettThompson","trash","trash",1,"Read Recall","litter","Study1","F","Study Phase","Recall1",8052
 "BrookeMask","box","trash",1,"Read Recall","litter","Study1","F","Study Phase","Recall1",1566
 "jasminesherman","","trash",1,"Read Recall","litter","Study1","F","Study Phase","Recall1",2464
+"NicolasMunoz","","trash",1,"Read Recall","litter","Study1","F","Study Phase","Recall1",1536
 "TaravionCosey","trash","trash",1,"Read Recall","litter","Study1","F","Study Phase","Recall1",22152
 "w10046339_pw","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",3022
 "W10057641NS","","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",326
@@ -300,8 +340,10 @@
 "w10143398_abc","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",6678
 "w10157282_HBR","trash","trash",1,"Read","litter","Study1","F","Study Phase","Recall1",4280
 "10143815SK","moot","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",3311
+"BrettThompson","puzzle","phone",1,"Read Recall","maze","Study1","U","Study Phase","Recall1",6083
 "BrookeMask","phone","phone",1,"Read Recall","maze","Study1","U","Study Phase","Recall1",2566
 "jasminesherman","","phone",1,"Read Recall","maze","Study1","U","Study Phase","Recall1",928
+"NicolasMunoz","runner","phone",1,"Read Recall","maze","Study1","U","Study Phase","Recall1",2613
 "TaravionCosey","phone ","phone",1,"Read Recall","maze","Study1","U","Study Phase","Recall1",19515
 "w10046339_pw","clear","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",8116
 "W10057641NS","","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",295
@@ -315,8 +357,10 @@
 "w10143398_abc","idk","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",2412
 "w10157282_HBR","path","phone",1,"Read","maze","Study1","U","Study Phase","Recall1",11840
 "10143815SK","","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",1614
+"BrettThompson","steak","keys",1,"Read Recall","meat","Study1","U","Study Phase","Recall1",5633
 "BrookeMask","keys","keys",1,"Read Recall","meat","Study1","U","Study Phase","Recall1",1666
 "jasminesherman","","keys",1,"Read Recall","meat","Study1","U","Study Phase","Recall1",838
+"NicolasMunoz","","keys",1,"Read Recall","meat","Study1","U","Study Phase","Recall1",2362
 "TaravionCosey","vegetables ","keys",1,"Read Recall","meat","Study1","U","Study Phase","Recall1",24531
 "w10046339_pw","cut","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",11672
 "W10057641NS","","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",282
@@ -330,8 +374,10 @@
 "w10143398_abc","fuzzy","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",9035
 "w10157282_HBR","loaf","keys",1,"Read","meat","Study1","U","Study Phase","Recall1",4342
 "10143815SK","marrow","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",5160
+"BrettThompson","moron","maroon",1,"Read Recall","mirror","Study1","U","Study Phase","Recall1",37547
 "BrookeMask","car","maroon",1,"Read Recall","mirror","Study1","U","Study Phase","Recall1",4406
 "jasminesherman","","maroon",1,"Read Recall","mirror","Study1","U","Study Phase","Recall1",3780
+"NicolasMunoz","","maroon",1,"Read Recall","mirror","Study1","U","Study Phase","Recall1",619
 "TaravionCosey","maroon ","maroon",1,"Read Recall","mirror","Study1","U","Study Phase","Recall1",18932
 "w10046339_pw","maroon","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",3945
 "W10057641NS","","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",159
@@ -346,10 +392,14 @@
 "w10157282_HBR","","maroon",1,"Read","mirror","Study1","U","Study Phase","Recall1",11568
 "10143815SK","","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",1970
 "10143815SK","","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",1545
+"BrettThompson","donkey","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",6641
+"BrettThompson","horse","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",9656
 "BrookeMask","donkey","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",2738
 "BrookeMask","donkey","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",2057
 "jasminesherman","horse ","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",6425
 "jasminesherman","","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",723
+"NicolasMunoz","donke","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",2310
+"NicolasMunoz","donkey","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",2011
 "TaravionCosey","donkey ","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",9504
 "TaravionCosey","donkey ","donkey",1,"Read Recall","mule","Study1","F","Study Phase","Recall1",7391
 "w10046339_pw","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3341
@@ -375,8 +425,10 @@
 "w10157282_HBR","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",2029
 "w10157282_HBR","donkey","donkey",1,"Read","mule","Study1","F","Study Phase","Recall1",3021
 "10143815SK","sleep","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",3218
+"BrettThompson","sleep","sleep",1,"Read Recall","nap","Study1","F","Study Phase","Recall1",4968
 "BrookeMask","sleep","sleep",1,"Read Recall","nap","Study1","F","Study Phase","Recall1",1599
 "jasminesherman","","sleep",1,"Read Recall","nap","Study1","F","Study Phase","Recall1",1980
+"NicolasMunoz","sleep","sleep",1,"Read Recall","nap","Study1","F","Study Phase","Recall1",1748
 "TaravionCosey","sleep ","sleep",1,"Read Recall","nap","Study1","F","Study Phase","Recall1",19198
 "w10046339_pw","bed","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",4816
 "W10057641NS","","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",192
@@ -390,8 +442,10 @@
 "w10143398_abc","idk","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",3065
 "w10157282_HBR","sleep","sleep",1,"Read","nap","Study1","F","Study Phase","Recall1",2732
 "10143815SK","","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",2638
+"BrettThompson","flower","flower",1,"Read Recall","orchid","Study1","F","Study Phase","Recall1",4207
 "BrookeMask","flower","flower",1,"Read Recall","orchid","Study1","F","Study Phase","Recall1",1687
 "jasminesherman","flower","flower",1,"Read Recall","orchid","Study1","F","Study Phase","Recall1",7997
+"NicolasMunoz","","flower",1,"Read Recall","orchid","Study1","F","Study Phase","Recall1",941
 "TaravionCosey","flower","flower",1,"Read Recall","orchid","Study1","F","Study Phase","Recall1",18906
 "w10046339_pw","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",2821
 "W10057641NS","","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",190
@@ -405,8 +459,10 @@
 "w10143398_abc","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",2687
 "w10157282_HBR","flower","flower",1,"Read","orchid","Study1","F","Study Phase","Recall1",6198
 "10143815SK","","plant",1,"Read","root","Study1","F","Study Phase","Recall1",4167
+"BrettThompson","plant","plant",1,"Read Recall","root","Study1","F","Study Phase","Recall1",8011
 "BrookeMask","open","plant",1,"Read Recall","root","Study1","F","Study Phase","Recall1",5721
 "jasminesherman","","plant",1,"Read Recall","root","Study1","F","Study Phase","Recall1",825
+"NicolasMunoz","","plant",1,"Read Recall","root","Study1","F","Study Phase","Recall1",717
 "TaravionCosey","plant","plant",1,"Read Recall","root","Study1","F","Study Phase","Recall1",14498
 "w10046339_pw","tree","plant",1,"Read","root","Study1","F","Study Phase","Recall1",2563
 "W10057641NS","","plant",1,"Read","root","Study1","F","Study Phase","Recall1",225
@@ -420,8 +476,10 @@
 "w10143398_abc","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",3261
 "w10157282_HBR","plant","plant",1,"Read","root","Study1","F","Study Phase","Recall1",3249
 "10143815SK","","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",3784
+"BrettThompson","soft","silk",1,"Read Recall","rough","Study1","M","Study Phase","Recall1",4124
 "BrookeMask","smooth","silk",1,"Read Recall","rough","Study1","M","Study Phase","Recall1",2499
 "jasminesherman","","silk",1,"Read Recall","rough","Study1","M","Study Phase","Recall1",914
+"NicolasMunoz","","silk",1,"Read Recall","rough","Study1","M","Study Phase","Recall1",1115
 "TaravionCosey","silk","silk",1,"Read Recall","rough","Study1","M","Study Phase","Recall1",68447
 "w10046339_pw","cotton","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",4006
 "W10057641NS","","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",1339
@@ -435,8 +493,10 @@
 "w10143398_abc","silk","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",5685
 "w10157282_HBR","","silk",1,"Read","rough","Study1","M","Study Phase","Recall1",6552
 "10143815SK","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",4132
+"BrettThompson","head","head",1,"Read Recall","scalp","Study1","F","Study Phase","Recall1",3938
 "BrookeMask","massage","head",1,"Read Recall","scalp","Study1","F","Study Phase","Recall1",3806
 "jasminesherman","","head",1,"Read Recall","scalp","Study1","F","Study Phase","Recall1",1275
+"NicolasMunoz","head","head",1,"Read Recall","scalp","Study1","F","Study Phase","Recall1",1574
 "TaravionCosey","head","head",1,"Read Recall","scalp","Study1","F","Study Phase","Recall1",10727
 "w10046339_pw","hair","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",4796
 "W10057641NS","","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",196
@@ -450,8 +510,10 @@
 "w10143398_abc","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",2650
 "w10157282_HBR","head","head",1,"Read","scalp","Study1","F","Study Phase","Recall1",4011
 "10143815SK","","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",5914
+"BrettThompson","shock","shake",1,"Read Recall","shell","Study1","U","Study Phase","Recall1",6294
 "BrookeMask","car","shake",1,"Read Recall","shell","Study1","U","Study Phase","Recall1",5613
 "jasminesherman","","shake",1,"Read Recall","shell","Study1","U","Study Phase","Recall1",611
+"NicolasMunoz","","shake",1,"Read Recall","shell","Study1","U","Study Phase","Recall1",10105
 "TaravionCosey","shake ","shake",1,"Read Recall","shell","Study1","U","Study Phase","Recall1",31660
 "w10046339_pw","shake","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",7075
 "W10057641NS","","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",206
@@ -465,8 +527,10 @@
 "w10143398_abc","idk","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",4781
 "w10157282_HBR","shock","shake",1,"Read","shell","Study1","U","Study Phase","Recall1",2403
 "10143815SK","","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",3576
+"BrettThompson","break","tick",1,"Read Recall","sign","Study1","U","Study Phase","Recall1",9363
 "BrookeMask","stop","tick",1,"Read Recall","sign","Study1","U","Study Phase","Recall1",1577
 "jasminesherman","","tick",1,"Read Recall","sign","Study1","U","Study Phase","Recall1",865
+"NicolasMunoz","stop","tick",1,"Read Recall","sign","Study1","U","Study Phase","Recall1",2057
 "TaravionCosey","tick","tick",1,"Read Recall","sign","Study1","U","Study Phase","Recall1",55307
 "w10046339_pw","pole","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",6488
 "W10057641NS","","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",237
@@ -480,8 +544,10 @@
 "w10143398_abc","idk","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",4267
 "w10157282_HBR","stop","tick",1,"Read","sign","Study1","U","Study Phase","Recall1",8086
 "10143815SK","code","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",3204
+"BrettThompson","drink","drink",1,"Read Recall","sip","Study1","F","Study Phase","Recall1",5020
 "BrookeMask","water","drink",1,"Read Recall","sip","Study1","F","Study Phase","Recall1",1687
 "jasminesherman","","drink",1,"Read Recall","sip","Study1","F","Study Phase","Recall1",2576
+"NicolasMunoz","drink","drink",1,"Read Recall","sip","Study1","F","Study Phase","Recall1",3174
 "TaravionCosey","drink","drink",1,"Read Recall","sip","Study1","F","Study Phase","Recall1",25334
 "w10046339_pw","drink","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",3129
 "W10057641NS","","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",269
@@ -495,8 +561,10 @@
 "w10143398_abc","cup","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",6915
 "w10157282_HBR","stir","drink",1,"Read","sip","Study1","F","Study Phase","Recall1",20498
 "10143815SK","","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",21641
+"BrettThompson","break","belt",1,"Read Recall","soon","Study1","U","Study Phase","Recall1",10301
 "BrookeMask","later","belt",1,"Read Recall","soon","Study1","U","Study Phase","Recall1",1665
 "jasminesherman","","belt",1,"Read Recall","soon","Study1","U","Study Phase","Recall1",1001
+"NicolasMunoz","","belt",1,"Read Recall","soon","Study1","U","Study Phase","Recall1",998
 "TaravionCosey","belt","belt",1,"Read Recall","soon","Study1","U","Study Phase","Recall1",22325
 "w10046339_pw","later","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",6645
 "W10057641NS","","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",284
@@ -510,8 +578,10 @@
 "w10143398_abc","noon","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",4168
 "w10157282_HBR","","belt",1,"Read","soon","Study1","U","Study Phase","Recall1",4116
 "10143815SK","","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",1398
+"BrettThompson","walk","cloth",1,"Read Recall","stretch","Study1","U","Study Phase","Recall1",6790
 "BrookeMask","","cloth",1,"Read Recall","stretch","Study1","U","Study Phase","Recall1",989
 "jasminesherman","","cloth",1,"Read Recall","stretch","Study1","U","Study Phase","Recall1",575
+"NicolasMunoz","","cloth",1,"Read Recall","stretch","Study1","U","Study Phase","Recall1",1045
 "TaravionCosey","cloth","cloth",1,"Read Recall","stretch","Study1","U","Study Phase","Recall1",101550
 "w10046339_pw","cloth","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",4514
 "W10057641NS","","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",238
@@ -525,8 +595,10 @@
 "w10143398_abc","idk","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",3176
 "w10157282_HBR","pull","cloth",1,"Read","stretch","Study1","U","Study Phase","Recall1",9066
 "10143815SK","","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",20610
+"BrettThompson","bird","bird",1,"Read Recall","swan","Study1","F","Study Phase","Recall1",5574
 "BrookeMask","dove","bird",1,"Read Recall","swan","Study1","F","Study Phase","Recall1",5350
 "jasminesherman","","bird",1,"Read Recall","swan","Study1","F","Study Phase","Recall1",5042
+"NicolasMunoz","bird","bird",1,"Read Recall","swan","Study1","F","Study Phase","Recall1",2203
 "TaravionCosey","bird","bird",1,"Read Recall","swan","Study1","F","Study Phase","Recall1",25292
 "w10046339_pw","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",4526
 "W10057641NS","","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",325
@@ -540,8 +612,10 @@
 "w10143398_abc","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",3071
 "w10157282_HBR","bird","bird",1,"Read","swan","Study1","F","Study Phase","Recall1",23711
 "10143815SK","warm","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",8105
+"BrettThompson","hot","morning",1,"Read Recall","temperature","Study1","U","Study Phase","Recall1",3521
 "BrookeMask","weather","morning",1,"Read Recall","temperature","Study1","U","Study Phase","Recall1",3310
 "jasminesherman","","morning",1,"Read Recall","temperature","Study1","U","Study Phase","Recall1",783
+"NicolasMunoz","","morning",1,"Read Recall","temperature","Study1","U","Study Phase","Recall1",887
 "TaravionCosey","hot","morning",1,"Read Recall","temperature","Study1","U","Study Phase","Recall1",12978
 "w10046339_pw","hot","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",2159
 "W10057641NS","","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",508
@@ -555,8 +629,10 @@
 "w10143398_abc","day","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",5857
 "w10157282_HBR","fever","morning",1,"Read","temperature","Study1","U","Study Phase","Recall1",3453
 "10143815SK","taste","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",9470
+"BrettThompson","hair","hair",1,"Read Recall","tooth","Study1","M","Study Phase","Recall1",3304
 "BrookeMask","ache","hair",1,"Read Recall","tooth","Study1","M","Study Phase","Recall1",2117
 "jasminesherman","ache","hair",1,"Read Recall","tooth","Study1","M","Study Phase","Recall1",4469
+"NicolasMunoz","fairy","hair",1,"Read Recall","tooth","Study1","M","Study Phase","Recall1",2265
 "TaravionCosey","hair","hair",1,"Read Recall","tooth","Study1","M","Study Phase","Recall1",23563
 "w10046339_pw","hair","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",2127
 "W10057641NS","","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",655
@@ -570,8 +646,10 @@
 "w10143398_abc","clean","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",7609
 "w10157282_HBR","nail","hair",1,"Read","tooth","Study1","M","Study Phase","Recall1",1982
 "10143815SK","green","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",29014
+"BrettThompson","breach","syrup",1,"Read Recall","tree","Study1","M","Study Phase","Recall1",11209
 "BrookeMask","green","syrup",1,"Read Recall","tree","Study1","M","Study Phase","Recall1",3143
 "jasminesherman","branch ","syrup",1,"Read Recall","tree","Study1","M","Study Phase","Recall1",6724
+"NicolasMunoz","green","syrup",1,"Read Recall","tree","Study1","M","Study Phase","Recall1",2677
 "TaravionCosey","green ","syrup",1,"Read Recall","tree","Study1","M","Study Phase","Recall1",15227
 "w10046339_pw","sap","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",2246
 "W10057641NS","","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",489
@@ -585,8 +663,10 @@
 "w10143398_abc","syrup","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",7391
 "w10157282_HBR","bush","syrup",1,"Read","tree","Study1","M","Study Phase","Recall1",4279
 "10143815SK","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",2994
+"BrettThompson","fish","fish",1,"Read Recall","tuna","Study1","F","Study Phase","Recall1",8305
 "BrookeMask","fish","fish",1,"Read Recall","tuna","Study1","F","Study Phase","Recall1",1442
 "jasminesherman","","fish",1,"Read Recall","tuna","Study1","F","Study Phase","Recall1",924
+"NicolasMunoz","fish","fish",1,"Read Recall","tuna","Study1","F","Study Phase","Recall1",1514
 "TaravionCosey","fish","fish",1,"Read Recall","tuna","Study1","F","Study Phase","Recall1",9404
 "w10046339_pw","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",4851
 "W10057641NS","","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",798
@@ -600,8 +680,10 @@
 "w10143398_abc","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",2710
 "w10157282_HBR","fish","fish",1,"Read","tuna","Study1","F","Study Phase","Recall1",3828
 "10143815SK","bike","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",3223
+"BrettThompson","tow","charm",1,"Read Recall","vehicle","Study1","U","Study Phase","Recall1",15988
 "BrookeMask","drive","charm",1,"Read Recall","vehicle","Study1","U","Study Phase","Recall1",2141
 "jasminesherman","","charm",1,"Read Recall","vehicle","Study1","U","Study Phase","Recall1",3669
+"NicolasMunoz","","charm",1,"Read Recall","vehicle","Study1","U","Study Phase","Recall1",1311
 "TaravionCosey","charm","charm",1,"Read Recall","vehicle","Study1","U","Study Phase","Recall1",14217
 "w10046339_pw","praise","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",9062
 "W10057641NS","","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",179
@@ -615,8 +697,10 @@
 "w10143398_abc","wheels","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",3894
 "w10157282_HBR","","charm",1,"Read","vehicle","Study1","U","Study Phase","Recall1",19090
 "10143815SK","","money",1,"Read","wage","Study1","F","Study Phase","Recall1",1458
+"BrettThompson","money","money",1,"Read Recall","wage","Study1","F","Study Phase","Recall1",5263
 "BrookeMask","money","money",1,"Read Recall","wage","Study1","F","Study Phase","Recall1",3539
 "jasminesherman","","money",1,"Read Recall","wage","Study1","F","Study Phase","Recall1",2259
+"NicolasMunoz","money","money",1,"Read Recall","wage","Study1","F","Study Phase","Recall1",2024
 "TaravionCosey","money ","money",1,"Read Recall","wage","Study1","F","Study Phase","Recall1",7718
 "w10046339_pw","money","money",1,"Read","wage","Study1","F","Study Phase","Recall1",2715
 "W10057641NS","","money",1,"Read","wage","Study1","F","Study Phase","Recall1",228
@@ -630,8 +714,10 @@
 "w10143398_abc","money","money",1,"Read","wage","Study1","F","Study Phase","Recall1",4735
 "w10157282_HBR","earn","money",1,"Read","wage","Study1","F","Study Phase","Recall1",6576
 "10143815SK","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",4726
+"BrettThompson","quite","quiet",1,"Read Recall","war","Study1","M","Study Phase","Recall1",7375
 "BrookeMask","quiet ","quiet",1,"Read Recall","war","Study1","M","Study Phase","Recall1",5431
 "jasminesherman","","quiet",1,"Read Recall","war","Study1","M","Study Phase","Recall1",5287
+"NicolasMunoz","","quiet",1,"Read Recall","war","Study1","M","Study Phase","Recall1",1030
 "TaravionCosey","quiet","quiet",1,"Read Recall","war","Study1","M","Study Phase","Recall1",34661
 "w10046339_pw","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3422
 "W10057641NS","","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",239
@@ -645,8 +731,10 @@
 "w10143398_abc","quiet","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3857
 "w10157282_HBR","peace","quiet",1,"Read","war","Study1","M","Study Phase","Recall1",3836
 "10143815SK","ring","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",7267
+"BrettThompson","ring","finger",1,"Read Recall","wedding","Study1","M","Study Phase","Recall1",5025
 "BrookeMask","cake","finger",1,"Read Recall","wedding","Study1","M","Study Phase","Recall1",2839
 "jasminesherman","","finger",1,"Read Recall","wedding","Study1","M","Study Phase","Recall1",1352
+"NicolasMunoz","","finger",1,"Read Recall","wedding","Study1","M","Study Phase","Recall1",1100
 "TaravionCosey","finger ","finger",1,"Read Recall","wedding","Study1","M","Study Phase","Recall1",52649
 "w10046339_pw","cake","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",2265
 "W10057641NS","","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",225
@@ -660,8 +748,10 @@
 "w10143398_abc","pie","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",3584
 "w10157282_HBR","ring","finger",1,"Read","wedding","Study1","M","Study Phase","Recall1",8203
 "10143815SK","","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",2444
+"BrettThompson","play","sentence",1,"Read Recall","word","Study1","F","Study Phase","Recall1",3017
 "BrookeMask","book","sentence",1,"Read Recall","word","Study1","F","Study Phase","Recall1",3413
 "jasminesherman","","sentence",1,"Read Recall","word","Study1","F","Study Phase","Recall1",865
+"NicolasMunoz","","sentence",1,"Read Recall","word","Study1","F","Study Phase","Recall1",735
 "TaravionCosey","sentence ","sentence",1,"Read Recall","word","Study1","F","Study Phase","Recall1",11710
 "w10046339_pw","spell","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",3751
 "W10057641NS","","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",254
@@ -675,6 +765,8 @@
 "w10143398_abc","sentence","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",5505
 "w10157282_HBR","speak","sentence",1,"Read","word","Study1","F","Study Phase","Recall1",11329
 "10134188andCC","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",2766
+"ArielThomas","love ","love",3,"Read Recall","affection","Study1","F","Study Phase2","Recall2",4931
+"JadeRoss","love","love",3,"Read Recall","affection","Study1","F","Study Phase2","Recall2",2470
 "MadisonHodge","love","love",3,"Read Recall","affection","Study1","F","Study Phase2","Recall2",5161
 "MakaylaTemple","love","love",3,"Read Recall","affection","Study1","F","Study Phase2","Recall2",1982
 "w10033523_hp","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",4298
@@ -696,6 +788,8 @@
 "w10151253_ES","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",2467
 "w958722_hnm","love","love",3,"Read","affection","Study1","F","Study Phase2","Recall2",21498
 "10134188andCC","fly","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",2854
+"ArielThomas","bounce","bounce",3,"Read Recall","bat","Study1","M","Study Phase2","Recall2",3796
+"JadeRoss","bounce","bounce",3,"Read Recall","bat","Study1","M","Study Phase2","Recall2",3212
 "MadisonHodge","","bounce",3,"Read Recall","bat","Study1","M","Study Phase2","Recall2",2547
 "MakaylaTemple","bounce","bounce",3,"Read Recall","bat","Study1","M","Study Phase2","Recall2",12344
 "w10033523_hp","","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",2056
@@ -717,6 +811,8 @@
 "w10151253_ES","bounce","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",4096
 "w958722_hnm","bounce","bounce",3,"Read","bat","Study1","M","Study Phase2","Recall2",21604
 "10134188andCC","sand","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",3999
+"ArielThomas","waves","box",3,"Read Recall","beach","Study1","M","Study Phase2","Recall2",6952
+"JadeRoss","house","box",3,"Read Recall","beach","Study1","M","Study Phase2","Recall2",2421
 "MadisonHodge","chair","box",3,"Read Recall","beach","Study1","M","Study Phase2","Recall2",8994
 "MakaylaTemple","ball","box",3,"Read Recall","beach","Study1","M","Study Phase2","Recall2",3314
 "w10033523_hp","shell","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",2724
@@ -738,6 +834,8 @@
 "w10151253_ES","box","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",6281
 "w958722_hnm","box","box",3,"Read","beach","Study1","M","Study Phase2","Recall2",13080
 "10134188andCC","day","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",2981
+"ArielThomas","pie","pie",3,"Read Recall","birthday","Study1","M","Study Phase2","Recall2",3415
+"JadeRoss","party","pie",3,"Read Recall","birthday","Study1","M","Study Phase2","Recall2",2827
 "MadisonHodge","cake","pie",3,"Read Recall","birthday","Study1","M","Study Phase2","Recall2",4650
 "MakaylaTemple","cake","pie",3,"Read Recall","birthday","Study1","M","Study Phase2","Recall2",1914
 "w10033523_hp","fun","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",3719
@@ -759,6 +857,8 @@
 "w10151253_ES","cake","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",3274
 "w958722_hnm","pie","pie",3,"Read","birthday","Study1","M","Study Phase2","Recall2",10177
 "10134188andCC","taste","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",3205
+"ArielThomas","wedding ","hand",3,"Read Recall","cake","Study1","U","Study Phase2","Recall2",8635
+"JadeRoss","","hand",3,"Read Recall","cake","Study1","U","Study Phase2","Recall2",1959
 "MadisonHodge","","hand",3,"Read Recall","cake","Study1","U","Study Phase2","Recall2",6781
 "MakaylaTemple","birthday","hand",3,"Read Recall","cake","Study1","U","Study Phase2","Recall2",4334
 "w10033523_hp","","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",1490
@@ -780,6 +880,8 @@
 "w10151253_ES","sugar","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",11068
 "w958722_hnm","hand","hand",3,"Read","cake","Study1","U","Study Phase2","Recall2",19032
 "10134188andCC","fan","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",3209
+"ArielThomas","carpet","carpet",3,"Read Recall","ceiling","Study1","M","Study Phase2","Recall2",4512
+"JadeRoss","house","carpet",3,"Read Recall","ceiling","Study1","M","Study Phase2","Recall2",3795
 "MadisonHodge","fan","carpet",3,"Read Recall","ceiling","Study1","M","Study Phase2","Recall2",3990
 "MakaylaTemple","","carpet",3,"Read Recall","ceiling","Study1","M","Study Phase2","Recall2",25446
 "w10033523_hp","tile","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",2036
@@ -801,6 +903,8 @@
 "w10151253_ES","room","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",5012
 "w958722_hnm","carpet ","carpet",3,"Read","ceiling","Study1","M","Study Phase2","Recall2",24093
 "10134188andCC","sqaure","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",4545
+"ArielThomas","barrel ","dance",3,"Read Recall","circle","Study1","M","Study Phase2","Recall2",28006
+"JadeRoss","","dance",3,"Read Recall","circle","Study1","M","Study Phase2","Recall2",1017
 "MadisonHodge","friends","dance",3,"Read Recall","circle","Study1","M","Study Phase2","Recall2",8084
 "MakaylaTemple","square","dance",3,"Read Recall","circle","Study1","M","Study Phase2","Recall2",7295
 "w10033523_hp","","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",1520
@@ -822,6 +926,8 @@
 "w10151253_ES","round","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",7828
 "w958722_hnm","dance ","dance",3,"Read","circle","Study1","M","Study Phase2","Recall2",21728
 "10134188andCC","fire","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",2477
+"ArielThomas","election","election",3,"Read Recall","crackle","Study1","U","Study Phase2","Recall2",4697
+"JadeRoss","","election",3,"Read Recall","crackle","Study1","U","Study Phase2","Recall2",1816
 "MadisonHodge","pop","election",3,"Read Recall","crackle","Study1","U","Study Phase2","Recall2",6855
 "MakaylaTemple","pop","election",3,"Read Recall","crackle","Study1","U","Study Phase2","Recall2",2668
 "w10033523_hp","pop","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",2284
@@ -843,6 +949,8 @@
 "w10151253_ES","pop","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",2927
 "w958722_hnm","election","election",3,"Read","crackle","Study1","U","Study Phase2","Recall2",8614
 "10134188andCC","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",1983
+"ArielThomas","card","card",3,"Read Recall","credit","Study1","F","Study Phase2","Recall2",3523
+"JadeRoss","","card",3,"Read Recall","credit","Study1","F","Study Phase2","Recall2",1766
 "MadisonHodge","card","card",3,"Read Recall","credit","Study1","F","Study Phase2","Recall2",3928
 "MakaylaTemple","card","card",3,"Read Recall","credit","Study1","F","Study Phase2","Recall2",1977
 "w10033523_hp","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",1354
@@ -864,6 +972,8 @@
 "w10151253_ES","steal","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",12007
 "w958722_hnm","card","card",3,"Read","credit","Study1","F","Study Phase2","Recall2",2198
 "10134188andCC","laugh","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",2732
+"ArielThomas","weep","bottle",3,"Read Recall","cry","Study1","M","Study Phase2","Recall2",3909
+"JadeRoss","","bottle",3,"Read Recall","cry","Study1","M","Study Phase2","Recall2",982
 "MadisonHodge","sad","bottle",3,"Read Recall","cry","Study1","M","Study Phase2","Recall2",4914
 "MakaylaTemple","laugh","bottle",3,"Read Recall","cry","Study1","M","Study Phase2","Recall2",2514
 "w10033523_hp","bottle","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",2401
@@ -885,6 +995,8 @@
 "w10151253_ES","bottle","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",4427
 "w958722_hnm","bottle ","bottle",3,"Read","cry","Study1","M","Study Phase2","Recall2",14950
 "10134188andCC","night","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",5905
+"ArielThomas","month","dark",3,"Read Recall","day","Study1","M","Study Phase2","Recall2",13149
+"JadeRoss","rise","dark",3,"Read Recall","day","Study1","M","Study Phase2","Recall2",2937
 "MadisonHodge","dark","dark",3,"Read Recall","day","Study1","M","Study Phase2","Recall2",7685
 "MakaylaTemple","night","dark",3,"Read Recall","day","Study1","M","Study Phase2","Recall2",2362
 "w10033523_hp","night","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",1726
@@ -906,6 +1018,8 @@
 "w10151253_ES","night","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",3241
 "w958722_hnm","dark ","dark",3,"Read","day","Study1","M","Study Phase2","Recall2",9556
 "10134188andCC","rough","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",4807
+"ArielThomas","hard","bang",3,"Read Recall","fuzzy","Study1","U","Study Phase2","Recall2",26200
+"JadeRoss","animal","bang",3,"Read Recall","fuzzy","Study1","U","Study Phase2","Recall2",6011
 "MadisonHodge","silk","bang",3,"Read Recall","fuzzy","Study1","U","Study Phase2","Recall2",3831
 "MakaylaTemple","shoes","bang",3,"Read Recall","fuzzy","Study1","U","Study Phase2","Recall2",3753
 "w10033523_hp","bang","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",2659
@@ -927,6 +1041,8 @@
 "w10151253_ES","bang","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",3478
 "w958722_hnm","bang","bang",3,"Read","fuzzy","Study1","U","Study Phase2","Recall2",17355
 "10134188andCC","receive","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",2843
+"ArielThomas","away","steak",3,"Read Recall","give","Study1","U","Study Phase2","Recall2",4105
+"JadeRoss","","steak",3,"Read Recall","give","Study1","U","Study Phase2","Recall2",1170
 "MadisonHodge","take","steak",3,"Read Recall","give","Study1","U","Study Phase2","Recall2",5814
 "MakaylaTemple","take","steak",3,"Read Recall","give","Study1","U","Study Phase2","Recall2",2596
 "w10033523_hp","thanks","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",1963
@@ -948,6 +1064,8 @@
 "w10151253_ES","take","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",3959
 "w958722_hnm","steak","steak",3,"Read","give","Study1","U","Study Phase2","Recall2",39185
 "10134188andCC","easy","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",6774
+"ArielThomas","time","cotton",3,"Read Recall","hard","Study1","M","Study Phase2","Recall2",19390
+"JadeRoss","slim","cotton",3,"Read Recall","hard","Study1","M","Study Phase2","Recall2",5099
 "MadisonHodge","silk","cotton",3,"Read Recall","hard","Study1","M","Study Phase2","Recall2",5929
 "MakaylaTemple","cotton","cotton",3,"Read Recall","hard","Study1","M","Study Phase2","Recall2",6985
 "w10033523_hp","","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",1448
@@ -969,6 +1087,8 @@
 "w10151253_ES","cotton","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",5779
 "w958722_hnm","cotton ","cotton",3,"Read","hard","Study1","M","Study Phase2","Recall2",13257
 "10134188andCC","fly","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",3956
+"ArielThomas","wheel","wheel",3,"Read Recall","horse","Study1","M","Study Phase2","Recall2",16607
+"JadeRoss","wild","wheel",3,"Read Recall","horse","Study1","M","Study Phase2","Recall2",3038
 "MadisonHodge","","wheel",3,"Read Recall","horse","Study1","M","Study Phase2","Recall2",3444
 "MakaylaTemple","pony","wheel",3,"Read Recall","horse","Study1","M","Study Phase2","Recall2",3184
 "w10033523_hp","donkey","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",4807
@@ -990,6 +1110,8 @@
 "w10151253_ES","ride","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",10457
 "w958722_hnm","wheel","wheel",3,"Read","horse","Study1","M","Study Phase2","Recall2",23405
 "10134188andCC","tooth","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",3594
+"ArielThomas","clean","clean",3,"Read Recall","hygiene","Study1","F","Study Phase2","Recall2",8612
+"JadeRoss","teeth","clean",3,"Read Recall","hygiene","Study1","F","Study Phase2","Recall2",3940
 "MadisonHodge","clean","clean",3,"Read Recall","hygiene","Study1","F","Study Phase2","Recall2",4151
 "MakaylaTemple","clean","clean",3,"Read Recall","hygiene","Study1","F","Study Phase2","Recall2",4116
 "w10033523_hp","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",2464
@@ -1011,6 +1133,8 @@
 "w10151253_ES","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",10881
 "w958722_hnm","clean","clean",3,"Read","hygiene","Study1","F","Study Phase2","Recall2",11976
 "10134188andCC","wiggle","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",4316
+"ArielThomas","rod","rod",3,"Read Recall","keys","Study1","U","Study Phase2","Recall2",4996
+"JadeRoss","rod","rod",3,"Read Recall","keys","Study1","U","Study Phase2","Recall2",3956
 "MadisonHodge","car","rod",3,"Read Recall","keys","Study1","U","Study Phase2","Recall2",3519
 "MakaylaTemple","car","rod",3,"Read Recall","keys","Study1","U","Study Phase2","Recall2",2601
 "w10033523_hp","","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",4149
@@ -1032,6 +1156,8 @@
 "w10151253_ES","meat","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",7517
 "w958722_hnm","rod","rod",3,"Read","keys","Study1","U","Study Phase2","Recall2",6246
 "10134188andCC","stripes","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",2564
+"ArielThomas","stripes","stripes",3,"Read Recall","lion","Study1","M","Study Phase2","Recall2",7037
+"JadeRoss","pride","stripes",3,"Read Recall","lion","Study1","M","Study Phase2","Recall2",1897
 "MadisonHodge","stripes","stripes",3,"Read Recall","lion","Study1","M","Study Phase2","Recall2",7194
 "MakaylaTemple","cat","stripes",3,"Read Recall","lion","Study1","M","Study Phase2","Recall2",2341
 "w10033523_hp","fur","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",3105
@@ -1053,6 +1179,8 @@
 "w10151253_ES","stripes","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",4679
 "w958722_hnm","stripes","stripes",3,"Read","lion","Study1","M","Study Phase2","Recall2",5390
 "10134188andCC","ear","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",3220
+"ArielThomas","hard","fiction",3,"Read Recall","listen","Study1","U","Study Phase2","Recall2",23787
+"JadeRoss","","fiction",3,"Read Recall","listen","Study1","U","Study Phase2","Recall2",971
 "MadisonHodge","talk","fiction",3,"Read Recall","listen","Study1","U","Study Phase2","Recall2",3926
 "MakaylaTemple","","fiction",3,"Read Recall","listen","Study1","U","Study Phase2","Recall2",4927
 "w10033523_hp","hear","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",4035
@@ -1074,6 +1202,8 @@
 "w10151253_ES","ignore","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",11047
 "w958722_hnm","fiction ","fiction",3,"Read","listen","Study1","U","Study Phase2","Recall2",7588
 "10134188andCC","puppies","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",5398
+"ArielThomas","puppies","trash",3,"Read Recall","litter","Study1","F","Study Phase2","Recall2",99549
+"JadeRoss","","trash",3,"Read Recall","litter","Study1","F","Study Phase2","Recall2",3611
 "MadisonHodge","trash","trash",3,"Read Recall","litter","Study1","F","Study Phase2","Recall2",16500
 "MakaylaTemple","box","trash",3,"Read Recall","litter","Study1","F","Study Phase2","Recall2",2113
 "w10033523_hp","cats","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",2236
@@ -1095,6 +1225,8 @@
 "w10151253_ES","trash","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",5689
 "w958722_hnm","trash ","trash",3,"Read","litter","Study1","F","Study Phase2","Recall2",5412
 "10134188andCC","stuck","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",4186
+"ArielThomas","runner","phone",3,"Read Recall","maze","Study1","U","Study Phase2","Recall2",13759
+"JadeRoss","","phone",3,"Read Recall","maze","Study1","U","Study Phase2","Recall2",3426
 "MadisonHodge","runner","phone",3,"Read Recall","maze","Study1","U","Study Phase2","Recall2",4893
 "MakaylaTemple","solve","phone",3,"Read Recall","maze","Study1","U","Study Phase2","Recall2",2913
 "w10033523_hp","corn","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",2035
@@ -1116,6 +1248,8 @@
 "w10151253_ES","phone","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",4005
 "w958722_hnm","phone ","phone",3,"Read","maze","Study1","U","Study Phase2","Recall2",15936
 "10134188andCC","scale","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",3353
+"ArielThomas","steak ","keys",3,"Read Recall","meat","Study1","U","Study Phase2","Recall2",10532
+"JadeRoss","fire","keys",3,"Read Recall","meat","Study1","U","Study Phase2","Recall2",3225
 "MadisonHodge","","keys",3,"Read Recall","meat","Study1","U","Study Phase2","Recall2",4486
 "MakaylaTemple","vegetable","keys",3,"Read Recall","meat","Study1","U","Study Phase2","Recall2",7628
 "w10033523_hp","food","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",2665
@@ -1137,6 +1271,8 @@
 "w10151253_ES","keys","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",9428
 "w958722_hnm","keys ","keys",3,"Read","meat","Study1","U","Study Phase2","Recall2",32826
 "10134188andCC","reflection","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",3327
+"ArielThomas","maroon","maroon",3,"Read Recall","mirror","Study1","U","Study Phase2","Recall2",5204
+"JadeRoss","children","maroon",3,"Read Recall","mirror","Study1","U","Study Phase2","Recall2",5883
 "MadisonHodge","","maroon",3,"Read Recall","mirror","Study1","U","Study Phase2","Recall2",2048
 "MakaylaTemple","maroon","maroon",3,"Read Recall","mirror","Study1","U","Study Phase2","Recall2",2677
 "w10033523_hp","","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",2671
@@ -1159,6 +1295,10 @@
 "w958722_hnm","maroon ","maroon",3,"Read","mirror","Study1","U","Study Phase2","Recall2",11958
 "10134188andCC","mountian","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",3970
 "10134188andCC","mountain","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",3243
+"ArielThomas","donkey","donkey",3,"Read Recall","mule","Study1","F","Study Phase2","Recall2",62460
+"ArielThomas","donkey","donkey",3,"Read Recall","mule","Study1","F","Study Phase2","Recall2",10288
+"JadeRoss","","donkey",3,"Read Recall","mule","Study1","F","Study Phase2","Recall2",1279
+"JadeRoss","","donkey",3,"Read Recall","mule","Study1","F","Study Phase2","Recall2",964
 "MadisonHodge","donkey","donkey",3,"Read Recall","mule","Study1","F","Study Phase2","Recall2",5498
 "MadisonHodge","donkey","donkey",3,"Read Recall","mule","Study1","F","Study Phase2","Recall2",3762
 "MakaylaTemple","donkey","donkey",3,"Read Recall","mule","Study1","F","Study Phase2","Recall2",15054
@@ -1200,6 +1340,8 @@
 "w958722_hnm","donkey ","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",3697
 "w958722_hnm","donkey ","donkey",3,"Read","mule","Study1","F","Study Phase2","Recall2",5232
 "10134188andCC","skeep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",3891
+"ArielThomas","sleep","sleep",3,"Read Recall","nap","Study1","F","Study Phase2","Recall2",4045
+"JadeRoss","","sleep",3,"Read Recall","nap","Study1","F","Study Phase2","Recall2",1088
 "MadisonHodge","tired","sleep",3,"Read Recall","nap","Study1","F","Study Phase2","Recall2",4373
 "MakaylaTemple","sleep","sleep",3,"Read Recall","nap","Study1","F","Study Phase2","Recall2",4310
 "w10033523_hp","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",1603
@@ -1221,6 +1363,8 @@
 "w10151253_ES","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",4343
 "w958722_hnm","sleep","sleep",3,"Read","nap","Study1","F","Study Phase2","Recall2",21772
 "10134188andCC","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",2440
+"ArielThomas","flower","flower",3,"Read Recall","orchid","Study1","F","Study Phase2","Recall2",7046
+"JadeRoss","","flower",3,"Read Recall","orchid","Study1","F","Study Phase2","Recall2",798
 "MadisonHodge","flower","flower",3,"Read Recall","orchid","Study1","F","Study Phase2","Recall2",5720
 "MakaylaTemple","flower","flower",3,"Read Recall","orchid","Study1","F","Study Phase2","Recall2",18840
 "w10033523_hp","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",1490
@@ -1242,6 +1386,8 @@
 "w10151253_ES","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",3801
 "w958722_hnm","flower","flower",3,"Read","orchid","Study1","F","Study Phase2","Recall2",26962
 "10134188andCC","beer","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",2918
+"ArielThomas","tree","plant",3,"Read Recall","root","Study1","F","Study Phase2","Recall2",5753
+"JadeRoss","foot","plant",3,"Read Recall","root","Study1","F","Study Phase2","Recall2",2958
 "MadisonHodge","","plant",3,"Read Recall","root","Study1","F","Study Phase2","Recall2",4333
 "MakaylaTemple","beer","plant",3,"Read Recall","root","Study1","F","Study Phase2","Recall2",1748
 "w10033523_hp","word","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",2047
@@ -1263,6 +1409,8 @@
 "w10151253_ES","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",4030
 "w958722_hnm","plant","plant",3,"Read","root","Study1","F","Study Phase2","Recall2",10245
 "10134188andCC","light","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",2769
+"ArielThomas","soft","silk",3,"Read Recall","rough","Study1","M","Study Phase2","Recall2",30755
+"JadeRoss","knees","silk",3,"Read Recall","rough","Study1","M","Study Phase2","Recall2",3622
 "MadisonHodge","soft","silk",3,"Read Recall","rough","Study1","M","Study Phase2","Recall2",9796
 "MakaylaTemple","harf","silk",3,"Read Recall","rough","Study1","M","Study Phase2","Recall2",26119
 "w10033523_hp","house","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",1908
@@ -1284,6 +1432,8 @@
 "w10151253_ES","silk","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",3925
 "w958722_hnm","silk ","silk",3,"Read","rough","Study1","M","Study Phase2","Recall2",18986
 "10134188andCC","hair","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",2020
+"ArielThomas","head","head",3,"Read Recall","scalp","Study1","F","Study Phase2","Recall2",16701
+"JadeRoss","hair","head",3,"Read Recall","scalp","Study1","F","Study Phase2","Recall2",3420
 "MadisonHodge","bald","head",3,"Read Recall","scalp","Study1","F","Study Phase2","Recall2",5003
 "MakaylaTemple","head","head",3,"Read Recall","scalp","Study1","F","Study Phase2","Recall2",1763
 "w10033523_hp","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",1686
@@ -1305,6 +1455,8 @@
 "w10151253_ES","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",2658
 "w958722_hnm","head","head",3,"Read","scalp","Study1","F","Study Phase2","Recall2",4841
 "10134188andCC","shore","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",2978
+"ArielThomas","fish ","shake",3,"Read Recall","shell","Study1","U","Study Phase2","Recall2",17868
+"JadeRoss","water","shake",3,"Read Recall","shell","Study1","U","Study Phase2","Recall2",2347
 "MadisonHodge","fish","shake",3,"Read Recall","shell","Study1","U","Study Phase2","Recall2",8914
 "MakaylaTemple","shake","shake",3,"Read Recall","shell","Study1","U","Study Phase2","Recall2",1768
 "w10033523_hp","beach","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",2097
@@ -1326,6 +1478,8 @@
 "w10151253_ES","snake","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",3017
 "w958722_hnm","shake","shake",3,"Read","shell","Study1","U","Study Phase2","Recall2",30094
 "10134188andCC","language","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",3970
+"ArielThomas","paper","tick",3,"Read Recall","sign","Study1","U","Study Phase2","Recall2",7426
+"JadeRoss","","tick",3,"Read Recall","sign","Study1","U","Study Phase2","Recall2",771
 "MadisonHodge","language","tick",3,"Read Recall","sign","Study1","U","Study Phase2","Recall2",8364
 "MakaylaTemple","pen","tick",3,"Read Recall","sign","Study1","U","Study Phase2","Recall2",10576
 "w10033523_hp","word","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",3217
@@ -1347,6 +1501,8 @@
 "w10151253_ES","stop","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",3814
 "w958722_hnm","tick","tick",3,"Read","sign","Study1","U","Study Phase2","Recall2",13373
 "10134188andCC","tea","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",2399
+"ArielThomas","drink ","drink",3,"Read Recall","sip","Study1","F","Study Phase2","Recall2",23476
+"JadeRoss","drink","drink",3,"Read Recall","sip","Study1","F","Study Phase2","Recall2",3649
 "MadisonHodge","drink","drink",3,"Read Recall","sip","Study1","F","Study Phase2","Recall2",10421
 "MakaylaTemple","drink","drink",3,"Read Recall","sip","Study1","F","Study Phase2","Recall2",3025
 "w10033523_hp","drink","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",1862
@@ -1368,6 +1524,8 @@
 "w10151253_ES","drink","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",5301
 "w958722_hnm","drink","drink",3,"Read","sip","Study1","F","Study Phase2","Recall2",9841
 "10134188andCC","swan","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",2305
+"ArielThomas","later","belt",3,"Read Recall","soon","Study1","U","Study Phase2","Recall2",5786
+"JadeRoss","","belt",3,"Read Recall","soon","Study1","U","Study Phase2","Recall2",997
 "MadisonHodge","far","belt",3,"Read Recall","soon","Study1","U","Study Phase2","Recall2",5171
 "MakaylaTemple","later","belt",3,"Read Recall","soon","Study1","U","Study Phase2","Recall2",2200
 "w10033523_hp","late","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",2413
@@ -1389,6 +1547,8 @@
 "w10151253_ES","near","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",6633
 "w958722_hnm","belt","belt",3,"Read","soon","Study1","U","Study Phase2","Recall2",32191
 "10134188andCC","yoga","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",4604
+"ArielThomas","out","cloth",3,"Read Recall","stretch","Study1","U","Study Phase2","Recall2",7508
+"JadeRoss","satin","cloth",3,"Read Recall","stretch","Study1","U","Study Phase2","Recall2",4191
 "MadisonHodge","marks","cloth",3,"Read Recall","stretch","Study1","U","Study Phase2","Recall2",4430
 "MakaylaTemple","","cloth",3,"Read Recall","stretch","Study1","U","Study Phase2","Recall2",1085
 "w10033523_hp","","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",1080
@@ -1410,6 +1570,8 @@
 "w10151253_ES","resist","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",7785
 "w958722_hnm","cloth","cloth",3,"Read","stretch","Study1","U","Study Phase2","Recall2",30876
 "10134188andCC","lake","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",2149
+"ArielThomas","bird","bird",3,"Read Recall","swan","Study1","F","Study Phase2","Recall2",3431
+"JadeRoss","dive","bird",3,"Read Recall","swan","Study1","F","Study Phase2","Recall2",3054
 "MadisonHodge","duck","bird",3,"Read Recall","swan","Study1","F","Study Phase2","Recall2",15926
 "MakaylaTemple","geese","bird",3,"Read Recall","swan","Study1","F","Study Phase2","Recall2",3013
 "w10033523_hp","","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",4371
@@ -1431,6 +1593,8 @@
 "w10151253_ES","bird","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",7979
 "w958722_hnm","bird ","bird",3,"Read","swan","Study1","F","Study Phase2","Recall2",19530
 "10134188andCC","hot","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",2771
+"ArielThomas","weather","morning",3,"Read Recall","temperature","Study1","U","Study Phase2","Recall2",4802
+"JadeRoss","outside","morning",3,"Read Recall","temperature","Study1","U","Study Phase2","Recall2",3765
 "MadisonHodge","hot","morning",3,"Read Recall","temperature","Study1","U","Study Phase2","Recall2",5571
 "MakaylaTemple","morning","morning",3,"Read Recall","temperature","Study1","U","Study Phase2","Recall2",14373
 "w10033523_hp","","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",1996
@@ -1452,6 +1616,8 @@
 "w10151253_ES","plastic","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",11457
 "w958722_hnm","morning ","morning",3,"Read","temperature","Study1","U","Study Phase2","Recall2",17389
 "10134188andCC","fairy","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",7389
+"ArielThomas","dentist","hair",3,"Read Recall","tooth","Study1","M","Study Phase2","Recall2",6964
+"JadeRoss","","hair",3,"Read Recall","tooth","Study1","M","Study Phase2","Recall2",1787
 "MadisonHodge","ache","hair",3,"Read Recall","tooth","Study1","M","Study Phase2","Recall2",7895
 "MakaylaTemple","ache","hair",3,"Read Recall","tooth","Study1","M","Study Phase2","Recall2",1848
 "w10033523_hp","paste","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",1822
@@ -1473,6 +1639,8 @@
 "w10151253_ES","hair","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",2805
 "w958722_hnm","hair","hair",3,"Read","tooth","Study1","M","Study Phase2","Recall2",13462
 "10134188andCC","sap","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",3138
+"ArielThomas","greens","syrup",3,"Read Recall","tree","Study1","M","Study Phase2","Recall2",22783
+"JadeRoss","","syrup",3,"Read Recall","tree","Study1","M","Study Phase2","Recall2",943
 "MadisonHodge","house","syrup",3,"Read Recall","tree","Study1","M","Study Phase2","Recall2",5968
 "MakaylaTemple","house","syrup",3,"Read Recall","tree","Study1","M","Study Phase2","Recall2",5439
 "w10033523_hp","bark","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",2749
@@ -1494,6 +1662,8 @@
 "w10151253_ES","green","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",5796
 "w958722_hnm","syrup","syrup",3,"Read","tree","Study1","M","Study Phase2","Recall2",11035
 "10134188andCC","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",2161
+"ArielThomas","fish","fish",3,"Read Recall","tuna","Study1","F","Study Phase2","Recall2",3457
+"JadeRoss","fish","fish",3,"Read Recall","tuna","Study1","F","Study Phase2","Recall2",2844
 "MadisonHodge","fish","fish",3,"Read Recall","tuna","Study1","F","Study Phase2","Recall2",2834
 "MakaylaTemple","fish","fish",3,"Read Recall","tuna","Study1","F","Study Phase2","Recall2",2387
 "w10033523_hp","meat","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",1717
@@ -1515,6 +1685,8 @@
 "w10151253_ES","fish","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",2752
 "w958722_hnm","fish ","fish",3,"Read","tuna","Study1","F","Study Phase2","Recall2",24293
 "10134188andCC","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",1727
+"ArielThomas","car","charm",3,"Read Recall","vehicle","Study1","U","Study Phase2","Recall2",4199
+"JadeRoss","car","charm",3,"Read Recall","vehicle","Study1","U","Study Phase2","Recall2",2393
 "MadisonHodge","car","charm",3,"Read Recall","vehicle","Study1","U","Study Phase2","Recall2",3644
 "MakaylaTemple","car","charm",3,"Read Recall","vehicle","Study1","U","Study Phase2","Recall2",1897
 "w10033523_hp","car","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",1436
@@ -1536,6 +1708,8 @@
 "w10151253_ES","door","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",5294
 "w958722_hnm","charm","charm",3,"Read","vehicle","Study1","U","Study Phase2","Recall2",15440
 "10134188andCC","wire","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",2524
+"ArielThomas","money","money",3,"Read Recall","wage","Study1","F","Study Phase2","Recall2",12829
+"JadeRoss","money","money",3,"Read Recall","wage","Study1","F","Study Phase2","Recall2",2152
 "MadisonHodge","money","money",3,"Read Recall","wage","Study1","F","Study Phase2","Recall2",4142
 "MakaylaTemple","pay","money",3,"Read Recall","wage","Study1","F","Study Phase2","Recall2",2970
 "w10033523_hp","money","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",1721
@@ -1557,6 +1731,8 @@
 "w10151253_ES","theft","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",7206
 "w958722_hnm","money ","money",3,"Read","wage","Study1","F","Study Phase2","Recall2",8614
 "10134188andCC","peace","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",2733
+"ArielThomas","quiet","quiet",3,"Read Recall","war","Study1","M","Study Phase2","Recall2",42796
+"JadeRoss","fight","quiet",3,"Read Recall","war","Study1","M","Study Phase2","Recall2",1919
 "MadisonHodge","zone","quiet",3,"Read Recall","war","Study1","M","Study Phase2","Recall2",7083
 "MakaylaTemple","love","quiet",3,"Read Recall","war","Study1","M","Study Phase2","Recall2",2295
 "w10033523_hp","","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",2212
@@ -1578,6 +1754,8 @@
 "w10151253_ES","quiet","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",4178
 "w958722_hnm","quiet","quiet",3,"Read","war","Study1","M","Study Phase2","Recall2",39288
 "10134188andCC","bliss","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",2994
+"ArielThomas","ring ","finger",3,"Read Recall","wedding","Study1","M","Study Phase2","Recall2",8907
+"JadeRoss","","finger",3,"Read Recall","wedding","Study1","M","Study Phase2","Recall2",1068
 "MadisonHodge","ring","finger",3,"Read Recall","wedding","Study1","M","Study Phase2","Recall2",4330
 "MakaylaTemple","day","finger",3,"Read Recall","wedding","Study1","M","Study Phase2","Recall2",2349
 "w10033523_hp","bells","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",3184
@@ -1599,6 +1777,8 @@
 "w10151253_ES","finger","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",3406
 "w958722_hnm","finger","finger",3,"Read","wedding","Study1","M","Study Phase2","Recall2",18573
 "10134188andCC","seat","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",3324
+"ArielThomas","sentence ","sentence",3,"Read Recall","word","Study1","F","Study Phase2","Recall2",8095
+"JadeRoss","","sentence",3,"Read Recall","word","Study1","F","Study Phase2","Recall2",2361
 "MadisonHodge","","sentence",3,"Read Recall","word","Study1","F","Study Phase2","Recall2",4578
 "MakaylaTemple","day","sentence",3,"Read Recall","word","Study1","F","Study Phase2","Recall2",1901
 "w10033523_hp","search","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",1747
@@ -1620,8 +1800,10 @@
 "w10151253_ES","sentence","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",6672
 "w958722_hnm","sentence ","sentence",3,"Read","word","Study1","F","Study Phase2","Recall2",5864
 "10143815SK","","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",2844
+"BrettThompson","picture","wolf",1,"Read Recall","art","Study2","U","Study Phase2","Recall2",7791
 "BrookeMask","wolf","wolf",1,"Read Recall","art","Study2","U","Study Phase2","Recall2",1488
 "jasminesherman","","wolf",1,"Read Recall","art","Study2","U","Study Phase2","Recall2",3692
+"NicolasMunoz","school","wolf",1,"Read Recall","art","Study2","U","Study Phase2","Recall2",2813
 "TaravionCosey","work","wolf",1,"Read Recall","art","Study2","U","Study Phase2","Recall2",6242
 "w10046339_pw","wolf","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",3483
 "W10057641NS","","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",97
@@ -1635,8 +1817,10 @@
 "w10143398_abc","idk","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",4531
 "w10157282_HBR","wolf","wolf",1,"Read","art","Study2","U","Study Phase2","Recall2",19430
 "10143815SK","blood","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",8901
+"BrettThompson","body","bronze",1,"Read Recall","artery","Study2","U","Study Phase2","Recall2",7417
 "BrookeMask","d","bronze",1,"Read Recall","artery","Study2","U","Study Phase2","Recall2",2368
 "jasminesherman","","bronze",1,"Read Recall","artery","Study2","U","Study Phase2","Recall2",1240
+"NicolasMunoz","","bronze",1,"Read Recall","artery","Study2","U","Study Phase2","Recall2",840
 "TaravionCosey","bronze ","bronze",1,"Read Recall","artery","Study2","U","Study Phase2","Recall2",18418
 "w10046339_pw","heart","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",10655
 "W10057641NS","","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",71
@@ -1650,8 +1834,10 @@
 "w10143398_abc","bronze","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",3586
 "w10157282_HBR","vein","bronze",1,"Read","artery","Study2","U","Study Phase2","Recall2",18688
 "10143815SK","","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",17181
+"BrettThompson","cloths","clothes",1,"Read Recall","attire","Study2","F","Study Phase2","Recall2",8140
 "BrookeMask","clothing","clothes",1,"Read Recall","attire","Study2","F","Study Phase2","Recall2",2143
 "jasminesherman","","clothes",1,"Read Recall","attire","Study2","F","Study Phase2","Recall2",1772
+"NicolasMunoz","","clothes",1,"Read Recall","attire","Study2","F","Study Phase2","Recall2",1059
 "TaravionCosey","clothes","clothes",1,"Read Recall","attire","Study2","F","Study Phase2","Recall2",12137
 "w10046339_pw","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",6975
 "W10057641NS","","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",162
@@ -1665,8 +1851,10 @@
 "w10143398_abc","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",3102
 "w10157282_HBR","clothes","clothes",1,"Read","attire","Study2","F","Study Phase2","Recall2",22929
 "10143815SK","beach","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",6246
+"BrettThompson","football","horn",1,"Read Recall","bench","Study2","U","Study Phase2","Recall2",8983
 "BrookeMask","horn","horn",1,"Read Recall","bench","Study2","U","Study Phase2","Recall2",2735
 "jasminesherman","","horn",1,"Read Recall","bench","Study2","U","Study Phase2","Recall2",3191
+"NicolasMunoz","","horn",1,"Read Recall","bench","Study2","U","Study Phase2","Recall2",831
 "TaravionCosey","horn","horn",1,"Read Recall","bench","Study2","U","Study Phase2","Recall2",11135
 "w10046339_pw","park","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",4379
 "W10057641NS","","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",140
@@ -1680,8 +1868,10 @@
 "w10143398_abc","seat","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",2962
 "w10157282_HBR","seat","horn",1,"Read","bench","Study2","U","Study Phase2","Recall2",22714
 "10143815SK","grease","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",18376
+"BrettThompson","heat","fire",1,"Read Recall","blaze","Study2","F","Study Phase2","Recall2",4258
 "BrookeMask","fire","fire",1,"Read Recall","blaze","Study2","F","Study Phase2","Recall2",1510
 "jasminesherman","","fire",1,"Read Recall","blaze","Study2","F","Study Phase2","Recall2",2074
+"NicolasMunoz","","fire",1,"Read Recall","blaze","Study2","F","Study Phase2","Recall2",1177
 "TaravionCosey","fire","fire",1,"Read Recall","blaze","Study2","F","Study Phase2","Recall2",7243
 "w10046339_pw","hot","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",4225
 "W10057641NS","space","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",3410
@@ -1695,8 +1885,10 @@
 "w10143398_abc","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",2448
 "w10157282_HBR","fire","fire",1,"Read","blaze","Study2","F","Study Phase2","Recall2",9800
 "10143815SK","face","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",11043
+"BrettThompson","twp","ounce",1,"Read Recall","both","Study2","U","Study Phase2","Recall2",3857
 "BrookeMask","","ounce",1,"Read Recall","both","Study2","U","Study Phase2","Recall2",4907
 "jasminesherman","","ounce",1,"Read Recall","both","Study2","U","Study Phase2","Recall2",778
+"NicolasMunoz","","ounce",1,"Read Recall","both","Study2","U","Study Phase2","Recall2",916
 "TaravionCosey","ounce ","ounce",1,"Read Recall","both","Study2","U","Study Phase2","Recall2",19320
 "w10046339_pw","none","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",2461
 "W10057641NS","","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",8
@@ -1710,8 +1902,10 @@
 "w10143398_abc","feud","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",14765
 "w10157282_HBR","ounce","ounce",1,"Read","both","Study2","U","Study Phase2","Recall2",22614
 "10143815SK","water ","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",4601
+"BrettThompson","water","water",1,"Read Recall","bridge","Study2","F","Study Phase2","Recall2",2825
 "BrookeMask","ladder","water",1,"Read Recall","bridge","Study2","F","Study Phase2","Recall2",5408
 "jasminesherman","","water",1,"Read Recall","bridge","Study2","F","Study Phase2","Recall2",747
+"NicolasMunoz","book","water",1,"Read Recall","bridge","Study2","F","Study Phase2","Recall2",2004
 "TaravionCosey","water ","water",1,"Read Recall","bridge","Study2","F","Study Phase2","Recall2",13385
 "w10046339_pw","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",2626
 "W10057641NS","","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",144
@@ -1725,8 +1919,10 @@
 "w10143398_abc","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",2812
 "w10157282_HBR","water","water",1,"Read","bridge","Study2","F","Study Phase2","Recall2",19245
 "10143815SK","","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",8447
+"BrettThompson","plant","plant",1,"Read Recall","cactus","Study2","F","Study Phase2","Recall2",4377
 "BrookeMask","plant","plant",1,"Read Recall","cactus","Study2","F","Study Phase2","Recall2",2297
 "jasminesherman","","plant",1,"Read Recall","cactus","Study2","F","Study Phase2","Recall2",1036
+"NicolasMunoz","","plant",1,"Read Recall","cactus","Study2","F","Study Phase2","Recall2",1106
 "TaravionCosey","plant","plant",1,"Read Recall","cactus","Study2","F","Study Phase2","Recall2",12830
 "w10046339_pw","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",2136
 "W10057641NS","","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",15
@@ -1740,8 +1936,10 @@
 "w10143398_abc","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",2562
 "w10157282_HBR","plant","plant",1,"Read","cactus","Study2","F","Study Phase2","Recall2",21270
 "10143815SK","","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",27723
+"BrettThompson","money","leg",1,"Read Recall","cash","Study2","U","Study Phase2","Recall2",7179
 "BrookeMask","","leg",1,"Read Recall","cash","Study2","U","Study Phase2","Recall2",1410
 "jasminesherman","","leg",1,"Read Recall","cash","Study2","U","Study Phase2","Recall2",813
+"NicolasMunoz","","leg",1,"Read Recall","cash","Study2","U","Study Phase2","Recall2",659
 "TaravionCosey","money ","leg",1,"Read Recall","cash","Study2","U","Study Phase2","Recall2",7536
 "w10046339_pw","wallet","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",5621
 "W10057641NS","","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",96
@@ -1755,8 +1953,10 @@
 "w10143398_abc","money","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",3577
 "w10157282_HBR","leg","leg",1,"Read","cash","Study2","U","Study Phase2","Recall2",12220
 "10143815SK","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2673
+"BrettThompson","top","red",1,"Read Recall","cherry","Study2","F","Study Phase2","Recall2",2938
 "BrookeMask","red","red",1,"Read Recall","cherry","Study2","F","Study Phase2","Recall2",1277
 "jasminesherman","","red",1,"Read Recall","cherry","Study2","F","Study Phase2","Recall2",1456
+"NicolasMunoz","","red",1,"Read Recall","cherry","Study2","F","Study Phase2","Recall2",1547
 "TaravionCosey","red","red",1,"Read Recall","cherry","Study2","F","Study Phase2","Recall2",7406
 "w10046339_pw","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2035
 "W10057641NS","","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",67
@@ -1770,8 +1970,10 @@
 "w10143398_abc","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",2511
 "w10157282_HBR","red","red",1,"Read","cherry","Study2","F","Study Phase2","Recall2",21181
 "10143815SK","","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",1883
+"BrettThompson","snow","cold",1,"Read Recall","chill","Study2","F","Study Phase2","Recall2",3811
 "BrookeMask","cold","cold",1,"Read Recall","chill","Study2","F","Study Phase2","Recall2",2432
 "jasminesherman","","cold",1,"Read Recall","chill","Study2","F","Study Phase2","Recall2",830
+"NicolasMunoz","","cold",1,"Read Recall","chill","Study2","F","Study Phase2","Recall2",1360
 "TaravionCosey","cold","cold",1,"Read Recall","chill","Study2","F","Study Phase2","Recall2",7724
 "w10046339_pw","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",2286
 "W10057641NS","","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",66
@@ -1785,8 +1987,10 @@
 "w10143398_abc","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",4329
 "w10157282_HBR","cold","cold",1,"Read","chill","Study2","F","Study Phase2","Recall2",38417
 "10143815SK","","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",4408
+"BrettThompson","hammer","hammer",1,"Read Recall","chisel","Study2","F","Study Phase2","Recall2",3201
 "BrookeMask","hammer","hammer",1,"Read Recall","chisel","Study2","F","Study Phase2","Recall2",2701
 "jasminesherman","","hammer",1,"Read Recall","chisel","Study2","F","Study Phase2","Recall2",1052
+"NicolasMunoz","","hammer",1,"Read Recall","chisel","Study2","F","Study Phase2","Recall2",595
 "TaravionCosey","hammer ","hammer",1,"Read Recall","chisel","Study2","F","Study Phase2","Recall2",17418
 "w10046339_pw","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",3281
 "W10057641NS","","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",153
@@ -1800,8 +2004,10 @@
 "w10143398_abc","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",2713
 "w10157282_HBR","hammer","hammer",1,"Read","chisel","Study2","F","Study Phase2","Recall2",36464
 "10143815SK","chip","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",4818
+"BrettThompson","choy","cut",1,"Read Recall","chop","Study2","F","Study Phase2","Recall2",6264
 "BrookeMask","cut","cut",1,"Read Recall","chop","Study2","F","Study Phase2","Recall2",3326
 "jasminesherman","","cut",1,"Read Recall","chop","Study2","F","Study Phase2","Recall2",983
+"NicolasMunoz","","cut",1,"Read Recall","chop","Study2","F","Study Phase2","Recall2",1033
 "TaravionCosey","cut","cut",1,"Read Recall","chop","Study2","F","Study Phase2","Recall2",50782
 "w10046339_pw","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",3022
 "W10057641NS","","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",119
@@ -1815,8 +2021,10 @@
 "w10143398_abc","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",4366
 "w10157282_HBR","cut","cut",1,"Read","chop","Study2","F","Study Phase2","Recall2",22146
 "10143815SK","","business",1,"Read","death","Study2","U","Study Phase2","Recall2",13995
+"BrettThompson","happy","business",1,"Read Recall","death","Study2","U","Study Phase2","Recall2",5379
 "BrookeMask","","business",1,"Read Recall","death","Study2","U","Study Phase2","Recall2",2719
 "jasminesherman","","business",1,"Read Recall","death","Study2","U","Study Phase2","Recall2",659
+"NicolasMunoz","","business",1,"Read Recall","death","Study2","U","Study Phase2","Recall2",1930
 "TaravionCosey","business ","business",1,"Read Recall","death","Study2","U","Study Phase2","Recall2",6850
 "w10046339_pw","buisness","business",1,"Read","death","Study2","U","Study Phase2","Recall2",4878
 "W10057641NS","","business",1,"Read","death","Study2","U","Study Phase2","Recall2",99
@@ -1830,8 +2038,10 @@
 "w10143398_abc","idk","business",1,"Read","death","Study2","U","Study Phase2","Recall2",4100
 "w10157282_HBR","business","business",1,"Read","death","Study2","U","Study Phase2","Recall2",23791
 "10143815SK","sack","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",5503
+"BrettThompson","food","sack",1,"Read Recall","dietary","Study2","U","Study Phase2","Recall2",5067
 "BrookeMask","supplement","sack",1,"Read Recall","dietary","Study2","U","Study Phase2","Recall2",2681
 "jasminesherman","","sack",1,"Read Recall","dietary","Study2","U","Study Phase2","Recall2",816
+"NicolasMunoz","","sack",1,"Read Recall","dietary","Study2","U","Study Phase2","Recall2",813
 "TaravionCosey","sack","sack",1,"Read Recall","dietary","Study2","U","Study Phase2","Recall2",19428
 "w10046339_pw","food","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",5392
 "W10057641NS","","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",29
@@ -1845,8 +2055,10 @@
 "w10143398_abc","sack","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",4261
 "w10157282_HBR","food","sack",1,"Read","dietary","Study2","U","Study Phase2","Recall2",35046
 "10143815SK","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",3003
+"BrettThompson","paper","paper",1,"Read Recall","document","Study2","F","Study Phase2","Recall2",3255
 "BrookeMask","paper","paper",1,"Read Recall","document","Study2","F","Study Phase2","Recall2",1741
 "jasminesherman","","paper",1,"Read Recall","document","Study2","F","Study Phase2","Recall2",867
+"NicolasMunoz","","paper",1,"Read Recall","document","Study2","F","Study Phase2","Recall2",1009
 "TaravionCosey","paper ","paper",1,"Read Recall","document","Study2","F","Study Phase2","Recall2",26700
 "w10046339_pw","note","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",3271
 "W10057641NS","","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",110
@@ -1860,8 +2072,10 @@
 "w10143398_abc","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",2612
 "w10157282_HBR","paper","paper",1,"Read","document","Study2","F","Study Phase2","Recall2",11976
 "10143815SK","smell","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",5084
+"BrettThompson","hears","smell",1,"Read Recall","eyes","Study2","M","Study Phase2","Recall2",4363
 "BrookeMask","ears","smell",1,"Read Recall","eyes","Study2","M","Study Phase2","Recall2",1823
 "jasminesherman","","smell",1,"Read Recall","eyes","Study2","M","Study Phase2","Recall2",815
+"NicolasMunoz","","smell",1,"Read Recall","eyes","Study2","M","Study Phase2","Recall2",1627
 "TaravionCosey","smell","smell",1,"Read Recall","eyes","Study2","M","Study Phase2","Recall2",7699
 "w10046339_pw","smell","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",2779
 "W10057641NS","","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",104
@@ -1875,8 +2089,10 @@
 "w10143398_abc","brown","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",3554
 "w10157282_HBR","nose","smell",1,"Read","eyes","Study2","M","Study Phase2","Recall2",64968
 "10143815SK","","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",2346
+"BrettThompson","fight","fight",1,"Read Recall","feud","Study2","F","Study Phase2","Recall2",3462
 "BrookeMask","fight","fight",1,"Read Recall","feud","Study2","F","Study Phase2","Recall2",1794
 "jasminesherman","","fight",1,"Read Recall","feud","Study2","F","Study Phase2","Recall2",799
+"NicolasMunoz","","fight",1,"Read Recall","feud","Study2","F","Study Phase2","Recall2",1225
 "TaravionCosey","fight","fight",1,"Read Recall","feud","Study2","F","Study Phase2","Recall2",13850
 "w10046339_pw","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",5078
 "W10057641NS","","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",26
@@ -1890,8 +2106,10 @@
 "w10143398_abc","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",2830
 "w10157282_HBR","fight","fight",1,"Read","feud","Study2","F","Study Phase2","Recall2",3090
 "10143815SK","roast","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",5287
+"BrettThompson","thigh","thigh",1,"Read Recall","grill","Study2","M","Study Phase2","Recall2",6526
 "BrookeMask","thigh","thigh",1,"Read Recall","grill","Study2","M","Study Phase2","Recall2",2900
 "jasminesherman","","thigh",1,"Read Recall","grill","Study2","M","Study Phase2","Recall2",757
+"NicolasMunoz","","thigh",1,"Read Recall","grill","Study2","M","Study Phase2","Recall2",841
 "TaravionCosey","thigh","thigh",1,"Read Recall","grill","Study2","M","Study Phase2","Recall2",17189
 "w10046339_pw","cook","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",2906
 "W10057641NS","","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",55
@@ -1905,8 +2123,10 @@
 "w10143398_abc","thigh","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",2897
 "w10157282_HBR","thigh","thigh",1,"Read","grill","Study2","M","Study Phase2","Recall2",5693
 "10143815SK","","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",11593
+"BrettThompson","hour","car",1,"Read Recall","happy","Study2","U","Study Phase2","Recall2",5040
 "BrookeMask","sad","car",1,"Read Recall","happy","Study2","U","Study Phase2","Recall2",2946
 "jasminesherman","","car",1,"Read Recall","happy","Study2","U","Study Phase2","Recall2",773
+"NicolasMunoz","","car",1,"Read Recall","happy","Study2","U","Study Phase2","Recall2",964
 "TaravionCosey","sad","car",1,"Read Recall","happy","Study2","U","Study Phase2","Recall2",13188
 "w10046339_pw","mood","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",3140
 "W10057641NS","","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",127
@@ -1920,8 +2140,10 @@
 "w10143398_abc","idk","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",4310
 "w10157282_HBR","sad","car",1,"Read","happy","Study2","U","Study Phase2","Recall2",5271
 "10143815SK","","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",2390
+"BrettThompson","feather","feather",1,"Read Recall","heavy","Study2","M","Study Phase2","Recall2",5294
 "BrookeMask","weaks","feather",1,"Read Recall","heavy","Study2","M","Study Phase2","Recall2",2600
 "jasminesherman","","feather",1,"Read Recall","heavy","Study2","M","Study Phase2","Recall2",2259
+"NicolasMunoz","","feather",1,"Read Recall","heavy","Study2","M","Study Phase2","Recall2",1027
 "TaravionCosey","feather ","feather",1,"Read Recall","heavy","Study2","M","Study Phase2","Recall2",16244
 "w10046339_pw","feather","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",3454
 "W10057641NS","","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",46
@@ -1935,8 +2157,10 @@
 "w10143398_abc","feather","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",4534
 "w10157282_HBR","feather","feather",1,"Read","heavy","Study2","M","Study Phase2","Recall2",5036
 "10143815SK","","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",1898
+"BrettThompson","cow","cow",1,"Read Recall","herd","Study2","F","Study Phase2","Recall2",10977
 "BrookeMask","sheep","cow",1,"Read Recall","herd","Study2","F","Study Phase2","Recall2",1599
 "jasminesherman","pack","cow",1,"Read Recall","herd","Study2","F","Study Phase2","Recall2",5736
+"NicolasMunoz","","cow",1,"Read Recall","herd","Study2","F","Study Phase2","Recall2",1320
 "TaravionCosey","cow","cow",1,"Read Recall","herd","Study2","F","Study Phase2","Recall2",23162
 "w10046339_pw","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",3151
 "W10057641NS","","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",147
@@ -1950,8 +2174,10 @@
 "w10143398_abc","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",3391
 "w10157282_HBR","cow","cow",1,"Read","herd","Study2","F","Study Phase2","Recall2",17627
 "10143815SK","","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",8033
+"BrettThompson","sting","sting",1,"Read Recall","hornet","Study2","F","Study Phase2","Recall2",3808
 "BrookeMask","stinger","sting",1,"Read Recall","hornet","Study2","F","Study Phase2","Recall2",2464
 "jasminesherman","","sting",1,"Read Recall","hornet","Study2","F","Study Phase2","Recall2",718
+"NicolasMunoz","sting","sting",1,"Read Recall","hornet","Study2","F","Study Phase2","Recall2",5167
 "TaravionCosey","sting","sting",1,"Read Recall","hornet","Study2","F","Study Phase2","Recall2",19515
 "w10046339_pw","sting","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",4510
 "W10057641NS","","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",17
@@ -1965,8 +2191,10 @@
 "w10143398_abc","sting","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",3347
 "w10157282_HBR","sting","sting",1,"Read","hornet","Study2","F","Study Phase2","Recall2",17392
 "10143815SK","","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",8984
+"BrettThompson","large","smell",1,"Read Recall","incense","Study2","F","Study Phase2","Recall2",9501
 "BrookeMask","smell","smell",1,"Read Recall","incense","Study2","F","Study Phase2","Recall2",1853
 "jasminesherman","","smell",1,"Read Recall","incense","Study2","F","Study Phase2","Recall2",6304
+"NicolasMunoz","","smell",1,"Read Recall","incense","Study2","F","Study Phase2","Recall2",855
 "TaravionCosey","smell","smell",1,"Read Recall","incense","Study2","F","Study Phase2","Recall2",13144
 "w10046339_pw","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",3911
 "W10057641NS","","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",182
@@ -1980,8 +2208,10 @@
 "w10143398_abc","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",2662
 "w10157282_HBR","smell","smell",1,"Read","incense","Study2","F","Study Phase2","Recall2",26039
 "10143815SK","","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",1484
+"BrettThompson","vase","vase",1,"Read Recall","king","Study2","U","Study Phase2","Recall2",2997
 "BrookeMask","vase","vase",1,"Read Recall","king","Study2","U","Study Phase2","Recall2",2284
 "jasminesherman","","vase",1,"Read Recall","king","Study2","U","Study Phase2","Recall2",890
+"NicolasMunoz","","vase",1,"Read Recall","king","Study2","U","Study Phase2","Recall2",1510
 "TaravionCosey","vase","vase",1,"Read Recall","king","Study2","U","Study Phase2","Recall2",14227
 "w10046339_pw","vase","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",2867
 "W10057641NS","","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",154
@@ -1995,8 +2225,10 @@
 "w10143398_abc","vase","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",3410
 "w10157282_HBR","queen","vase",1,"Read","king","Study2","U","Study Phase2","Recall2",15198
 "10143815SK","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",8436
+"BrettThompson","basball","baseball",1,"Read Recall","league","Study2","F","Study Phase2","Recall2",6453
 "BrookeMask","baseball","baseball",1,"Read Recall","league","Study2","F","Study Phase2","Recall2",2598
 "jasminesherman","","baseball",1,"Read Recall","league","Study2","F","Study Phase2","Recall2",787
+"NicolasMunoz","","baseball",1,"Read Recall","league","Study2","F","Study Phase2","Recall2",921
 "TaravionCosey","baseball ","baseball",1,"Read Recall","league","Study2","F","Study Phase2","Recall2",19165
 "w10046339_pw","basketball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",4353
 "W10057641NS","","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",167
@@ -2010,8 +2242,10 @@
 "w10143398_abc","idk","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",2334
 "w10157282_HBR","baseball","baseball",1,"Read","league","Study2","F","Study Phase2","Recall2",17929
 "10143815SK","greene","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",4966
+"BrettThompson","rent","toil",1,"Read Recall","lease","Study2","U","Study Phase2","Recall2",5954
 "BrookeMask","rent","toil",1,"Read Recall","lease","Study2","U","Study Phase2","Recall2",1871
 "jasminesherman","","toil",1,"Read Recall","lease","Study2","U","Study Phase2","Recall2",971
+"NicolasMunoz","","toil",1,"Read Recall","lease","Study2","U","Study Phase2","Recall2",753
 "TaravionCosey","rent","toil",1,"Read Recall","lease","Study2","U","Study Phase2","Recall2",7641
 "w10046339_pw","house","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",7842
 "W10057641NS","","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",31
@@ -2025,8 +2259,10 @@
 "w10143398_abc","sign","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",5778
 "w10157282_HBR","agreement","toil",1,"Read","lease","Study2","U","Study Phase2","Recall2",3220
 "10143815SK","","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",8550
+"BrettThompson","sie","children",1,"Read Recall","mirror","Study2","U","Study Phase2","Recall2",8281
 "BrookeMask","children","children",1,"Read Recall","mirror","Study2","U","Study Phase2","Recall2",3080
 "jasminesherman","children ","children",1,"Read Recall","mirror","Study2","U","Study Phase2","Recall2",5087
+"NicolasMunoz","","children",1,"Read Recall","mirror","Study2","U","Study Phase2","Recall2",1532
 "TaravionCosey","children ","children",1,"Read Recall","mirror","Study2","U","Study Phase2","Recall2",39516
 "w10046339_pw","children","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",3262
 "W10057641NS","","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",77
@@ -2040,8 +2276,10 @@
 "w10143398_abc","maroon","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",5311
 "w10157282_HBR","reflection","children",1,"Read","mirror","Study2","U","Study Phase2","Recall2",21027
 "10143815SK","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",5172
+"BrettThompson","stick","lawyer",1,"Read Recall","nurse","Study2","M","Study Phase2","Recall2",8332
 "BrookeMask","","lawyer",1,"Read Recall","nurse","Study2","M","Study Phase2","Recall2",2751
 "jasminesherman","","lawyer",1,"Read Recall","nurse","Study2","M","Study Phase2","Recall2",651
+"NicolasMunoz","help","lawyer",1,"Read Recall","nurse","Study2","M","Study Phase2","Recall2",4000
 "TaravionCosey","lawyer ","lawyer",1,"Read Recall","nurse","Study2","M","Study Phase2","Recall2",5013
 "w10046339_pw","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",2902
 "W10057641NS","","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",140
@@ -2055,8 +2293,10 @@
 "w10143398_abc","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",4371
 "w10157282_HBR","lawyer","lawyer",1,"Read","nurse","Study2","M","Study Phase2","Recall2",34184
 "10143815SK","","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",4027
+"BrettThompson","brick","basket",1,"Read Recall","oven","Study2","M","Study Phase2","Recall2",9561
 "BrookeMask","basket","basket",1,"Read Recall","oven","Study2","M","Study Phase2","Recall2",2342
 "jasminesherman","","basket",1,"Read Recall","oven","Study2","M","Study Phase2","Recall2",502
+"NicolasMunoz","","basket",1,"Read Recall","oven","Study2","M","Study Phase2","Recall2",1841
 "TaravionCosey","basket","basket",1,"Read Recall","oven","Study2","M","Study Phase2","Recall2",16496
 "w10046339_pw","slove","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",4103
 "W10057641NS","","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",137
@@ -2070,8 +2310,10 @@
 "w10143398_abc","basket","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",3587
 "w10157282_HBR","roasted","basket",1,"Read","oven","Study2","M","Study Phase2","Recall2",8999
 "10143815SK","","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",3586
+"BrettThompson","attire","collar",1,"Read Recall","pants","Study2","M","Study Phase2","Recall2",5595
 "BrookeMask","collar","collar",1,"Read Recall","pants","Study2","M","Study Phase2","Recall2",3800
 "jasminesherman","","collar",1,"Read Recall","pants","Study2","M","Study Phase2","Recall2",723
+"NicolasMunoz","wea","collar",1,"Read Recall","pants","Study2","M","Study Phase2","Recall2",2500
 "TaravionCosey","shirt","collar",1,"Read Recall","pants","Study2","M","Study Phase2","Recall2",26886
 "w10046339_pw","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",4877
 "W10057641NS","","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",41
@@ -2085,8 +2327,10 @@
 "w10143398_abc","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",4842
 "w10157282_HBR","collar","collar",1,"Read","pants","Study2","M","Study Phase2","Recall2",9416
 "10143815SK","","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",10817
+"BrettThompson","shove","clutter",1,"Read Recall","push","Study2","U","Study Phase2","Recall2",3695
 "BrookeMask","soil","clutter",1,"Read Recall","push","Study2","U","Study Phase2","Recall2",3394
 "jasminesherman","","clutter",1,"Read Recall","push","Study2","U","Study Phase2","Recall2",1689
+"NicolasMunoz","","clutter",1,"Read Recall","push","Study2","U","Study Phase2","Recall2",3706
 "TaravionCosey","clutter ","clutter",1,"Read Recall","push","Study2","U","Study Phase2","Recall2",16002
 "w10046339_pw","pull","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",6346
 "W10057641NS","","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",145
@@ -2100,8 +2344,10 @@
 "w10143398_abc","over","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",3258
 "w10157282_HBR","pull","clutter",1,"Read","push","Study2","U","Study Phase2","Recall2",7200
 "10143815SK","","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",3621
+"BrettThompson","garden","seed",1,"Read Recall","rake","Study2","M","Study Phase2","Recall2",12996
 "BrookeMask","soil","seed",1,"Read Recall","rake","Study2","M","Study Phase2","Recall2",2218
 "jasminesherman","","seed",1,"Read Recall","rake","Study2","M","Study Phase2","Recall2",2784
+"NicolasMunoz","leaves","seed",1,"Read Recall","rake","Study2","M","Study Phase2","Recall2",4483
 "TaravionCosey","cake ","seed",1,"Read Recall","rake","Study2","M","Study Phase2","Recall2",18097
 "w10046339_pw","leaf","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",3320
 "W10057641NS","","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",383
@@ -2115,8 +2361,10 @@
 "w10143398_abc","leaves","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",3512
 "w10157282_HBR","sew","seed",1,"Read","rake","Study2","M","Study Phase2","Recall2",27141
 "10143815SK","back","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",4443
+"BrettThompson","muscle","muscle",1,"Read Recall","razor","Study2","M","Study Phase2","Recall2",47712
 "BrookeMask","muscle","muscle",1,"Read Recall","razor","Study2","M","Study Phase2","Recall2",3190
 "jasminesherman","blade","muscle",1,"Read Recall","razor","Study2","M","Study Phase2","Recall2",8096
+"NicolasMunoz","cut","muscle",1,"Read Recall","razor","Study2","M","Study Phase2","Recall2",2649
 "TaravionCosey","muscle ","muscle",1,"Read Recall","razor","Study2","M","Study Phase2","Recall2",26544
 "w10046339_pw","muscle","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",4092
 "W10057641NS","","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",66
@@ -2130,8 +2378,10 @@
 "w10143398_abc","burn","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",3341
 "w10157282_HBR","muscle","muscle",1,"Read","razor","Study2","M","Study Phase2","Recall2",46899
 "10143815SK","","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",1602
+"BrettThompson","island","island",1,"Read Recall","reality","Study2","M","Study Phase2","Recall2",5155
 "BrookeMask","","island",1,"Read Recall","reality","Study2","M","Study Phase2","Recall2",1967
 "jasminesherman","","island",1,"Read Recall","reality","Study2","M","Study Phase2","Recall2",958
+"NicolasMunoz","","island",1,"Read Recall","reality","Study2","M","Study Phase2","Recall2",1175
 "TaravionCosey","island ","island",1,"Read Recall","reality","Study2","M","Study Phase2","Recall2",32732
 "w10046339_pw","broke","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",4810
 "W10057641NS","","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",122
@@ -2145,8 +2395,10 @@
 "w10143398_abc","beach","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",4381
 "w10157282_HBR","island","island",1,"Read","reality","Study2","M","Study Phase2","Recall2",13431
 "10143815SK","","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",2114
+"BrettThompson","bus","stop",1,"Read Recall","school","Study2","M","Study Phase2","Recall2",7075
 "BrookeMask","ceiling","stop",1,"Read Recall","school","Study2","M","Study Phase2","Recall2",5202
 "jasminesherman","","stop",1,"Read Recall","school","Study2","M","Study Phase2","Recall2",749
+"NicolasMunoz","stop","stop",1,"Read Recall","school","Study2","M","Study Phase2","Recall2",3770
 "TaravionCosey","stop","stop",1,"Read Recall","school","Study2","M","Study Phase2","Recall2",18355
 "w10046339_pw","stop","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",3521
 "W10057641NS","","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",119
@@ -2160,8 +2412,10 @@
 "w10143398_abc","bus","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",4470
 "w10157282_HBR","stop","stop",1,"Read","school","Study2","M","Study Phase2","Recall2",6099
 "10143815SK","","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",6021
+"BrettThompson","well","hide",1,"Read Recall","sick","Study2","U","Study Phase2","Recall2",8624
 "BrookeMask","strong","hide",1,"Read Recall","sick","Study2","U","Study Phase2","Recall2",3077
 "jasminesherman","","hide",1,"Read Recall","sick","Study2","U","Study Phase2","Recall2",649
+"NicolasMunoz","healthy","hide",1,"Read Recall","sick","Study2","U","Study Phase2","Recall2",2975
 "TaravionCosey","hide","hide",1,"Read Recall","sick","Study2","U","Study Phase2","Recall2",13910
 "w10046339_pw","sack","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",5276
 "W10057641NS","","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",56
@@ -2175,8 +2429,10 @@
 "w10143398_abc","hide","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",3258
 "w10157282_HBR","hide","hide",1,"Read","sick","Study2","U","Study Phase2","Recall2",14633
 "10143815SK","drink","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",3383
+"BrettThompson","bath","drink",1,"Read Recall","soap","Study2","M","Study Phase2","Recall2",4511
 "BrookeMask","drink","drink",1,"Read Recall","soap","Study2","M","Study Phase2","Recall2",4010
 "jasminesherman","","drink",1,"Read Recall","soap","Study2","M","Study Phase2","Recall2",1862
+"NicolasMunoz","","drink",1,"Read Recall","soap","Study2","M","Study Phase2","Recall2",1278
 "TaravionCosey","drink","drink",1,"Read Recall","soap","Study2","M","Study Phase2","Recall2",10999
 "w10046339_pw","eat","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",4503
 "W10057641NS","","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",57
@@ -2190,8 +2446,10 @@
 "w10143398_abc","drink","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",4078
 "w10157282_HBR","clean","drink",1,"Read","soap","Study2","M","Study Phase2","Recall2",12874
 "10143815SK","","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",3559
+"BrettThompson","can","accident",1,"Read Recall","strong","Study2","U","Study Phase2","Recall2",14374
 "BrookeMask","wreck","accident",1,"Read Recall","strong","Study2","U","Study Phase2","Recall2",8197
 "jasminesherman","","accident",1,"Read Recall","strong","Study2","U","Study Phase2","Recall2",811
+"NicolasMunoz","","accident",1,"Read Recall","strong","Study2","U","Study Phase2","Recall2",1033
 "TaravionCosey","accident ","accident",1,"Read Recall","strong","Study2","U","Study Phase2","Recall2",18819
 "w10046339_pw","muscle","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",3299
 "W10057641NS","","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",55
@@ -2205,8 +2463,10 @@
 "w10143398_abc","feather","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",4355
 "w10157282_HBR","weak","accident",1,"Read","strong","Study2","U","Study Phase2","Recall2",14252
 "10143815SK","","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",1238
+"BrettThompson","cane","riddle",1,"Read Recall","sugar","Study2","U","Study Phase2","Recall2",3611
 "BrookeMask","diet","riddle",1,"Read Recall","sugar","Study2","U","Study Phase2","Recall2",2349
 "jasminesherman","","riddle",1,"Read Recall","sugar","Study2","U","Study Phase2","Recall2",871
+"NicolasMunoz","","riddle",1,"Read Recall","sugar","Study2","U","Study Phase2","Recall2",827
 "TaravionCosey","riddle ","riddle",1,"Read Recall","sugar","Study2","U","Study Phase2","Recall2",28946
 "w10046339_pw","sweet","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",3211
 "W10057641NS","","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",93
@@ -2220,8 +2480,10 @@
 "w10143398_abc","idk","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",2615
 "w10157282_HBR","riddle","riddle",1,"Read","sugar","Study2","U","Study Phase2","Recall2",23578
 "10143815SK","winter","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",6757
+"BrettThompson","heat","snow",1,"Read Recall","summer","Study2","M","Study Phase2","Recall2",4702
 "BrookeMask","snow","snow",1,"Read Recall","summer","Study2","M","Study Phase2","Recall2",3111
 "jasminesherman","","snow",1,"Read Recall","summer","Study2","M","Study Phase2","Recall2",2389
+"NicolasMunoz","","snow",1,"Read Recall","summer","Study2","M","Study Phase2","Recall2",743
 "TaravionCosey","snow ","snow",1,"Read Recall","summer","Study2","M","Study Phase2","Recall2",13344
 "w10046339_pw","winter","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",9196
 "W10057641NS","","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",31
@@ -2235,8 +2497,10 @@
 "w10143398_abc","winter","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",6410
 "w10157282_HBR","snow","snow",1,"Read","summer","Study2","M","Study Phase2","Recall2",34472
 "10143815SK","putt","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",10226
+"BrettThompson","box","cave",1,"Read Recall","trap","Study2","M","Study Phase2","Recall2",43699
 "BrookeMask","","cave",1,"Read Recall","trap","Study2","M","Study Phase2","Recall2",932
 "jasminesherman","","cave",1,"Read Recall","trap","Study2","M","Study Phase2","Recall2",882
+"NicolasMunoz","run","cave",1,"Read Recall","trap","Study2","M","Study Phase2","Recall2",2196
 "TaravionCosey","cave ","cave",1,"Read Recall","trap","Study2","M","Study Phase2","Recall2",16471
 "w10046339_pw","cave","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",6334
 "W10057641NS","","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",115
@@ -2250,8 +2514,10 @@
 "w10143398_abc","cave","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",4495
 "w10157282_HBR","catch","cave",1,"Read","trap","Study2","M","Study Phase2","Recall2",43208
 "10143815SK","","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",11610
+"BrettThompson","road","peak",1,"Read Recall","valley","Study2","M","Study Phase2","Recall2",5917
 "BrookeMask","hills","peak",1,"Read Recall","valley","Study2","M","Study Phase2","Recall2",7272
 "jasminesherman","","peak",1,"Read Recall","valley","Study2","M","Study Phase2","Recall2",3143
+"NicolasMunoz","","peak",1,"Read Recall","valley","Study2","M","Study Phase2","Recall2",1276
 "TaravionCosey","peak","peak",1,"Read Recall","valley","Study2","M","Study Phase2","Recall2",10715
 "w10046339_pw","peek","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",4247
 "W10057641NS","","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",21
@@ -2265,8 +2531,10 @@
 "w10143398_abc","peak","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",3085
 "w10157282_HBR","peak","peak",1,"Read","valley","Study2","M","Study Phase2","Recall2",19921
 "10143815SK","insect","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",12790
+"BrettThompson","bug","bug",1,"Read Recall","wasp","Study2","F","Study Phase2","Recall2",2996
 "BrookeMask","stinger","bug",1,"Read Recall","wasp","Study2","F","Study Phase2","Recall2",2505
 "jasminesherman","","bug",1,"Read Recall","wasp","Study2","F","Study Phase2","Recall2",1994
+"NicolasMunoz","","bug",1,"Read Recall","wasp","Study2","F","Study Phase2","Recall2",1734
 "TaravionCosey","bug","bug",1,"Read Recall","wasp","Study2","F","Study Phase2","Recall2",12423
 "w10046339_pw","sbug","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",4146
 "W10057641NS","","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",40
@@ -2280,8 +2548,10 @@
 "w10143398_abc","bug","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",8586
 "w10157282_HBR","bug","bug",1,"Read","wasp","Study2","F","Study Phase2","Recall2",5616
 "10143815SK","","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",8096
+"BrettThompson","attic","knob",1,"Read Recall","window","Study2","M","Study Phase2","Recall2",6024
 "BrookeMask","floor","knob",1,"Read Recall","window","Study2","M","Study Phase2","Recall2",3215
 "jasminesherman","","knob",1,"Read Recall","window","Study2","M","Study Phase2","Recall2",2403
+"NicolasMunoz","knob","knob",1,"Read Recall","window","Study2","M","Study Phase2","Recall2",3029
 "TaravionCosey","knob","knob",1,"Read Recall","window","Study2","M","Study Phase2","Recall2",8492
 "w10046339_pw","knob","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",3112
 "W10057641NS","","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",112
@@ -2295,6 +2565,8 @@
 "w10143398_abc","knob","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",3835
 "w10157282_HBR","knob","knob",1,"Read","window","Study2","M","Study Phase2","Recall2",21594
 "10134188andCC","gallery","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",2765
+"ArielThomas","wolves","wolf",3,"Read Recall","art","Study2","U","Study Phase","Recall1",7349
+"JadeRoss","","wolf",3,"Read Recall","art","Study2","U","Study Phase","Recall1",1274
 "MadisonHodge","","wolf",3,"Read Recall","art","Study2","U","Study Phase","Recall1",3127
 "MakaylaTemple","","wolf",3,"Read Recall","art","Study2","U","Study Phase","Recall1",2053
 "w10033523_hp","work","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",2106
@@ -2316,6 +2588,8 @@
 "w10151253_ES","wolf","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",3261
 "w958722_hnm","painting ","wolf",3,"Read","art","Study2","U","Study Phase","Recall1",8399
 "10134188andCC","blood","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",3492
+"ArielThomas","woods","bronze",3,"Read Recall","artery","Study2","U","Study Phase","Recall1",10105
+"JadeRoss","thigh","bronze",3,"Read Recall","artery","Study2","U","Study Phase","Recall1",4389
 "MadisonHodge","bow","bronze",3,"Read Recall","artery","Study2","U","Study Phase","Recall1",5239
 "MakaylaTemple","heart","bronze",3,"Read Recall","artery","Study2","U","Study Phase","Recall1",2530
 "w10033523_hp","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",11221
@@ -2337,6 +2611,8 @@
 "w10151253_ES","rush","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",7935
 "w958722_hnm","","bronze",3,"Read","artery","Study2","U","Study Phase","Recall1",4092
 "10134188andCC","dress","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",3067
+"ArielThomas","clothes","clothes",3,"Read Recall","attire","Study2","F","Study Phase","Recall1",3252
+"JadeRoss","","clothes",3,"Read Recall","attire","Study2","F","Study Phase","Recall1",7595
 "MadisonHodge","clothing","clothes",3,"Read Recall","attire","Study2","F","Study Phase","Recall1",4984
 "MakaylaTemple","clothes","clothes",3,"Read Recall","attire","Study2","F","Study Phase","Recall1",2959
 "w10033523_hp","clothes","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",2734
@@ -2358,6 +2634,8 @@
 "w10151253_ES","choice","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",6854
 "w958722_hnm","clothes","clothes",3,"Read","attire","Study2","F","Study Phase","Recall1",5786
 "10134188andCC","press","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",3073
+"ArielThomas","chair","horn",3,"Read Recall","bench","Study2","U","Study Phase","Recall1",4660
+"JadeRoss","warm","horn",3,"Read Recall","bench","Study2","U","Study Phase","Recall1",2761
 "MadisonHodge","","horn",3,"Read Recall","bench","Study2","U","Study Phase","Recall1",1754
 "MakaylaTemple","","horn",3,"Read Recall","bench","Study2","U","Study Phase","Recall1",2524
 "w10033523_hp","press","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",2693
@@ -2379,6 +2657,8 @@
 "w10151253_ES","mark","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",3969
 "w958722_hnm","press","horn",3,"Read","bench","Study2","U","Study Phase","Recall1",5329
 "10134188andCC","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",1976
+"ArielThomas","fire","fire",3,"Read Recall","blaze","Study2","F","Study Phase","Recall1",2993
+"JadeRoss","fire","fire",3,"Read Recall","blaze","Study2","F","Study Phase","Recall1",2635
 "MadisonHodge","","fire",3,"Read Recall","blaze","Study2","F","Study Phase","Recall1",2760
 "MakaylaTemple","fire","fire",3,"Read Recall","blaze","Study2","F","Study Phase","Recall1",2051
 "w10033523_hp","fire","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",1735
@@ -2400,6 +2680,8 @@
 "w10151253_ES","cold","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",15107
 "w958722_hnm","fire ","fire",3,"Read","blaze","Study2","F","Study Phase","Recall1",6624
 "10134188andCC","two","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",3344
+"ArielThomas","pair ","ounce",3,"Read Recall","both","Study2","U","Study Phase","Recall1",18738
+"JadeRoss","other","ounce",3,"Read Recall","both","Study2","U","Study Phase","Recall1",2471
 "MadisonHodge","","ounce",3,"Read Recall","both","Study2","U","Study Phase","Recall1",1246
 "MakaylaTemple","neither","ounce",3,"Read Recall","both","Study2","U","Study Phase","Recall1",3048
 "w10033523_hp","two","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",2820
@@ -2421,6 +2703,8 @@
 "w10151253_ES","together","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",15902
 "w958722_hnm","single ","ounce",3,"Read","both","Study2","U","Study Phase","Recall1",4951
 "10134188andCC","drive","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",3506
+"ArielThomas","water","water",3,"Read Recall","bridge","Study2","F","Study Phase","Recall1",4171
+"JadeRoss","water","water",3,"Read Recall","bridge","Study2","F","Study Phase","Recall1",4437
 "MadisonHodge","water","water",3,"Read Recall","bridge","Study2","F","Study Phase","Recall1",2992
 "MakaylaTemple","over","water",3,"Read Recall","bridge","Study2","F","Study Phase","Recall1",2815
 "w10033523_hp","water","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",2086
@@ -2442,6 +2726,8 @@
 "w10151253_ES","water","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",3059
 "w958722_hnm","","water",3,"Read","bridge","Study2","F","Study Phase","Recall1",2671
 "10134188andCC","spike","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",4374
+"ArielThomas","plant","plant",3,"Read Recall","cactus","Study2","F","Study Phase","Recall1",3052
+"JadeRoss","sharp","plant",3,"Read Recall","cactus","Study2","F","Study Phase","Recall1",2049
 "MadisonHodge","plant","plant",3,"Read Recall","cactus","Study2","F","Study Phase","Recall1",7592
 "MakaylaTemple","plant","plant",3,"Read Recall","cactus","Study2","F","Study Phase","Recall1",2109
 "w10033523_hp","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",3008
@@ -2463,6 +2749,8 @@
 "w10151253_ES","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",3400
 "w958722_hnm","plant","plant",3,"Read","cactus","Study2","F","Study Phase","Recall1",5953
 "10134188andCC","money","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",2615
+"ArielThomas","money","leg",3,"Read Recall","cash","Study2","U","Study Phase","Recall1",3013
+"JadeRoss","leg","leg",3,"Read Recall","cash","Study2","U","Study Phase","Recall1",2257
 "MadisonHodge","money","leg",3,"Read Recall","cash","Study2","U","Study Phase","Recall1",3627
 "MakaylaTemple","out","leg",3,"Read Recall","cash","Study2","U","Study Phase","Recall1",2485
 "w10033523_hp","money","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",4455
@@ -2484,6 +2772,8 @@
 "w10151253_ES","wallet","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",9909
 "w958722_hnm","card","leg",3,"Read","cash","Study2","U","Study Phase","Recall1",4621
 "10134188andCC","pop","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",3020
+"ArielThomas","red","red",3,"Read Recall","cherry","Study2","F","Study Phase","Recall1",3362
+"JadeRoss","","red",3,"Read Recall","cherry","Study2","F","Study Phase","Recall1",1898
 "MadisonHodge","red","red",3,"Read Recall","cherry","Study2","F","Study Phase","Recall1",3596
 "MakaylaTemple","blossom","red",3,"Read Recall","cherry","Study2","F","Study Phase","Recall1",3576
 "w10033523_hp","blossom","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",3357
@@ -2505,6 +2795,8 @@
 "w10151253_ES","red","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",6569
 "w958722_hnm","red","red",3,"Read","cherry","Study2","F","Study Phase","Recall1",4044
 "10134188andCC","relax","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",3442
+"ArielThomas","cold","cold",3,"Read Recall","chill","Study2","F","Study Phase","Recall1",4313
+"JadeRoss","","cold",3,"Read Recall","chill","Study2","F","Study Phase","Recall1",957
 "MadisonHodge","ice","cold",3,"Read Recall","chill","Study2","F","Study Phase","Recall1",4442
 "MakaylaTemple","cold","cold",3,"Read Recall","chill","Study2","F","Study Phase","Recall1",1934
 "w10033523_hp","cold","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",1960
@@ -2526,6 +2818,8 @@
 "w10151253_ES","bite","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",8116
 "w958722_hnm","hot","cold",3,"Read","chill","Study2","F","Study Phase","Recall1",3160
 "10134188andCC","jaw","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",2197
+"ArielThomas","art","hammer",3,"Read Recall","chisel","Study2","F","Study Phase","Recall1",3965
+"JadeRoss","","hammer",3,"Read Recall","chisel","Study2","F","Study Phase","Recall1",1434
 "MadisonHodge","","hammer",3,"Read Recall","chisel","Study2","F","Study Phase","Recall1",2946
 "MakaylaTemple","hammer","hammer",3,"Read Recall","chisel","Study2","F","Study Phase","Recall1",3463
 "w10033523_hp","tools","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",3891
@@ -2547,6 +2841,8 @@
 "w10151253_ES","hammer","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",2868
 "w958722_hnm","","hammer",3,"Read","chisel","Study2","F","Study Phase","Recall1",1564
 "10134188andCC","slice","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",2556
+"ArielThomas","shop","cut",3,"Read Recall","chop","Study2","F","Study Phase","Recall1",6725
+"JadeRoss","","cut",3,"Read Recall","chop","Study2","F","Study Phase","Recall1",1103
 "MadisonHodge","cut","cut",3,"Read Recall","chop","Study2","F","Study Phase","Recall1",5810
 "MakaylaTemple","","cut",3,"Read Recall","chop","Study2","F","Study Phase","Recall1",1907
 "w10033523_hp","food","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",1985
@@ -2568,6 +2864,8 @@
 "w10151253_ES","menu","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",8420
 "w958722_hnm","whole ","cut",3,"Read","chop","Study2","F","Study Phase","Recall1",5074
 "10134188andCC","life","business",3,"Read","death","Study2","U","Study Phase","Recall1",2349
+"ArielThomas","live","business",3,"Read Recall","death","Study2","U","Study Phase","Recall1",7000
+"JadeRoss","buisness","business",3,"Read Recall","death","Study2","U","Study Phase","Recall1",5259
 "MadisonHodge","","business",3,"Read Recall","death","Study2","U","Study Phase","Recall1",1667
 "MakaylaTemple","live","business",3,"Read Recall","death","Study2","U","Study Phase","Recall1",2923
 "w10033523_hp","bed","business",3,"Read","death","Study2","U","Study Phase","Recall1",1719
@@ -2589,6 +2887,8 @@
 "w10151253_ES","business","business",3,"Read","death","Study2","U","Study Phase","Recall1",13212
 "w958722_hnm","alive ","business",3,"Read","death","Study2","U","Study Phase","Recall1",6128
 "10134188andCC","eating","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",3387
+"ArielThomas","fiber","sack",3,"Read Recall","dietary","Study2","U","Study Phase","Recall1",4005
+"JadeRoss","","sack",3,"Read Recall","dietary","Study2","U","Study Phase","Recall1",1475
 "MadisonHodge","food","sack",3,"Read Recall","dietary","Study2","U","Study Phase","Recall1",7388
 "MakaylaTemple","supplement","sack",3,"Read Recall","dietary","Study2","U","Study Phase","Recall1",3232
 "w10033523_hp","restrictions","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",9322
@@ -2610,6 +2910,8 @@
 "w10151253_ES","eat","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",7576
 "w958722_hnm","","sack",3,"Read","dietary","Study2","U","Study Phase","Recall1",2611
 "10134188andCC","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",2161
+"ArielThomas","paper","paper",3,"Read Recall","document","Study2","F","Study Phase","Recall1",3005
+"JadeRoss","paper","paper",3,"Read Recall","document","Study2","F","Study Phase","Recall1",1887
 "MadisonHodge","","paper",3,"Read Recall","document","Study2","F","Study Phase","Recall1",2426
 "MakaylaTemple","paper","paper",3,"Read Recall","document","Study2","F","Study Phase","Recall1",3825
 "w10033523_hp","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",1743
@@ -2631,6 +2933,8 @@
 "w10151253_ES","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",2744
 "w958722_hnm","paper","paper",3,"Read","document","Study2","F","Study Phase","Recall1",5341
 "10134188andCC","sight","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",3989
+"ArielThomas","ears","smell",3,"Read Recall","eyes","Study2","M","Study Phase","Recall1",8894
+"JadeRoss","smell","smell",3,"Read Recall","eyes","Study2","M","Study Phase","Recall1",6020
 "MadisonHodge","","smell",3,"Read Recall","eyes","Study2","M","Study Phase","Recall1",2416
 "MakaylaTemple","look","smell",3,"Read Recall","eyes","Study2","M","Study Phase","Recall1",1917
 "w10033523_hp","mouth","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",1878
@@ -2652,6 +2956,8 @@
 "w10151253_ES","open","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",5114
 "w958722_hnm","smell","smell",3,"Read","eyes","Study2","M","Study Phase","Recall1",3497
 "10134188andCC","oil","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",3466
+"ArielThomas","fight","fight",3,"Read Recall","feud","Study2","F","Study Phase","Recall1",5015
+"JadeRoss","","fight",3,"Read Recall","feud","Study2","F","Study Phase","Recall1",1133
 "MadisonHodge","","fight",3,"Read Recall","feud","Study2","F","Study Phase","Recall1",1059
 "MakaylaTemple","family","fight",3,"Read Recall","feud","Study2","F","Study Phase","Recall1",3889
 "w10033523_hp","family","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",4509
@@ -2673,6 +2979,8 @@
 "w10151253_ES","fight","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",3084
 "w958722_hnm","","fight",3,"Read","feud","Study2","F","Study Phase","Recall1",2993
 "10134188andCC","fish","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",4167
+"ArielThomas","steak","thigh",3,"Read Recall","grill","Study2","M","Study Phase","Recall1",5206
+"JadeRoss","thigh","thigh",3,"Read Recall","grill","Study2","M","Study Phase","Recall1",2521
 "MadisonHodge","","thigh",3,"Read Recall","grill","Study2","M","Study Phase","Recall1",2329
 "MakaylaTemple","hot","thigh",3,"Read Recall","grill","Study2","M","Study Phase","Recall1",2779
 "w10033523_hp","fire","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",3919
@@ -2694,6 +3002,8 @@
 "w10151253_ES","thigh","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",3895
 "w958722_hnm","","thigh",3,"Read","grill","Study2","M","Study Phase","Recall1",4113
 "10134188andCC","sad","car",3,"Read","happy","Study2","U","Study Phase","Recall1",2332
+"ArielThomas","sad","car",3,"Read Recall","happy","Study2","U","Study Phase","Recall1",3443
+"JadeRoss","","car",3,"Read Recall","happy","Study2","U","Study Phase","Recall1",1674
 "MadisonHodge","","car",3,"Read Recall","happy","Study2","U","Study Phase","Recall1",1157
 "MakaylaTemple","sad","car",3,"Read Recall","happy","Study2","U","Study Phase","Recall1",3211
 "w10033523_hp","day","car",3,"Read","happy","Study2","U","Study Phase","Recall1",3763
@@ -2715,6 +3025,8 @@
 "w10151253_ES","game","car",3,"Read","happy","Study2","U","Study Phase","Recall1",7810
 "w958722_hnm","sad ","car",3,"Read","happy","Study2","U","Study Phase","Recall1",4022
 "10134188andCC","rock","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",4122
+"ArielThomas","strong","feather",3,"Read Recall","heavy","Study2","M","Study Phase","Recall1",4606
+"JadeRoss","strong","feather",3,"Read Recall","heavy","Study2","M","Study Phase","Recall1",3116
 "MadisonHodge","","feather",3,"Read Recall","heavy","Study2","M","Study Phase","Recall1",2188
 "MakaylaTemple","light","feather",3,"Read Recall","heavy","Study2","M","Study Phase","Recall1",9829
 "w10033523_hp","","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",2259
@@ -2736,6 +3048,8 @@
 "w10151253_ES","burden","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",5918
 "w958722_hnm","light","feather",3,"Read","heavy","Study2","M","Study Phase","Recall1",3701
 "10134188andCC","sheep","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",2837
+"ArielThomas","cows","cow",3,"Read Recall","herd","Study2","F","Study Phase","Recall1",5646
+"JadeRoss","","cow",3,"Read Recall","herd","Study2","F","Study Phase","Recall1",911
 "MadisonHodge","cow","cow",3,"Read Recall","herd","Study2","F","Study Phase","Recall1",4777
 "MakaylaTemple","cow","cow",3,"Read Recall","herd","Study2","F","Study Phase","Recall1",2275
 "w10033523_hp","cattle","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",2230
@@ -2757,6 +3071,8 @@
 "w10151253_ES","cattle","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",4184
 "w958722_hnm","cow","cow",3,"Read","herd","Study2","F","Study Phase","Recall1",9826
 "10134188andCC","wasp","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",2751
+"ArielThomas","sting","sting",3,"Read Recall","hornet","Study2","F","Study Phase","Recall1",3113
+"JadeRoss","sting","sting",3,"Read Recall","hornet","Study2","F","Study Phase","Recall1",2618
 "MadisonHodge","sting","sting",3,"Read Recall","hornet","Study2","F","Study Phase","Recall1",4275
 "MakaylaTemple","bug","sting",3,"Read Recall","hornet","Study2","F","Study Phase","Recall1",2202
 "w10033523_hp","wasp","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",1962
@@ -2778,6 +3094,8 @@
 "w10151253_ES","sting","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",14282
 "w958722_hnm","bug","sting",3,"Read","hornet","Study2","F","Study Phase","Recall1",2597
 "10134188andCC","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",3144
+"ArielThomas","smell","smell",3,"Read Recall","incense","Study2","F","Study Phase","Recall1",3362
+"JadeRoss","sense","smell",3,"Read Recall","incense","Study2","F","Study Phase","Recall1",3768
 "MadisonHodge","smell","smell",3,"Read Recall","incense","Study2","F","Study Phase","Recall1",7026
 "MakaylaTemple","","smell",3,"Read Recall","incense","Study2","F","Study Phase","Recall1",967
 "w10033523_hp","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",3214
@@ -2799,6 +3117,8 @@
 "w10151253_ES","smell","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",3056
 "w958722_hnm","","smell",3,"Read","incense","Study2","F","Study Phase","Recall1",4401
 "10134188andCC","queen","vase",3,"Read","king","Study2","U","Study Phase","Recall1",2303
+"ArielThomas","queen ","vase",3,"Read Recall","king","Study2","U","Study Phase","Recall1",5353
+"JadeRoss","","vase",3,"Read Recall","king","Study2","U","Study Phase","Recall1",3205
 "MadisonHodge","queen","vase",3,"Read Recall","king","Study2","U","Study Phase","Recall1",5134
 "MakaylaTemple","crown","vase",3,"Read Recall","king","Study2","U","Study Phase","Recall1",2150
 "w10033523_hp","vase","vase",3,"Read","king","Study2","U","Study Phase","Recall1",7435
@@ -2820,6 +3140,8 @@
 "w10151253_ES","crown","vase",3,"Read","king","Study2","U","Study Phase","Recall1",8799
 "w958722_hnm","queen","vase",3,"Read","king","Study2","U","Study Phase","Recall1",9478
 "10134188andCC","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",3222
+"ArielThomas","baseball","baseball",3,"Read Recall","league","Study2","F","Study Phase","Recall1",3526
+"JadeRoss","legends","baseball",3,"Read Recall","league","Study2","F","Study Phase","Recall1",32518
 "MadisonHodge","","baseball",3,"Read Recall","league","Study2","F","Study Phase","Recall1",1878
 "MakaylaTemple","legend","baseball",3,"Read Recall","league","Study2","F","Study Phase","Recall1",3121
 "w10033523_hp","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",2081
@@ -2841,6 +3163,8 @@
 "w10151253_ES","baseball","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",4422
 "w958722_hnm","little","baseball",3,"Read","league","Study2","F","Study Phase","Recall1",8942
 "10134188andCC","house","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",3114
+"ArielThomas","weak","toil",3,"Read Recall","lease","Study2","U","Study Phase","Recall1",4779
+"JadeRoss","","toil",3,"Read Recall","lease","Study2","U","Study Phase","Recall1",1056
 "MadisonHodge","","toil",3,"Read Recall","lease","Study2","U","Study Phase","Recall1",1944
 "MakaylaTemple","","toil",3,"Read Recall","lease","Study2","U","Study Phase","Recall1",2662
 "w10033523_hp","","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",1761
@@ -2862,6 +3186,8 @@
 "w10151253_ES","sell","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",8006
 "w958722_hnm","","toil",3,"Read","lease","Study2","U","Study Phase","Recall1",3540
 "10134188andCC","reflection","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",3253
+"ArielThomas","person","children",3,"Read Recall","mirror","Study2","U","Study Phase","Recall1",9684
+"JadeRoss","children","children",3,"Read Recall","mirror","Study2","U","Study Phase","Recall1",3198
 "MadisonHodge","","children",3,"Read Recall","mirror","Study2","U","Study Phase","Recall1",1692
 "MakaylaTemple","look","children",3,"Read Recall","mirror","Study2","U","Study Phase","Recall1",2525
 "w10033523_hp","","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",3257
@@ -2883,6 +3209,8 @@
 "w10151253_ES","glass","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",6877
 "w958722_hnm","window","children",3,"Read","mirror","Study2","U","Study Phase","Recall1",9152
 "10134188andCC","doctor","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",2355
+"ArielThomas","lawyer","lawyer",3,"Read Recall","nurse","Study2","M","Study Phase","Recall1",4199
+"JadeRoss","","lawyer",3,"Read Recall","nurse","Study2","M","Study Phase","Recall1",921
 "MadisonHodge","","lawyer",3,"Read Recall","nurse","Study2","M","Study Phase","Recall1",2226
 "MakaylaTemple","","lawyer",3,"Read Recall","nurse","Study2","M","Study Phase","Recall1",2560
 "w10033523_hp","lawyer","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",2236
@@ -2904,6 +3232,8 @@
 "w10151253_ES","lawyer","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",3636
 "w958722_hnm","lawyer ","lawyer",3,"Read","nurse","Study2","M","Study Phase","Recall1",3776
 "10134188andCC","mitt","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",2592
+"ArielThomas","cook","basket",3,"Read Recall","oven","Study2","M","Study Phase","Recall1",2928
+"JadeRoss","","basket",3,"Read Recall","oven","Study2","M","Study Phase","Recall1",1402
 "MadisonHodge","hot","basket",3,"Read Recall","oven","Study2","M","Study Phase","Recall1",4033
 "MakaylaTemple","bake","basket",3,"Read Recall","oven","Study2","M","Study Phase","Recall1",2043
 "w10033523_hp","mit","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",1666
@@ -2925,6 +3255,8 @@
 "w10151253_ES","time","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",7260
 "w958722_hnm","stove ","basket",3,"Read","oven","Study2","M","Study Phase","Recall1",4004
 "10134188andCC","shorts","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",2864
+"ArielThomas","top","collar",3,"Read Recall","pants","Study2","M","Study Phase","Recall1",4680
+"JadeRoss","collar","collar",3,"Read Recall","pants","Study2","M","Study Phase","Recall1",3548
 "MadisonHodge","","collar",3,"Read Recall","pants","Study2","M","Study Phase","Recall1",1550
 "MakaylaTemple","","collar",3,"Read Recall","pants","Study2","M","Study Phase","Recall1",1331
 "w10033523_hp","","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",3358
@@ -2946,6 +3278,8 @@
 "w10151253_ES","leg","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",10492
 "w958722_hnm","shirt ","collar",3,"Read","pants","Study2","M","Study Phase","Recall1",4358
 "10134188andCC","pull","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",2478
+"ArielThomas","shove ","clutter",3,"Read Recall","push","Study2","U","Study Phase","Recall1",4484
+"JadeRoss","","clutter",3,"Read Recall","push","Study2","U","Study Phase","Recall1",1412
 "MadisonHodge","pull","clutter",3,"Read Recall","push","Study2","U","Study Phase","Recall1",4147
 "MakaylaTemple","pull","clutter",3,"Read Recall","push","Study2","U","Study Phase","Recall1",2400
 "w10033523_hp","shove","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",2053
@@ -2967,6 +3301,8 @@
 "w10151253_ES","cliff","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",6206
 "w958722_hnm","pull","clutter",3,"Read","push","Study2","U","Study Phase","Recall1",2666
 "10134188andCC","leaf","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",2461
+"ArielThomas","leaves","seed",3,"Read Recall","rake","Study2","M","Study Phase","Recall1",3277
+"JadeRoss","","seed",3,"Read Recall","rake","Study2","M","Study Phase","Recall1",972
 "MadisonHodge","","seed",3,"Read Recall","rake","Study2","M","Study Phase","Recall1",2552
 "MakaylaTemple","leaves","seed",3,"Read Recall","rake","Study2","M","Study Phase","Recall1",2849
 "w10033523_hp","shed","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",2534
@@ -2988,6 +3324,8 @@
 "w10151253_ES","leaf","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",4312
 "w958722_hnm","leaf","seed",3,"Read","rake","Study2","M","Study Phase","Recall1",5281
 "10134188andCC","shave","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",2542
+"ArielThomas","cut","muscle",3,"Read Recall","razor","Study2","M","Study Phase","Recall1",9377
+"JadeRoss","sharp","muscle",3,"Read Recall","razor","Study2","M","Study Phase","Recall1",2335
 "MadisonHodge","cut","muscle",3,"Read Recall","razor","Study2","M","Study Phase","Recall1",4072
 "MakaylaTemple","blade","muscle",3,"Read Recall","razor","Study2","M","Study Phase","Recall1",2717
 "w10033523_hp","blad","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",1890
@@ -3009,6 +3347,8 @@
 "w10151253_ES","meat","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",10212
 "w958722_hnm","muscle ","muscle",3,"Read","razor","Study2","M","Study Phase","Recall1",6310
 "10134188andCC","life","island",3,"Read","reality","Study2","M","Study Phase","Recall1",2586
+"ArielThomas","island","island",3,"Read Recall","reality","Study2","M","Study Phase","Recall1",6409
+"JadeRoss","","island",3,"Read Recall","reality","Study2","M","Study Phase","Recall1",3012
 "MadisonHodge","","island",3,"Read Recall","reality","Study2","M","Study Phase","Recall1",2562
 "MakaylaTemple","island","island",3,"Read Recall","reality","Study2","M","Study Phase","Recall1",2886
 "w10033523_hp","television","island",3,"Read","reality","Study2","M","Study Phase","Recall1",6724
@@ -3030,6 +3370,8 @@
 "w10151253_ES","fake","island",3,"Read","reality","Study2","M","Study Phase","Recall1",4118
 "w958722_hnm","fake","island",3,"Read","reality","Study2","M","Study Phase","Recall1",5344
 "10134188andCC","kids","stop",3,"Read","school","Study2","M","Study Phase","Recall1",2054
+"ArielThomas","bus","stop",3,"Read Recall","school","Study2","M","Study Phase","Recall1",2742
+"JadeRoss","","stop",3,"Read Recall","school","Study2","M","Study Phase","Recall1",1437
 "MadisonHodge","","stop",3,"Read Recall","school","Study2","M","Study Phase","Recall1",1223
 "MakaylaTemple","room","stop",3,"Read Recall","school","Study2","M","Study Phase","Recall1",5294
 "w10033523_hp","","stop",3,"Read","school","Study2","M","Study Phase","Recall1",2000
@@ -3051,6 +3393,8 @@
 "w10151253_ES","stop","stop",3,"Read","school","Study2","M","Study Phase","Recall1",5028
 "w958722_hnm","bus","stop",3,"Read","school","Study2","M","Study Phase","Recall1",3407
 "10134188andCC","cough","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",2702
+"ArielThomas","scared","hide",3,"Read Recall","sick","Study2","U","Study Phase","Recall1",10710
+"JadeRoss","hide","hide",3,"Read Recall","sick","Study2","U","Study Phase","Recall1",3150
 "MadisonHodge","cold","hide",3,"Read Recall","sick","Study2","U","Study Phase","Recall1",5025
 "MakaylaTemple","","hide",3,"Read Recall","sick","Study2","U","Study Phase","Recall1",1134
 "w10033523_hp","cold","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",2219
@@ -3072,6 +3416,8 @@
 "w10151253_ES","leave","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",5551
 "w958722_hnm","days ","hide",3,"Read","sick","Study2","U","Study Phase","Recall1",15647
 "10134188andCC","bubble","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",3288
+"ArielThomas","oven","drink",3,"Read Recall","soap","Study2","M","Study Phase","Recall1",13345
+"JadeRoss","drink","drink",3,"Read Recall","soap","Study2","M","Study Phase","Recall1",3419
 "MadisonHodge","","drink",3,"Read Recall","soap","Study2","M","Study Phase","Recall1",2079
 "MakaylaTemple","bath","drink",3,"Read Recall","soap","Study2","M","Study Phase","Recall1",2715
 "w10033523_hp","bar","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",1195
@@ -3093,6 +3439,8 @@
 "w10151253_ES","clean","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",3358
 "w958722_hnm","bath","drink",3,"Read","soap","Study2","M","Study Phase","Recall1",7211
 "10134188andCC","weak","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",4044
+"ArielThomas","weak","accident",3,"Read Recall","strong","Study2","U","Study Phase","Recall1",5175
+"JadeRoss","","accident",3,"Read Recall","strong","Study2","U","Study Phase","Recall1",1580
 "MadisonHodge","weak","accident",3,"Read Recall","strong","Study2","U","Study Phase","Recall1",7003
 "MakaylaTemple","weak","accident",3,"Read Recall","strong","Study2","U","Study Phase","Recall1",4832
 "w10033523_hp","weak","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",2001
@@ -3114,6 +3462,8 @@
 "w10151253_ES","idea","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",9758
 "w958722_hnm","weak","accident",3,"Read","strong","Study2","U","Study Phase","Recall1",5666
 "10134188andCC","salt","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",3162
+"ArielThomas","sweet","riddle",3,"Read Recall","sugar","Study2","U","Study Phase","Recall1",5479
+"JadeRoss","","riddle",3,"Read Recall","sugar","Study2","U","Study Phase","Recall1",2286
 "MadisonHodge","rush","riddle",3,"Read Recall","sugar","Study2","U","Study Phase","Recall1",3696
 "MakaylaTemple","sweet","riddle",3,"Read Recall","sugar","Study2","U","Study Phase","Recall1",3290
 "w10033523_hp","spice","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",1618
@@ -3135,6 +3485,8 @@
 "w10151253_ES","sweet","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",4189
 "w958722_hnm","salt","riddle",3,"Read","sugar","Study2","U","Study Phase","Recall1",5374
 "10134188andCC","winter","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",2363
+"ArielThomas","spring","snow",3,"Read Recall","summer","Study2","M","Study Phase","Recall1",4551
+"JadeRoss","warm","snow",3,"Read Recall","summer","Study2","M","Study Phase","Recall1",2220
 "MadisonHodge","hot","snow",3,"Read Recall","summer","Study2","M","Study Phase","Recall1",4417
 "MakaylaTemple","spring","snow",3,"Read Recall","summer","Study2","M","Study Phase","Recall1",2472
 "w10033523_hp","snow","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",7953
@@ -3156,6 +3508,8 @@
 "w10151253_ES","fun","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",9266
 "w958722_hnm","snow ","snow",3,"Read","summer","Study2","M","Study Phase","Recall1",7594
 "10134188andCC","door","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",2207
+"ArielThomas","door","cave",3,"Read Recall","trap","Study2","M","Study Phase","Recall1",3536
+"JadeRoss","","cave",3,"Read Recall","trap","Study2","M","Study Phase","Recall1",1917
 "MadisonHodge","","cave",3,"Read Recall","trap","Study2","M","Study Phase","Recall1",1274
 "MakaylaTemple","cave","cave",3,"Read Recall","trap","Study2","M","Study Phase","Recall1",2578
 "w10033523_hp","door","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",2475
@@ -3177,6 +3531,8 @@
 "w10151253_ES","cave","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",3604
 "w958722_hnm","door","cave",3,"Read","trap","Study2","M","Study Phase","Recall1",10037
 "10134188andCC","hill","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",2536
+"ArielThomas","peak","peak",3,"Read Recall","valley","Study2","M","Study Phase","Recall1",3366
+"JadeRoss","","peak",3,"Read Recall","valley","Study2","M","Study Phase","Recall1",898
 "MadisonHodge","","peak",3,"Read Recall","valley","Study2","M","Study Phase","Recall1",2795
 "MakaylaTemple","","peak",3,"Read Recall","valley","Study2","M","Study Phase","Recall1",2537
 "w10033523_hp","woods","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",5221
@@ -3198,6 +3554,8 @@
 "w10151253_ES","open","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",5273
 "w958722_hnm","desert","peak",3,"Read","valley","Study2","M","Study Phase","Recall1",10514
 "10134188andCC","bee","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",2325
+"ArielThomas","sting","bug",3,"Read Recall","wasp","Study2","F","Study Phase","Recall1",5775
+"JadeRoss","sting","bug",3,"Read Recall","wasp","Study2","F","Study Phase","Recall1",1845
 "MadisonHodge","sting","bug",3,"Read Recall","wasp","Study2","F","Study Phase","Recall1",3896
 "MakaylaTemple","bug","bug",3,"Read Recall","wasp","Study2","F","Study Phase","Recall1",2188
 "w10033523_hp","hornet","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",1855
@@ -3219,6 +3577,8 @@
 "w10151253_ES","insect","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",5079
 "w958722_hnm","sting ","bug",3,"Read","wasp","Study2","F","Study Phase","Recall1",12759
 "10134188andCC","see","knob",3,"Read","window","Study2","M","Study Phase","Recall1",2734
+"ArielThomas","house","knob",3,"Read Recall","window","Study2","M","Study Phase","Recall1",17064
+"JadeRoss","","knob",3,"Read Recall","window","Study2","M","Study Phase","Recall1",1808
 "MadisonHodge","seal","knob",3,"Read Recall","window","Study2","M","Study Phase","Recall1",6308
 "MakaylaTemple","clear","knob",3,"Read Recall","window","Study2","M","Study Phase","Recall1",8459
 "w10033523_hp","glass","knob",3,"Read","window","Study2","M","Study Phase","Recall1",2290

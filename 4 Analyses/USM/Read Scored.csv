@@ -1,7 +1,9 @@
 id,Response,key,percent_match,Scored,Condition.Number,Condition.Description,Stimuli.Cue,Stimuli.Shuffle,Stimuli.Stimuli.Notes,Procedure.Shuffle,Procedure.Shuffle.1,Response.RT,Platform
 10143815SK,love,love,1,1,1,Read,affection,Study1,F,Study Phase,Recall1,3109,USM
+BrettThompson,love,love,1,1,1,Read Recall,affection,Study1,F,Study Phase,Recall1,3867,USM
 BrookeMask,love,love,1,1,1,Read Recall,affection,Study1,F,Study Phase,Recall1,1555,USM
 jasminesherman,,love,0,0,1,Read Recall,affection,Study1,F,Study Phase,Recall1,3449,USM
+NicolasMunoz,,love,0,0,1,Read Recall,affection,Study1,F,Study Phase,Recall1,908,USM
 TaravionCosey,love,love,1,1,1,Read Recall,affection,Study1,F,Study Phase,Recall1,9307,USM
 w10046339_pw,like,love,0.5,0,1,Read,affection,Study1,F,Study Phase,Recall1,3281,USM
 W10057641NS,,love,0,0,1,Read,affection,Study1,F,Study Phase,Recall1,740,USM
@@ -15,8 +17,10 @@ w10133134_lpc,love,love,1,1,1,Read,affection,Study1,F,Study Phase,Recall1,2951,U
 w10143398_abc,love,love,1,1,1,Read,affection,Study1,F,Study Phase,Recall1,4386,USM
 w10157282_HBR,love,love,1,1,1,Read,affection,Study1,F,Study Phase,Recall1,2939,USM
 10143815SK,,bounce,0,0,1,Read,bat,Study1,M,Study Phase,Recall1,2145,USM
+BrettThompson,bounce,bounce,1,1,1,Read Recall,bat,Study1,M,Study Phase,Recall1,7067,USM
 BrookeMask,baseball,bounce,0.25,0,1,Read Recall,bat,Study1,M,Study Phase,Recall1,4362,USM
 jasminesherman,cave,bounce,0.333333333,0,1,Read Recall,bat,Study1,M,Study Phase,Recall1,4244,USM
+NicolasMunoz,,bounce,0,0,1,Read Recall,bat,Study1,M,Study Phase,Recall1,1684,USM
 TaravionCosey,bounce ,bounce,0.857142857,1,1,Read Recall,bat,Study1,M,Study Phase,Recall1,12573,USM
 w10046339_pw,bounce,bounce,1,1,1,Read,bat,Study1,M,Study Phase,Recall1,2561,USM
 W10057641NS,,bounce,0,0,1,Read,bat,Study1,M,Study Phase,Recall1,350,USM
@@ -30,8 +34,10 @@ w10133134_lpc,butter,bounce,0.5,0,1,Read,bat,Study1,M,Study Phase,Recall1,5861,U
 w10143398_abc,bottom,bounce,0.333333333,0,1,Read,bat,Study1,M,Study Phase,Recall1,10660,USM
 w10157282_HBR,ball,bounce,0.166666667,0,1,Read,bat,Study1,M,Study Phase,Recall1,14944,USM
 10143815SK,,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,1553,USM
+BrettThompson,sun,box,0,0,1,Read Recall,beach,Study1,M,Study Phase,Recall1,3385,USM
 BrookeMask,sand,box,0,0,1,Read Recall,beach,Study1,M,Study Phase,Recall1,1888,USM
 jasminesherman,,box,0,0,1,Read Recall,beach,Study1,M,Study Phase,Recall1,1802,USM
+NicolasMunoz,,box,0,0,1,Read Recall,beach,Study1,M,Study Phase,Recall1,2778,USM
 TaravionCosey,box,box,1,1,1,Read Recall,beach,Study1,M,Study Phase,Recall1,11681,USM
 w10046339_pw,box,box,1,1,1,Read,beach,Study1,M,Study Phase,Recall1,8550,USM
 W10057641NS,,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,255,USM
@@ -45,8 +51,10 @@ w10133134_lpc,box,box,1,1,1,Read,beach,Study1,M,Study Phase,Recall1,3839,USM
 w10143398_abc,idk,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,2314,USM
 w10157282_HBR,sand,box,0,0,1,Read,beach,Study1,M,Study Phase,Recall1,5816,USM
 10143815SK,pie,pie,1,1,1,Read,birthday,Study1,M,Study Phase,Recall1,2460,USM
+BrettThompson,pie,pie,1,1,1,Read Recall,birthday,Study1,M,Study Phase,Recall1,2636,USM
 BrookeMask,pie,pie,1,1,1,Read Recall,birthday,Study1,M,Study Phase,Recall1,1763,USM
 jasminesherman,,pie,0,0,1,Read Recall,birthday,Study1,M,Study Phase,Recall1,927,USM
+NicolasMunoz,,pie,0,0,1,Read Recall,birthday,Study1,M,Study Phase,Recall1,1347,USM
 TaravionCosey,cake ,pie,0.2,0,1,Read Recall,birthday,Study1,M,Study Phase,Recall1,19989,USM
 w10046339_pw,cake,pie,0.25,0,1,Read,birthday,Study1,M,Study Phase,Recall1,1719,USM
 W10057641NS,,pie,0,0,1,Read,birthday,Study1,M,Study Phase,Recall1,261,USM
@@ -60,8 +68,10 @@ w10133134_lpc,pie,pie,1,1,1,Read,birthday,Study1,M,Study Phase,Recall1,3149,USM
 w10143398_abc,pie,pie,1,1,1,Read,birthday,Study1,M,Study Phase,Recall1,2441,USM
 w10157282_HBR,pie,pie,1,1,1,Read,birthday,Study1,M,Study Phase,Recall1,2830,USM
 10143815SK,birthday,hand,0.375,0,1,Read,cake,Study1,U,Study Phase,Recall1,10627,USM
+BrettThompson,cup,hand,0,0,1,Read Recall,cake,Study1,U,Study Phase,Recall1,21646,USM
 BrookeMask,pie,hand,0,0,1,Read Recall,cake,Study1,U,Study Phase,Recall1,2228,USM
 jasminesherman,,hand,0,0,1,Read Recall,cake,Study1,U,Study Phase,Recall1,1490,USM
+NicolasMunoz,charm,hand,0.4,0,1,Read Recall,cake,Study1,U,Study Phase,Recall1,4957,USM
 TaravionCosey,hand,hand,1,1,1,Read Recall,cake,Study1,U,Study Phase,Recall1,9400,USM
 w10046339_pw,hand,hand,1,1,1,Read,cake,Study1,U,Study Phase,Recall1,3402,USM
 W10057641NS,jam,hand,0.25,0,1,Read,cake,Study1,U,Study Phase,Recall1,2852,USM
@@ -75,8 +85,10 @@ w10133134_lpc,pie,hand,0,0,1,Read,cake,Study1,U,Study Phase,Recall1,9292,USM
 w10143398_abc,idk,hand,0.25,0,1,Read,cake,Study1,U,Study Phase,Recall1,3198,USM
 w10157282_HBR,plate,hand,0.2,0,1,Read,cake,Study1,U,Study Phase,Recall1,9320,USM
 10143815SK,,carpet,0,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,2063,USM
+BrettThompson,floor,carpet,0.166666667,0,1,Read Recall,ceiling,Study1,M,Study Phase,Recall1,3461,USM
 BrookeMask,floor,carpet,0.166666667,0,1,Read Recall,ceiling,Study1,M,Study Phase,Recall1,3427,USM
 jasminesherman,,carpet,0,0,1,Read Recall,ceiling,Study1,M,Study Phase,Recall1,787,USM
+NicolasMunoz,fan,carpet,0.166666667,0,1,Read Recall,ceiling,Study1,M,Study Phase,Recall1,1845,USM
 TaravionCosey,carpet ,carpet,0.857142857,1,1,Read Recall,ceiling,Study1,M,Study Phase,Recall1,10254,USM
 w10046339_pw,carpet,carpet,1,1,1,Read,ceiling,Study1,M,Study Phase,Recall1,2914,USM
 W10057641NS,,carpet,0,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,245,USM
@@ -90,8 +102,10 @@ w10133134_lpc,sky,carpet,0,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,8396,US
 w10143398_abc,floor,carpet,0.166666667,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,3197,USM
 w10157282_HBR,roof,carpet,0.166666667,0,1,Read,ceiling,Study1,M,Study Phase,Recall1,4907,USM
 10143815SK,root,dance,0,0,1,Read,circle,Study1,M,Study Phase,Recall1,56796,USM
+BrettThompson,pizza,dance,0.2,0,1,Read Recall,circle,Study1,M,Study Phase,Recall1,7441,USM
 BrookeMask,dance,dance,1,1,1,Read Recall,circle,Study1,M,Study Phase,Recall1,1888,USM
 jasminesherman,,dance,0,0,1,Read Recall,circle,Study1,M,Study Phase,Recall1,988,USM
+NicolasMunoz,,dance,0,0,1,Read Recall,circle,Study1,M,Study Phase,Recall1,2909,USM
 TaravionCosey,dance ,dance,0.833333333,1,1,Read Recall,circle,Study1,M,Study Phase,Recall1,9722,USM
 w10046339_pw,dance,dance,1,1,1,Read,circle,Study1,M,Study Phase,Recall1,3644,USM
 W10057641NS,,dance,0,0,1,Read,circle,Study1,M,Study Phase,Recall1,553,USM
@@ -105,8 +119,10 @@ w10133134_lpc,frank,dance,0.4,0,1,Read,circle,Study1,M,Study Phase,Recall1,9367,
 w10143398_abc,idk,dance,0.2,0,1,Read,circle,Study1,M,Study Phase,Recall1,2474,USM
 w10157282_HBR,round,dance,0.4,0,1,Read,circle,Study1,M,Study Phase,Recall1,2510,USM
 10143815SK,,election,0,0,1,Read,crackle,Study1,U,Study Phase,Recall1,1307,USM
+BrettThompson,pop,election,0.125,0,1,Read Recall,crackle,Study1,U,Study Phase,Recall1,4850,USM
 BrookeMask,,election,0,0,1,Read Recall,crackle,Study1,U,Study Phase,Recall1,2611,USM
 jasminesherman,,election,0,0,1,Read Recall,crackle,Study1,U,Study Phase,Recall1,815,USM
+NicolasMunoz,electric,election,0.75,1,1,Read Recall,crackle,Study1,U,Study Phase,Recall1,3365,USM
 TaravionCosey,election,election,1,1,1,Read Recall,crackle,Study1,U,Study Phase,Recall1,22526,USM
 w10046339_pw,election,election,1,1,1,Read,crackle,Study1,U,Study Phase,Recall1,10912,USM
 W10057641NS,,election,0,0,1,Read,crackle,Study1,U,Study Phase,Recall1,115,USM
@@ -120,8 +136,10 @@ w10133134_lpc,pop,election,0.125,0,1,Read,crackle,Study1,U,Study Phase,Recall1,3
 w10143398_abc,idk,election,0.125,0,1,Read,crackle,Study1,U,Study Phase,Recall1,2351,USM
 w10157282_HBR,pop,election,0.125,0,1,Read,crackle,Study1,U,Study Phase,Recall1,2910,USM
 10143815SK,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,2974,USM
+BrettThompson,card,card,1,1,1,Read Recall,credit,Study1,F,Study Phase,Recall1,3986,USM
 BrookeMask,card,card,1,1,1,Read Recall,credit,Study1,F,Study Phase,Recall1,1413,USM
 jasminesherman,,card,0,0,1,Read Recall,credit,Study1,F,Study Phase,Recall1,930,USM
+NicolasMunoz,,card,0,0,1,Read Recall,credit,Study1,F,Study Phase,Recall1,1509,USM
 TaravionCosey,card,card,1,1,1,Read Recall,credit,Study1,F,Study Phase,Recall1,22543,USM
 w10046339_pw,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,1889,USM
 W10057641NS,,card,0,0,1,Read,credit,Study1,F,Study Phase,Recall1,248,USM
@@ -135,8 +153,10 @@ w10133134_lpc,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,3592,USM
 w10143398_abc,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,3070,USM
 w10157282_HBR,card,card,1,1,1,Read,credit,Study1,F,Study Phase,Recall1,9280,USM
 10143815SK,,bottle,0,0,1,Read,cry,Study1,M,Study Phase,Recall1,3684,USM
+BrettThompson,bottle,bottle,1,1,1,Read Recall,cry,Study1,M,Study Phase,Recall1,6032,USM
 BrookeMask,sad,bottle,0,0,1,Read Recall,cry,Study1,M,Study Phase,Recall1,2857,USM
 jasminesherman,,bottle,0,0,1,Read Recall,cry,Study1,M,Study Phase,Recall1,3766,USM
+NicolasMunoz,bottle,bottle,1,1,1,Read Recall,cry,Study1,M,Study Phase,Recall1,2093,USM
 TaravionCosey,bottle ,bottle,0.857142857,1,1,Read Recall,cry,Study1,M,Study Phase,Recall1,19156,USM
 w10046339_pw,bottle,bottle,1,1,1,Read,cry,Study1,M,Study Phase,Recall1,2977,USM
 W10057641NS,,bottle,0,0,1,Read,cry,Study1,M,Study Phase,Recall1,1052,USM
@@ -150,8 +170,10 @@ w10133134_lpc,happy,bottle,0,0,1,Read,cry,Study1,M,Study Phase,Recall1,3983,USM
 w10143398_abc,bottle,bottle,1,1,1,Read,cry,Study1,M,Study Phase,Recall1,3880,USM
 w10157282_HBR,sad,bottle,0,0,1,Read,cry,Study1,M,Study Phase,Recall1,4922,USM
 10143815SK,night,dark,0,0,1,Read,day,Study1,M,Study Phase,Recall1,3343,USM
+BrettThompson,suset,dark,0,0,1,Read Recall,day,Study1,M,Study Phase,Recall1,6890,USM
 BrookeMask,night,dark,0,0,1,Read Recall,day,Study1,M,Study Phase,Recall1,6791,USM
 jasminesherman,,dark,0,0,1,Read Recall,day,Study1,M,Study Phase,Recall1,999,USM
+NicolasMunoz,night,dark,0,0,1,Read Recall,day,Study1,M,Study Phase,Recall1,1748,USM
 TaravionCosey,dark,dark,1,1,1,Read Recall,day,Study1,M,Study Phase,Recall1,19906,USM
 w10046339_pw,dark,dark,1,1,1,Read,day,Study1,M,Study Phase,Recall1,3420,USM
 W10057641NS,,dark,0,0,1,Read,day,Study1,M,Study Phase,Recall1,251,USM
@@ -165,8 +187,10 @@ w10133134_lpc,night,dark,0,0,1,Read,day,Study1,M,Study Phase,Recall1,4181,USM
 w10143398_abc,dark,dark,1,1,1,Read,day,Study1,M,Study Phase,Recall1,4361,USM
 w10157282_HBR,night,dark,0,0,1,Read,day,Study1,M,Study Phase,Recall1,4236,USM
 10143815SK,,bang,0,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,1564,USM
+BrettThompson,warm,bang,0.25,0,1,Read Recall,fuzzy,Study1,U,Study Phase,Recall1,3699,USM
 BrookeMask,socks,bang,0,0,1,Read Recall,fuzzy,Study1,U,Study Phase,Recall1,1493,USM
 jasminesherman,,bang,0,0,1,Read Recall,fuzzy,Study1,U,Study Phase,Recall1,811,USM
+NicolasMunoz,,bang,0,0,1,Read Recall,fuzzy,Study1,U,Study Phase,Recall1,1939,USM
 TaravionCosey,bong,bang,0.75,1,1,Read Recall,fuzzy,Study1,U,Study Phase,Recall1,11309,USM
 w10046339_pw,silk,bang,0,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,5409,USM
 W10057641NS,,bang,0,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,281,USM
@@ -180,8 +204,10 @@ w10133134_lpc,furry,bang,0,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,3941,USM
 w10143398_abc,hard,bang,0.25,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,3612,USM
 w10157282_HBR,soft,bang,0,0,1,Read,fuzzy,Study1,U,Study Phase,Recall1,7252,USM
 10143815SK,,steak,0,0,1,Read,give,Study1,U,Study Phase,Recall1,1768,USM
+BrettThompson,taken,steak,0.8,1,1,Read Recall,give,Study1,U,Study Phase,Recall1,5909,USM
 BrookeMask,take,steak,0.8,1,1,Read Recall,give,Study1,U,Study Phase,Recall1,2544,USM
 jasminesherman,,steak,0,0,1,Read Recall,give,Study1,U,Study Phase,Recall1,837,USM
+NicolasMunoz,steak,steak,1,1,1,Read Recall,give,Study1,U,Study Phase,Recall1,2138,USM
 TaravionCosey,steak,steak,1,1,1,Read Recall,give,Study1,U,Study Phase,Recall1,22643,USM
 w10046339_pw,take,steak,0.8,1,1,Read,give,Study1,U,Study Phase,Recall1,2065,USM
 W10057641NS,,steak,0,0,1,Read,give,Study1,U,Study Phase,Recall1,339,USM
@@ -195,8 +221,10 @@ w10133134_lpc,take,steak,0.8,1,1,Read,give,Study1,U,Study Phase,Recall1,2852,USM
 w10143398_abc,steak,steak,1,1,1,Read,give,Study1,U,Study Phase,Recall1,6960,USM
 w10157282_HBR,take,steak,0.8,1,1,Read,give,Study1,U,Study Phase,Recall1,4614,USM
 10143815SK,,cotton,0,0,1,Read,hard,Study1,M,Study Phase,Recall1,1228,USM
+BrettThompson,marble,cotton,0,0,1,Read Recall,hard,Study1,M,Study Phase,Recall1,8665,USM
 BrookeMask,surface,cotton,0.142857143,0,1,Read Recall,hard,Study1,M,Study Phase,Recall1,2356,USM
 jasminesherman,,cotton,0,0,1,Read Recall,hard,Study1,M,Study Phase,Recall1,4341,USM
+NicolasMunoz,soft,cotton,0.333333333,0,1,Read Recall,hard,Study1,M,Study Phase,Recall1,1901,USM
 TaravionCosey,soft,cotton,0.333333333,0,1,Read Recall,hard,Study1,M,Study Phase,Recall1,13672,USM
 w10046339_pw,ball,cotton,0,0,1,Read,hard,Study1,M,Study Phase,Recall1,3891,USM
 W10057641NS,,cotton,0,0,1,Read,hard,Study1,M,Study Phase,Recall1,330,USM
@@ -210,8 +238,10 @@ w10133134_lpc,rough,cotton,0.166666667,0,1,Read,hard,Study1,M,Study Phase,Recall
 w10143398_abc,idk,cotton,0,0,1,Read,hard,Study1,M,Study Phase,Recall1,2608,USM
 w10157282_HBR,soft,cotton,0.333333333,0,1,Read,hard,Study1,M,Study Phase,Recall1,10917,USM
 10143815SK,,wheel,0,0,1,Read,horse,Study1,M,Study Phase,Recall1,1533,USM
+BrettThompson,mule,wheel,0.4,0,1,Read Recall,horse,Study1,M,Study Phase,Recall1,5462,USM
 BrookeMask,ride,wheel,0.2,0,1,Read Recall,horse,Study1,M,Study Phase,Recall1,3021,USM
 jasminesherman,,wheel,0,0,1,Read Recall,horse,Study1,M,Study Phase,Recall1,1679,USM
+NicolasMunoz,,wheel,0,0,1,Read Recall,horse,Study1,M,Study Phase,Recall1,1211,USM
 TaravionCosey,wheel ,wheel,0.833333333,1,1,Read Recall,horse,Study1,M,Study Phase,Recall1,39404,USM
 w10046339_pw,ride,wheel,0.2,0,1,Read,horse,Study1,M,Study Phase,Recall1,3905,USM
 W10057641NS,,wheel,0,0,1,Read,horse,Study1,M,Study Phase,Recall1,362,USM
@@ -225,8 +255,10 @@ w10133134_lpc,ride,wheel,0.2,0,1,Read,horse,Study1,M,Study Phase,Recall1,5704,US
 w10143398_abc,idk,wheel,0,0,1,Read,horse,Study1,M,Study Phase,Recall1,4744,USM
 w10157282_HBR,carriage,wheel,0.125,0,1,Read,horse,Study1,M,Study Phase,Recall1,36876,USM
 10143815SK,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,2979,USM
+BrettThompson,clean,clean,1,1,1,Read Recall,hygiene,Study1,F,Study Phase,Recall1,3903,USM
 BrookeMask,clean,clean,1,1,1,Read Recall,hygiene,Study1,F,Study Phase,Recall1,2302,USM
 jasminesherman,clean,clean,1,1,1,Read Recall,hygiene,Study1,F,Study Phase,Recall1,6240,USM
+NicolasMunoz,clean,clean,1,1,1,Read Recall,hygiene,Study1,F,Study Phase,Recall1,1815,USM
 TaravionCosey,clean ,clean,0.833333333,1,1,Read Recall,hygiene,Study1,F,Study Phase,Recall1,52937,USM
 w10046339_pw,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,2620,USM
 W10057641NS,,clean,0,0,1,Read,hygiene,Study1,F,Study Phase,Recall1,205,USM
@@ -240,8 +272,10 @@ w10133134_lpc,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,3840,U
 w10143398_abc,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,2505,USM
 w10157282_HBR,clean,clean,1,1,1,Read,hygiene,Study1,F,Study Phase,Recall1,10956,USM
 10143815SK,hunt,rod,0,0,1,Read,keys,Study1,U,Study Phase,Recall1,7739,USM
+BrettThompson,car,rod,0.333333333,0,1,Read Recall,keys,Study1,U,Study Phase,Recall1,5412,USM
 BrookeMask,meat,rod,0,0,1,Read Recall,keys,Study1,U,Study Phase,Recall1,4158,USM
 jasminesherman,,rod,0,0,1,Read Recall,keys,Study1,U,Study Phase,Recall1,3331,USM
+NicolasMunoz,flash,rod,0,0,1,Read Recall,keys,Study1,U,Study Phase,Recall1,5226,USM
 TaravionCosey,car,rod,0.333333333,0,1,Read Recall,keys,Study1,U,Study Phase,Recall1,5614,USM
 w10046339_pw,pole,rod,0.25,0,1,Read,keys,Study1,U,Study Phase,Recall1,2721,USM
 W10057641NS,,rod,0,0,1,Read,keys,Study1,U,Study Phase,Recall1,260,USM
@@ -255,8 +289,10 @@ w10133134_lpc,rod,rod,1,1,1,Read,keys,Study1,U,Study Phase,Recall1,2763,USM
 w10143398_abc,idk,rod,0.333333333,0,1,Read,keys,Study1,U,Study Phase,Recall1,3118,USM
 w10157282_HBR,lock,rod,0.25,0,1,Read,keys,Study1,U,Study Phase,Recall1,2838,USM
 10143815SK,,stripes,0,0,1,Read,lion,Study1,M,Study Phase,Recall1,1765,USM
+BrettThompson,strips,stripes,0.857142857,1,1,Read Recall,lion,Study1,M,Study Phase,Recall1,5563,USM
 BrookeMask,main,stripes,0.142857143,0,1,Read Recall,lion,Study1,M,Study Phase,Recall1,2534,USM
 jasminesherman,,stripes,0,0,1,Read Recall,lion,Study1,M,Study Phase,Recall1,479,USM
+NicolasMunoz,stripes,stripes,1,1,1,Read Recall,lion,Study1,M,Study Phase,Recall1,2434,USM
 TaravionCosey,stripes ,stripes,0.875,1,1,Read Recall,lion,Study1,M,Study Phase,Recall1,33742,USM
 w10046339_pw,stripes,stripes,1,1,1,Read,lion,Study1,M,Study Phase,Recall1,2815,USM
 W10057641NS,,stripes,0,0,1,Read,lion,Study1,M,Study Phase,Recall1,489,USM
@@ -270,8 +306,10 @@ w10133134_lpc,stripes,stripes,1,1,1,Read,lion,Study1,M,Study Phase,Recall1,3407,
 w10143398_abc,stripes,stripes,1,1,1,Read,lion,Study1,M,Study Phase,Recall1,4264,USM
 w10157282_HBR,mane ,stripes,0.142857143,0,1,Read,lion,Study1,M,Study Phase,Recall1,2311,USM
 10143815SK,,fiction,0,0,1,Read,listen,Study1,U,Study Phase,Recall1,3381,USM
+BrettThompson,talk,fiction,0.142857143,0,1,Read Recall,listen,Study1,U,Study Phase,Recall1,6803,USM
 BrookeMask,,fiction,0,0,1,Read Recall,listen,Study1,U,Study Phase,Recall1,1420,USM
 jasminesherman,,fiction,0,0,1,Read Recall,listen,Study1,U,Study Phase,Recall1,2883,USM
+NicolasMunoz,,fiction,0,0,1,Read Recall,listen,Study1,U,Study Phase,Recall1,1800,USM
 TaravionCosey,fiction ,fiction,0.875,1,1,Read Recall,listen,Study1,U,Study Phase,Recall1,47436,USM
 w10046339_pw,hear,fiction,0,0,1,Read,listen,Study1,U,Study Phase,Recall1,2754,USM
 W10057641NS,hear,fiction,0,0,1,Read,listen,Study1,U,Study Phase,Recall1,7903,USM
@@ -285,8 +323,10 @@ w10133134_lpc,talk,fiction,0.142857143,0,1,Read,listen,Study1,U,Study Phase,Reca
 w10143398_abc,quiet,fiction,0.285714286,0,1,Read,listen,Study1,U,Study Phase,Recall1,3714,USM
 w10157282_HBR,talk,fiction,0.142857143,0,1,Read,listen,Study1,U,Study Phase,Recall1,1934,USM
 10143815SK,,trash,0,0,1,Read,litter,Study1,F,Study Phase,Recall1,3070,USM
+BrettThompson,trash,trash,1,1,1,Read Recall,litter,Study1,F,Study Phase,Recall1,8052,USM
 BrookeMask,box,trash,0,0,1,Read Recall,litter,Study1,F,Study Phase,Recall1,1566,USM
 jasminesherman,,trash,0,0,1,Read Recall,litter,Study1,F,Study Phase,Recall1,2464,USM
+NicolasMunoz,,trash,0,0,1,Read Recall,litter,Study1,F,Study Phase,Recall1,1536,USM
 TaravionCosey,trash,trash,1,1,1,Read Recall,litter,Study1,F,Study Phase,Recall1,22152,USM
 w10046339_pw,trash,trash,1,1,1,Read,litter,Study1,F,Study Phase,Recall1,3022,USM
 W10057641NS,,trash,0,0,1,Read,litter,Study1,F,Study Phase,Recall1,326,USM
@@ -300,8 +340,10 @@ w10133134_lpc,trash,trash,1,1,1,Read,litter,Study1,F,Study Phase,Recall1,3150,US
 w10143398_abc,trash,trash,1,1,1,Read,litter,Study1,F,Study Phase,Recall1,6678,USM
 w10157282_HBR,trash,trash,1,1,1,Read,litter,Study1,F,Study Phase,Recall1,4280,USM
 10143815SK,moot,phone,0.2,0,1,Read,maze,Study1,U,Study Phase,Recall1,3311,USM
+BrettThompson,puzzle,phone,0.333333333,0,1,Read Recall,maze,Study1,U,Study Phase,Recall1,6083,USM
 BrookeMask,phone,phone,1,1,1,Read Recall,maze,Study1,U,Study Phase,Recall1,2566,USM
 jasminesherman,,phone,0,0,1,Read Recall,maze,Study1,U,Study Phase,Recall1,928,USM
+NicolasMunoz,runner,phone,0.333333333,0,1,Read Recall,maze,Study1,U,Study Phase,Recall1,2613,USM
 TaravionCosey,phone ,phone,0.833333333,1,1,Read Recall,maze,Study1,U,Study Phase,Recall1,19515,USM
 w10046339_pw,clear,phone,0.2,0,1,Read,maze,Study1,U,Study Phase,Recall1,8116,USM
 W10057641NS,,phone,0,0,1,Read,maze,Study1,U,Study Phase,Recall1,295,USM
@@ -315,8 +357,10 @@ w10133134_lpc,phone,phone,1,1,1,Read,maze,Study1,U,Study Phase,Recall1,3277,USM
 w10143398_abc,idk,phone,0,0,1,Read,maze,Study1,U,Study Phase,Recall1,2412,USM
 w10157282_HBR,path,phone,0.4,0,1,Read,maze,Study1,U,Study Phase,Recall1,11840,USM
 10143815SK,,keys,0,0,1,Read,meat,Study1,U,Study Phase,Recall1,1614,USM
+BrettThompson,steak,keys,0.6,0,1,Read Recall,meat,Study1,U,Study Phase,Recall1,5633,USM
 BrookeMask,keys,keys,1,1,1,Read Recall,meat,Study1,U,Study Phase,Recall1,1666,USM
 jasminesherman,,keys,0,0,1,Read Recall,meat,Study1,U,Study Phase,Recall1,838,USM
+NicolasMunoz,,keys,0,0,1,Read Recall,meat,Study1,U,Study Phase,Recall1,2362,USM
 TaravionCosey,vegetables ,keys,0.181818182,0,1,Read Recall,meat,Study1,U,Study Phase,Recall1,24531,USM
 w10046339_pw,cut,keys,0,0,1,Read,meat,Study1,U,Study Phase,Recall1,11672,USM
 W10057641NS,,keys,0,0,1,Read,meat,Study1,U,Study Phase,Recall1,282,USM
@@ -330,8 +374,10 @@ w10133134_lpc,bang,keys,0,0,1,Read,meat,Study1,U,Study Phase,Recall1,5950,USM
 w10143398_abc,fuzzy,keys,0.2,0,1,Read,meat,Study1,U,Study Phase,Recall1,9035,USM
 w10157282_HBR,loaf,keys,0,0,1,Read,meat,Study1,U,Study Phase,Recall1,4342,USM
 10143815SK,marrow,maroon,0.666666667,0,1,Read,mirror,Study1,U,Study Phase,Recall1,5160,USM
+BrettThompson,moron,maroon,0.833333333,1,1,Read Recall,mirror,Study1,U,Study Phase,Recall1,37547,USM
 BrookeMask,car,maroon,0.333333333,0,1,Read Recall,mirror,Study1,U,Study Phase,Recall1,4406,USM
 jasminesherman,,maroon,0,0,1,Read Recall,mirror,Study1,U,Study Phase,Recall1,3780,USM
+NicolasMunoz,,maroon,0,0,1,Read Recall,mirror,Study1,U,Study Phase,Recall1,619,USM
 TaravionCosey,maroon ,maroon,0.857142857,1,1,Read Recall,mirror,Study1,U,Study Phase,Recall1,18932,USM
 w10046339_pw,maroon,maroon,1,1,1,Read,mirror,Study1,U,Study Phase,Recall1,3945,USM
 W10057641NS,,maroon,0,0,1,Read,mirror,Study1,U,Study Phase,Recall1,159,USM
@@ -346,10 +392,14 @@ w10143398_abc,maroon,maroon,1,1,1,Read,mirror,Study1,U,Study Phase,Recall1,4014,
 w10157282_HBR,,maroon,0,0,1,Read,mirror,Study1,U,Study Phase,Recall1,11568,USM
 10143815SK,,donkey,0,0,1,Read,mule,Study1,F,Study Phase,Recall1,1970,USM
 10143815SK,,donkey,0,0,1,Read,mule,Study1,F,Study Phase,Recall1,1545,USM
+BrettThompson,donkey,donkey,1,1,1,Read Recall,mule,Study1,F,Study Phase,Recall1,6641,USM
+BrettThompson,horse,donkey,0.333333333,0,1,Read Recall,mule,Study1,F,Study Phase,Recall1,9656,USM
 BrookeMask,donkey,donkey,1,1,1,Read Recall,mule,Study1,F,Study Phase,Recall1,2738,USM
 BrookeMask,donkey,donkey,1,1,1,Read Recall,mule,Study1,F,Study Phase,Recall1,2057,USM
 jasminesherman,horse ,donkey,0.333333333,0,1,Read Recall,mule,Study1,F,Study Phase,Recall1,6425,USM
 jasminesherman,,donkey,0,0,1,Read Recall,mule,Study1,F,Study Phase,Recall1,723,USM
+NicolasMunoz,donke,donkey,0.833333333,1,1,Read Recall,mule,Study1,F,Study Phase,Recall1,2310,USM
+NicolasMunoz,donkey,donkey,1,1,1,Read Recall,mule,Study1,F,Study Phase,Recall1,2011,USM
 TaravionCosey,donkey ,donkey,0.857142857,1,1,Read Recall,mule,Study1,F,Study Phase,Recall1,9504,USM
 TaravionCosey,donkey ,donkey,0.857142857,1,1,Read Recall,mule,Study1,F,Study Phase,Recall1,7391,USM
 w10046339_pw,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,3341,USM
@@ -375,8 +425,10 @@ w10143398_abc,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,3728,US
 w10157282_HBR,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,2029,USM
 w10157282_HBR,donkey,donkey,1,1,1,Read,mule,Study1,F,Study Phase,Recall1,3021,USM
 10143815SK,sleep,sleep,1,1,1,Read,nap,Study1,F,Study Phase,Recall1,3218,USM
+BrettThompson,sleep,sleep,1,1,1,Read Recall,nap,Study1,F,Study Phase,Recall1,4968,USM
 BrookeMask,sleep,sleep,1,1,1,Read Recall,nap,Study1,F,Study Phase,Recall1,1599,USM
 jasminesherman,,sleep,0,0,1,Read Recall,nap,Study1,F,Study Phase,Recall1,1980,USM
+NicolasMunoz,sleep,sleep,1,1,1,Read Recall,nap,Study1,F,Study Phase,Recall1,1748,USM
 TaravionCosey,sleep ,sleep,0.833333333,1,1,Read Recall,nap,Study1,F,Study Phase,Recall1,19198,USM
 w10046339_pw,bed,sleep,0.2,0,1,Read,nap,Study1,F,Study Phase,Recall1,4816,USM
 W10057641NS,,sleep,0,0,1,Read,nap,Study1,F,Study Phase,Recall1,192,USM
@@ -390,8 +442,10 @@ w10133134_lpc,sleep,sleep,1,1,1,Read,nap,Study1,F,Study Phase,Recall1,3432,USM
 w10143398_abc,idk,sleep,0,0,1,Read,nap,Study1,F,Study Phase,Recall1,3065,USM
 w10157282_HBR,sleep,sleep,1,1,1,Read,nap,Study1,F,Study Phase,Recall1,2732,USM
 10143815SK,,flower,0,0,1,Read,orchid,Study1,F,Study Phase,Recall1,2638,USM
+BrettThompson,flower,flower,1,1,1,Read Recall,orchid,Study1,F,Study Phase,Recall1,4207,USM
 BrookeMask,flower,flower,1,1,1,Read Recall,orchid,Study1,F,Study Phase,Recall1,1687,USM
 jasminesherman,flower,flower,1,1,1,Read Recall,orchid,Study1,F,Study Phase,Recall1,7997,USM
+NicolasMunoz,,flower,0,0,1,Read Recall,orchid,Study1,F,Study Phase,Recall1,941,USM
 TaravionCosey,flower,flower,1,1,1,Read Recall,orchid,Study1,F,Study Phase,Recall1,18906,USM
 w10046339_pw,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,2821,USM
 W10057641NS,,flower,0,0,1,Read,orchid,Study1,F,Study Phase,Recall1,190,USM
@@ -405,8 +459,10 @@ w10133134_lpc,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,3510,
 w10143398_abc,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,2687,USM
 w10157282_HBR,flower,flower,1,1,1,Read,orchid,Study1,F,Study Phase,Recall1,6198,USM
 10143815SK,,plant,0,0,1,Read,root,Study1,F,Study Phase,Recall1,4167,USM
+BrettThompson,plant,plant,1,1,1,Read Recall,root,Study1,F,Study Phase,Recall1,8011,USM
 BrookeMask,open,plant,0.4,0,1,Read Recall,root,Study1,F,Study Phase,Recall1,5721,USM
 jasminesherman,,plant,0,0,1,Read Recall,root,Study1,F,Study Phase,Recall1,825,USM
+NicolasMunoz,,plant,0,0,1,Read Recall,root,Study1,F,Study Phase,Recall1,717,USM
 TaravionCosey,plant,plant,1,1,1,Read Recall,root,Study1,F,Study Phase,Recall1,14498,USM
 w10046339_pw,tree,plant,0.2,0,1,Read,root,Study1,F,Study Phase,Recall1,2563,USM
 W10057641NS,,plant,0,0,1,Read,root,Study1,F,Study Phase,Recall1,225,USM
@@ -420,8 +476,10 @@ w10133134_lpc,plant,plant,1,1,1,Read,root,Study1,F,Study Phase,Recall1,4793,USM
 w10143398_abc,plant,plant,1,1,1,Read,root,Study1,F,Study Phase,Recall1,3261,USM
 w10157282_HBR,plant,plant,1,1,1,Read,root,Study1,F,Study Phase,Recall1,3249,USM
 10143815SK,,silk,0,0,1,Read,rough,Study1,M,Study Phase,Recall1,3784,USM
+BrettThompson,soft,silk,0.25,0,1,Read Recall,rough,Study1,M,Study Phase,Recall1,4124,USM
 BrookeMask,smooth,silk,0.166666667,0,1,Read Recall,rough,Study1,M,Study Phase,Recall1,2499,USM
 jasminesherman,,silk,0,0,1,Read Recall,rough,Study1,M,Study Phase,Recall1,914,USM
+NicolasMunoz,,silk,0,0,1,Read Recall,rough,Study1,M,Study Phase,Recall1,1115,USM
 TaravionCosey,silk,silk,1,1,1,Read Recall,rough,Study1,M,Study Phase,Recall1,68447,USM
 w10046339_pw,cotton,silk,0,0,1,Read,rough,Study1,M,Study Phase,Recall1,4006,USM
 W10057641NS,,silk,0,0,1,Read,rough,Study1,M,Study Phase,Recall1,1339,USM
@@ -435,8 +493,10 @@ w10133134_lpc,silk,silk,1,1,1,Read,rough,Study1,M,Study Phase,Recall1,4009,USM
 w10143398_abc,silk,silk,1,1,1,Read,rough,Study1,M,Study Phase,Recall1,5685,USM
 w10157282_HBR,,silk,0,0,1,Read,rough,Study1,M,Study Phase,Recall1,6552,USM
 10143815SK,head,head,1,1,1,Read,scalp,Study1,F,Study Phase,Recall1,4132,USM
+BrettThompson,head,head,1,1,1,Read Recall,scalp,Study1,F,Study Phase,Recall1,3938,USM
 BrookeMask,massage,head,0.285714286,0,1,Read Recall,scalp,Study1,F,Study Phase,Recall1,3806,USM
 jasminesherman,,head,0,0,1,Read Recall,scalp,Study1,F,Study Phase,Recall1,1275,USM
+NicolasMunoz,head,head,1,1,1,Read Recall,scalp,Study1,F,Study Phase,Recall1,1574,USM
 TaravionCosey,head,head,1,1,1,Read Recall,scalp,Study1,F,Study Phase,Recall1,10727,USM
 w10046339_pw,hair,head,0.5,0,1,Read,scalp,Study1,F,Study Phase,Recall1,4796,USM
 W10057641NS,,head,0,0,1,Read,scalp,Study1,F,Study Phase,Recall1,196,USM
@@ -450,8 +510,10 @@ w10133134_lpc,hand,head,0.75,1,1,Read,scalp,Study1,F,Study Phase,Recall1,3655,US
 w10143398_abc,head,head,1,1,1,Read,scalp,Study1,F,Study Phase,Recall1,2650,USM
 w10157282_HBR,head,head,1,1,1,Read,scalp,Study1,F,Study Phase,Recall1,4011,USM
 10143815SK,,shake,0,0,1,Read,shell,Study1,U,Study Phase,Recall1,5914,USM
+BrettThompson,shock,shake,0.6,0,1,Read Recall,shell,Study1,U,Study Phase,Recall1,6294,USM
 BrookeMask,car,shake,0.2,0,1,Read Recall,shell,Study1,U,Study Phase,Recall1,5613,USM
 jasminesherman,,shake,0,0,1,Read Recall,shell,Study1,U,Study Phase,Recall1,611,USM
+NicolasMunoz,,shake,0,0,1,Read Recall,shell,Study1,U,Study Phase,Recall1,10105,USM
 TaravionCosey,shake ,shake,0.833333333,1,1,Read Recall,shell,Study1,U,Study Phase,Recall1,31660,USM
 w10046339_pw,shake,shake,1,1,1,Read,shell,Study1,U,Study Phase,Recall1,7075,USM
 W10057641NS,,shake,0,0,1,Read,shell,Study1,U,Study Phase,Recall1,206,USM
@@ -465,8 +527,10 @@ w10133134_lpc,slap,shake,0.4,0,1,Read,shell,Study1,U,Study Phase,Recall1,7181,US
 w10143398_abc,idk,shake,0.2,0,1,Read,shell,Study1,U,Study Phase,Recall1,4781,USM
 w10157282_HBR,shock,shake,0.6,0,1,Read,shell,Study1,U,Study Phase,Recall1,2403,USM
 10143815SK,,tick,0,0,1,Read,sign,Study1,U,Study Phase,Recall1,3576,USM
+BrettThompson,break,tick,0.2,0,1,Read Recall,sign,Study1,U,Study Phase,Recall1,9363,USM
 BrookeMask,stop,tick,0.25,0,1,Read Recall,sign,Study1,U,Study Phase,Recall1,1577,USM
 jasminesherman,,tick,0,0,1,Read Recall,sign,Study1,U,Study Phase,Recall1,865,USM
+NicolasMunoz,stop,tick,0.25,0,1,Read Recall,sign,Study1,U,Study Phase,Recall1,2057,USM
 TaravionCosey,tick,tick,1,1,1,Read Recall,sign,Study1,U,Study Phase,Recall1,55307,USM
 w10046339_pw,pole,tick,0,0,1,Read,sign,Study1,U,Study Phase,Recall1,6488,USM
 W10057641NS,,tick,0,0,1,Read,sign,Study1,U,Study Phase,Recall1,237,USM
@@ -480,8 +544,10 @@ w10133134_lpc,thin,tick,0.5,0,1,Read,sign,Study1,U,Study Phase,Recall1,9320,USM
 w10143398_abc,idk,tick,0.5,0,1,Read,sign,Study1,U,Study Phase,Recall1,4267,USM
 w10157282_HBR,stop,tick,0.25,0,1,Read,sign,Study1,U,Study Phase,Recall1,8086,USM
 10143815SK,code,drink,0.2,0,1,Read,sip,Study1,F,Study Phase,Recall1,3204,USM
+BrettThompson,drink,drink,1,1,1,Read Recall,sip,Study1,F,Study Phase,Recall1,5020,USM
 BrookeMask,water,drink,0.2,0,1,Read Recall,sip,Study1,F,Study Phase,Recall1,1687,USM
 jasminesherman,,drink,0,0,1,Read Recall,sip,Study1,F,Study Phase,Recall1,2576,USM
+NicolasMunoz,drink,drink,1,1,1,Read Recall,sip,Study1,F,Study Phase,Recall1,3174,USM
 TaravionCosey,drink,drink,1,1,1,Read Recall,sip,Study1,F,Study Phase,Recall1,25334,USM
 w10046339_pw,drink,drink,1,1,1,Read,sip,Study1,F,Study Phase,Recall1,3129,USM
 W10057641NS,,drink,0,0,1,Read,sip,Study1,F,Study Phase,Recall1,269,USM
@@ -495,8 +561,10 @@ w10133134_lpc,drink,drink,1,1,1,Read,sip,Study1,F,Study Phase,Recall1,3976,USM
 w10143398_abc,cup,drink,0,0,1,Read,sip,Study1,F,Study Phase,Recall1,6915,USM
 w10157282_HBR,stir,drink,0.4,0,1,Read,sip,Study1,F,Study Phase,Recall1,20498,USM
 10143815SK,,belt,0,0,1,Read,soon,Study1,U,Study Phase,Recall1,21641,USM
+BrettThompson,break,belt,0.4,0,1,Read Recall,soon,Study1,U,Study Phase,Recall1,10301,USM
 BrookeMask,later,belt,0.6,0,1,Read Recall,soon,Study1,U,Study Phase,Recall1,1665,USM
 jasminesherman,,belt,0,0,1,Read Recall,soon,Study1,U,Study Phase,Recall1,1001,USM
+NicolasMunoz,,belt,0,0,1,Read Recall,soon,Study1,U,Study Phase,Recall1,998,USM
 TaravionCosey,belt,belt,1,1,1,Read Recall,soon,Study1,U,Study Phase,Recall1,22325,USM
 w10046339_pw,later,belt,0.6,0,1,Read,soon,Study1,U,Study Phase,Recall1,6645,USM
 W10057641NS,,belt,0,0,1,Read,soon,Study1,U,Study Phase,Recall1,284,USM
@@ -510,8 +578,10 @@ w10133134_lpc,later,belt,0.6,0,1,Read,soon,Study1,U,Study Phase,Recall1,4277,USM
 w10143398_abc,noon,belt,0,0,1,Read,soon,Study1,U,Study Phase,Recall1,4168,USM
 w10157282_HBR,,belt,0,0,1,Read,soon,Study1,U,Study Phase,Recall1,4116,USM
 10143815SK,,cloth,0,0,1,Read,stretch,Study1,U,Study Phase,Recall1,1398,USM
+BrettThompson,walk,cloth,0.2,0,1,Read Recall,stretch,Study1,U,Study Phase,Recall1,6790,USM
 BrookeMask,,cloth,0,0,1,Read Recall,stretch,Study1,U,Study Phase,Recall1,989,USM
 jasminesherman,,cloth,0,0,1,Read Recall,stretch,Study1,U,Study Phase,Recall1,575,USM
+NicolasMunoz,,cloth,0,0,1,Read Recall,stretch,Study1,U,Study Phase,Recall1,1045,USM
 TaravionCosey,cloth,cloth,1,1,1,Read Recall,stretch,Study1,U,Study Phase,Recall1,101550,USM
 w10046339_pw,cloth,cloth,1,1,1,Read,stretch,Study1,U,Study Phase,Recall1,4514,USM
 W10057641NS,,cloth,0,0,1,Read,stretch,Study1,U,Study Phase,Recall1,238,USM
@@ -525,8 +595,10 @@ w10133134_lpc,arm,cloth,0,0,1,Read,stretch,Study1,U,Study Phase,Recall1,3757,USM
 w10143398_abc,idk,cloth,0,0,1,Read,stretch,Study1,U,Study Phase,Recall1,3176,USM
 w10157282_HBR,pull,cloth,0.2,0,1,Read,stretch,Study1,U,Study Phase,Recall1,9066,USM
 10143815SK,,bird,0,0,1,Read,swan,Study1,F,Study Phase,Recall1,20610,USM
+BrettThompson,bird,bird,1,1,1,Read Recall,swan,Study1,F,Study Phase,Recall1,5574,USM
 BrookeMask,dove,bird,0.25,0,1,Read Recall,swan,Study1,F,Study Phase,Recall1,5350,USM
 jasminesherman,,bird,0,0,1,Read Recall,swan,Study1,F,Study Phase,Recall1,5042,USM
+NicolasMunoz,bird,bird,1,1,1,Read Recall,swan,Study1,F,Study Phase,Recall1,2203,USM
 TaravionCosey,bird,bird,1,1,1,Read Recall,swan,Study1,F,Study Phase,Recall1,25292,USM
 w10046339_pw,bird,bird,1,1,1,Read,swan,Study1,F,Study Phase,Recall1,4526,USM
 W10057641NS,,bird,0,0,1,Read,swan,Study1,F,Study Phase,Recall1,325,USM
@@ -540,8 +612,10 @@ w10133134_lpc,bird,bird,1,1,1,Read,swan,Study1,F,Study Phase,Recall1,4401,USM
 w10143398_abc,bird,bird,1,1,1,Read,swan,Study1,F,Study Phase,Recall1,3071,USM
 w10157282_HBR,bird,bird,1,1,1,Read,swan,Study1,F,Study Phase,Recall1,23711,USM
 10143815SK,warm,morning,0.285714286,0,1,Read,temperature,Study1,U,Study Phase,Recall1,8105,USM
+BrettThompson,hot,morning,0.142857143,0,1,Read Recall,temperature,Study1,U,Study Phase,Recall1,3521,USM
 BrookeMask,weather,morning,0.142857143,0,1,Read Recall,temperature,Study1,U,Study Phase,Recall1,3310,USM
 jasminesherman,,morning,0,0,1,Read Recall,temperature,Study1,U,Study Phase,Recall1,783,USM
+NicolasMunoz,,morning,0,0,1,Read Recall,temperature,Study1,U,Study Phase,Recall1,887,USM
 TaravionCosey,hot,morning,0.142857143,0,1,Read Recall,temperature,Study1,U,Study Phase,Recall1,12978,USM
 w10046339_pw,hot,morning,0.142857143,0,1,Read,temperature,Study1,U,Study Phase,Recall1,2159,USM
 W10057641NS,,morning,0,0,1,Read,temperature,Study1,U,Study Phase,Recall1,508,USM
@@ -555,8 +629,10 @@ w10133134_lpc,morning,morning,1,1,1,Read,temperature,Study1,U,Study Phase,Recall
 w10143398_abc,day,morning,0,0,1,Read,temperature,Study1,U,Study Phase,Recall1,5857,USM
 w10157282_HBR,fever,morning,0.142857143,0,1,Read,temperature,Study1,U,Study Phase,Recall1,3453,USM
 10143815SK,taste,hair,0.2,0,1,Read,tooth,Study1,M,Study Phase,Recall1,9470,USM
+BrettThompson,hair,hair,1,1,1,Read Recall,tooth,Study1,M,Study Phase,Recall1,3304,USM
 BrookeMask,ache,hair,0.5,0,1,Read Recall,tooth,Study1,M,Study Phase,Recall1,2117,USM
 jasminesherman,ache,hair,0.5,0,1,Read Recall,tooth,Study1,M,Study Phase,Recall1,4469,USM
+NicolasMunoz,fairy,hair,0.6,0,1,Read Recall,tooth,Study1,M,Study Phase,Recall1,2265,USM
 TaravionCosey,hair,hair,1,1,1,Read Recall,tooth,Study1,M,Study Phase,Recall1,23563,USM
 w10046339_pw,hair,hair,1,1,1,Read,tooth,Study1,M,Study Phase,Recall1,2127,USM
 W10057641NS,,hair,0,0,1,Read,tooth,Study1,M,Study Phase,Recall1,655,USM
@@ -570,8 +646,10 @@ w10133134_lpc,hand,hair,0.5,0,1,Read,tooth,Study1,M,Study Phase,Recall1,8919,USM
 w10143398_abc,clean,hair,0.2,0,1,Read,tooth,Study1,M,Study Phase,Recall1,7609,USM
 w10157282_HBR,nail,hair,0.5,0,1,Read,tooth,Study1,M,Study Phase,Recall1,1982,USM
 10143815SK,green,syrup,0.2,0,1,Read,tree,Study1,M,Study Phase,Recall1,29014,USM
+BrettThompson,breach,syrup,0.166666667,0,1,Read Recall,tree,Study1,M,Study Phase,Recall1,11209,USM
 BrookeMask,green,syrup,0.2,0,1,Read Recall,tree,Study1,M,Study Phase,Recall1,3143,USM
 jasminesherman,branch ,syrup,0.142857143,0,1,Read Recall,tree,Study1,M,Study Phase,Recall1,6724,USM
+NicolasMunoz,green,syrup,0.2,0,1,Read Recall,tree,Study1,M,Study Phase,Recall1,2677,USM
 TaravionCosey,green ,syrup,0.166666667,0,1,Read Recall,tree,Study1,M,Study Phase,Recall1,15227,USM
 w10046339_pw,sap,syrup,0.4,0,1,Read,tree,Study1,M,Study Phase,Recall1,2246,USM
 W10057641NS,,syrup,0,0,1,Read,tree,Study1,M,Study Phase,Recall1,489,USM
@@ -585,8 +663,10 @@ w10133134_lpc,green,syrup,0.2,0,1,Read,tree,Study1,M,Study Phase,Recall1,2959,US
 w10143398_abc,syrup,syrup,1,1,1,Read,tree,Study1,M,Study Phase,Recall1,7391,USM
 w10157282_HBR,bush,syrup,0.4,0,1,Read,tree,Study1,M,Study Phase,Recall1,4279,USM
 10143815SK,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,2994,USM
+BrettThompson,fish,fish,1,1,1,Read Recall,tuna,Study1,F,Study Phase,Recall1,8305,USM
 BrookeMask,fish,fish,1,1,1,Read Recall,tuna,Study1,F,Study Phase,Recall1,1442,USM
 jasminesherman,,fish,0,0,1,Read Recall,tuna,Study1,F,Study Phase,Recall1,924,USM
+NicolasMunoz,fish,fish,1,1,1,Read Recall,tuna,Study1,F,Study Phase,Recall1,1514,USM
 TaravionCosey,fish,fish,1,1,1,Read Recall,tuna,Study1,F,Study Phase,Recall1,9404,USM
 w10046339_pw,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,4851,USM
 W10057641NS,,fish,0,0,1,Read,tuna,Study1,F,Study Phase,Recall1,798,USM
@@ -600,8 +680,10 @@ w10133134_lpc,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,2871,USM
 w10143398_abc,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,2710,USM
 w10157282_HBR,fish,fish,1,1,1,Read,tuna,Study1,F,Study Phase,Recall1,3828,USM
 10143815SK,bike,charm,0,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,3223,USM
+BrettThompson,tow,charm,0,0,1,Read Recall,vehicle,Study1,U,Study Phase,Recall1,15988,USM
 BrookeMask,drive,charm,0.2,0,1,Read Recall,vehicle,Study1,U,Study Phase,Recall1,2141,USM
 jasminesherman,,charm,0,0,1,Read Recall,vehicle,Study1,U,Study Phase,Recall1,3669,USM
+NicolasMunoz,,charm,0,0,1,Read Recall,vehicle,Study1,U,Study Phase,Recall1,1311,USM
 TaravionCosey,charm,charm,1,1,1,Read Recall,vehicle,Study1,U,Study Phase,Recall1,14217,USM
 w10046339_pw,praise,charm,0.333333333,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,9062,USM
 W10057641NS,,charm,0,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,179,USM
@@ -615,8 +697,10 @@ w10133134_lpc,car,charm,0.6,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,2619,U
 w10143398_abc,wheels,charm,0.166666667,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,3894,USM
 w10157282_HBR,,charm,0,0,1,Read,vehicle,Study1,U,Study Phase,Recall1,19090,USM
 10143815SK,,money,0,0,1,Read,wage,Study1,F,Study Phase,Recall1,1458,USM
+BrettThompson,money,money,1,1,1,Read Recall,wage,Study1,F,Study Phase,Recall1,5263,USM
 BrookeMask,money,money,1,1,1,Read Recall,wage,Study1,F,Study Phase,Recall1,3539,USM
 jasminesherman,,money,0,0,1,Read Recall,wage,Study1,F,Study Phase,Recall1,2259,USM
+NicolasMunoz,money,money,1,1,1,Read Recall,wage,Study1,F,Study Phase,Recall1,2024,USM
 TaravionCosey,money ,money,0.833333333,1,1,Read Recall,wage,Study1,F,Study Phase,Recall1,7718,USM
 w10046339_pw,money,money,1,1,1,Read,wage,Study1,F,Study Phase,Recall1,2715,USM
 W10057641NS,,money,0,0,1,Read,wage,Study1,F,Study Phase,Recall1,228,USM
@@ -630,8 +714,10 @@ w10133134_lpc,money,money,1,1,1,Read,wage,Study1,F,Study Phase,Recall1,3211,USM
 w10143398_abc,money,money,1,1,1,Read,wage,Study1,F,Study Phase,Recall1,4735,USM
 w10157282_HBR,earn,money,0.4,0,1,Read,wage,Study1,F,Study Phase,Recall1,6576,USM
 10143815SK,quiet,quiet,1,1,1,Read,war,Study1,M,Study Phase,Recall1,4726,USM
+BrettThompson,quite,quiet,1,1,1,Read Recall,war,Study1,M,Study Phase,Recall1,7375,USM
 BrookeMask,quiet ,quiet,0.833333333,1,1,Read Recall,war,Study1,M,Study Phase,Recall1,5431,USM
 jasminesherman,,quiet,0,0,1,Read Recall,war,Study1,M,Study Phase,Recall1,5287,USM
+NicolasMunoz,,quiet,0,0,1,Read Recall,war,Study1,M,Study Phase,Recall1,1030,USM
 TaravionCosey,quiet,quiet,1,1,1,Read Recall,war,Study1,M,Study Phase,Recall1,34661,USM
 w10046339_pw,quiet,quiet,1,1,1,Read,war,Study1,M,Study Phase,Recall1,3422,USM
 W10057641NS,,quiet,0,0,1,Read,war,Study1,M,Study Phase,Recall1,239,USM
@@ -645,8 +731,10 @@ w10133134_lpc,quite,quiet,1,1,1,Read,war,Study1,M,Study Phase,Recall1,3728,USM
 w10143398_abc,quiet,quiet,1,1,1,Read,war,Study1,M,Study Phase,Recall1,3857,USM
 w10157282_HBR,peace,quiet,0.2,0,1,Read,war,Study1,M,Study Phase,Recall1,3836,USM
 10143815SK,ring,finger,0.666666667,0,1,Read,wedding,Study1,M,Study Phase,Recall1,7267,USM
+BrettThompson,ring,finger,0.666666667,0,1,Read Recall,wedding,Study1,M,Study Phase,Recall1,5025,USM
 BrookeMask,cake,finger,0.166666667,0,1,Read Recall,wedding,Study1,M,Study Phase,Recall1,2839,USM
 jasminesherman,,finger,0,0,1,Read Recall,wedding,Study1,M,Study Phase,Recall1,1352,USM
+NicolasMunoz,,finger,0,0,1,Read Recall,wedding,Study1,M,Study Phase,Recall1,1100,USM
 TaravionCosey,finger ,finger,0.857142857,1,1,Read Recall,wedding,Study1,M,Study Phase,Recall1,52649,USM
 w10046339_pw,cake,finger,0.166666667,0,1,Read,wedding,Study1,M,Study Phase,Recall1,2265,USM
 W10057641NS,,finger,0,0,1,Read,wedding,Study1,M,Study Phase,Recall1,225,USM
@@ -660,8 +748,10 @@ w10133134_lpc,ring,finger,0.666666667,0,1,Read,wedding,Study1,M,Study Phase,Reca
 w10143398_abc,pie,finger,0.333333333,0,1,Read,wedding,Study1,M,Study Phase,Recall1,3584,USM
 w10157282_HBR,ring,finger,0.666666667,0,1,Read,wedding,Study1,M,Study Phase,Recall1,8203,USM
 10143815SK,,sentence,0,0,1,Read,word,Study1,F,Study Phase,Recall1,2444,USM
+BrettThompson,play,sentence,0,0,1,Read Recall,word,Study1,F,Study Phase,Recall1,3017,USM
 BrookeMask,book,sentence,0,0,1,Read Recall,word,Study1,F,Study Phase,Recall1,3413,USM
 jasminesherman,,sentence,0,0,1,Read Recall,word,Study1,F,Study Phase,Recall1,865,USM
+NicolasMunoz,,sentence,0,0,1,Read Recall,word,Study1,F,Study Phase,Recall1,735,USM
 TaravionCosey,sentence ,sentence,0.888888889,1,1,Read Recall,word,Study1,F,Study Phase,Recall1,11710,USM
 w10046339_pw,spell,sentence,0.25,0,1,Read,word,Study1,F,Study Phase,Recall1,3751,USM
 W10057641NS,,sentence,0,0,1,Read,word,Study1,F,Study Phase,Recall1,254,USM
@@ -675,6 +765,8 @@ w10133134_lpc,sentence,sentence,1,1,1,Read,word,Study1,F,Study Phase,Recall1,462
 w10143398_abc,sentence,sentence,1,1,1,Read,word,Study1,F,Study Phase,Recall1,5505,USM
 w10157282_HBR,speak,sentence,0.25,0,1,Read,word,Study1,F,Study Phase,Recall1,11329,USM
 10134188andCC,love,love,1,1,3,Read,affection,Study1,F,Study Phase2,Recall2,2766,USM
+ArielThomas,love ,love,0.8,1,3,Read Recall,affection,Study1,F,Study Phase2,Recall2,4931,USM
+JadeRoss,love,love,1,1,3,Read Recall,affection,Study1,F,Study Phase2,Recall2,2470,USM
 MadisonHodge,love,love,1,1,3,Read Recall,affection,Study1,F,Study Phase2,Recall2,5161,USM
 MakaylaTemple,love,love,1,1,3,Read Recall,affection,Study1,F,Study Phase2,Recall2,1982,USM
 w10033523_hp,love,love,1,1,3,Read,affection,Study1,F,Study Phase2,Recall2,4298,USM
@@ -696,6 +788,8 @@ w10148391-Jk,loge,love,0.75,1,3,Read,affection,Study1,F,Study Phase2,Recall2,218
 w10151253_ES,love,love,1,1,3,Read,affection,Study1,F,Study Phase2,Recall2,2467,USM
 w958722_hnm,love,love,1,1,3,Read,affection,Study1,F,Study Phase2,Recall2,21498,USM
 10134188andCC,fly,bounce,0,0,3,Read,bat,Study1,M,Study Phase2,Recall2,2854,USM
+ArielThomas,bounce,bounce,1,1,3,Read Recall,bat,Study1,M,Study Phase2,Recall2,3796,USM
+JadeRoss,bounce,bounce,1,1,3,Read Recall,bat,Study1,M,Study Phase2,Recall2,3212,USM
 MadisonHodge,,bounce,0,0,3,Read Recall,bat,Study1,M,Study Phase2,Recall2,2547,USM
 MakaylaTemple,bounce,bounce,1,1,3,Read Recall,bat,Study1,M,Study Phase2,Recall2,12344,USM
 w10033523_hp,,bounce,0,0,3,Read,bat,Study1,M,Study Phase2,Recall2,2056,USM
@@ -717,6 +811,8 @@ w10148391-Jk,bounce,bounce,1,1,3,Read,bat,Study1,M,Study Phase2,Recall2,8246,USM
 w10151253_ES,bounce,bounce,1,1,3,Read,bat,Study1,M,Study Phase2,Recall2,4096,USM
 w958722_hnm,bounce,bounce,1,1,3,Read,bat,Study1,M,Study Phase2,Recall2,21604,USM
 10134188andCC,sand,box,0,0,3,Read,beach,Study1,M,Study Phase2,Recall2,3999,USM
+ArielThomas,waves,box,0,0,3,Read Recall,beach,Study1,M,Study Phase2,Recall2,6952,USM
+JadeRoss,house,box,0.2,0,3,Read Recall,beach,Study1,M,Study Phase2,Recall2,2421,USM
 MadisonHodge,chair,box,0,0,3,Read Recall,beach,Study1,M,Study Phase2,Recall2,8994,USM
 MakaylaTemple,ball,box,0.25,0,3,Read Recall,beach,Study1,M,Study Phase2,Recall2,3314,USM
 w10033523_hp,shell,box,0,0,3,Read,beach,Study1,M,Study Phase2,Recall2,2724,USM
@@ -738,6 +834,8 @@ w10148391-Jk,ball,box,0.25,0,3,Read,beach,Study1,M,Study Phase2,Recall2,2799,USM
 w10151253_ES,box,box,1,1,3,Read,beach,Study1,M,Study Phase2,Recall2,6281,USM
 w958722_hnm,box,box,1,1,3,Read,beach,Study1,M,Study Phase2,Recall2,13080,USM
 10134188andCC,day,pie,0,0,3,Read,birthday,Study1,M,Study Phase2,Recall2,2981,USM
+ArielThomas,pie,pie,1,1,3,Read Recall,birthday,Study1,M,Study Phase2,Recall2,3415,USM
+JadeRoss,party,pie,0.2,0,3,Read Recall,birthday,Study1,M,Study Phase2,Recall2,2827,USM
 MadisonHodge,cake,pie,0.25,0,3,Read Recall,birthday,Study1,M,Study Phase2,Recall2,4650,USM
 MakaylaTemple,cake,pie,0.25,0,3,Read Recall,birthday,Study1,M,Study Phase2,Recall2,1914,USM
 w10033523_hp,fun,pie,0,0,3,Read,birthday,Study1,M,Study Phase2,Recall2,3719,USM
@@ -759,6 +857,8 @@ w10148391-Jk,pie,pie,1,1,3,Read,birthday,Study1,M,Study Phase2,Recall2,2386,USM
 w10151253_ES,cake,pie,0.25,0,3,Read,birthday,Study1,M,Study Phase2,Recall2,3274,USM
 w958722_hnm,pie,pie,1,1,3,Read,birthday,Study1,M,Study Phase2,Recall2,10177,USM
 10134188andCC,taste,hand,0.2,0,3,Read,cake,Study1,U,Study Phase2,Recall2,3205,USM
+ArielThomas,wedding ,hand,0.25,0,3,Read Recall,cake,Study1,U,Study Phase2,Recall2,8635,USM
+JadeRoss,,hand,0,0,3,Read Recall,cake,Study1,U,Study Phase2,Recall2,1959,USM
 MadisonHodge,,hand,0,0,3,Read Recall,cake,Study1,U,Study Phase2,Recall2,6781,USM
 MakaylaTemple,birthday,hand,0.375,0,3,Read Recall,cake,Study1,U,Study Phase2,Recall2,4334,USM
 w10033523_hp,,hand,0,0,3,Read,cake,Study1,U,Study Phase2,Recall2,1490,USM
@@ -780,6 +880,8 @@ w10148391-Jk,birthday,hand,0.375,0,3,Read,cake,Study1,U,Study Phase2,Recall2,245
 w10151253_ES,sugar,hand,0.2,0,3,Read,cake,Study1,U,Study Phase2,Recall2,11068,USM
 w958722_hnm,hand,hand,1,1,3,Read,cake,Study1,U,Study Phase2,Recall2,19032,USM
 10134188andCC,fan,carpet,0.166666667,0,3,Read,ceiling,Study1,M,Study Phase2,Recall2,3209,USM
+ArielThomas,carpet,carpet,1,1,3,Read Recall,ceiling,Study1,M,Study Phase2,Recall2,4512,USM
+JadeRoss,house,carpet,0.166666667,0,3,Read Recall,ceiling,Study1,M,Study Phase2,Recall2,3795,USM
 MadisonHodge,fan,carpet,0.166666667,0,3,Read Recall,ceiling,Study1,M,Study Phase2,Recall2,3990,USM
 MakaylaTemple,,carpet,0,0,3,Read Recall,ceiling,Study1,M,Study Phase2,Recall2,25446,USM
 w10033523_hp,tile,carpet,0.333333333,0,3,Read,ceiling,Study1,M,Study Phase2,Recall2,2036,USM
@@ -801,6 +903,8 @@ w10148391-Jk,fam,carpet,0.166666667,0,3,Read,ceiling,Study1,M,Study Phase2,Recal
 w10151253_ES,room,carpet,0.166666667,0,3,Read,ceiling,Study1,M,Study Phase2,Recall2,5012,USM
 w958722_hnm,carpet ,carpet,0.857142857,1,3,Read,ceiling,Study1,M,Study Phase2,Recall2,24093,USM
 10134188andCC,sqaure,dance,0.333333333,0,3,Read,circle,Study1,M,Study Phase2,Recall2,4545,USM
+ArielThomas,barrel ,dance,0.285714286,0,3,Read Recall,circle,Study1,M,Study Phase2,Recall2,28006,USM
+JadeRoss,,dance,0,0,3,Read Recall,circle,Study1,M,Study Phase2,Recall2,1017,USM
 MadisonHodge,friends,dance,0.428571429,0,3,Read Recall,circle,Study1,M,Study Phase2,Recall2,8084,USM
 MakaylaTemple,square,dance,0.333333333,0,3,Read Recall,circle,Study1,M,Study Phase2,Recall2,7295,USM
 w10033523_hp,,dance,0,0,3,Read,circle,Study1,M,Study Phase2,Recall2,1520,USM
@@ -822,6 +926,8 @@ w10148391-Jk,dance,dance,1,1,3,Read,circle,Study1,M,Study Phase2,Recall2,4230,US
 w10151253_ES,round,dance,0.4,0,3,Read,circle,Study1,M,Study Phase2,Recall2,7828,USM
 w958722_hnm,dance ,dance,0.833333333,1,3,Read,circle,Study1,M,Study Phase2,Recall2,21728,USM
 10134188andCC,fire,election,0.25,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,2477,USM
+ArielThomas,election,election,1,1,3,Read Recall,crackle,Study1,U,Study Phase2,Recall2,4697,USM
+JadeRoss,,election,0,0,3,Read Recall,crackle,Study1,U,Study Phase2,Recall2,1816,USM
 MadisonHodge,pop,election,0.125,0,3,Read Recall,crackle,Study1,U,Study Phase2,Recall2,6855,USM
 MakaylaTemple,pop,election,0.125,0,3,Read Recall,crackle,Study1,U,Study Phase2,Recall2,2668,USM
 w10033523_hp,pop,election,0.125,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,2284,USM
@@ -843,6 +949,8 @@ w10148391-Jk,pop,election,0.125,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,2
 w10151253_ES,pop,election,0.125,0,3,Read,crackle,Study1,U,Study Phase2,Recall2,2927,USM
 w958722_hnm,election,election,1,1,3,Read,crackle,Study1,U,Study Phase2,Recall2,8614,USM
 10134188andCC,card,card,1,1,3,Read,credit,Study1,F,Study Phase2,Recall2,1983,USM
+ArielThomas,card,card,1,1,3,Read Recall,credit,Study1,F,Study Phase2,Recall2,3523,USM
+JadeRoss,,card,0,0,3,Read Recall,credit,Study1,F,Study Phase2,Recall2,1766,USM
 MadisonHodge,card,card,1,1,3,Read Recall,credit,Study1,F,Study Phase2,Recall2,3928,USM
 MakaylaTemple,card,card,1,1,3,Read Recall,credit,Study1,F,Study Phase2,Recall2,1977,USM
 w10033523_hp,card,card,1,1,3,Read,credit,Study1,F,Study Phase2,Recall2,1354,USM
@@ -864,6 +972,8 @@ w10148391-Jk,card,card,1,1,3,Read,credit,Study1,F,Study Phase2,Recall2,39948,USM
 w10151253_ES,steal,card,0.2,0,3,Read,credit,Study1,F,Study Phase2,Recall2,12007,USM
 w958722_hnm,card,card,1,1,3,Read,credit,Study1,F,Study Phase2,Recall2,2198,USM
 10134188andCC,laugh,bottle,0.166666667,0,3,Read,cry,Study1,M,Study Phase2,Recall2,2732,USM
+ArielThomas,weep,bottle,0.166666667,0,3,Read Recall,cry,Study1,M,Study Phase2,Recall2,3909,USM
+JadeRoss,,bottle,0,0,3,Read Recall,cry,Study1,M,Study Phase2,Recall2,982,USM
 MadisonHodge,sad,bottle,0,0,3,Read Recall,cry,Study1,M,Study Phase2,Recall2,4914,USM
 MakaylaTemple,laugh,bottle,0.166666667,0,3,Read Recall,cry,Study1,M,Study Phase2,Recall2,2514,USM
 w10033523_hp,bottle,bottle,1,1,3,Read,cry,Study1,M,Study Phase2,Recall2,2401,USM
@@ -885,6 +995,8 @@ w10148391-Jk,baby,bottle,0.166666667,0,3,Read,cry,Study1,M,Study Phase2,Recall2,
 w10151253_ES,bottle,bottle,1,1,3,Read,cry,Study1,M,Study Phase2,Recall2,4427,USM
 w958722_hnm,bottle ,bottle,0.857142857,1,3,Read,cry,Study1,M,Study Phase2,Recall2,14950,USM
 10134188andCC,night,dark,0,0,3,Read,day,Study1,M,Study Phase2,Recall2,5905,USM
+ArielThomas,month,dark,0,0,3,Read Recall,day,Study1,M,Study Phase2,Recall2,13149,USM
+JadeRoss,rise,dark,0.25,0,3,Read Recall,day,Study1,M,Study Phase2,Recall2,2937,USM
 MadisonHodge,dark,dark,1,1,3,Read Recall,day,Study1,M,Study Phase2,Recall2,7685,USM
 MakaylaTemple,night,dark,0,0,3,Read Recall,day,Study1,M,Study Phase2,Recall2,2362,USM
 w10033523_hp,night,dark,0,0,3,Read,day,Study1,M,Study Phase2,Recall2,1726,USM
@@ -906,6 +1018,8 @@ w10148391-Jk,night ,dark,0,0,3,Read,day,Study1,M,Study Phase2,Recall2,6799,USM
 w10151253_ES,night,dark,0,0,3,Read,day,Study1,M,Study Phase2,Recall2,3241,USM
 w958722_hnm,dark ,dark,0.8,1,3,Read,day,Study1,M,Study Phase2,Recall2,9556,USM
 10134188andCC,rough,bang,0.2,0,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,4807,USM
+ArielThomas,hard,bang,0.25,0,3,Read Recall,fuzzy,Study1,U,Study Phase2,Recall2,26200,USM
+JadeRoss,animal,bang,0.333333333,0,3,Read Recall,fuzzy,Study1,U,Study Phase2,Recall2,6011,USM
 MadisonHodge,silk,bang,0,0,3,Read Recall,fuzzy,Study1,U,Study Phase2,Recall2,3831,USM
 MakaylaTemple,shoes,bang,0,0,3,Read Recall,fuzzy,Study1,U,Study Phase2,Recall2,3753,USM
 w10033523_hp,bang,bang,1,1,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,2659,USM
@@ -927,6 +1041,8 @@ w10148391-Jk,bang,bang,1,1,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,6372,USM
 w10151253_ES,bang,bang,1,1,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,3478,USM
 w958722_hnm,bang,bang,1,1,3,Read,fuzzy,Study1,U,Study Phase2,Recall2,17355,USM
 10134188andCC,receive,steak,0.142857143,0,3,Read,give,Study1,U,Study Phase2,Recall2,2843,USM
+ArielThomas,away,steak,0.2,0,3,Read Recall,give,Study1,U,Study Phase2,Recall2,4105,USM
+JadeRoss,,steak,0,0,3,Read Recall,give,Study1,U,Study Phase2,Recall2,1170,USM
 MadisonHodge,take,steak,0.8,1,3,Read Recall,give,Study1,U,Study Phase2,Recall2,5814,USM
 MakaylaTemple,take,steak,0.8,1,3,Read Recall,give,Study1,U,Study Phase2,Recall2,2596,USM
 w10033523_hp,thanks,steak,0.666666667,0,3,Read,give,Study1,U,Study Phase2,Recall2,1963,USM
@@ -948,6 +1064,8 @@ w10148391-Jk,take,steak,0.8,1,3,Read,give,Study1,U,Study Phase2,Recall2,56856,US
 w10151253_ES,take,steak,0.8,1,3,Read,give,Study1,U,Study Phase2,Recall2,3959,USM
 w958722_hnm,steak,steak,1,1,3,Read,give,Study1,U,Study Phase2,Recall2,39185,USM
 10134188andCC,easy,cotton,0,0,3,Read,hard,Study1,M,Study Phase2,Recall2,6774,USM
+ArielThomas,time,cotton,0.166666667,0,3,Read Recall,hard,Study1,M,Study Phase2,Recall2,19390,USM
+JadeRoss,slim,cotton,0,0,3,Read Recall,hard,Study1,M,Study Phase2,Recall2,5099,USM
 MadisonHodge,silk,cotton,0,0,3,Read Recall,hard,Study1,M,Study Phase2,Recall2,5929,USM
 MakaylaTemple,cotton,cotton,1,1,3,Read Recall,hard,Study1,M,Study Phase2,Recall2,6985,USM
 w10033523_hp,,cotton,0,0,3,Read,hard,Study1,M,Study Phase2,Recall2,1448,USM
@@ -969,6 +1087,8 @@ w10148391-Jk,soft,cotton,0.333333333,0,3,Read,hard,Study1,M,Study Phase2,Recall2
 w10151253_ES,cotton,cotton,1,1,3,Read,hard,Study1,M,Study Phase2,Recall2,5779,USM
 w958722_hnm,cotton ,cotton,0.857142857,1,3,Read,hard,Study1,M,Study Phase2,Recall2,13257,USM
 10134188andCC,fly,wheel,0.2,0,3,Read,horse,Study1,M,Study Phase2,Recall2,3956,USM
+ArielThomas,wheel,wheel,1,1,3,Read Recall,horse,Study1,M,Study Phase2,Recall2,16607,USM
+JadeRoss,wild,wheel,0.4,0,3,Read Recall,horse,Study1,M,Study Phase2,Recall2,3038,USM
 MadisonHodge,,wheel,0,0,3,Read Recall,horse,Study1,M,Study Phase2,Recall2,3444,USM
 MakaylaTemple,pony,wheel,0,0,3,Read Recall,horse,Study1,M,Study Phase2,Recall2,3184,USM
 w10033523_hp,donkey,wheel,0.166666667,0,3,Read,horse,Study1,M,Study Phase2,Recall2,4807,USM
@@ -990,6 +1110,8 @@ w10148391-Jk,back,wheel,0,0,3,Read,horse,Study1,M,Study Phase2,Recall2,4332,USM
 w10151253_ES,ride,wheel,0.2,0,3,Read,horse,Study1,M,Study Phase2,Recall2,10457,USM
 w958722_hnm,wheel,wheel,1,1,3,Read,horse,Study1,M,Study Phase2,Recall2,23405,USM
 10134188andCC,tooth,clean,0,0,3,Read,hygiene,Study1,F,Study Phase2,Recall2,3594,USM
+ArielThomas,clean,clean,1,1,3,Read Recall,hygiene,Study1,F,Study Phase2,Recall2,8612,USM
+JadeRoss,teeth,clean,0.2,0,3,Read Recall,hygiene,Study1,F,Study Phase2,Recall2,3940,USM
 MadisonHodge,clean,clean,1,1,3,Read Recall,hygiene,Study1,F,Study Phase2,Recall2,4151,USM
 MakaylaTemple,clean,clean,1,1,3,Read Recall,hygiene,Study1,F,Study Phase2,Recall2,4116,USM
 w10033523_hp,clean,clean,1,1,3,Read,hygiene,Study1,F,Study Phase2,Recall2,2464,USM
@@ -1011,6 +1133,8 @@ w10148391-Jk,clean ,clean,0.833333333,1,3,Read,hygiene,Study1,F,Study Phase2,Rec
 w10151253_ES,clean,clean,1,1,3,Read,hygiene,Study1,F,Study Phase2,Recall2,10881,USM
 w958722_hnm,clean,clean,1,1,3,Read,hygiene,Study1,F,Study Phase2,Recall2,11976,USM
 10134188andCC,wiggle,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,4316,USM
+ArielThomas,rod,rod,1,1,3,Read Recall,keys,Study1,U,Study Phase2,Recall2,4996,USM
+JadeRoss,rod,rod,1,1,3,Read Recall,keys,Study1,U,Study Phase2,Recall2,3956,USM
 MadisonHodge,car,rod,0.333333333,0,3,Read Recall,keys,Study1,U,Study Phase2,Recall2,3519,USM
 MakaylaTemple,car,rod,0.333333333,0,3,Read Recall,keys,Study1,U,Study Phase2,Recall2,2601,USM
 w10033523_hp,,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,4149,USM
@@ -1032,6 +1156,8 @@ w10148391-Jk,jingle ,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,4439,USM
 w10151253_ES,meat,rod,0,0,3,Read,keys,Study1,U,Study Phase2,Recall2,7517,USM
 w958722_hnm,rod,rod,1,1,3,Read,keys,Study1,U,Study Phase2,Recall2,6246,USM
 10134188andCC,stripes,stripes,1,1,3,Read,lion,Study1,M,Study Phase2,Recall2,2564,USM
+ArielThomas,stripes,stripes,1,1,3,Read Recall,lion,Study1,M,Study Phase2,Recall2,7037,USM
+JadeRoss,pride,stripes,0.571428571,0,3,Read Recall,lion,Study1,M,Study Phase2,Recall2,1897,USM
 MadisonHodge,stripes,stripes,1,1,3,Read Recall,lion,Study1,M,Study Phase2,Recall2,7194,USM
 MakaylaTemple,cat,stripes,0.142857143,0,3,Read Recall,lion,Study1,M,Study Phase2,Recall2,2341,USM
 w10033523_hp,fur,stripes,0.142857143,0,3,Read,lion,Study1,M,Study Phase2,Recall2,3105,USM
@@ -1053,6 +1179,8 @@ w10148391-Jk,stripes,stripes,1,1,3,Read,lion,Study1,M,Study Phase2,Recall2,5166,
 w10151253_ES,stripes,stripes,1,1,3,Read,lion,Study1,M,Study Phase2,Recall2,4679,USM
 w958722_hnm,stripes,stripes,1,1,3,Read,lion,Study1,M,Study Phase2,Recall2,5390,USM
 10134188andCC,ear,fiction,0,0,3,Read,listen,Study1,U,Study Phase2,Recall2,3220,USM
+ArielThomas,hard,fiction,0,0,3,Read Recall,listen,Study1,U,Study Phase2,Recall2,23787,USM
+JadeRoss,,fiction,0,0,3,Read Recall,listen,Study1,U,Study Phase2,Recall2,971,USM
 MadisonHodge,talk,fiction,0.142857143,0,3,Read Recall,listen,Study1,U,Study Phase2,Recall2,3926,USM
 MakaylaTemple,,fiction,0,0,3,Read Recall,listen,Study1,U,Study Phase2,Recall2,4927,USM
 w10033523_hp,hear,fiction,0,0,3,Read,listen,Study1,U,Study Phase2,Recall2,4035,USM
@@ -1074,6 +1202,8 @@ w10148391-Jk,talk,fiction,0.142857143,0,3,Read,listen,Study1,U,Study Phase2,Reca
 w10151253_ES,ignore,fiction,0.428571429,0,3,Read,listen,Study1,U,Study Phase2,Recall2,11047,USM
 w958722_hnm,fiction ,fiction,0.875,1,3,Read,listen,Study1,U,Study Phase2,Recall2,7588,USM
 10134188andCC,puppies,trash,0.142857143,0,3,Read,litter,Study1,F,Study Phase2,Recall2,5398,USM
+ArielThomas,puppies,trash,0.142857143,0,3,Read Recall,litter,Study1,F,Study Phase2,Recall2,99549,USM
+JadeRoss,,trash,0,0,3,Read Recall,litter,Study1,F,Study Phase2,Recall2,3611,USM
 MadisonHodge,trash,trash,1,1,3,Read Recall,litter,Study1,F,Study Phase2,Recall2,16500,USM
 MakaylaTemple,box,trash,0,0,3,Read Recall,litter,Study1,F,Study Phase2,Recall2,2113,USM
 w10033523_hp,cats,trash,0.6,0,3,Read,litter,Study1,F,Study Phase2,Recall2,2236,USM
@@ -1095,6 +1225,8 @@ w10148391-Jk,trash,trash,1,1,3,Read,litter,Study1,F,Study Phase2,Recall2,3535,US
 w10151253_ES,trash,trash,1,1,3,Read,litter,Study1,F,Study Phase2,Recall2,5689,USM
 w958722_hnm,trash ,trash,0.833333333,1,3,Read,litter,Study1,F,Study Phase2,Recall2,5412,USM
 10134188andCC,stuck,phone,0,0,3,Read,maze,Study1,U,Study Phase2,Recall2,4186,USM
+ArielThomas,runner,phone,0.333333333,0,3,Read Recall,maze,Study1,U,Study Phase2,Recall2,13759,USM
+JadeRoss,,phone,0,0,3,Read Recall,maze,Study1,U,Study Phase2,Recall2,3426,USM
 MadisonHodge,runner,phone,0.333333333,0,3,Read Recall,maze,Study1,U,Study Phase2,Recall2,4893,USM
 MakaylaTemple,solve,phone,0.4,0,3,Read Recall,maze,Study1,U,Study Phase2,Recall2,2913,USM
 w10033523_hp,corn,phone,0.4,0,3,Read,maze,Study1,U,Study Phase2,Recall2,2035,USM
@@ -1116,6 +1248,8 @@ w10148391-Jk,phone,phone,1,1,3,Read,maze,Study1,U,Study Phase2,Recall2,14290,USM
 w10151253_ES,phone,phone,1,1,3,Read,maze,Study1,U,Study Phase2,Recall2,4005,USM
 w958722_hnm,phone ,phone,0.833333333,1,3,Read,maze,Study1,U,Study Phase2,Recall2,15936,USM
 10134188andCC,scale,keys,0.4,0,3,Read,meat,Study1,U,Study Phase2,Recall2,3353,USM
+ArielThomas,steak ,keys,0.5,0,3,Read Recall,meat,Study1,U,Study Phase2,Recall2,10532,USM
+JadeRoss,fire,keys,0.25,0,3,Read Recall,meat,Study1,U,Study Phase2,Recall2,3225,USM
 MadisonHodge,,keys,0,0,3,Read Recall,meat,Study1,U,Study Phase2,Recall2,4486,USM
 MakaylaTemple,vegetable,keys,0.111111111,0,3,Read Recall,meat,Study1,U,Study Phase2,Recall2,7628,USM
 w10033523_hp,food,keys,0,0,3,Read,meat,Study1,U,Study Phase2,Recall2,2665,USM
@@ -1137,6 +1271,8 @@ w10148391-Jk,steka,keys,0.6,0,3,Read,meat,Study1,U,Study Phase2,Recall2,3338,USM
 w10151253_ES,keys,keys,1,1,3,Read,meat,Study1,U,Study Phase2,Recall2,9428,USM
 w958722_hnm,keys ,keys,0.8,1,3,Read,meat,Study1,U,Study Phase2,Recall2,32826,USM
 10134188andCC,reflection,maroon,0.3,0,3,Read,mirror,Study1,U,Study Phase2,Recall2,3327,USM
+ArielThomas,maroon,maroon,1,1,3,Read Recall,mirror,Study1,U,Study Phase2,Recall2,5204,USM
+JadeRoss,children,maroon,0.25,0,3,Read Recall,mirror,Study1,U,Study Phase2,Recall2,5883,USM
 MadisonHodge,,maroon,0,0,3,Read Recall,mirror,Study1,U,Study Phase2,Recall2,2048,USM
 MakaylaTemple,maroon,maroon,1,1,3,Read Recall,mirror,Study1,U,Study Phase2,Recall2,2677,USM
 w10033523_hp,,maroon,0,0,3,Read,mirror,Study1,U,Study Phase2,Recall2,2671,USM
@@ -1159,6 +1295,10 @@ w10151253_ES,fog,maroon,0.166666667,0,3,Read,mirror,Study1,U,Study Phase2,Recall
 w958722_hnm,maroon ,maroon,0.857142857,1,3,Read,mirror,Study1,U,Study Phase2,Recall2,11958,USM
 10134188andCC,mountian,donkey,0.25,0,3,Read,mule,Study1,F,Study Phase2,Recall2,3970,USM
 10134188andCC,mountain,donkey,0.25,0,3,Read,mule,Study1,F,Study Phase2,Recall2,3243,USM
+ArielThomas,donkey,donkey,1,1,3,Read Recall,mule,Study1,F,Study Phase2,Recall2,62460,USM
+ArielThomas,donkey,donkey,1,1,3,Read Recall,mule,Study1,F,Study Phase2,Recall2,10288,USM
+JadeRoss,,donkey,0,0,3,Read Recall,mule,Study1,F,Study Phase2,Recall2,1279,USM
+JadeRoss,,donkey,0,0,3,Read Recall,mule,Study1,F,Study Phase2,Recall2,964,USM
 MadisonHodge,donkey,donkey,1,1,3,Read Recall,mule,Study1,F,Study Phase2,Recall2,5498,USM
 MadisonHodge,donkey,donkey,1,1,3,Read Recall,mule,Study1,F,Study Phase2,Recall2,3762,USM
 MakaylaTemple,donkey,donkey,1,1,3,Read Recall,mule,Study1,F,Study Phase2,Recall2,15054,USM
@@ -1200,6 +1340,8 @@ w10151253_ES,donkey,donkey,1,1,3,Read,mule,Study1,F,Study Phase2,Recall2,4430,US
 w958722_hnm,donkey ,donkey,0.857142857,1,3,Read,mule,Study1,F,Study Phase2,Recall2,3697,USM
 w958722_hnm,donkey ,donkey,0.857142857,1,3,Read,mule,Study1,F,Study Phase2,Recall2,5232,USM
 10134188andCC,skeep,sleep,0.8,1,3,Read,nap,Study1,F,Study Phase2,Recall2,3891,USM
+ArielThomas,sleep,sleep,1,1,3,Read Recall,nap,Study1,F,Study Phase2,Recall2,4045,USM
+JadeRoss,,sleep,0,0,3,Read Recall,nap,Study1,F,Study Phase2,Recall2,1088,USM
 MadisonHodge,tired,sleep,0.2,0,3,Read Recall,nap,Study1,F,Study Phase2,Recall2,4373,USM
 MakaylaTemple,sleep,sleep,1,1,3,Read Recall,nap,Study1,F,Study Phase2,Recall2,4310,USM
 w10033523_hp,sleep,sleep,1,1,3,Read,nap,Study1,F,Study Phase2,Recall2,1603,USM
@@ -1221,6 +1363,8 @@ w10148391-Jk,sleep,sleep,1,1,3,Read,nap,Study1,F,Study Phase2,Recall2,22777,USM
 w10151253_ES,sleep,sleep,1,1,3,Read,nap,Study1,F,Study Phase2,Recall2,4343,USM
 w958722_hnm,sleep,sleep,1,1,3,Read,nap,Study1,F,Study Phase2,Recall2,21772,USM
 10134188andCC,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,2440,USM
+ArielThomas,flower,flower,1,1,3,Read Recall,orchid,Study1,F,Study Phase2,Recall2,7046,USM
+JadeRoss,,flower,0,0,3,Read Recall,orchid,Study1,F,Study Phase2,Recall2,798,USM
 MadisonHodge,flower,flower,1,1,3,Read Recall,orchid,Study1,F,Study Phase2,Recall2,5720,USM
 MakaylaTemple,flower,flower,1,1,3,Read Recall,orchid,Study1,F,Study Phase2,Recall2,18840,USM
 w10033523_hp,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,1490,USM
@@ -1242,6 +1386,8 @@ w10148391-Jk,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,3412,
 w10151253_ES,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,3801,USM
 w958722_hnm,flower,flower,1,1,3,Read,orchid,Study1,F,Study Phase2,Recall2,26962,USM
 10134188andCC,beer,plant,0,0,3,Read,root,Study1,F,Study Phase2,Recall2,2918,USM
+ArielThomas,tree,plant,0.2,0,3,Read Recall,root,Study1,F,Study Phase2,Recall2,5753,USM
+JadeRoss,foot,plant,0.2,0,3,Read Recall,root,Study1,F,Study Phase2,Recall2,2958,USM
 MadisonHodge,,plant,0,0,3,Read Recall,root,Study1,F,Study Phase2,Recall2,4333,USM
 MakaylaTemple,beer,plant,0,0,3,Read Recall,root,Study1,F,Study Phase2,Recall2,1748,USM
 w10033523_hp,word,plant,0,0,3,Read,root,Study1,F,Study Phase2,Recall2,2047,USM
@@ -1263,6 +1409,8 @@ w10148391-Jk,beer,plant,0,0,3,Read,root,Study1,F,Study Phase2,Recall2,2968,USM
 w10151253_ES,plant,plant,1,1,3,Read,root,Study1,F,Study Phase2,Recall2,4030,USM
 w958722_hnm,plant,plant,1,1,3,Read,root,Study1,F,Study Phase2,Recall2,10245,USM
 10134188andCC,light,silk,0.4,0,3,Read,rough,Study1,M,Study Phase2,Recall2,2769,USM
+ArielThomas,soft,silk,0.25,0,3,Read Recall,rough,Study1,M,Study Phase2,Recall2,30755,USM
+JadeRoss,knees,silk,0.4,0,3,Read Recall,rough,Study1,M,Study Phase2,Recall2,3622,USM
 MadisonHodge,soft,silk,0.25,0,3,Read Recall,rough,Study1,M,Study Phase2,Recall2,9796,USM
 MakaylaTemple,harf,silk,0,0,3,Read Recall,rough,Study1,M,Study Phase2,Recall2,26119,USM
 w10033523_hp,house,silk,0.2,0,3,Read,rough,Study1,M,Study Phase2,Recall2,1908,USM
@@ -1284,6 +1432,8 @@ w10148391-Jk,silk,silk,1,1,3,Read,rough,Study1,M,Study Phase2,Recall2,4117,USM
 w10151253_ES,silk,silk,1,1,3,Read,rough,Study1,M,Study Phase2,Recall2,3925,USM
 w958722_hnm,silk ,silk,0.8,1,3,Read,rough,Study1,M,Study Phase2,Recall2,18986,USM
 10134188andCC,hair,head,0.5,0,3,Read,scalp,Study1,F,Study Phase2,Recall2,2020,USM
+ArielThomas,head,head,1,1,3,Read Recall,scalp,Study1,F,Study Phase2,Recall2,16701,USM
+JadeRoss,hair,head,0.5,0,3,Read Recall,scalp,Study1,F,Study Phase2,Recall2,3420,USM
 MadisonHodge,bald,head,0.5,0,3,Read Recall,scalp,Study1,F,Study Phase2,Recall2,5003,USM
 MakaylaTemple,head,head,1,1,3,Read Recall,scalp,Study1,F,Study Phase2,Recall2,1763,USM
 w10033523_hp,head,head,1,1,3,Read,scalp,Study1,F,Study Phase2,Recall2,1686,USM
@@ -1305,6 +1455,8 @@ w10148391-Jk,head,head,1,1,3,Read,scalp,Study1,F,Study Phase2,Recall2,9690,USM
 w10151253_ES,head,head,1,1,3,Read,scalp,Study1,F,Study Phase2,Recall2,2658,USM
 w958722_hnm,head,head,1,1,3,Read,scalp,Study1,F,Study Phase2,Recall2,4841,USM
 10134188andCC,shore,shake,0.6,0,3,Read,shell,Study1,U,Study Phase2,Recall2,2978,USM
+ArielThomas,fish ,shake,0.4,0,3,Read Recall,shell,Study1,U,Study Phase2,Recall2,17868,USM
+JadeRoss,water,shake,0.4,0,3,Read Recall,shell,Study1,U,Study Phase2,Recall2,2347,USM
 MadisonHodge,fish,shake,0.4,0,3,Read Recall,shell,Study1,U,Study Phase2,Recall2,8914,USM
 MakaylaTemple,shake,shake,1,1,3,Read Recall,shell,Study1,U,Study Phase2,Recall2,1768,USM
 w10033523_hp,beach,shake,0.6,0,3,Read,shell,Study1,U,Study Phase2,Recall2,2097,USM
@@ -1326,6 +1478,8 @@ w10148391-Jk,sea,shake,0.6,0,3,Read,shell,Study1,U,Study Phase2,Recall2,2620,USM
 w10151253_ES,snake,shake,0.8,1,3,Read,shell,Study1,U,Study Phase2,Recall2,3017,USM
 w958722_hnm,shake,shake,1,1,3,Read,shell,Study1,U,Study Phase2,Recall2,30094,USM
 10134188andCC,language,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,3970,USM
+ArielThomas,paper,tick,0,0,3,Read Recall,sign,Study1,U,Study Phase2,Recall2,7426,USM
+JadeRoss,,tick,0,0,3,Read Recall,sign,Study1,U,Study Phase2,Recall2,771,USM
 MadisonHodge,language,tick,0,0,3,Read Recall,sign,Study1,U,Study Phase2,Recall2,8364,USM
 MakaylaTemple,pen,tick,0,0,3,Read Recall,sign,Study1,U,Study Phase2,Recall2,10576,USM
 w10033523_hp,word,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,3217,USM
@@ -1347,6 +1501,8 @@ w10148391-Jk,,tick,0,0,3,Read,sign,Study1,U,Study Phase2,Recall2,5398,USM
 w10151253_ES,stop,tick,0.25,0,3,Read,sign,Study1,U,Study Phase2,Recall2,3814,USM
 w958722_hnm,tick,tick,1,1,3,Read,sign,Study1,U,Study Phase2,Recall2,13373,USM
 10134188andCC,tea,drink,0,0,3,Read,sip,Study1,F,Study Phase2,Recall2,2399,USM
+ArielThomas,drink ,drink,0.833333333,1,3,Read Recall,sip,Study1,F,Study Phase2,Recall2,23476,USM
+JadeRoss,drink,drink,1,1,3,Read Recall,sip,Study1,F,Study Phase2,Recall2,3649,USM
 MadisonHodge,drink,drink,1,1,3,Read Recall,sip,Study1,F,Study Phase2,Recall2,10421,USM
 MakaylaTemple,drink,drink,1,1,3,Read Recall,sip,Study1,F,Study Phase2,Recall2,3025,USM
 w10033523_hp,drink,drink,1,1,3,Read,sip,Study1,F,Study Phase2,Recall2,1862,USM
@@ -1368,6 +1524,8 @@ w10148391-Jk,drink,drink,1,1,3,Read,sip,Study1,F,Study Phase2,Recall2,3046,USM
 w10151253_ES,drink,drink,1,1,3,Read,sip,Study1,F,Study Phase2,Recall2,5301,USM
 w958722_hnm,drink,drink,1,1,3,Read,sip,Study1,F,Study Phase2,Recall2,9841,USM
 10134188andCC,swan,belt,0,0,3,Read,soon,Study1,U,Study Phase2,Recall2,2305,USM
+ArielThomas,later,belt,0.6,0,3,Read Recall,soon,Study1,U,Study Phase2,Recall2,5786,USM
+JadeRoss,,belt,0,0,3,Read Recall,soon,Study1,U,Study Phase2,Recall2,997,USM
 MadisonHodge,far,belt,0,0,3,Read Recall,soon,Study1,U,Study Phase2,Recall2,5171,USM
 MakaylaTemple,later,belt,0.6,0,3,Read Recall,soon,Study1,U,Study Phase2,Recall2,2200,USM
 w10033523_hp,late,belt,0.75,1,3,Read,soon,Study1,U,Study Phase2,Recall2,2413,USM
@@ -1389,6 +1547,8 @@ w10148391-Jk,,belt,0,0,3,Read,soon,Study1,U,Study Phase2,Recall2,1046,USM
 w10151253_ES,near,belt,0.25,0,3,Read,soon,Study1,U,Study Phase2,Recall2,6633,USM
 w958722_hnm,belt,belt,1,1,3,Read,soon,Study1,U,Study Phase2,Recall2,32191,USM
 10134188andCC,yoga,cloth,0.2,0,3,Read,stretch,Study1,U,Study Phase2,Recall2,4604,USM
+ArielThomas,out,cloth,0.4,0,3,Read Recall,stretch,Study1,U,Study Phase2,Recall2,7508,USM
+JadeRoss,satin,cloth,0.2,0,3,Read Recall,stretch,Study1,U,Study Phase2,Recall2,4191,USM
 MadisonHodge,marks,cloth,0,0,3,Read Recall,stretch,Study1,U,Study Phase2,Recall2,4430,USM
 MakaylaTemple,,cloth,0,0,3,Read Recall,stretch,Study1,U,Study Phase2,Recall2,1085,USM
 w10033523_hp,,cloth,0,0,3,Read,stretch,Study1,U,Study Phase2,Recall2,1080,USM
@@ -1410,6 +1570,8 @@ w10148391-Jk,cloth,cloth,1,1,3,Read,stretch,Study1,U,Study Phase2,Recall2,15040,
 w10151253_ES,resist,cloth,0.166666667,0,3,Read,stretch,Study1,U,Study Phase2,Recall2,7785,USM
 w958722_hnm,cloth,cloth,1,1,3,Read,stretch,Study1,U,Study Phase2,Recall2,30876,USM
 10134188andCC,lake,bird,0,0,3,Read,swan,Study1,F,Study Phase2,Recall2,2149,USM
+ArielThomas,bird,bird,1,1,3,Read Recall,swan,Study1,F,Study Phase2,Recall2,3431,USM
+JadeRoss,dive,bird,0.5,0,3,Read Recall,swan,Study1,F,Study Phase2,Recall2,3054,USM
 MadisonHodge,duck,bird,0.25,0,3,Read Recall,swan,Study1,F,Study Phase2,Recall2,15926,USM
 MakaylaTemple,geese,bird,0,0,3,Read Recall,swan,Study1,F,Study Phase2,Recall2,3013,USM
 w10033523_hp,,bird,0,0,3,Read,swan,Study1,F,Study Phase2,Recall2,4371,USM
@@ -1431,6 +1593,8 @@ w10148391-Jk,white,bird,0.2,0,3,Read,swan,Study1,F,Study Phase2,Recall2,8873,USM
 w10151253_ES,bird,bird,1,1,3,Read,swan,Study1,F,Study Phase2,Recall2,7979,USM
 w958722_hnm,bird ,bird,0.8,1,3,Read,swan,Study1,F,Study Phase2,Recall2,19530,USM
 10134188andCC,hot,morning,0.142857143,0,3,Read,temperature,Study1,U,Study Phase2,Recall2,2771,USM
+ArielThomas,weather,morning,0.142857143,0,3,Read Recall,temperature,Study1,U,Study Phase2,Recall2,4802,USM
+JadeRoss,outside,morning,0.285714286,0,3,Read Recall,temperature,Study1,U,Study Phase2,Recall2,3765,USM
 MadisonHodge,hot,morning,0.142857143,0,3,Read Recall,temperature,Study1,U,Study Phase2,Recall2,5571,USM
 MakaylaTemple,morning,morning,1,1,3,Read Recall,temperature,Study1,U,Study Phase2,Recall2,14373,USM
 w10033523_hp,,morning,0,0,3,Read,temperature,Study1,U,Study Phase2,Recall2,1996,USM
@@ -1452,6 +1616,8 @@ w10148391-Jk,cold,morning,0.142857143,0,3,Read,temperature,Study1,U,Study Phase2
 w10151253_ES,plastic,morning,0.142857143,0,3,Read,temperature,Study1,U,Study Phase2,Recall2,11457,USM
 w958722_hnm,morning ,morning,0.875,1,3,Read,temperature,Study1,U,Study Phase2,Recall2,17389,USM
 10134188andCC,fairy,hair,0.6,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,7389,USM
+ArielThomas,dentist,hair,0.142857143,0,3,Read Recall,tooth,Study1,M,Study Phase2,Recall2,6964,USM
+JadeRoss,,hair,0,0,3,Read Recall,tooth,Study1,M,Study Phase2,Recall2,1787,USM
 MadisonHodge,ache,hair,0.5,0,3,Read Recall,tooth,Study1,M,Study Phase2,Recall2,7895,USM
 MakaylaTemple,ache,hair,0.5,0,3,Read Recall,tooth,Study1,M,Study Phase2,Recall2,1848,USM
 w10033523_hp,paste,hair,0.2,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,1822,USM
@@ -1473,6 +1639,8 @@ w10148391-Jk,fairy,hair,0.6,0,3,Read,tooth,Study1,M,Study Phase2,Recall2,2954,US
 w10151253_ES,hair,hair,1,1,3,Read,tooth,Study1,M,Study Phase2,Recall2,2805,USM
 w958722_hnm,hair,hair,1,1,3,Read,tooth,Study1,M,Study Phase2,Recall2,13462,USM
 10134188andCC,sap,syrup,0.4,0,3,Read,tree,Study1,M,Study Phase2,Recall2,3138,USM
+ArielThomas,greens,syrup,0.333333333,0,3,Read Recall,tree,Study1,M,Study Phase2,Recall2,22783,USM
+JadeRoss,,syrup,0,0,3,Read Recall,tree,Study1,M,Study Phase2,Recall2,943,USM
 MadisonHodge,house,syrup,0.4,0,3,Read Recall,tree,Study1,M,Study Phase2,Recall2,5968,USM
 MakaylaTemple,house,syrup,0.4,0,3,Read Recall,tree,Study1,M,Study Phase2,Recall2,5439,USM
 w10033523_hp,bark,syrup,0.2,0,3,Read,tree,Study1,M,Study Phase2,Recall2,2749,USM
@@ -1494,6 +1662,8 @@ w10148391-Jk,green,syrup,0.2,0,3,Read,tree,Study1,M,Study Phase2,Recall2,7313,US
 w10151253_ES,green,syrup,0.2,0,3,Read,tree,Study1,M,Study Phase2,Recall2,5796,USM
 w958722_hnm,syrup,syrup,1,1,3,Read,tree,Study1,M,Study Phase2,Recall2,11035,USM
 10134188andCC,fish,fish,1,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,2161,USM
+ArielThomas,fish,fish,1,1,3,Read Recall,tuna,Study1,F,Study Phase2,Recall2,3457,USM
+JadeRoss,fish,fish,1,1,3,Read Recall,tuna,Study1,F,Study Phase2,Recall2,2844,USM
 MadisonHodge,fish,fish,1,1,3,Read Recall,tuna,Study1,F,Study Phase2,Recall2,2834,USM
 MakaylaTemple,fish,fish,1,1,3,Read Recall,tuna,Study1,F,Study Phase2,Recall2,2387,USM
 w10033523_hp,meat,fish,0,0,3,Read,tuna,Study1,F,Study Phase2,Recall2,1717,USM
@@ -1515,6 +1685,8 @@ w10148391-Jk,fish,fish,1,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,2295,USM
 w10151253_ES,fish,fish,1,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,2752,USM
 w958722_hnm,fish ,fish,0.8,1,3,Read,tuna,Study1,F,Study Phase2,Recall2,24293,USM
 10134188andCC,car,charm,0.6,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,1727,USM
+ArielThomas,car,charm,0.6,0,3,Read Recall,vehicle,Study1,U,Study Phase2,Recall2,4199,USM
+JadeRoss,car,charm,0.6,0,3,Read Recall,vehicle,Study1,U,Study Phase2,Recall2,2393,USM
 MadisonHodge,car,charm,0.6,0,3,Read Recall,vehicle,Study1,U,Study Phase2,Recall2,3644,USM
 MakaylaTemple,car,charm,0.6,0,3,Read Recall,vehicle,Study1,U,Study Phase2,Recall2,1897,USM
 w10033523_hp,car,charm,0.6,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,1436,USM
@@ -1536,6 +1708,8 @@ w10148391-Jk,car,charm,0.6,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,8040,U
 w10151253_ES,door,charm,0.2,0,3,Read,vehicle,Study1,U,Study Phase2,Recall2,5294,USM
 w958722_hnm,charm,charm,1,1,3,Read,vehicle,Study1,U,Study Phase2,Recall2,15440,USM
 10134188andCC,wire,money,0.2,0,3,Read,wage,Study1,F,Study Phase2,Recall2,2524,USM
+ArielThomas,money,money,1,1,3,Read Recall,wage,Study1,F,Study Phase2,Recall2,12829,USM
+JadeRoss,money,money,1,1,3,Read Recall,wage,Study1,F,Study Phase2,Recall2,2152,USM
 MadisonHodge,money,money,1,1,3,Read Recall,wage,Study1,F,Study Phase2,Recall2,4142,USM
 MakaylaTemple,pay,money,0.2,0,3,Read Recall,wage,Study1,F,Study Phase2,Recall2,2970,USM
 w10033523_hp,money,money,1,1,3,Read,wage,Study1,F,Study Phase2,Recall2,1721,USM
@@ -1557,6 +1731,8 @@ w10148391-Jk,minimum,money,0.285714286,0,3,Read,wage,Study1,F,Study Phase2,Recal
 w10151253_ES,theft,money,0.2,0,3,Read,wage,Study1,F,Study Phase2,Recall2,7206,USM
 w958722_hnm,money ,money,0.833333333,1,3,Read,wage,Study1,F,Study Phase2,Recall2,8614,USM
 10134188andCC,peace,quiet,0.2,0,3,Read,war,Study1,M,Study Phase2,Recall2,2733,USM
+ArielThomas,quiet,quiet,1,1,3,Read Recall,war,Study1,M,Study Phase2,Recall2,42796,USM
+JadeRoss,fight,quiet,0.4,0,3,Read Recall,war,Study1,M,Study Phase2,Recall2,1919,USM
 MadisonHodge,zone,quiet,0.2,0,3,Read Recall,war,Study1,M,Study Phase2,Recall2,7083,USM
 MakaylaTemple,love,quiet,0.2,0,3,Read Recall,war,Study1,M,Study Phase2,Recall2,2295,USM
 w10033523_hp,,quiet,0,0,3,Read,war,Study1,M,Study Phase2,Recall2,2212,USM
@@ -1578,6 +1754,8 @@ w10148391-Jk,quiet ,quiet,0.833333333,1,3,Read,war,Study1,M,Study Phase2,Recall2
 w10151253_ES,quiet,quiet,1,1,3,Read,war,Study1,M,Study Phase2,Recall2,4178,USM
 w958722_hnm,quiet,quiet,1,1,3,Read,war,Study1,M,Study Phase2,Recall2,39288,USM
 10134188andCC,bliss,finger,0.166666667,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,2994,USM
+ArielThomas,ring ,finger,0.666666667,0,3,Read Recall,wedding,Study1,M,Study Phase2,Recall2,8907,USM
+JadeRoss,,finger,0,0,3,Read Recall,wedding,Study1,M,Study Phase2,Recall2,1068,USM
 MadisonHodge,ring,finger,0.666666667,0,3,Read Recall,wedding,Study1,M,Study Phase2,Recall2,4330,USM
 MakaylaTemple,day,finger,0,0,3,Read Recall,wedding,Study1,M,Study Phase2,Recall2,2349,USM
 w10033523_hp,bells,finger,0.166666667,0,3,Read,wedding,Study1,M,Study Phase2,Recall2,3184,USM
@@ -1599,6 +1777,8 @@ w10148391-Jk,ring,finger,0.666666667,0,3,Read,wedding,Study1,M,Study Phase2,Reca
 w10151253_ES,finger,finger,1,1,3,Read,wedding,Study1,M,Study Phase2,Recall2,3406,USM
 w958722_hnm,finger,finger,1,1,3,Read,wedding,Study1,M,Study Phase2,Recall2,18573,USM
 10134188andCC,seat,sentence,0.375,0,3,Read,word,Study1,F,Study Phase2,Recall2,3324,USM
+ArielThomas,sentence ,sentence,0.888888889,1,3,Read Recall,word,Study1,F,Study Phase2,Recall2,8095,USM
+JadeRoss,,sentence,0,0,3,Read Recall,word,Study1,F,Study Phase2,Recall2,2361,USM
 MadisonHodge,,sentence,0,0,3,Read Recall,word,Study1,F,Study Phase2,Recall2,4578,USM
 MakaylaTemple,day,sentence,0,0,3,Read Recall,word,Study1,F,Study Phase2,Recall2,1901,USM
 w10033523_hp,search,sentence,0.375,0,3,Read,word,Study1,F,Study Phase2,Recall2,1747,USM
@@ -1620,8 +1800,10 @@ w10148391-Jk,sentence ,sentence,0.888888889,1,3,Read,word,Study1,F,Study Phase2,
 w10151253_ES,sentence,sentence,1,1,3,Read,word,Study1,F,Study Phase2,Recall2,6672,USM
 w958722_hnm,sentence ,sentence,0.888888889,1,3,Read,word,Study1,F,Study Phase2,Recall2,5864,USM
 10143815SK,,wolf,0,0,1,Read,art,Study2,U,Study Phase2,Recall2,2844,USM
+BrettThompson,picture,wolf,0,0,1,Read Recall,art,Study2,U,Study Phase2,Recall2,7791,USM
 BrookeMask,wolf,wolf,1,1,1,Read Recall,art,Study2,U,Study Phase2,Recall2,1488,USM
 jasminesherman,,wolf,0,0,1,Read Recall,art,Study2,U,Study Phase2,Recall2,3692,USM
+NicolasMunoz,school,wolf,0.333333333,0,1,Read Recall,art,Study2,U,Study Phase2,Recall2,2813,USM
 TaravionCosey,work,wolf,0.5,0,1,Read Recall,art,Study2,U,Study Phase2,Recall2,6242,USM
 w10046339_pw,wolf,wolf,1,1,1,Read,art,Study2,U,Study Phase2,Recall2,3483,USM
 W10057641NS,,wolf,0,0,1,Read,art,Study2,U,Study Phase2,Recall2,97,USM
@@ -1635,8 +1817,10 @@ w10133134_lpc,wolf,wolf,1,1,1,Read,art,Study2,U,Study Phase2,Recall2,2518,USM
 w10143398_abc,idk,wolf,0,0,1,Read,art,Study2,U,Study Phase2,Recall2,4531,USM
 w10157282_HBR,wolf,wolf,1,1,1,Read,art,Study2,U,Study Phase2,Recall2,19430,USM
 10143815SK,blood,bronze,0.333333333,0,1,Read,artery,Study2,U,Study Phase2,Recall2,8901,USM
+BrettThompson,body,bronze,0.333333333,0,1,Read Recall,artery,Study2,U,Study Phase2,Recall2,7417,USM
 BrookeMask,d,bronze,0,0,1,Read Recall,artery,Study2,U,Study Phase2,Recall2,2368,USM
 jasminesherman,,bronze,0,0,1,Read Recall,artery,Study2,U,Study Phase2,Recall2,1240,USM
+NicolasMunoz,,bronze,0,0,1,Read Recall,artery,Study2,U,Study Phase2,Recall2,840,USM
 TaravionCosey,bronze ,bronze,0.857142857,1,1,Read Recall,artery,Study2,U,Study Phase2,Recall2,18418,USM
 w10046339_pw,heart,bronze,0.333333333,0,1,Read,artery,Study2,U,Study Phase2,Recall2,10655,USM
 W10057641NS,,bronze,0,0,1,Read,artery,Study2,U,Study Phase2,Recall2,71,USM
@@ -1650,8 +1834,10 @@ w10133134_lpc,heart,bronze,0.333333333,0,1,Read,artery,Study2,U,Study Phase2,Rec
 w10143398_abc,bronze,bronze,1,1,1,Read,artery,Study2,U,Study Phase2,Recall2,3586,USM
 w10157282_HBR,vein,bronze,0.333333333,0,1,Read,artery,Study2,U,Study Phase2,Recall2,18688,USM
 10143815SK,,clothes,0,0,1,Read,attire,Study2,F,Study Phase2,Recall2,17181,USM
+BrettThompson,cloths,clothes,0.857142857,1,1,Read Recall,attire,Study2,F,Study Phase2,Recall2,8140,USM
 BrookeMask,clothing,clothes,0.625,0,1,Read Recall,attire,Study2,F,Study Phase2,Recall2,2143,USM
 jasminesherman,,clothes,0,0,1,Read Recall,attire,Study2,F,Study Phase2,Recall2,1772,USM
+NicolasMunoz,,clothes,0,0,1,Read Recall,attire,Study2,F,Study Phase2,Recall2,1059,USM
 TaravionCosey,clothes,clothes,1,1,1,Read Recall,attire,Study2,F,Study Phase2,Recall2,12137,USM
 w10046339_pw,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,6975,USM
 W10057641NS,,clothes,0,0,1,Read,attire,Study2,F,Study Phase2,Recall2,162,USM
@@ -1665,8 +1851,10 @@ w10133134_lpc,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,52
 w10143398_abc,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,3102,USM
 w10157282_HBR,clothes,clothes,1,1,1,Read,attire,Study2,F,Study Phase2,Recall2,22929,USM
 10143815SK,beach,horn,0.2,0,1,Read,bench,Study2,U,Study Phase2,Recall2,6246,USM
+BrettThompson,football,horn,0.125,0,1,Read Recall,bench,Study2,U,Study Phase2,Recall2,8983,USM
 BrookeMask,horn,horn,1,1,1,Read Recall,bench,Study2,U,Study Phase2,Recall2,2735,USM
 jasminesherman,,horn,0,0,1,Read Recall,bench,Study2,U,Study Phase2,Recall2,3191,USM
+NicolasMunoz,,horn,0,0,1,Read Recall,bench,Study2,U,Study Phase2,Recall2,831,USM
 TaravionCosey,horn,horn,1,1,1,Read Recall,bench,Study2,U,Study Phase2,Recall2,11135,USM
 w10046339_pw,park,horn,0.25,0,1,Read,bench,Study2,U,Study Phase2,Recall2,4379,USM
 W10057641NS,,horn,0,0,1,Read,bench,Study2,U,Study Phase2,Recall2,140,USM
@@ -1680,8 +1868,10 @@ w10133134_lpc,,horn,0,0,1,Read,bench,Study2,U,Study Phase2,Recall2,5444,USM
 w10143398_abc,seat,horn,0,0,1,Read,bench,Study2,U,Study Phase2,Recall2,2962,USM
 w10157282_HBR,seat,horn,0,0,1,Read,bench,Study2,U,Study Phase2,Recall2,22714,USM
 10143815SK,grease,fire,0.333333333,0,1,Read,blaze,Study2,F,Study Phase2,Recall2,18376,USM
+BrettThompson,heat,fire,0.25,0,1,Read Recall,blaze,Study2,F,Study Phase2,Recall2,4258,USM
 BrookeMask,fire,fire,1,1,1,Read Recall,blaze,Study2,F,Study Phase2,Recall2,1510,USM
 jasminesherman,,fire,0,0,1,Read Recall,blaze,Study2,F,Study Phase2,Recall2,2074,USM
+NicolasMunoz,,fire,0,0,1,Read Recall,blaze,Study2,F,Study Phase2,Recall2,1177,USM
 TaravionCosey,fire,fire,1,1,1,Read Recall,blaze,Study2,F,Study Phase2,Recall2,7243,USM
 w10046339_pw,hot,fire,0,0,1,Read,blaze,Study2,F,Study Phase2,Recall2,4225,USM
 W10057641NS,space,fire,0.2,0,1,Read,blaze,Study2,F,Study Phase2,Recall2,3410,USM
@@ -1695,8 +1885,10 @@ w10133134_lpc,fire,fire,1,1,1,Read,blaze,Study2,F,Study Phase2,Recall2,2596,USM
 w10143398_abc,fire,fire,1,1,1,Read,blaze,Study2,F,Study Phase2,Recall2,2448,USM
 w10157282_HBR,fire,fire,1,1,1,Read,blaze,Study2,F,Study Phase2,Recall2,9800,USM
 10143815SK,face,ounce,0.4,0,1,Read,both,Study2,U,Study Phase2,Recall2,11043,USM
+BrettThompson,twp,ounce,0,0,1,Read Recall,both,Study2,U,Study Phase2,Recall2,3857,USM
 BrookeMask,,ounce,0,0,1,Read Recall,both,Study2,U,Study Phase2,Recall2,4907,USM
 jasminesherman,,ounce,0,0,1,Read Recall,both,Study2,U,Study Phase2,Recall2,778,USM
+NicolasMunoz,,ounce,0,0,1,Read Recall,both,Study2,U,Study Phase2,Recall2,916,USM
 TaravionCosey,ounce ,ounce,0.833333333,1,1,Read Recall,both,Study2,U,Study Phase2,Recall2,19320,USM
 w10046339_pw,none,ounce,0.6,0,1,Read,both,Study2,U,Study Phase2,Recall2,2461,USM
 W10057641NS,,ounce,0,0,1,Read,both,Study2,U,Study Phase2,Recall2,8,USM
@@ -1710,8 +1902,10 @@ w10133134_lpc,,ounce,0,0,1,Read,both,Study2,U,Study Phase2,Recall2,1713,USM
 w10143398_abc,feud,ounce,0.4,0,1,Read,both,Study2,U,Study Phase2,Recall2,14765,USM
 w10157282_HBR,ounce,ounce,1,1,1,Read,both,Study2,U,Study Phase2,Recall2,22614,USM
 10143815SK,water ,water,0.833333333,1,1,Read,bridge,Study2,F,Study Phase2,Recall2,4601,USM
+BrettThompson,water,water,1,1,1,Read Recall,bridge,Study2,F,Study Phase2,Recall2,2825,USM
 BrookeMask,ladder,water,0.5,0,1,Read Recall,bridge,Study2,F,Study Phase2,Recall2,5408,USM
 jasminesherman,,water,0,0,1,Read Recall,bridge,Study2,F,Study Phase2,Recall2,747,USM
+NicolasMunoz,book,water,0,0,1,Read Recall,bridge,Study2,F,Study Phase2,Recall2,2004,USM
 TaravionCosey,water ,water,0.833333333,1,1,Read Recall,bridge,Study2,F,Study Phase2,Recall2,13385,USM
 w10046339_pw,water,water,1,1,1,Read,bridge,Study2,F,Study Phase2,Recall2,2626,USM
 W10057641NS,,water,0,0,1,Read,bridge,Study2,F,Study Phase2,Recall2,144,USM
@@ -1725,8 +1919,10 @@ w10133134_lpc,,water,0,0,1,Read,bridge,Study2,F,Study Phase2,Recall2,1769,USM
 w10143398_abc,water,water,1,1,1,Read,bridge,Study2,F,Study Phase2,Recall2,2812,USM
 w10157282_HBR,water,water,1,1,1,Read,bridge,Study2,F,Study Phase2,Recall2,19245,USM
 10143815SK,,plant,0,0,1,Read,cactus,Study2,F,Study Phase2,Recall2,8447,USM
+BrettThompson,plant,plant,1,1,1,Read Recall,cactus,Study2,F,Study Phase2,Recall2,4377,USM
 BrookeMask,plant,plant,1,1,1,Read Recall,cactus,Study2,F,Study Phase2,Recall2,2297,USM
 jasminesherman,,plant,0,0,1,Read Recall,cactus,Study2,F,Study Phase2,Recall2,1036,USM
+NicolasMunoz,,plant,0,0,1,Read Recall,cactus,Study2,F,Study Phase2,Recall2,1106,USM
 TaravionCosey,plant,plant,1,1,1,Read Recall,cactus,Study2,F,Study Phase2,Recall2,12830,USM
 w10046339_pw,plant,plant,1,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,2136,USM
 W10057641NS,,plant,0,0,1,Read,cactus,Study2,F,Study Phase2,Recall2,15,USM
@@ -1740,8 +1936,10 @@ w10133134_lpc,,plant,0,0,1,Read,cactus,Study2,F,Study Phase2,Recall2,1866,USM
 w10143398_abc,plant,plant,1,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,2562,USM
 w10157282_HBR,plant,plant,1,1,1,Read,cactus,Study2,F,Study Phase2,Recall2,21270,USM
 10143815SK,,leg,0,0,1,Read,cash,Study2,U,Study Phase2,Recall2,27723,USM
+BrettThompson,money,leg,0.2,0,1,Read Recall,cash,Study2,U,Study Phase2,Recall2,7179,USM
 BrookeMask,,leg,0,0,1,Read Recall,cash,Study2,U,Study Phase2,Recall2,1410,USM
 jasminesherman,,leg,0,0,1,Read Recall,cash,Study2,U,Study Phase2,Recall2,813,USM
+NicolasMunoz,,leg,0,0,1,Read Recall,cash,Study2,U,Study Phase2,Recall2,659,USM
 TaravionCosey,money ,leg,0.166666667,0,1,Read Recall,cash,Study2,U,Study Phase2,Recall2,7536,USM
 w10046339_pw,wallet,leg,0.333333333,0,1,Read,cash,Study2,U,Study Phase2,Recall2,5621,USM
 W10057641NS,,leg,0,0,1,Read,cash,Study2,U,Study Phase2,Recall2,96,USM
@@ -1755,8 +1953,10 @@ w10133134_lpc,,leg,0,0,1,Read,cash,Study2,U,Study Phase2,Recall2,1504,USM
 w10143398_abc,money,leg,0.2,0,1,Read,cash,Study2,U,Study Phase2,Recall2,3577,USM
 w10157282_HBR,leg,leg,1,1,1,Read,cash,Study2,U,Study Phase2,Recall2,12220,USM
 10143815SK,red,red,1,1,1,Read,cherry,Study2,F,Study Phase2,Recall2,2673,USM
+BrettThompson,top,red,0,0,1,Read Recall,cherry,Study2,F,Study Phase2,Recall2,2938,USM
 BrookeMask,red,red,1,1,1,Read Recall,cherry,Study2,F,Study Phase2,Recall2,1277,USM
 jasminesherman,,red,0,0,1,Read Recall,cherry,Study2,F,Study Phase2,Recall2,1456,USM
+NicolasMunoz,,red,0,0,1,Read Recall,cherry,Study2,F,Study Phase2,Recall2,1547,USM
 TaravionCosey,red,red,1,1,1,Read Recall,cherry,Study2,F,Study Phase2,Recall2,7406,USM
 w10046339_pw,red,red,1,1,1,Read,cherry,Study2,F,Study Phase2,Recall2,2035,USM
 W10057641NS,,red,0,0,1,Read,cherry,Study2,F,Study Phase2,Recall2,67,USM
@@ -1770,8 +1970,10 @@ w10133134_lpc,red,red,1,1,1,Read,cherry,Study2,F,Study Phase2,Recall2,2386,USM
 w10143398_abc,red,red,1,1,1,Read,cherry,Study2,F,Study Phase2,Recall2,2511,USM
 w10157282_HBR,red,red,1,1,1,Read,cherry,Study2,F,Study Phase2,Recall2,21181,USM
 10143815SK,,cold,0,0,1,Read,chill,Study2,F,Study Phase2,Recall2,1883,USM
+BrettThompson,snow,cold,0.25,0,1,Read Recall,chill,Study2,F,Study Phase2,Recall2,3811,USM
 BrookeMask,cold,cold,1,1,1,Read Recall,chill,Study2,F,Study Phase2,Recall2,2432,USM
 jasminesherman,,cold,0,0,1,Read Recall,chill,Study2,F,Study Phase2,Recall2,830,USM
+NicolasMunoz,,cold,0,0,1,Read Recall,chill,Study2,F,Study Phase2,Recall2,1360,USM
 TaravionCosey,cold,cold,1,1,1,Read Recall,chill,Study2,F,Study Phase2,Recall2,7724,USM
 w10046339_pw,cold,cold,1,1,1,Read,chill,Study2,F,Study Phase2,Recall2,2286,USM
 W10057641NS,,cold,0,0,1,Read,chill,Study2,F,Study Phase2,Recall2,66,USM
@@ -1785,8 +1987,10 @@ w10133134_lpc,cold,cold,1,1,1,Read,chill,Study2,F,Study Phase2,Recall2,2529,USM
 w10143398_abc,cold,cold,1,1,1,Read,chill,Study2,F,Study Phase2,Recall2,4329,USM
 w10157282_HBR,cold,cold,1,1,1,Read,chill,Study2,F,Study Phase2,Recall2,38417,USM
 10143815SK,,hammer,0,0,1,Read,chisel,Study2,F,Study Phase2,Recall2,4408,USM
+BrettThompson,hammer,hammer,1,1,1,Read Recall,chisel,Study2,F,Study Phase2,Recall2,3201,USM
 BrookeMask,hammer,hammer,1,1,1,Read Recall,chisel,Study2,F,Study Phase2,Recall2,2701,USM
 jasminesherman,,hammer,0,0,1,Read Recall,chisel,Study2,F,Study Phase2,Recall2,1052,USM
+NicolasMunoz,,hammer,0,0,1,Read Recall,chisel,Study2,F,Study Phase2,Recall2,595,USM
 TaravionCosey,hammer ,hammer,0.857142857,1,1,Read Recall,chisel,Study2,F,Study Phase2,Recall2,17418,USM
 w10046339_pw,hammer,hammer,1,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,3281,USM
 W10057641NS,,hammer,0,0,1,Read,chisel,Study2,F,Study Phase2,Recall2,153,USM
@@ -1800,8 +2004,10 @@ w10133134_lpc,hammer,hammer,1,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,2754
 w10143398_abc,hammer,hammer,1,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,2713,USM
 w10157282_HBR,hammer,hammer,1,1,1,Read,chisel,Study2,F,Study Phase2,Recall2,36464,USM
 10143815SK,chip,cut,0.25,0,1,Read,chop,Study2,F,Study Phase2,Recall2,4818,USM
+BrettThompson,choy,cut,0.25,0,1,Read Recall,chop,Study2,F,Study Phase2,Recall2,6264,USM
 BrookeMask,cut,cut,1,1,1,Read Recall,chop,Study2,F,Study Phase2,Recall2,3326,USM
 jasminesherman,,cut,0,0,1,Read Recall,chop,Study2,F,Study Phase2,Recall2,983,USM
+NicolasMunoz,,cut,0,0,1,Read Recall,chop,Study2,F,Study Phase2,Recall2,1033,USM
 TaravionCosey,cut,cut,1,1,1,Read Recall,chop,Study2,F,Study Phase2,Recall2,50782,USM
 w10046339_pw,cut,cut,1,1,1,Read,chop,Study2,F,Study Phase2,Recall2,3022,USM
 W10057641NS,,cut,0,0,1,Read,chop,Study2,F,Study Phase2,Recall2,119,USM
@@ -1815,8 +2021,10 @@ w10133134_lpc,crush,cut,0.4,0,1,Read,chop,Study2,F,Study Phase2,Recall2,3476,USM
 w10143398_abc,cut,cut,1,1,1,Read,chop,Study2,F,Study Phase2,Recall2,4366,USM
 w10157282_HBR,cut,cut,1,1,1,Read,chop,Study2,F,Study Phase2,Recall2,22146,USM
 10143815SK,,business,0,0,1,Read,death,Study2,U,Study Phase2,Recall2,13995,USM
+BrettThompson,happy,business,0,0,1,Read Recall,death,Study2,U,Study Phase2,Recall2,5379,USM
 BrookeMask,,business,0,0,1,Read Recall,death,Study2,U,Study Phase2,Recall2,2719,USM
 jasminesherman,,business,0,0,1,Read Recall,death,Study2,U,Study Phase2,Recall2,659,USM
+NicolasMunoz,,business,0,0,1,Read Recall,death,Study2,U,Study Phase2,Recall2,1930,USM
 TaravionCosey,business ,business,0.888888889,1,1,Read Recall,death,Study2,U,Study Phase2,Recall2,6850,USM
 w10046339_pw,buisness,business,1,1,1,Read,death,Study2,U,Study Phase2,Recall2,4878,USM
 W10057641NS,,business,0,0,1,Read,death,Study2,U,Study Phase2,Recall2,99,USM
@@ -1830,8 +2038,10 @@ w10133134_lpc,buisness,business,1,1,1,Read,death,Study2,U,Study Phase2,Recall2,4
 w10143398_abc,idk,business,0.125,0,1,Read,death,Study2,U,Study Phase2,Recall2,4100,USM
 w10157282_HBR,business,business,1,1,1,Read,death,Study2,U,Study Phase2,Recall2,23791,USM
 10143815SK,sack,sack,1,1,1,Read,dietary,Study2,U,Study Phase2,Recall2,5503,USM
+BrettThompson,food,sack,0,0,1,Read Recall,dietary,Study2,U,Study Phase2,Recall2,5067,USM
 BrookeMask,supplement,sack,0.1,0,1,Read Recall,dietary,Study2,U,Study Phase2,Recall2,2681,USM
 jasminesherman,,sack,0,0,1,Read Recall,dietary,Study2,U,Study Phase2,Recall2,816,USM
+NicolasMunoz,,sack,0,0,1,Read Recall,dietary,Study2,U,Study Phase2,Recall2,813,USM
 TaravionCosey,sack,sack,1,1,1,Read Recall,dietary,Study2,U,Study Phase2,Recall2,19428,USM
 w10046339_pw,food,sack,0,0,1,Read,dietary,Study2,U,Study Phase2,Recall2,5392,USM
 W10057641NS,,sack,0,0,1,Read,dietary,Study2,U,Study Phase2,Recall2,29,USM
@@ -1845,8 +2055,10 @@ w10133134_lpc,sack,sack,1,1,1,Read,dietary,Study2,U,Study Phase2,Recall2,4362,US
 w10143398_abc,sack,sack,1,1,1,Read,dietary,Study2,U,Study Phase2,Recall2,4261,USM
 w10157282_HBR,food,sack,0,0,1,Read,dietary,Study2,U,Study Phase2,Recall2,35046,USM
 10143815SK,paper,paper,1,1,1,Read,document,Study2,F,Study Phase2,Recall2,3003,USM
+BrettThompson,paper,paper,1,1,1,Read Recall,document,Study2,F,Study Phase2,Recall2,3255,USM
 BrookeMask,paper,paper,1,1,1,Read Recall,document,Study2,F,Study Phase2,Recall2,1741,USM
 jasminesherman,,paper,0,0,1,Read Recall,document,Study2,F,Study Phase2,Recall2,867,USM
+NicolasMunoz,,paper,0,0,1,Read Recall,document,Study2,F,Study Phase2,Recall2,1009,USM
 TaravionCosey,paper ,paper,0.833333333,1,1,Read Recall,document,Study2,F,Study Phase2,Recall2,26700,USM
 w10046339_pw,note,paper,0.2,0,1,Read,document,Study2,F,Study Phase2,Recall2,3271,USM
 W10057641NS,,paper,0,0,1,Read,document,Study2,F,Study Phase2,Recall2,110,USM
@@ -1860,8 +2072,10 @@ w10133134_lpc,,paper,0,0,1,Read,document,Study2,F,Study Phase2,Recall2,3125,USM
 w10143398_abc,paper,paper,1,1,1,Read,document,Study2,F,Study Phase2,Recall2,2612,USM
 w10157282_HBR,paper,paper,1,1,1,Read,document,Study2,F,Study Phase2,Recall2,11976,USM
 10143815SK,smell,smell,1,1,1,Read,eyes,Study2,M,Study Phase2,Recall2,5084,USM
+BrettThompson,hears,smell,0.4,0,1,Read Recall,eyes,Study2,M,Study Phase2,Recall2,4363,USM
 BrookeMask,ears,smell,0.4,0,1,Read Recall,eyes,Study2,M,Study Phase2,Recall2,1823,USM
 jasminesherman,,smell,0,0,1,Read Recall,eyes,Study2,M,Study Phase2,Recall2,815,USM
+NicolasMunoz,,smell,0,0,1,Read Recall,eyes,Study2,M,Study Phase2,Recall2,1627,USM
 TaravionCosey,smell,smell,1,1,1,Read Recall,eyes,Study2,M,Study Phase2,Recall2,7699,USM
 w10046339_pw,smell,smell,1,1,1,Read,eyes,Study2,M,Study Phase2,Recall2,2779,USM
 W10057641NS,,smell,0,0,1,Read,eyes,Study2,M,Study Phase2,Recall2,104,USM
@@ -1875,8 +2089,10 @@ w10133134_lpc,smell,smell,1,1,1,Read,eyes,Study2,M,Study Phase2,Recall2,2287,USM
 w10143398_abc,brown,smell,0,0,1,Read,eyes,Study2,M,Study Phase2,Recall2,3554,USM
 w10157282_HBR,nose,smell,0.4,0,1,Read,eyes,Study2,M,Study Phase2,Recall2,64968,USM
 10143815SK,,fight,0,0,1,Read,feud,Study2,F,Study Phase2,Recall2,2346,USM
+BrettThompson,fight,fight,1,1,1,Read Recall,feud,Study2,F,Study Phase2,Recall2,3462,USM
 BrookeMask,fight,fight,1,1,1,Read Recall,feud,Study2,F,Study Phase2,Recall2,1794,USM
 jasminesherman,,fight,0,0,1,Read Recall,feud,Study2,F,Study Phase2,Recall2,799,USM
+NicolasMunoz,,fight,0,0,1,Read Recall,feud,Study2,F,Study Phase2,Recall2,1225,USM
 TaravionCosey,fight,fight,1,1,1,Read Recall,feud,Study2,F,Study Phase2,Recall2,13850,USM
 w10046339_pw,fight,fight,1,1,1,Read,feud,Study2,F,Study Phase2,Recall2,5078,USM
 W10057641NS,,fight,0,0,1,Read,feud,Study2,F,Study Phase2,Recall2,26,USM
@@ -1890,8 +2106,10 @@ w10133134_lpc,fight,fight,1,1,1,Read,feud,Study2,F,Study Phase2,Recall2,2771,USM
 w10143398_abc,fight,fight,1,1,1,Read,feud,Study2,F,Study Phase2,Recall2,2830,USM
 w10157282_HBR,fight,fight,1,1,1,Read,feud,Study2,F,Study Phase2,Recall2,3090,USM
 10143815SK,roast,thigh,0.2,0,1,Read,grill,Study2,M,Study Phase2,Recall2,5287,USM
+BrettThompson,thigh,thigh,1,1,1,Read Recall,grill,Study2,M,Study Phase2,Recall2,6526,USM
 BrookeMask,thigh,thigh,1,1,1,Read Recall,grill,Study2,M,Study Phase2,Recall2,2900,USM
 jasminesherman,,thigh,0,0,1,Read Recall,grill,Study2,M,Study Phase2,Recall2,757,USM
+NicolasMunoz,,thigh,0,0,1,Read Recall,grill,Study2,M,Study Phase2,Recall2,841,USM
 TaravionCosey,thigh,thigh,1,1,1,Read Recall,grill,Study2,M,Study Phase2,Recall2,17189,USM
 w10046339_pw,cook,thigh,0,0,1,Read,grill,Study2,M,Study Phase2,Recall2,2906,USM
 W10057641NS,,thigh,0,0,1,Read,grill,Study2,M,Study Phase2,Recall2,55,USM
@@ -1905,8 +2123,10 @@ w10133134_lpc,,thigh,0,0,1,Read,grill,Study2,M,Study Phase2,Recall2,1630,USM
 w10143398_abc,thigh,thigh,1,1,1,Read,grill,Study2,M,Study Phase2,Recall2,2897,USM
 w10157282_HBR,thigh,thigh,1,1,1,Read,grill,Study2,M,Study Phase2,Recall2,5693,USM
 10143815SK,,car,0,0,1,Read,happy,Study2,U,Study Phase2,Recall2,11593,USM
+BrettThompson,hour,car,0.25,0,1,Read Recall,happy,Study2,U,Study Phase2,Recall2,5040,USM
 BrookeMask,sad,car,0.333333333,0,1,Read Recall,happy,Study2,U,Study Phase2,Recall2,2946,USM
 jasminesherman,,car,0,0,1,Read Recall,happy,Study2,U,Study Phase2,Recall2,773,USM
+NicolasMunoz,,car,0,0,1,Read Recall,happy,Study2,U,Study Phase2,Recall2,964,USM
 TaravionCosey,sad,car,0.333333333,0,1,Read Recall,happy,Study2,U,Study Phase2,Recall2,13188,USM
 w10046339_pw,mood,car,0,0,1,Read,happy,Study2,U,Study Phase2,Recall2,3140,USM
 W10057641NS,,car,0,0,1,Read,happy,Study2,U,Study Phase2,Recall2,127,USM
@@ -1920,8 +2140,10 @@ w10133134_lpc,,car,0,0,1,Read,happy,Study2,U,Study Phase2,Recall2,3304,USM
 w10143398_abc,idk,car,0,0,1,Read,happy,Study2,U,Study Phase2,Recall2,4310,USM
 w10157282_HBR,sad,car,0.333333333,0,1,Read,happy,Study2,U,Study Phase2,Recall2,5271,USM
 10143815SK,,feather,0,0,1,Read,heavy,Study2,M,Study Phase2,Recall2,2390,USM
+BrettThompson,feather,feather,1,1,1,Read Recall,heavy,Study2,M,Study Phase2,Recall2,5294,USM
 BrookeMask,weaks,feather,0.285714286,0,1,Read Recall,heavy,Study2,M,Study Phase2,Recall2,2600,USM
 jasminesherman,,feather,0,0,1,Read Recall,heavy,Study2,M,Study Phase2,Recall2,2259,USM
+NicolasMunoz,,feather,0,0,1,Read Recall,heavy,Study2,M,Study Phase2,Recall2,1027,USM
 TaravionCosey,feather ,feather,0.875,1,1,Read Recall,heavy,Study2,M,Study Phase2,Recall2,16244,USM
 w10046339_pw,feather,feather,1,1,1,Read,heavy,Study2,M,Study Phase2,Recall2,3454,USM
 W10057641NS,,feather,0,0,1,Read,heavy,Study2,M,Study Phase2,Recall2,46,USM
@@ -1935,8 +2157,10 @@ w10133134_lpc,feather,feather,1,1,1,Read,heavy,Study2,M,Study Phase2,Recall2,551
 w10143398_abc,feather,feather,1,1,1,Read,heavy,Study2,M,Study Phase2,Recall2,4534,USM
 w10157282_HBR,feather,feather,1,1,1,Read,heavy,Study2,M,Study Phase2,Recall2,5036,USM
 10143815SK,,cow,0,0,1,Read,herd,Study2,F,Study Phase2,Recall2,1898,USM
+BrettThompson,cow,cow,1,1,1,Read Recall,herd,Study2,F,Study Phase2,Recall2,10977,USM
 BrookeMask,sheep,cow,0,0,1,Read Recall,herd,Study2,F,Study Phase2,Recall2,1599,USM
 jasminesherman,pack,cow,0.25,0,1,Read Recall,herd,Study2,F,Study Phase2,Recall2,5736,USM
+NicolasMunoz,,cow,0,0,1,Read Recall,herd,Study2,F,Study Phase2,Recall2,1320,USM
 TaravionCosey,cow,cow,1,1,1,Read Recall,herd,Study2,F,Study Phase2,Recall2,23162,USM
 w10046339_pw,cow,cow,1,1,1,Read,herd,Study2,F,Study Phase2,Recall2,3151,USM
 W10057641NS,,cow,0,0,1,Read,herd,Study2,F,Study Phase2,Recall2,147,USM
@@ -1950,8 +2174,10 @@ w10133134_lpc,sheep,cow,0,0,1,Read,herd,Study2,F,Study Phase2,Recall2,5031,USM
 w10143398_abc,cow,cow,1,1,1,Read,herd,Study2,F,Study Phase2,Recall2,3391,USM
 w10157282_HBR,cow,cow,1,1,1,Read,herd,Study2,F,Study Phase2,Recall2,17627,USM
 10143815SK,,sting,0,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,8033,USM
+BrettThompson,sting,sting,1,1,1,Read Recall,hornet,Study2,F,Study Phase2,Recall2,3808,USM
 BrookeMask,stinger,sting,0.714285714,0,1,Read Recall,hornet,Study2,F,Study Phase2,Recall2,2464,USM
 jasminesherman,,sting,0,0,1,Read Recall,hornet,Study2,F,Study Phase2,Recall2,718,USM
+NicolasMunoz,sting,sting,1,1,1,Read Recall,hornet,Study2,F,Study Phase2,Recall2,5167,USM
 TaravionCosey,sting,sting,1,1,1,Read Recall,hornet,Study2,F,Study Phase2,Recall2,19515,USM
 w10046339_pw,sting,sting,1,1,1,Read,hornet,Study2,F,Study Phase2,Recall2,4510,USM
 W10057641NS,,sting,0,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,17,USM
@@ -1965,8 +2191,10 @@ w10133134_lpc,wasp,sting,0.2,0,1,Read,hornet,Study2,F,Study Phase2,Recall2,3956,
 w10143398_abc,sting,sting,1,1,1,Read,hornet,Study2,F,Study Phase2,Recall2,3347,USM
 w10157282_HBR,sting,sting,1,1,1,Read,hornet,Study2,F,Study Phase2,Recall2,17392,USM
 10143815SK,,smell,0,0,1,Read,incense,Study2,F,Study Phase2,Recall2,8984,USM
+BrettThompson,large,smell,0.4,0,1,Read Recall,incense,Study2,F,Study Phase2,Recall2,9501,USM
 BrookeMask,smell,smell,1,1,1,Read Recall,incense,Study2,F,Study Phase2,Recall2,1853,USM
 jasminesherman,,smell,0,0,1,Read Recall,incense,Study2,F,Study Phase2,Recall2,6304,USM
+NicolasMunoz,,smell,0,0,1,Read Recall,incense,Study2,F,Study Phase2,Recall2,855,USM
 TaravionCosey,smell,smell,1,1,1,Read Recall,incense,Study2,F,Study Phase2,Recall2,13144,USM
 w10046339_pw,smell,smell,1,1,1,Read,incense,Study2,F,Study Phase2,Recall2,3911,USM
 W10057641NS,,smell,0,0,1,Read,incense,Study2,F,Study Phase2,Recall2,182,USM
@@ -1980,8 +2208,10 @@ w10133134_lpc,smell,smell,1,1,1,Read,incense,Study2,F,Study Phase2,Recall2,2962,
 w10143398_abc,smell,smell,1,1,1,Read,incense,Study2,F,Study Phase2,Recall2,2662,USM
 w10157282_HBR,smell,smell,1,1,1,Read,incense,Study2,F,Study Phase2,Recall2,26039,USM
 10143815SK,,vase,0,0,1,Read,king,Study2,U,Study Phase2,Recall2,1484,USM
+BrettThompson,vase,vase,1,1,1,Read Recall,king,Study2,U,Study Phase2,Recall2,2997,USM
 BrookeMask,vase,vase,1,1,1,Read Recall,king,Study2,U,Study Phase2,Recall2,2284,USM
 jasminesherman,,vase,0,0,1,Read Recall,king,Study2,U,Study Phase2,Recall2,890,USM
+NicolasMunoz,,vase,0,0,1,Read Recall,king,Study2,U,Study Phase2,Recall2,1510,USM
 TaravionCosey,vase,vase,1,1,1,Read Recall,king,Study2,U,Study Phase2,Recall2,14227,USM
 w10046339_pw,vase,vase,1,1,1,Read,king,Study2,U,Study Phase2,Recall2,2867,USM
 W10057641NS,,vase,0,0,1,Read,king,Study2,U,Study Phase2,Recall2,154,USM
@@ -1995,8 +2225,10 @@ w10133134_lpc,,vase,0,0,1,Read,king,Study2,U,Study Phase2,Recall2,1713,USM
 w10143398_abc,vase,vase,1,1,1,Read,king,Study2,U,Study Phase2,Recall2,3410,USM
 w10157282_HBR,queen,vase,0.2,0,1,Read,king,Study2,U,Study Phase2,Recall2,15198,USM
 10143815SK,baseball,baseball,1,1,1,Read,league,Study2,F,Study Phase2,Recall2,8436,USM
+BrettThompson,basball,baseball,0.875,1,1,Read Recall,league,Study2,F,Study Phase2,Recall2,6453,USM
 BrookeMask,baseball,baseball,1,1,1,Read Recall,league,Study2,F,Study Phase2,Recall2,2598,USM
 jasminesherman,,baseball,0,0,1,Read Recall,league,Study2,F,Study Phase2,Recall2,787,USM
+NicolasMunoz,,baseball,0,0,1,Read Recall,league,Study2,F,Study Phase2,Recall2,921,USM
 TaravionCosey,baseball ,baseball,0.888888889,1,1,Read Recall,league,Study2,F,Study Phase2,Recall2,19165,USM
 w10046339_pw,basketball,baseball,0.8,1,1,Read,league,Study2,F,Study Phase2,Recall2,4353,USM
 W10057641NS,,baseball,0,0,1,Read,league,Study2,F,Study Phase2,Recall2,167,USM
@@ -2010,8 +2242,10 @@ w10133134_lpc,baseball,baseball,1,1,1,Read,league,Study2,F,Study Phase2,Recall2,
 w10143398_abc,idk,baseball,0,0,1,Read,league,Study2,F,Study Phase2,Recall2,2334,USM
 w10157282_HBR,baseball,baseball,1,1,1,Read,league,Study2,F,Study Phase2,Recall2,17929,USM
 10143815SK,greene,toil,0,0,1,Read,lease,Study2,U,Study Phase2,Recall2,4966,USM
+BrettThompson,rent,toil,0.25,0,1,Read Recall,lease,Study2,U,Study Phase2,Recall2,5954,USM
 BrookeMask,rent,toil,0.25,0,1,Read Recall,lease,Study2,U,Study Phase2,Recall2,1871,USM
 jasminesherman,,toil,0,0,1,Read Recall,lease,Study2,U,Study Phase2,Recall2,971,USM
+NicolasMunoz,,toil,0,0,1,Read Recall,lease,Study2,U,Study Phase2,Recall2,753,USM
 TaravionCosey,rent,toil,0.25,0,1,Read Recall,lease,Study2,U,Study Phase2,Recall2,7641,USM
 w10046339_pw,house,toil,0.2,0,1,Read,lease,Study2,U,Study Phase2,Recall2,7842,USM
 W10057641NS,,toil,0,0,1,Read,lease,Study2,U,Study Phase2,Recall2,31,USM
@@ -2025,8 +2259,10 @@ w10133134_lpc,artery,toil,0.166666667,0,1,Read,lease,Study2,U,Study Phase2,Recal
 w10143398_abc,sign,toil,0.25,0,1,Read,lease,Study2,U,Study Phase2,Recall2,5778,USM
 w10157282_HBR,agreement,toil,0.111111111,0,1,Read,lease,Study2,U,Study Phase2,Recall2,3220,USM
 10143815SK,,children,0,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,8550,USM
+BrettThompson,sie,children,0.25,0,1,Read Recall,mirror,Study2,U,Study Phase2,Recall2,8281,USM
 BrookeMask,children,children,1,1,1,Read Recall,mirror,Study2,U,Study Phase2,Recall2,3080,USM
 jasminesherman,children ,children,0.888888889,1,1,Read Recall,mirror,Study2,U,Study Phase2,Recall2,5087,USM
+NicolasMunoz,,children,0,0,1,Read Recall,mirror,Study2,U,Study Phase2,Recall2,1532,USM
 TaravionCosey,children ,children,0.888888889,1,1,Read Recall,mirror,Study2,U,Study Phase2,Recall2,39516,USM
 w10046339_pw,children,children,1,1,1,Read,mirror,Study2,U,Study Phase2,Recall2,3262,USM
 W10057641NS,,children,0,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,77,USM
@@ -2040,8 +2276,10 @@ w10133134_lpc,,children,0,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,3041,USM
 w10143398_abc,maroon,children,0.25,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,5311,USM
 w10157282_HBR,reflection,children,0.6,0,1,Read,mirror,Study2,U,Study Phase2,Recall2,21027,USM
 10143815SK,lawyer,lawyer,1,1,1,Read,nurse,Study2,M,Study Phase2,Recall2,5172,USM
+BrettThompson,stick,lawyer,0,0,1,Read Recall,nurse,Study2,M,Study Phase2,Recall2,8332,USM
 BrookeMask,,lawyer,0,0,1,Read Recall,nurse,Study2,M,Study Phase2,Recall2,2751,USM
 jasminesherman,,lawyer,0,0,1,Read Recall,nurse,Study2,M,Study Phase2,Recall2,651,USM
+NicolasMunoz,help,lawyer,0.333333333,0,1,Read Recall,nurse,Study2,M,Study Phase2,Recall2,4000,USM
 TaravionCosey,lawyer ,lawyer,0.857142857,1,1,Read Recall,nurse,Study2,M,Study Phase2,Recall2,5013,USM
 w10046339_pw,lawyer,lawyer,1,1,1,Read,nurse,Study2,M,Study Phase2,Recall2,2902,USM
 W10057641NS,,lawyer,0,0,1,Read,nurse,Study2,M,Study Phase2,Recall2,140,USM
@@ -2055,8 +2293,10 @@ w10133134_lpc,lawyer,lawyer,1,1,1,Read,nurse,Study2,M,Study Phase2,Recall2,3316,
 w10143398_abc,lawyer,lawyer,1,1,1,Read,nurse,Study2,M,Study Phase2,Recall2,4371,USM
 w10157282_HBR,lawyer,lawyer,1,1,1,Read,nurse,Study2,M,Study Phase2,Recall2,34184,USM
 10143815SK,,basket,0,0,1,Read,oven,Study2,M,Study Phase2,Recall2,4027,USM
+BrettThompson,brick,basket,0.333333333,0,1,Read Recall,oven,Study2,M,Study Phase2,Recall2,9561,USM
 BrookeMask,basket,basket,1,1,1,Read Recall,oven,Study2,M,Study Phase2,Recall2,2342,USM
 jasminesherman,,basket,0,0,1,Read Recall,oven,Study2,M,Study Phase2,Recall2,502,USM
+NicolasMunoz,,basket,0,0,1,Read Recall,oven,Study2,M,Study Phase2,Recall2,1841,USM
 TaravionCosey,basket,basket,1,1,1,Read Recall,oven,Study2,M,Study Phase2,Recall2,16496,USM
 w10046339_pw,slove,basket,0.333333333,0,1,Read,oven,Study2,M,Study Phase2,Recall2,4103,USM
 W10057641NS,,basket,0,0,1,Read,oven,Study2,M,Study Phase2,Recall2,137,USM
@@ -2070,8 +2310,10 @@ w10133134_lpc,basket,basket,1,1,1,Read,oven,Study2,M,Study Phase2,Recall2,3337,U
 w10143398_abc,basket,basket,1,1,1,Read,oven,Study2,M,Study Phase2,Recall2,3587,USM
 w10157282_HBR,roasted,basket,0.571428571,0,1,Read,oven,Study2,M,Study Phase2,Recall2,8999,USM
 10143815SK,,collar,0,0,1,Read,pants,Study2,M,Study Phase2,Recall2,3586,USM
+BrettThompson,attire,collar,0.333333333,0,1,Read Recall,pants,Study2,M,Study Phase2,Recall2,5595,USM
 BrookeMask,collar,collar,1,1,1,Read Recall,pants,Study2,M,Study Phase2,Recall2,3800,USM
 jasminesherman,,collar,0,0,1,Read Recall,pants,Study2,M,Study Phase2,Recall2,723,USM
+NicolasMunoz,wea,collar,0.166666667,0,1,Read Recall,pants,Study2,M,Study Phase2,Recall2,2500,USM
 TaravionCosey,shirt,collar,0.166666667,0,1,Read Recall,pants,Study2,M,Study Phase2,Recall2,26886,USM
 w10046339_pw,collar,collar,1,1,1,Read,pants,Study2,M,Study Phase2,Recall2,4877,USM
 W10057641NS,,collar,0,0,1,Read,pants,Study2,M,Study Phase2,Recall2,41,USM
@@ -2085,8 +2327,10 @@ w10133134_lpc,,collar,0,0,1,Read,pants,Study2,M,Study Phase2,Recall2,2241,USM
 w10143398_abc,collar,collar,1,1,1,Read,pants,Study2,M,Study Phase2,Recall2,4842,USM
 w10157282_HBR,collar,collar,1,1,1,Read,pants,Study2,M,Study Phase2,Recall2,9416,USM
 10143815SK,,clutter,0,0,1,Read,push,Study2,U,Study Phase2,Recall2,10817,USM
+BrettThompson,shove,clutter,0.142857143,0,1,Read Recall,push,Study2,U,Study Phase2,Recall2,3695,USM
 BrookeMask,soil,clutter,0.142857143,0,1,Read Recall,push,Study2,U,Study Phase2,Recall2,3394,USM
 jasminesherman,,clutter,0,0,1,Read Recall,push,Study2,U,Study Phase2,Recall2,1689,USM
+NicolasMunoz,,clutter,0,0,1,Read Recall,push,Study2,U,Study Phase2,Recall2,3706,USM
 TaravionCosey,clutter ,clutter,0.875,1,1,Read Recall,push,Study2,U,Study Phase2,Recall2,16002,USM
 w10046339_pw,pull,clutter,0.285714286,0,1,Read,push,Study2,U,Study Phase2,Recall2,6346,USM
 W10057641NS,,clutter,0,0,1,Read,push,Study2,U,Study Phase2,Recall2,145,USM
@@ -2100,8 +2344,10 @@ w10133134_lpc,,clutter,0,0,1,Read,push,Study2,U,Study Phase2,Recall2,1976,USM
 w10143398_abc,over,clutter,0.285714286,0,1,Read,push,Study2,U,Study Phase2,Recall2,3258,USM
 w10157282_HBR,pull,clutter,0.285714286,0,1,Read,push,Study2,U,Study Phase2,Recall2,7200,USM
 10143815SK,,seed,0,0,1,Read,rake,Study2,M,Study Phase2,Recall2,3621,USM
+BrettThompson,garden,seed,0.333333333,0,1,Read Recall,rake,Study2,M,Study Phase2,Recall2,12996,USM
 BrookeMask,soil,seed,0.25,0,1,Read Recall,rake,Study2,M,Study Phase2,Recall2,2218,USM
 jasminesherman,,seed,0,0,1,Read Recall,rake,Study2,M,Study Phase2,Recall2,2784,USM
+NicolasMunoz,leaves,seed,0.5,0,1,Read Recall,rake,Study2,M,Study Phase2,Recall2,4483,USM
 TaravionCosey,cake ,seed,0.2,0,1,Read Recall,rake,Study2,M,Study Phase2,Recall2,18097,USM
 w10046339_pw,leaf,seed,0.25,0,1,Read,rake,Study2,M,Study Phase2,Recall2,3320,USM
 W10057641NS,,seed,0,0,1,Read,rake,Study2,M,Study Phase2,Recall2,383,USM
@@ -2115,8 +2361,10 @@ w10133134_lpc,seed,seed,1,1,1,Read,rake,Study2,M,Study Phase2,Recall2,2182,USM
 w10143398_abc,leaves,seed,0.5,0,1,Read,rake,Study2,M,Study Phase2,Recall2,3512,USM
 w10157282_HBR,sew,seed,0.5,0,1,Read,rake,Study2,M,Study Phase2,Recall2,27141,USM
 10143815SK,back,muscle,0.166666667,0,1,Read,razor,Study2,M,Study Phase2,Recall2,4443,USM
+BrettThompson,muscle,muscle,1,1,1,Read Recall,razor,Study2,M,Study Phase2,Recall2,47712,USM
 BrookeMask,muscle,muscle,1,1,1,Read Recall,razor,Study2,M,Study Phase2,Recall2,3190,USM
 jasminesherman,blade,muscle,0.333333333,0,1,Read Recall,razor,Study2,M,Study Phase2,Recall2,8096,USM
+NicolasMunoz,cut,muscle,0.333333333,0,1,Read Recall,razor,Study2,M,Study Phase2,Recall2,2649,USM
 TaravionCosey,muscle ,muscle,0.857142857,1,1,Read Recall,razor,Study2,M,Study Phase2,Recall2,26544,USM
 w10046339_pw,muscle,muscle,1,1,1,Read,razor,Study2,M,Study Phase2,Recall2,4092,USM
 W10057641NS,,muscle,0,0,1,Read,razor,Study2,M,Study Phase2,Recall2,66,USM
@@ -2130,8 +2378,10 @@ w10133134_lpc,,muscle,0,0,1,Read,razor,Study2,M,Study Phase2,Recall2,2055,USM
 w10143398_abc,burn,muscle,0.166666667,0,1,Read,razor,Study2,M,Study Phase2,Recall2,3341,USM
 w10157282_HBR,muscle,muscle,1,1,1,Read,razor,Study2,M,Study Phase2,Recall2,46899,USM
 10143815SK,,island,0,0,1,Read,reality,Study2,M,Study Phase2,Recall2,1602,USM
+BrettThompson,island,island,1,1,1,Read Recall,reality,Study2,M,Study Phase2,Recall2,5155,USM
 BrookeMask,,island,0,0,1,Read Recall,reality,Study2,M,Study Phase2,Recall2,1967,USM
 jasminesherman,,island,0,0,1,Read Recall,reality,Study2,M,Study Phase2,Recall2,958,USM
+NicolasMunoz,,island,0,0,1,Read Recall,reality,Study2,M,Study Phase2,Recall2,1175,USM
 TaravionCosey,island ,island,0.857142857,1,1,Read Recall,reality,Study2,M,Study Phase2,Recall2,32732,USM
 w10046339_pw,broke,island,0,0,1,Read,reality,Study2,M,Study Phase2,Recall2,4810,USM
 W10057641NS,,island,0,0,1,Read,reality,Study2,M,Study Phase2,Recall2,122,USM
@@ -2145,8 +2395,10 @@ w10133134_lpc,,island,0,0,1,Read,reality,Study2,M,Study Phase2,Recall2,2595,USM
 w10143398_abc,beach,island,0.166666667,0,1,Read,reality,Study2,M,Study Phase2,Recall2,4381,USM
 w10157282_HBR,island,island,1,1,1,Read,reality,Study2,M,Study Phase2,Recall2,13431,USM
 10143815SK,,stop,0,0,1,Read,school,Study2,M,Study Phase2,Recall2,2114,USM
+BrettThompson,bus,stop,0.25,0,1,Read Recall,school,Study2,M,Study Phase2,Recall2,7075,USM
 BrookeMask,ceiling,stop,0,0,1,Read Recall,school,Study2,M,Study Phase2,Recall2,5202,USM
 jasminesherman,,stop,0,0,1,Read Recall,school,Study2,M,Study Phase2,Recall2,749,USM
+NicolasMunoz,stop,stop,1,1,1,Read Recall,school,Study2,M,Study Phase2,Recall2,3770,USM
 TaravionCosey,stop,stop,1,1,1,Read Recall,school,Study2,M,Study Phase2,Recall2,18355,USM
 w10046339_pw,stop,stop,1,1,1,Read,school,Study2,M,Study Phase2,Recall2,3521,USM
 W10057641NS,,stop,0,0,1,Read,school,Study2,M,Study Phase2,Recall2,119,USM
@@ -2160,8 +2412,10 @@ w10133134_lpc,bus,stop,0.25,0,1,Read,school,Study2,M,Study Phase2,Recall2,2487,U
 w10143398_abc,bus,stop,0.25,0,1,Read,school,Study2,M,Study Phase2,Recall2,4470,USM
 w10157282_HBR,stop,stop,1,1,1,Read,school,Study2,M,Study Phase2,Recall2,6099,USM
 10143815SK,,hide,0,0,1,Read,sick,Study2,U,Study Phase2,Recall2,6021,USM
+BrettThompson,well,hide,0.25,0,1,Read Recall,sick,Study2,U,Study Phase2,Recall2,8624,USM
 BrookeMask,strong,hide,0,0,1,Read Recall,sick,Study2,U,Study Phase2,Recall2,3077,USM
 jasminesherman,,hide,0,0,1,Read Recall,sick,Study2,U,Study Phase2,Recall2,649,USM
+NicolasMunoz,healthy,hide,0.285714286,0,1,Read Recall,sick,Study2,U,Study Phase2,Recall2,2975,USM
 TaravionCosey,hide,hide,1,1,1,Read Recall,sick,Study2,U,Study Phase2,Recall2,13910,USM
 w10046339_pw,sack,hide,0,0,1,Read,sick,Study2,U,Study Phase2,Recall2,5276,USM
 W10057641NS,,hide,0,0,1,Read,sick,Study2,U,Study Phase2,Recall2,56,USM
@@ -2175,8 +2429,10 @@ w10133134_lpc,,hide,0,0,1,Read,sick,Study2,U,Study Phase2,Recall2,1926,USM
 w10143398_abc,hide,hide,1,1,1,Read,sick,Study2,U,Study Phase2,Recall2,3258,USM
 w10157282_HBR,hide,hide,1,1,1,Read,sick,Study2,U,Study Phase2,Recall2,14633,USM
 10143815SK,drink,drink,1,1,1,Read,soap,Study2,M,Study Phase2,Recall2,3383,USM
+BrettThompson,bath,drink,0,0,1,Read Recall,soap,Study2,M,Study Phase2,Recall2,4511,USM
 BrookeMask,drink,drink,1,1,1,Read Recall,soap,Study2,M,Study Phase2,Recall2,4010,USM
 jasminesherman,,drink,0,0,1,Read Recall,soap,Study2,M,Study Phase2,Recall2,1862,USM
+NicolasMunoz,,drink,0,0,1,Read Recall,soap,Study2,M,Study Phase2,Recall2,1278,USM
 TaravionCosey,drink,drink,1,1,1,Read Recall,soap,Study2,M,Study Phase2,Recall2,10999,USM
 w10046339_pw,eat,drink,0,0,1,Read,soap,Study2,M,Study Phase2,Recall2,4503,USM
 W10057641NS,,drink,0,0,1,Read,soap,Study2,M,Study Phase2,Recall2,57,USM
@@ -2190,8 +2446,10 @@ w10133134_lpc,,drink,0,0,1,Read,soap,Study2,M,Study Phase2,Recall2,3266,USM
 w10143398_abc,drink,drink,1,1,1,Read,soap,Study2,M,Study Phase2,Recall2,4078,USM
 w10157282_HBR,clean,drink,0.2,0,1,Read,soap,Study2,M,Study Phase2,Recall2,12874,USM
 10143815SK,,accident,0,0,1,Read,strong,Study2,U,Study Phase2,Recall2,3559,USM
+BrettThompson,can,accident,0.375,0,1,Read Recall,strong,Study2,U,Study Phase2,Recall2,14374,USM
 BrookeMask,wreck,accident,0.25,0,1,Read Recall,strong,Study2,U,Study Phase2,Recall2,8197,USM
 jasminesherman,,accident,0,0,1,Read Recall,strong,Study2,U,Study Phase2,Recall2,811,USM
+NicolasMunoz,,accident,0,0,1,Read Recall,strong,Study2,U,Study Phase2,Recall2,1033,USM
 TaravionCosey,accident ,accident,0.888888889,1,1,Read Recall,strong,Study2,U,Study Phase2,Recall2,18819,USM
 w10046339_pw,muscle,accident,0.25,0,1,Read,strong,Study2,U,Study Phase2,Recall2,3299,USM
 W10057641NS,,accident,0,0,1,Read,strong,Study2,U,Study Phase2,Recall2,55,USM
@@ -2205,8 +2463,10 @@ w10133134_lpc,feather,accident,0.375,0,1,Read,strong,Study2,U,Study Phase2,Recal
 w10143398_abc,feather,accident,0.375,0,1,Read,strong,Study2,U,Study Phase2,Recall2,4355,USM
 w10157282_HBR,weak,accident,0.25,0,1,Read,strong,Study2,U,Study Phase2,Recall2,14252,USM
 10143815SK,,riddle,0,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,1238,USM
+BrettThompson,cane,riddle,0.166666667,0,1,Read Recall,sugar,Study2,U,Study Phase2,Recall2,3611,USM
 BrookeMask,diet,riddle,0.5,0,1,Read Recall,sugar,Study2,U,Study Phase2,Recall2,2349,USM
 jasminesherman,,riddle,0,0,1,Read Recall,sugar,Study2,U,Study Phase2,Recall2,871,USM
+NicolasMunoz,,riddle,0,0,1,Read Recall,sugar,Study2,U,Study Phase2,Recall2,827,USM
 TaravionCosey,riddle ,riddle,0.857142857,1,1,Read Recall,sugar,Study2,U,Study Phase2,Recall2,28946,USM
 w10046339_pw,sweet,riddle,0.166666667,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,3211,USM
 W10057641NS,,riddle,0,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,93,USM
@@ -2220,8 +2480,10 @@ w10133134_lpc,,riddle,0,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,4195,USM
 w10143398_abc,idk,riddle,0.333333333,0,1,Read,sugar,Study2,U,Study Phase2,Recall2,2615,USM
 w10157282_HBR,riddle,riddle,1,1,1,Read,sugar,Study2,U,Study Phase2,Recall2,23578,USM
 10143815SK,winter,snow,0.333333333,0,1,Read,summer,Study2,M,Study Phase2,Recall2,6757,USM
+BrettThompson,heat,snow,0,0,1,Read Recall,summer,Study2,M,Study Phase2,Recall2,4702,USM
 BrookeMask,snow,snow,1,1,1,Read Recall,summer,Study2,M,Study Phase2,Recall2,3111,USM
 jasminesherman,,snow,0,0,1,Read Recall,summer,Study2,M,Study Phase2,Recall2,2389,USM
+NicolasMunoz,,snow,0,0,1,Read Recall,summer,Study2,M,Study Phase2,Recall2,743,USM
 TaravionCosey,snow ,snow,0.8,1,1,Read Recall,summer,Study2,M,Study Phase2,Recall2,13344,USM
 w10046339_pw,winter,snow,0.333333333,0,1,Read,summer,Study2,M,Study Phase2,Recall2,9196,USM
 W10057641NS,,snow,0,0,1,Read,summer,Study2,M,Study Phase2,Recall2,31,USM
@@ -2235,8 +2497,10 @@ w10133134_lpc,,snow,0,0,1,Read,summer,Study2,M,Study Phase2,Recall2,3764,USM
 w10143398_abc,winter,snow,0.333333333,0,1,Read,summer,Study2,M,Study Phase2,Recall2,6410,USM
 w10157282_HBR,snow,snow,1,1,1,Read,summer,Study2,M,Study Phase2,Recall2,34472,USM
 10143815SK,putt,cave,0,0,1,Read,trap,Study2,M,Study Phase2,Recall2,10226,USM
+BrettThompson,box,cave,0,0,1,Read Recall,trap,Study2,M,Study Phase2,Recall2,43699,USM
 BrookeMask,,cave,0,0,1,Read Recall,trap,Study2,M,Study Phase2,Recall2,932,USM
 jasminesherman,,cave,0,0,1,Read Recall,trap,Study2,M,Study Phase2,Recall2,882,USM
+NicolasMunoz,run,cave,0,0,1,Read Recall,trap,Study2,M,Study Phase2,Recall2,2196,USM
 TaravionCosey,cave ,cave,0.8,1,1,Read Recall,trap,Study2,M,Study Phase2,Recall2,16471,USM
 w10046339_pw,cave,cave,1,1,1,Read,trap,Study2,M,Study Phase2,Recall2,6334,USM
 W10057641NS,,cave,0,0,1,Read,trap,Study2,M,Study Phase2,Recall2,115,USM
@@ -2250,8 +2514,10 @@ w10133134_lpc,cave,cave,1,1,1,Read,trap,Study2,M,Study Phase2,Recall2,2372,USM
 w10143398_abc,cave,cave,1,1,1,Read,trap,Study2,M,Study Phase2,Recall2,4495,USM
 w10157282_HBR,catch,cave,0.4,0,1,Read,trap,Study2,M,Study Phase2,Recall2,43208,USM
 10143815SK,,peak,0,0,1,Read,valley,Study2,M,Study Phase2,Recall2,11610,USM
+BrettThompson,road,peak,0.25,0,1,Read Recall,valley,Study2,M,Study Phase2,Recall2,5917,USM
 BrookeMask,hills,peak,0,0,1,Read Recall,valley,Study2,M,Study Phase2,Recall2,7272,USM
 jasminesherman,,peak,0,0,1,Read Recall,valley,Study2,M,Study Phase2,Recall2,3143,USM
+NicolasMunoz,,peak,0,0,1,Read Recall,valley,Study2,M,Study Phase2,Recall2,1276,USM
 TaravionCosey,peak,peak,1,1,1,Read Recall,valley,Study2,M,Study Phase2,Recall2,10715,USM
 w10046339_pw,peek,peak,0.75,1,1,Read,valley,Study2,M,Study Phase2,Recall2,4247,USM
 W10057641NS,,peak,0,0,1,Read,valley,Study2,M,Study Phase2,Recall2,21,USM
@@ -2265,8 +2531,10 @@ w10133134_lpc,peak,peak,1,1,1,Read,valley,Study2,M,Study Phase2,Recall2,3279,USM
 w10143398_abc,peak,peak,1,1,1,Read,valley,Study2,M,Study Phase2,Recall2,3085,USM
 w10157282_HBR,peak,peak,1,1,1,Read,valley,Study2,M,Study Phase2,Recall2,19921,USM
 10143815SK,insect,bug,0,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,12790,USM
+BrettThompson,bug,bug,1,1,1,Read Recall,wasp,Study2,F,Study Phase2,Recall2,2996,USM
 BrookeMask,stinger,bug,0.142857143,0,1,Read Recall,wasp,Study2,F,Study Phase2,Recall2,2505,USM
 jasminesherman,,bug,0,0,1,Read Recall,wasp,Study2,F,Study Phase2,Recall2,1994,USM
+NicolasMunoz,,bug,0,0,1,Read Recall,wasp,Study2,F,Study Phase2,Recall2,1734,USM
 TaravionCosey,bug,bug,1,1,1,Read Recall,wasp,Study2,F,Study Phase2,Recall2,12423,USM
 w10046339_pw,sbug,bug,0.75,1,1,Read,wasp,Study2,F,Study Phase2,Recall2,4146,USM
 W10057641NS,,bug,0,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,40,USM
@@ -2280,8 +2548,10 @@ w10133134_lpc,sting,bug,0.2,0,1,Read,wasp,Study2,F,Study Phase2,Recall2,3200,USM
 w10143398_abc,bug,bug,1,1,1,Read,wasp,Study2,F,Study Phase2,Recall2,8586,USM
 w10157282_HBR,bug,bug,1,1,1,Read,wasp,Study2,F,Study Phase2,Recall2,5616,USM
 10143815SK,,knob,0,0,1,Read,window,Study2,M,Study Phase2,Recall2,8096,USM
+BrettThompson,attic,knob,0,0,1,Read Recall,window,Study2,M,Study Phase2,Recall2,6024,USM
 BrookeMask,floor,knob,0.2,0,1,Read Recall,window,Study2,M,Study Phase2,Recall2,3215,USM
 jasminesherman,,knob,0,0,1,Read Recall,window,Study2,M,Study Phase2,Recall2,2403,USM
+NicolasMunoz,knob,knob,1,1,1,Read Recall,window,Study2,M,Study Phase2,Recall2,3029,USM
 TaravionCosey,knob,knob,1,1,1,Read Recall,window,Study2,M,Study Phase2,Recall2,8492,USM
 w10046339_pw,knob,knob,1,1,1,Read,window,Study2,M,Study Phase2,Recall2,3112,USM
 W10057641NS,,knob,0,0,1,Read,window,Study2,M,Study Phase2,Recall2,112,USM
@@ -2295,6 +2565,8 @@ w10133134_lpc,,knob,0,0,1,Read,window,Study2,M,Study Phase2,Recall2,2219,USM
 w10143398_abc,knob,knob,1,1,1,Read,window,Study2,M,Study Phase2,Recall2,3835,USM
 w10157282_HBR,knob,knob,1,1,1,Read,window,Study2,M,Study Phase2,Recall2,21594,USM
 10134188andCC,gallery,wolf,0.142857143,0,3,Read,art,Study2,U,Study Phase,Recall1,2765,USM
+ArielThomas,wolves,wolf,0.5,0,3,Read Recall,art,Study2,U,Study Phase,Recall1,7349,USM
+JadeRoss,,wolf,0,0,3,Read Recall,art,Study2,U,Study Phase,Recall1,1274,USM
 MadisonHodge,,wolf,0,0,3,Read Recall,art,Study2,U,Study Phase,Recall1,3127,USM
 MakaylaTemple,,wolf,0,0,3,Read Recall,art,Study2,U,Study Phase,Recall1,2053,USM
 w10033523_hp,work,wolf,0.5,0,3,Read,art,Study2,U,Study Phase,Recall1,2106,USM
@@ -2316,6 +2588,8 @@ w10148391-Jk,music,wolf,0,0,3,Read,art,Study2,U,Study Phase,Recall1,3623,USM
 w10151253_ES,wolf,wolf,1,1,3,Read,art,Study2,U,Study Phase,Recall1,3261,USM
 w958722_hnm,painting ,wolf,0,0,3,Read,art,Study2,U,Study Phase,Recall1,8399,USM
 10134188andCC,blood,bronze,0.333333333,0,3,Read,artery,Study2,U,Study Phase,Recall1,3492,USM
+ArielThomas,woods,bronze,0.166666667,0,3,Read Recall,artery,Study2,U,Study Phase,Recall1,10105,USM
+JadeRoss,thigh,bronze,0,0,3,Read Recall,artery,Study2,U,Study Phase,Recall1,4389,USM
 MadisonHodge,bow,bronze,0.333333333,0,3,Read Recall,artery,Study2,U,Study Phase,Recall1,5239,USM
 MakaylaTemple,heart,bronze,0.333333333,0,3,Read Recall,artery,Study2,U,Study Phase,Recall1,2530,USM
 w10033523_hp,,bronze,0,0,3,Read,artery,Study2,U,Study Phase,Recall1,11221,USM
@@ -2337,6 +2611,8 @@ w10148391-Jk,,bronze,0,0,3,Read,artery,Study2,U,Study Phase,Recall1,1253,USM
 w10151253_ES,rush,bronze,0.166666667,0,3,Read,artery,Study2,U,Study Phase,Recall1,7935,USM
 w958722_hnm,,bronze,0,0,3,Read,artery,Study2,U,Study Phase,Recall1,4092,USM
 10134188andCC,dress,clothes,0.285714286,0,3,Read,attire,Study2,F,Study Phase,Recall1,3067,USM
+ArielThomas,clothes,clothes,1,1,3,Read Recall,attire,Study2,F,Study Phase,Recall1,3252,USM
+JadeRoss,,clothes,0,0,3,Read Recall,attire,Study2,F,Study Phase,Recall1,7595,USM
 MadisonHodge,clothing,clothes,0.625,0,3,Read Recall,attire,Study2,F,Study Phase,Recall1,4984,USM
 MakaylaTemple,clothes,clothes,1,1,3,Read Recall,attire,Study2,F,Study Phase,Recall1,2959,USM
 w10033523_hp,clothes,clothes,1,1,3,Read,attire,Study2,F,Study Phase,Recall1,2734,USM
@@ -2358,6 +2634,8 @@ w10148391-Jk,clothes,clothes,1,1,3,Read,attire,Study2,F,Study Phase,Recall1,4536
 w10151253_ES,choice,clothes,0.571428571,0,3,Read,attire,Study2,F,Study Phase,Recall1,6854,USM
 w958722_hnm,clothes,clothes,1,1,3,Read,attire,Study2,F,Study Phase,Recall1,5786,USM
 10134188andCC,press,horn,0.2,0,3,Read,bench,Study2,U,Study Phase,Recall1,3073,USM
+ArielThomas,chair,horn,0.4,0,3,Read Recall,bench,Study2,U,Study Phase,Recall1,4660,USM
+JadeRoss,warm,horn,0.25,0,3,Read Recall,bench,Study2,U,Study Phase,Recall1,2761,USM
 MadisonHodge,,horn,0,0,3,Read Recall,bench,Study2,U,Study Phase,Recall1,1754,USM
 MakaylaTemple,,horn,0,0,3,Read Recall,bench,Study2,U,Study Phase,Recall1,2524,USM
 w10033523_hp,press,horn,0.2,0,3,Read,bench,Study2,U,Study Phase,Recall1,2693,USM
@@ -2379,6 +2657,8 @@ w10148391-Jk,,horn,0,0,3,Read,bench,Study2,U,Study Phase,Recall1,1198,USM
 w10151253_ES,mark,horn,0.25,0,3,Read,bench,Study2,U,Study Phase,Recall1,3969,USM
 w958722_hnm,press,horn,0.2,0,3,Read,bench,Study2,U,Study Phase,Recall1,5329,USM
 10134188andCC,fire,fire,1,1,3,Read,blaze,Study2,F,Study Phase,Recall1,1976,USM
+ArielThomas,fire,fire,1,1,3,Read Recall,blaze,Study2,F,Study Phase,Recall1,2993,USM
+JadeRoss,fire,fire,1,1,3,Read Recall,blaze,Study2,F,Study Phase,Recall1,2635,USM
 MadisonHodge,,fire,0,0,3,Read Recall,blaze,Study2,F,Study Phase,Recall1,2760,USM
 MakaylaTemple,fire,fire,1,1,3,Read Recall,blaze,Study2,F,Study Phase,Recall1,2051,USM
 w10033523_hp,fire,fire,1,1,3,Read,blaze,Study2,F,Study Phase,Recall1,1735,USM
@@ -2400,6 +2680,8 @@ w10148391-Jk,fire,fire,1,1,3,Read,blaze,Study2,F,Study Phase,Recall1,2824,USM
 w10151253_ES,cold,fire,0,0,3,Read,blaze,Study2,F,Study Phase,Recall1,15107,USM
 w958722_hnm,fire ,fire,0.8,1,3,Read,blaze,Study2,F,Study Phase,Recall1,6624,USM
 10134188andCC,two,ounce,0.2,0,3,Read,both,Study2,U,Study Phase,Recall1,3344,USM
+ArielThomas,pair ,ounce,0,0,3,Read Recall,both,Study2,U,Study Phase,Recall1,18738,USM
+JadeRoss,other,ounce,0.4,0,3,Read Recall,both,Study2,U,Study Phase,Recall1,2471,USM
 MadisonHodge,,ounce,0,0,3,Read Recall,both,Study2,U,Study Phase,Recall1,1246,USM
 MakaylaTemple,neither,ounce,0.285714286,0,3,Read Recall,both,Study2,U,Study Phase,Recall1,3048,USM
 w10033523_hp,two,ounce,0.2,0,3,Read,both,Study2,U,Study Phase,Recall1,2820,USM
@@ -2421,6 +2703,8 @@ w10148391-Jk,,ounce,0,0,3,Read,both,Study2,U,Study Phase,Recall1,4013,USM
 w10151253_ES,together,ounce,0.25,0,3,Read,both,Study2,U,Study Phase,Recall1,15902,USM
 w958722_hnm,single ,ounce,0.285714286,0,3,Read,both,Study2,U,Study Phase,Recall1,4951,USM
 10134188andCC,drive,water,0.4,0,3,Read,bridge,Study2,F,Study Phase,Recall1,3506,USM
+ArielThomas,water,water,1,1,3,Read Recall,bridge,Study2,F,Study Phase,Recall1,4171,USM
+JadeRoss,water,water,1,1,3,Read Recall,bridge,Study2,F,Study Phase,Recall1,4437,USM
 MadisonHodge,water,water,1,1,3,Read Recall,bridge,Study2,F,Study Phase,Recall1,2992,USM
 MakaylaTemple,over,water,0.4,0,3,Read Recall,bridge,Study2,F,Study Phase,Recall1,2815,USM
 w10033523_hp,water,water,1,1,3,Read,bridge,Study2,F,Study Phase,Recall1,2086,USM
@@ -2442,6 +2726,8 @@ w10148391-Jk,,water,0,0,3,Read,bridge,Study2,F,Study Phase,Recall1,1355,USM
 w10151253_ES,water,water,1,1,3,Read,bridge,Study2,F,Study Phase,Recall1,3059,USM
 w958722_hnm,,water,0,0,3,Read,bridge,Study2,F,Study Phase,Recall1,2671,USM
 10134188andCC,spike,plant,0.2,0,3,Read,cactus,Study2,F,Study Phase,Recall1,4374,USM
+ArielThomas,plant,plant,1,1,3,Read Recall,cactus,Study2,F,Study Phase,Recall1,3052,USM
+JadeRoss,sharp,plant,0.4,0,3,Read Recall,cactus,Study2,F,Study Phase,Recall1,2049,USM
 MadisonHodge,plant,plant,1,1,3,Read Recall,cactus,Study2,F,Study Phase,Recall1,7592,USM
 MakaylaTemple,plant,plant,1,1,3,Read Recall,cactus,Study2,F,Study Phase,Recall1,2109,USM
 w10033523_hp,plant,plant,1,1,3,Read,cactus,Study2,F,Study Phase,Recall1,3008,USM
@@ -2463,6 +2749,8 @@ w10148391-Jk,dry,plant,0,0,3,Read,cactus,Study2,F,Study Phase,Recall1,2376,USM
 w10151253_ES,plant,plant,1,1,3,Read,cactus,Study2,F,Study Phase,Recall1,3400,USM
 w958722_hnm,plant,plant,1,1,3,Read,cactus,Study2,F,Study Phase,Recall1,5953,USM
 10134188andCC,money,leg,0.2,0,3,Read,cash,Study2,U,Study Phase,Recall1,2615,USM
+ArielThomas,money,leg,0.2,0,3,Read Recall,cash,Study2,U,Study Phase,Recall1,3013,USM
+JadeRoss,leg,leg,1,1,3,Read Recall,cash,Study2,U,Study Phase,Recall1,2257,USM
 MadisonHodge,money,leg,0.2,0,3,Read Recall,cash,Study2,U,Study Phase,Recall1,3627,USM
 MakaylaTemple,out,leg,0,0,3,Read Recall,cash,Study2,U,Study Phase,Recall1,2485,USM
 w10033523_hp,money,leg,0.2,0,3,Read,cash,Study2,U,Study Phase,Recall1,4455,USM
@@ -2484,6 +2772,8 @@ w10148391-Jk,card,leg,0,0,3,Read,cash,Study2,U,Study Phase,Recall1,3332,USM
 w10151253_ES,wallet,leg,0.333333333,0,3,Read,cash,Study2,U,Study Phase,Recall1,9909,USM
 w958722_hnm,card,leg,0,0,3,Read,cash,Study2,U,Study Phase,Recall1,4621,USM
 10134188andCC,pop,red,0,0,3,Read,cherry,Study2,F,Study Phase,Recall1,3020,USM
+ArielThomas,red,red,1,1,3,Read Recall,cherry,Study2,F,Study Phase,Recall1,3362,USM
+JadeRoss,,red,0,0,3,Read Recall,cherry,Study2,F,Study Phase,Recall1,1898,USM
 MadisonHodge,red,red,1,1,3,Read Recall,cherry,Study2,F,Study Phase,Recall1,3596,USM
 MakaylaTemple,blossom,red,0,0,3,Read Recall,cherry,Study2,F,Study Phase,Recall1,3576,USM
 w10033523_hp,blossom,red,0,0,3,Read,cherry,Study2,F,Study Phase,Recall1,3357,USM
@@ -2505,6 +2795,8 @@ w10148391-Jk,red,red,1,1,3,Read,cherry,Study2,F,Study Phase,Recall1,5732,USM
 w10151253_ES,red,red,1,1,3,Read,cherry,Study2,F,Study Phase,Recall1,6569,USM
 w958722_hnm,red,red,1,1,3,Read,cherry,Study2,F,Study Phase,Recall1,4044,USM
 10134188andCC,relax,cold,0.2,0,3,Read,chill,Study2,F,Study Phase,Recall1,3442,USM
+ArielThomas,cold,cold,1,1,3,Read Recall,chill,Study2,F,Study Phase,Recall1,4313,USM
+JadeRoss,,cold,0,0,3,Read Recall,chill,Study2,F,Study Phase,Recall1,957,USM
 MadisonHodge,ice,cold,0.25,0,3,Read Recall,chill,Study2,F,Study Phase,Recall1,4442,USM
 MakaylaTemple,cold,cold,1,1,3,Read Recall,chill,Study2,F,Study Phase,Recall1,1934,USM
 w10033523_hp,cold,cold,1,1,3,Read,chill,Study2,F,Study Phase,Recall1,1960,USM
@@ -2526,6 +2818,8 @@ w10148391-Jk,cold,cold,1,1,3,Read,chill,Study2,F,Study Phase,Recall1,2930,USM
 w10151253_ES,bite,cold,0,0,3,Read,chill,Study2,F,Study Phase,Recall1,8116,USM
 w958722_hnm,hot,cold,0.25,0,3,Read,chill,Study2,F,Study Phase,Recall1,3160,USM
 10134188andCC,jaw,hammer,0.166666667,0,3,Read,chisel,Study2,F,Study Phase,Recall1,2197,USM
+ArielThomas,art,hammer,0.333333333,0,3,Read Recall,chisel,Study2,F,Study Phase,Recall1,3965,USM
+JadeRoss,,hammer,0,0,3,Read Recall,chisel,Study2,F,Study Phase,Recall1,1434,USM
 MadisonHodge,,hammer,0,0,3,Read Recall,chisel,Study2,F,Study Phase,Recall1,2946,USM
 MakaylaTemple,hammer,hammer,1,1,3,Read Recall,chisel,Study2,F,Study Phase,Recall1,3463,USM
 w10033523_hp,tools,hammer,0,0,3,Read,chisel,Study2,F,Study Phase,Recall1,3891,USM
@@ -2547,6 +2841,8 @@ w10148391-Jk,attic,hammer,0.166666667,0,3,Read,chisel,Study2,F,Study Phase,Recal
 w10151253_ES,hammer,hammer,1,1,3,Read,chisel,Study2,F,Study Phase,Recall1,2868,USM
 w958722_hnm,,hammer,0,0,3,Read,chisel,Study2,F,Study Phase,Recall1,1564,USM
 10134188andCC,slice,cut,0.2,0,3,Read,chop,Study2,F,Study Phase,Recall1,2556,USM
+ArielThomas,shop,cut,0,0,3,Read Recall,chop,Study2,F,Study Phase,Recall1,6725,USM
+JadeRoss,,cut,0,0,3,Read Recall,chop,Study2,F,Study Phase,Recall1,1103,USM
 MadisonHodge,cut,cut,1,1,3,Read Recall,chop,Study2,F,Study Phase,Recall1,5810,USM
 MakaylaTemple,,cut,0,0,3,Read Recall,chop,Study2,F,Study Phase,Recall1,1907,USM
 w10033523_hp,food,cut,0,0,3,Read,chop,Study2,F,Study Phase,Recall1,1985,USM
@@ -2568,6 +2864,8 @@ w10148391-Jk,lamb,cut,0,0,3,Read,chop,Study2,F,Study Phase,Recall1,6477,USM
 w10151253_ES,menu,cut,0.25,0,3,Read,chop,Study2,F,Study Phase,Recall1,8420,USM
 w958722_hnm,whole ,cut,0,0,3,Read,chop,Study2,F,Study Phase,Recall1,5074,USM
 10134188andCC,life,business,0.25,0,3,Read,death,Study2,U,Study Phase,Recall1,2349,USM
+ArielThomas,live,business,0.25,0,3,Read Recall,death,Study2,U,Study Phase,Recall1,7000,USM
+JadeRoss,buisness,business,1,1,3,Read Recall,death,Study2,U,Study Phase,Recall1,5259,USM
 MadisonHodge,,business,0,0,3,Read Recall,death,Study2,U,Study Phase,Recall1,1667,USM
 MakaylaTemple,live,business,0.25,0,3,Read Recall,death,Study2,U,Study Phase,Recall1,2923,USM
 w10033523_hp,bed,business,0.25,0,3,Read,death,Study2,U,Study Phase,Recall1,1719,USM
@@ -2589,6 +2887,8 @@ w10148391-Jk,business ,business,0.888888889,1,3,Read,death,Study2,U,Study Phase,
 w10151253_ES,business,business,1,1,3,Read,death,Study2,U,Study Phase,Recall1,13212,USM
 w958722_hnm,alive ,business,0.25,0,3,Read,death,Study2,U,Study Phase,Recall1,6128,USM
 10134188andCC,eating,sack,0.166666667,0,3,Read,dietary,Study2,U,Study Phase,Recall1,3387,USM
+ArielThomas,fiber,sack,0,0,3,Read Recall,dietary,Study2,U,Study Phase,Recall1,4005,USM
+JadeRoss,,sack,0,0,3,Read Recall,dietary,Study2,U,Study Phase,Recall1,1475,USM
 MadisonHodge,food,sack,0,0,3,Read Recall,dietary,Study2,U,Study Phase,Recall1,7388,USM
 MakaylaTemple,supplement,sack,0.1,0,3,Read Recall,dietary,Study2,U,Study Phase,Recall1,3232,USM
 w10033523_hp,restrictions,sack,0.166666667,0,3,Read,dietary,Study2,U,Study Phase,Recall1,9322,USM
@@ -2610,6 +2910,8 @@ w10148391-Jk,,sack,0,0,3,Read,dietary,Study2,U,Study Phase,Recall1,2683,USM
 w10151253_ES,eat,sack,0.25,0,3,Read,dietary,Study2,U,Study Phase,Recall1,7576,USM
 w958722_hnm,,sack,0,0,3,Read,dietary,Study2,U,Study Phase,Recall1,2611,USM
 10134188andCC,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,2161,USM
+ArielThomas,paper,paper,1,1,3,Read Recall,document,Study2,F,Study Phase,Recall1,3005,USM
+JadeRoss,paper,paper,1,1,3,Read Recall,document,Study2,F,Study Phase,Recall1,1887,USM
 MadisonHodge,,paper,0,0,3,Read Recall,document,Study2,F,Study Phase,Recall1,2426,USM
 MakaylaTemple,paper,paper,1,1,3,Read Recall,document,Study2,F,Study Phase,Recall1,3825,USM
 w10033523_hp,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,1743,USM
@@ -2631,6 +2933,8 @@ w10148391-Jk,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,3160,U
 w10151253_ES,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,2744,USM
 w958722_hnm,paper,paper,1,1,3,Read,document,Study2,F,Study Phase,Recall1,5341,USM
 10134188andCC,sight,smell,0.2,0,3,Read,eyes,Study2,M,Study Phase,Recall1,3989,USM
+ArielThomas,ears,smell,0.4,0,3,Read Recall,eyes,Study2,M,Study Phase,Recall1,8894,USM
+JadeRoss,smell,smell,1,1,3,Read Recall,eyes,Study2,M,Study Phase,Recall1,6020,USM
 MadisonHodge,,smell,0,0,3,Read Recall,eyes,Study2,M,Study Phase,Recall1,2416,USM
 MakaylaTemple,look,smell,0.2,0,3,Read Recall,eyes,Study2,M,Study Phase,Recall1,1917,USM
 w10033523_hp,mouth,smell,0.2,0,3,Read,eyes,Study2,M,Study Phase,Recall1,1878,USM
@@ -2652,6 +2956,8 @@ w10148391-Jk,ears,smell,0.4,0,3,Read,eyes,Study2,M,Study Phase,Recall1,5060,USM
 w10151253_ES,open,smell,0.2,0,3,Read,eyes,Study2,M,Study Phase,Recall1,5114,USM
 w958722_hnm,smell,smell,1,1,3,Read,eyes,Study2,M,Study Phase,Recall1,3497,USM
 10134188andCC,oil,fight,0.2,0,3,Read,feud,Study2,F,Study Phase,Recall1,3466,USM
+ArielThomas,fight,fight,1,1,3,Read Recall,feud,Study2,F,Study Phase,Recall1,5015,USM
+JadeRoss,,fight,0,0,3,Read Recall,feud,Study2,F,Study Phase,Recall1,1133,USM
 MadisonHodge,,fight,0,0,3,Read Recall,feud,Study2,F,Study Phase,Recall1,1059,USM
 MakaylaTemple,family,fight,0.333333333,0,3,Read Recall,feud,Study2,F,Study Phase,Recall1,3889,USM
 w10033523_hp,family,fight,0.333333333,0,3,Read,feud,Study2,F,Study Phase,Recall1,4509,USM
@@ -2673,6 +2979,8 @@ w10148391-Jk,,fight,0,0,3,Read,feud,Study2,F,Study Phase,Recall1,2149,USM
 w10151253_ES,fight,fight,1,1,3,Read,feud,Study2,F,Study Phase,Recall1,3084,USM
 w958722_hnm,,fight,0,0,3,Read,feud,Study2,F,Study Phase,Recall1,2993,USM
 10134188andCC,fish,thigh,0.4,0,3,Read,grill,Study2,M,Study Phase,Recall1,4167,USM
+ArielThomas,steak,thigh,0.2,0,3,Read Recall,grill,Study2,M,Study Phase,Recall1,5206,USM
+JadeRoss,thigh,thigh,1,1,3,Read Recall,grill,Study2,M,Study Phase,Recall1,2521,USM
 MadisonHodge,,thigh,0,0,3,Read Recall,grill,Study2,M,Study Phase,Recall1,2329,USM
 MakaylaTemple,hot,thigh,0.4,0,3,Read Recall,grill,Study2,M,Study Phase,Recall1,2779,USM
 w10033523_hp,fire,thigh,0.2,0,3,Read,grill,Study2,M,Study Phase,Recall1,3919,USM
@@ -2694,6 +3002,8 @@ w10148391-Jk,,thigh,0,0,3,Read,grill,Study2,M,Study Phase,Recall1,1654,USM
 w10151253_ES,thigh,thigh,1,1,3,Read,grill,Study2,M,Study Phase,Recall1,3895,USM
 w958722_hnm,,thigh,0,0,3,Read,grill,Study2,M,Study Phase,Recall1,4113,USM
 10134188andCC,sad,car,0.333333333,0,3,Read,happy,Study2,U,Study Phase,Recall1,2332,USM
+ArielThomas,sad,car,0.333333333,0,3,Read Recall,happy,Study2,U,Study Phase,Recall1,3443,USM
+JadeRoss,,car,0,0,3,Read Recall,happy,Study2,U,Study Phase,Recall1,1674,USM
 MadisonHodge,,car,0,0,3,Read Recall,happy,Study2,U,Study Phase,Recall1,1157,USM
 MakaylaTemple,sad,car,0.333333333,0,3,Read Recall,happy,Study2,U,Study Phase,Recall1,3211,USM
 w10033523_hp,day,car,0.333333333,0,3,Read,happy,Study2,U,Study Phase,Recall1,3763,USM
@@ -2715,6 +3025,8 @@ w10148391-Jk,sad,car,0.333333333,0,3,Read,happy,Study2,U,Study Phase,Recall1,473
 w10151253_ES,game,car,0.25,0,3,Read,happy,Study2,U,Study Phase,Recall1,7810,USM
 w958722_hnm,sad ,car,0.25,0,3,Read,happy,Study2,U,Study Phase,Recall1,4022,USM
 10134188andCC,rock,feather,0.142857143,0,3,Read,heavy,Study2,M,Study Phase,Recall1,4122,USM
+ArielThomas,strong,feather,0.285714286,0,3,Read Recall,heavy,Study2,M,Study Phase,Recall1,4606,USM
+JadeRoss,strong,feather,0.285714286,0,3,Read Recall,heavy,Study2,M,Study Phase,Recall1,3116,USM
 MadisonHodge,,feather,0,0,3,Read Recall,heavy,Study2,M,Study Phase,Recall1,2188,USM
 MakaylaTemple,light,feather,0.285714286,0,3,Read Recall,heavy,Study2,M,Study Phase,Recall1,9829,USM
 w10033523_hp,,feather,0,0,3,Read,heavy,Study2,M,Study Phase,Recall1,2259,USM
@@ -2736,6 +3048,8 @@ w10148391-Jk,strong,feather,0.285714286,0,3,Read,heavy,Study2,M,Study Phase,Reca
 w10151253_ES,burden,feather,0.285714286,0,3,Read,heavy,Study2,M,Study Phase,Recall1,5918,USM
 w958722_hnm,light,feather,0.285714286,0,3,Read,heavy,Study2,M,Study Phase,Recall1,3701,USM
 10134188andCC,sheep,cow,0,0,3,Read,herd,Study2,F,Study Phase,Recall1,2837,USM
+ArielThomas,cows,cow,0.75,1,3,Read Recall,herd,Study2,F,Study Phase,Recall1,5646,USM
+JadeRoss,,cow,0,0,3,Read Recall,herd,Study2,F,Study Phase,Recall1,911,USM
 MadisonHodge,cow,cow,1,1,3,Read Recall,herd,Study2,F,Study Phase,Recall1,4777,USM
 MakaylaTemple,cow,cow,1,1,3,Read Recall,herd,Study2,F,Study Phase,Recall1,2275,USM
 w10033523_hp,cattle,cow,0.166666667,0,3,Read,herd,Study2,F,Study Phase,Recall1,2230,USM
@@ -2757,6 +3071,8 @@ w10148391-Jk,cow,cow,1,1,3,Read,herd,Study2,F,Study Phase,Recall1,2643,USM
 w10151253_ES,cattle,cow,0.166666667,0,3,Read,herd,Study2,F,Study Phase,Recall1,4184,USM
 w958722_hnm,cow,cow,1,1,3,Read,herd,Study2,F,Study Phase,Recall1,9826,USM
 10134188andCC,wasp,sting,0.2,0,3,Read,hornet,Study2,F,Study Phase,Recall1,2751,USM
+ArielThomas,sting,sting,1,1,3,Read Recall,hornet,Study2,F,Study Phase,Recall1,3113,USM
+JadeRoss,sting,sting,1,1,3,Read Recall,hornet,Study2,F,Study Phase,Recall1,2618,USM
 MadisonHodge,sting,sting,1,1,3,Read Recall,hornet,Study2,F,Study Phase,Recall1,4275,USM
 MakaylaTemple,bug,sting,0.2,0,3,Read Recall,hornet,Study2,F,Study Phase,Recall1,2202,USM
 w10033523_hp,wasp,sting,0.2,0,3,Read,hornet,Study2,F,Study Phase,Recall1,1962,USM
@@ -2778,6 +3094,8 @@ w10148391-Jk,wasp,sting,0.2,0,3,Read,hornet,Study2,F,Study Phase,Recall1,2668,US
 w10151253_ES,sting,sting,1,1,3,Read,hornet,Study2,F,Study Phase,Recall1,14282,USM
 w958722_hnm,bug,sting,0.2,0,3,Read,hornet,Study2,F,Study Phase,Recall1,2597,USM
 10134188andCC,smell,smell,1,1,3,Read,incense,Study2,F,Study Phase,Recall1,3144,USM
+ArielThomas,smell,smell,1,1,3,Read Recall,incense,Study2,F,Study Phase,Recall1,3362,USM
+JadeRoss,sense,smell,0.4,0,3,Read Recall,incense,Study2,F,Study Phase,Recall1,3768,USM
 MadisonHodge,smell,smell,1,1,3,Read Recall,incense,Study2,F,Study Phase,Recall1,7026,USM
 MakaylaTemple,,smell,0,0,3,Read Recall,incense,Study2,F,Study Phase,Recall1,967,USM
 w10033523_hp,smell,smell,1,1,3,Read,incense,Study2,F,Study Phase,Recall1,3214,USM
@@ -2799,6 +3117,8 @@ w10148391-Jk,smell,smell,1,1,3,Read,incense,Study2,F,Study Phase,Recall1,2592,US
 w10151253_ES,smell,smell,1,1,3,Read,incense,Study2,F,Study Phase,Recall1,3056,USM
 w958722_hnm,,smell,0,0,3,Read,incense,Study2,F,Study Phase,Recall1,4401,USM
 10134188andCC,queen,vase,0.2,0,3,Read,king,Study2,U,Study Phase,Recall1,2303,USM
+ArielThomas,queen ,vase,0.166666667,0,3,Read Recall,king,Study2,U,Study Phase,Recall1,5353,USM
+JadeRoss,,vase,0,0,3,Read Recall,king,Study2,U,Study Phase,Recall1,3205,USM
 MadisonHodge,queen,vase,0.2,0,3,Read Recall,king,Study2,U,Study Phase,Recall1,5134,USM
 MakaylaTemple,crown,vase,0,0,3,Read Recall,king,Study2,U,Study Phase,Recall1,2150,USM
 w10033523_hp,vase,vase,1,1,3,Read,king,Study2,U,Study Phase,Recall1,7435,USM
@@ -2820,6 +3140,8 @@ w10148391-Jk,queen,vase,0.2,0,3,Read,king,Study2,U,Study Phase,Recall1,2812,USM
 w10151253_ES,crown,vase,0,0,3,Read,king,Study2,U,Study Phase,Recall1,8799,USM
 w958722_hnm,queen,vase,0.2,0,3,Read,king,Study2,U,Study Phase,Recall1,9478,USM
 10134188andCC,baseball,baseball,1,1,3,Read,league,Study2,F,Study Phase,Recall1,3222,USM
+ArielThomas,baseball,baseball,1,1,3,Read Recall,league,Study2,F,Study Phase,Recall1,3526,USM
+JadeRoss,legends,baseball,0.375,0,3,Read Recall,league,Study2,F,Study Phase,Recall1,32518,USM
 MadisonHodge,,baseball,0,0,3,Read Recall,league,Study2,F,Study Phase,Recall1,1878,USM
 MakaylaTemple,legend,baseball,0.25,0,3,Read Recall,league,Study2,F,Study Phase,Recall1,3121,USM
 w10033523_hp,baseball,baseball,1,1,3,Read,league,Study2,F,Study Phase,Recall1,2081,USM
@@ -2841,6 +3163,8 @@ w10148391-Jk,basketball ,baseball,0.727272727,0,3,Read,league,Study2,F,Study Pha
 w10151253_ES,baseball,baseball,1,1,3,Read,league,Study2,F,Study Phase,Recall1,4422,USM
 w958722_hnm,little,baseball,0.375,0,3,Read,league,Study2,F,Study Phase,Recall1,8942,USM
 10134188andCC,house,toil,0.2,0,3,Read,lease,Study2,U,Study Phase,Recall1,3114,USM
+ArielThomas,weak,toil,0,0,3,Read Recall,lease,Study2,U,Study Phase,Recall1,4779,USM
+JadeRoss,,toil,0,0,3,Read Recall,lease,Study2,U,Study Phase,Recall1,1056,USM
 MadisonHodge,,toil,0,0,3,Read Recall,lease,Study2,U,Study Phase,Recall1,1944,USM
 MakaylaTemple,,toil,0,0,3,Read Recall,lease,Study2,U,Study Phase,Recall1,2662,USM
 w10033523_hp,,toil,0,0,3,Read,lease,Study2,U,Study Phase,Recall1,1761,USM
@@ -2862,6 +3186,8 @@ w10148391-Jk,leaving ,toil,0.25,0,3,Read,lease,Study2,U,Study Phase,Recall1,5163
 w10151253_ES,sell,toil,0.25,0,3,Read,lease,Study2,U,Study Phase,Recall1,8006,USM
 w958722_hnm,,toil,0,0,3,Read,lease,Study2,U,Study Phase,Recall1,3540,USM
 10134188andCC,reflection,children,0.6,0,3,Read,mirror,Study2,U,Study Phase,Recall1,3253,USM
+ArielThomas,person,children,0.375,0,3,Read Recall,mirror,Study2,U,Study Phase,Recall1,9684,USM
+JadeRoss,children,children,1,1,3,Read Recall,mirror,Study2,U,Study Phase,Recall1,3198,USM
 MadisonHodge,,children,0,0,3,Read Recall,mirror,Study2,U,Study Phase,Recall1,1692,USM
 MakaylaTemple,look,children,0.125,0,3,Read Recall,mirror,Study2,U,Study Phase,Recall1,2525,USM
 w10033523_hp,,children,0,0,3,Read,mirror,Study2,U,Study Phase,Recall1,3257,USM
@@ -2883,6 +3209,8 @@ w10148391-Jk,desk,children,0.25,0,3,Read,mirror,Study2,U,Study Phase,Recall1,612
 w10151253_ES,glass,children,0.125,0,3,Read,mirror,Study2,U,Study Phase,Recall1,6877,USM
 w958722_hnm,window,children,0.375,0,3,Read,mirror,Study2,U,Study Phase,Recall1,9152,USM
 10134188andCC,doctor,lawyer,0.166666667,0,3,Read,nurse,Study2,M,Study Phase,Recall1,2355,USM
+ArielThomas,lawyer,lawyer,1,1,3,Read Recall,nurse,Study2,M,Study Phase,Recall1,4199,USM
+JadeRoss,,lawyer,0,0,3,Read Recall,nurse,Study2,M,Study Phase,Recall1,921,USM
 MadisonHodge,,lawyer,0,0,3,Read Recall,nurse,Study2,M,Study Phase,Recall1,2226,USM
 MakaylaTemple,,lawyer,0,0,3,Read Recall,nurse,Study2,M,Study Phase,Recall1,2560,USM
 w10033523_hp,lawyer,lawyer,1,1,3,Read,nurse,Study2,M,Study Phase,Recall1,2236,USM
@@ -2904,6 +3232,8 @@ w10148391-Jk,lawyer ,lawyer,0.857142857,1,3,Read,nurse,Study2,M,Study Phase,Reca
 w10151253_ES,lawyer,lawyer,1,1,3,Read,nurse,Study2,M,Study Phase,Recall1,3636,USM
 w958722_hnm,lawyer ,lawyer,0.857142857,1,3,Read,nurse,Study2,M,Study Phase,Recall1,3776,USM
 10134188andCC,mitt,basket,0.166666667,0,3,Read,oven,Study2,M,Study Phase,Recall1,2592,USM
+ArielThomas,cook,basket,0.166666667,0,3,Read Recall,oven,Study2,M,Study Phase,Recall1,2928,USM
+JadeRoss,,basket,0,0,3,Read Recall,oven,Study2,M,Study Phase,Recall1,1402,USM
 MadisonHodge,hot,basket,0.166666667,0,3,Read Recall,oven,Study2,M,Study Phase,Recall1,4033,USM
 MakaylaTemple,bake,basket,0.666666667,0,3,Read Recall,oven,Study2,M,Study Phase,Recall1,2043,USM
 w10033523_hp,mit,basket,0.166666667,0,3,Read,oven,Study2,M,Study Phase,Recall1,1666,USM
@@ -2925,6 +3255,8 @@ w10148391-Jk,stove ,basket,0.5,0,3,Read,oven,Study2,M,Study Phase,Recall1,4430,U
 w10151253_ES,time,basket,0.333333333,0,3,Read,oven,Study2,M,Study Phase,Recall1,7260,USM
 w958722_hnm,stove ,basket,0.5,0,3,Read,oven,Study2,M,Study Phase,Recall1,4004,USM
 10134188andCC,shorts,collar,0.333333333,0,3,Read,pants,Study2,M,Study Phase,Recall1,2864,USM
+ArielThomas,top,collar,0.166666667,0,3,Read Recall,pants,Study2,M,Study Phase,Recall1,4680,USM
+JadeRoss,collar,collar,1,1,3,Read Recall,pants,Study2,M,Study Phase,Recall1,3548,USM
 MadisonHodge,,collar,0,0,3,Read Recall,pants,Study2,M,Study Phase,Recall1,1550,USM
 MakaylaTemple,,collar,0,0,3,Read Recall,pants,Study2,M,Study Phase,Recall1,1331,USM
 w10033523_hp,,collar,0,0,3,Read,pants,Study2,M,Study Phase,Recall1,3358,USM
@@ -2946,6 +3278,8 @@ w10148391-Jk,collar,collar,1,1,3,Read,pants,Study2,M,Study Phase,Recall1,3944,US
 w10151253_ES,leg,collar,0.166666667,0,3,Read,pants,Study2,M,Study Phase,Recall1,10492,USM
 w958722_hnm,shirt ,collar,0.166666667,0,3,Read,pants,Study2,M,Study Phase,Recall1,4358,USM
 10134188andCC,pull,clutter,0.285714286,0,3,Read,push,Study2,U,Study Phase,Recall1,2478,USM
+ArielThomas,shove ,clutter,0.142857143,0,3,Read Recall,push,Study2,U,Study Phase,Recall1,4484,USM
+JadeRoss,,clutter,0,0,3,Read Recall,push,Study2,U,Study Phase,Recall1,1412,USM
 MadisonHodge,pull,clutter,0.285714286,0,3,Read Recall,push,Study2,U,Study Phase,Recall1,4147,USM
 MakaylaTemple,pull,clutter,0.285714286,0,3,Read Recall,push,Study2,U,Study Phase,Recall1,2400,USM
 w10033523_hp,shove,clutter,0.142857143,0,3,Read,push,Study2,U,Study Phase,Recall1,2053,USM
@@ -2967,6 +3301,8 @@ w10148391-Jk,pull,clutter,0.285714286,0,3,Read,push,Study2,U,Study Phase,Recall1
 w10151253_ES,cliff,clutter,0.285714286,0,3,Read,push,Study2,U,Study Phase,Recall1,6206,USM
 w958722_hnm,pull,clutter,0.285714286,0,3,Read,push,Study2,U,Study Phase,Recall1,2666,USM
 10134188andCC,leaf,seed,0.25,0,3,Read,rake,Study2,M,Study Phase,Recall1,2461,USM
+ArielThomas,leaves,seed,0.5,0,3,Read Recall,rake,Study2,M,Study Phase,Recall1,3277,USM
+JadeRoss,,seed,0,0,3,Read Recall,rake,Study2,M,Study Phase,Recall1,972,USM
 MadisonHodge,,seed,0,0,3,Read Recall,rake,Study2,M,Study Phase,Recall1,2552,USM
 MakaylaTemple,leaves,seed,0.5,0,3,Read Recall,rake,Study2,M,Study Phase,Recall1,2849,USM
 w10033523_hp,shed,seed,0.75,1,3,Read,rake,Study2,M,Study Phase,Recall1,2534,USM
@@ -2988,6 +3324,8 @@ w10148391-Jk,garden,seed,0.333333333,0,3,Read,rake,Study2,M,Study Phase,Recall1,
 w10151253_ES,leaf,seed,0.25,0,3,Read,rake,Study2,M,Study Phase,Recall1,4312,USM
 w958722_hnm,leaf,seed,0.25,0,3,Read,rake,Study2,M,Study Phase,Recall1,5281,USM
 10134188andCC,shave,muscle,0.333333333,0,3,Read,razor,Study2,M,Study Phase,Recall1,2542,USM
+ArielThomas,cut,muscle,0.333333333,0,3,Read Recall,razor,Study2,M,Study Phase,Recall1,9377,USM
+JadeRoss,sharp,muscle,0.166666667,0,3,Read Recall,razor,Study2,M,Study Phase,Recall1,2335,USM
 MadisonHodge,cut,muscle,0.333333333,0,3,Read Recall,razor,Study2,M,Study Phase,Recall1,4072,USM
 MakaylaTemple,blade,muscle,0.333333333,0,3,Read Recall,razor,Study2,M,Study Phase,Recall1,2717,USM
 w10033523_hp,blad,muscle,0.166666667,0,3,Read,razor,Study2,M,Study Phase,Recall1,1890,USM
@@ -3009,6 +3347,8 @@ w10148391-Jk,sharp,muscle,0.166666667,0,3,Read,razor,Study2,M,Study Phase,Recall
 w10151253_ES,meat,muscle,0.333333333,0,3,Read,razor,Study2,M,Study Phase,Recall1,10212,USM
 w958722_hnm,muscle ,muscle,0.857142857,1,3,Read,razor,Study2,M,Study Phase,Recall1,6310,USM
 10134188andCC,life,island,0.333333333,0,3,Read,reality,Study2,M,Study Phase,Recall1,2586,USM
+ArielThomas,island,island,1,1,3,Read Recall,reality,Study2,M,Study Phase,Recall1,6409,USM
+JadeRoss,,island,0,0,3,Read Recall,reality,Study2,M,Study Phase,Recall1,3012,USM
 MadisonHodge,,island,0,0,3,Read Recall,reality,Study2,M,Study Phase,Recall1,2562,USM
 MakaylaTemple,island,island,1,1,3,Read Recall,reality,Study2,M,Study Phase,Recall1,2886,USM
 w10033523_hp,television,island,0.4,0,3,Read,reality,Study2,M,Study Phase,Recall1,6724,USM
@@ -3030,6 +3370,8 @@ w10148391-Jk,tv,island,0,0,3,Read,reality,Study2,M,Study Phase,Recall1,9008,USM
 w10151253_ES,fake,island,0.166666667,0,3,Read,reality,Study2,M,Study Phase,Recall1,4118,USM
 w958722_hnm,fake,island,0.166666667,0,3,Read,reality,Study2,M,Study Phase,Recall1,5344,USM
 10134188andCC,kids,stop,0.25,0,3,Read,school,Study2,M,Study Phase,Recall1,2054,USM
+ArielThomas,bus,stop,0.25,0,3,Read Recall,school,Study2,M,Study Phase,Recall1,2742,USM
+JadeRoss,,stop,0,0,3,Read Recall,school,Study2,M,Study Phase,Recall1,1437,USM
 MadisonHodge,,stop,0,0,3,Read Recall,school,Study2,M,Study Phase,Recall1,1223,USM
 MakaylaTemple,room,stop,0.25,0,3,Read Recall,school,Study2,M,Study Phase,Recall1,5294,USM
 w10033523_hp,,stop,0,0,3,Read,school,Study2,M,Study Phase,Recall1,2000,USM
@@ -3051,6 +3393,8 @@ w10148391-Jk,,stop,0,0,3,Read,school,Study2,M,Study Phase,Recall1,1501,USM
 w10151253_ES,stop,stop,1,1,3,Read,school,Study2,M,Study Phase,Recall1,5028,USM
 w958722_hnm,bus,stop,0.25,0,3,Read,school,Study2,M,Study Phase,Recall1,3407,USM
 10134188andCC,cough,hide,0.2,0,3,Read,sick,Study2,U,Study Phase,Recall1,2702,USM
+ArielThomas,scared,hide,0.333333333,0,3,Read Recall,sick,Study2,U,Study Phase,Recall1,10710,USM
+JadeRoss,hide,hide,1,1,3,Read Recall,sick,Study2,U,Study Phase,Recall1,3150,USM
 MadisonHodge,cold,hide,0.25,0,3,Read Recall,sick,Study2,U,Study Phase,Recall1,5025,USM
 MakaylaTemple,,hide,0,0,3,Read Recall,sick,Study2,U,Study Phase,Recall1,1134,USM
 w10033523_hp,cold,hide,0.25,0,3,Read,sick,Study2,U,Study Phase,Recall1,2219,USM
@@ -3072,6 +3416,8 @@ w10148391-Jk,cold,hide,0.25,0,3,Read,sick,Study2,U,Study Phase,Recall1,33434,USM
 w10151253_ES,leave,hide,0.2,0,3,Read,sick,Study2,U,Study Phase,Recall1,5551,USM
 w958722_hnm,days ,hide,0.2,0,3,Read,sick,Study2,U,Study Phase,Recall1,15647,USM
 10134188andCC,bubble,drink,0,0,3,Read,soap,Study2,M,Study Phase,Recall1,3288,USM
+ArielThomas,oven,drink,0.2,0,3,Read Recall,soap,Study2,M,Study Phase,Recall1,13345,USM
+JadeRoss,drink,drink,1,1,3,Read Recall,soap,Study2,M,Study Phase,Recall1,3419,USM
 MadisonHodge,,drink,0,0,3,Read Recall,soap,Study2,M,Study Phase,Recall1,2079,USM
 MakaylaTemple,bath,drink,0,0,3,Read Recall,soap,Study2,M,Study Phase,Recall1,2715,USM
 w10033523_hp,bar,drink,0.2,0,3,Read,soap,Study2,M,Study Phase,Recall1,1195,USM
@@ -3093,6 +3439,8 @@ w10148391-Jk,drink,drink,1,1,3,Read,soap,Study2,M,Study Phase,Recall1,16238,USM
 w10151253_ES,clean,drink,0.2,0,3,Read,soap,Study2,M,Study Phase,Recall1,3358,USM
 w958722_hnm,bath,drink,0,0,3,Read,soap,Study2,M,Study Phase,Recall1,7211,USM
 10134188andCC,weak,accident,0.25,0,3,Read,strong,Study2,U,Study Phase,Recall1,4044,USM
+ArielThomas,weak,accident,0.25,0,3,Read Recall,strong,Study2,U,Study Phase,Recall1,5175,USM
+JadeRoss,,accident,0,0,3,Read Recall,strong,Study2,U,Study Phase,Recall1,1580,USM
 MadisonHodge,weak,accident,0.25,0,3,Read Recall,strong,Study2,U,Study Phase,Recall1,7003,USM
 MakaylaTemple,weak,accident,0.25,0,3,Read Recall,strong,Study2,U,Study Phase,Recall1,4832,USM
 w10033523_hp,weak,accident,0.25,0,3,Read,strong,Study2,U,Study Phase,Recall1,2001,USM
@@ -3114,6 +3462,8 @@ w10148391-Jk,bulk,accident,0,0,3,Read,strong,Study2,U,Study Phase,Recall1,4651,U
 w10151253_ES,idea,accident,0.5,0,3,Read,strong,Study2,U,Study Phase,Recall1,9758,USM
 w958722_hnm,weak,accident,0.25,0,3,Read,strong,Study2,U,Study Phase,Recall1,5666,USM
 10134188andCC,salt,riddle,0.166666667,0,3,Read,sugar,Study2,U,Study Phase,Recall1,3162,USM
+ArielThomas,sweet,riddle,0.166666667,0,3,Read Recall,sugar,Study2,U,Study Phase,Recall1,5479,USM
+JadeRoss,,riddle,0,0,3,Read Recall,sugar,Study2,U,Study Phase,Recall1,2286,USM
 MadisonHodge,rush,riddle,0.166666667,0,3,Read Recall,sugar,Study2,U,Study Phase,Recall1,3696,USM
 MakaylaTemple,sweet,riddle,0.166666667,0,3,Read Recall,sugar,Study2,U,Study Phase,Recall1,3290,USM
 w10033523_hp,spice,riddle,0.333333333,0,3,Read,sugar,Study2,U,Study Phase,Recall1,1618,USM
@@ -3135,6 +3485,8 @@ w10148391-Jk,dietary ,riddle,0.5,0,3,Read,sugar,Study2,U,Study Phase,Recall1,523
 w10151253_ES,sweet,riddle,0.166666667,0,3,Read,sugar,Study2,U,Study Phase,Recall1,4189,USM
 w958722_hnm,salt,riddle,0.166666667,0,3,Read,sugar,Study2,U,Study Phase,Recall1,5374,USM
 10134188andCC,winter,snow,0.333333333,0,3,Read,summer,Study2,M,Study Phase,Recall1,2363,USM
+ArielThomas,spring,snow,0.333333333,0,3,Read Recall,summer,Study2,M,Study Phase,Recall1,4551,USM
+JadeRoss,warm,snow,0.25,0,3,Read Recall,summer,Study2,M,Study Phase,Recall1,2220,USM
 MadisonHodge,hot,snow,0.25,0,3,Read Recall,summer,Study2,M,Study Phase,Recall1,4417,USM
 MakaylaTemple,spring,snow,0.333333333,0,3,Read Recall,summer,Study2,M,Study Phase,Recall1,2472,USM
 w10033523_hp,snow,snow,1,1,3,Read,summer,Study2,M,Study Phase,Recall1,7953,USM
@@ -3156,6 +3508,8 @@ w10148391-Jk,spring,snow,0.333333333,0,3,Read,summer,Study2,M,Study Phase,Recall
 w10151253_ES,fun,snow,0.25,0,3,Read,summer,Study2,M,Study Phase,Recall1,9266,USM
 w958722_hnm,snow ,snow,0.8,1,3,Read,summer,Study2,M,Study Phase,Recall1,7594,USM
 10134188andCC,door,cave,0,0,3,Read,trap,Study2,M,Study Phase,Recall1,2207,USM
+ArielThomas,door,cave,0,0,3,Read Recall,trap,Study2,M,Study Phase,Recall1,3536,USM
+JadeRoss,,cave,0,0,3,Read Recall,trap,Study2,M,Study Phase,Recall1,1917,USM
 MadisonHodge,,cave,0,0,3,Read Recall,trap,Study2,M,Study Phase,Recall1,1274,USM
 MakaylaTemple,cave,cave,1,1,3,Read Recall,trap,Study2,M,Study Phase,Recall1,2578,USM
 w10033523_hp,door,cave,0,0,3,Read,trap,Study2,M,Study Phase,Recall1,2475,USM
@@ -3177,6 +3531,8 @@ w10148391-Jk,door,cave,0,0,3,Read,trap,Study2,M,Study Phase,Recall1,5867,USM
 w10151253_ES,cave,cave,1,1,3,Read,trap,Study2,M,Study Phase,Recall1,3604,USM
 w958722_hnm,door,cave,0,0,3,Read,trap,Study2,M,Study Phase,Recall1,10037,USM
 10134188andCC,hill,peak,0,0,3,Read,valley,Study2,M,Study Phase,Recall1,2536,USM
+ArielThomas,peak,peak,1,1,3,Read Recall,valley,Study2,M,Study Phase,Recall1,3366,USM
+JadeRoss,,peak,0,0,3,Read Recall,valley,Study2,M,Study Phase,Recall1,898,USM
 MadisonHodge,,peak,0,0,3,Read Recall,valley,Study2,M,Study Phase,Recall1,2795,USM
 MakaylaTemple,,peak,0,0,3,Read Recall,valley,Study2,M,Study Phase,Recall1,2537,USM
 w10033523_hp,woods,peak,0,0,3,Read,valley,Study2,M,Study Phase,Recall1,5221,USM
@@ -3198,6 +3554,8 @@ w10148391-Jk,,peak,0,0,3,Read,valley,Study2,M,Study Phase,Recall1,3689,USM
 w10151253_ES,open,peak,0.5,0,3,Read,valley,Study2,M,Study Phase,Recall1,5273,USM
 w958722_hnm,desert,peak,0.166666667,0,3,Read,valley,Study2,M,Study Phase,Recall1,10514,USM
 10134188andCC,bee,bug,0.333333333,0,3,Read,wasp,Study2,F,Study Phase,Recall1,2325,USM
+ArielThomas,sting,bug,0.2,0,3,Read Recall,wasp,Study2,F,Study Phase,Recall1,5775,USM
+JadeRoss,sting,bug,0.2,0,3,Read Recall,wasp,Study2,F,Study Phase,Recall1,1845,USM
 MadisonHodge,sting,bug,0.2,0,3,Read Recall,wasp,Study2,F,Study Phase,Recall1,3896,USM
 MakaylaTemple,bug,bug,1,1,3,Read Recall,wasp,Study2,F,Study Phase,Recall1,2188,USM
 w10033523_hp,hornet,bug,0,0,3,Read,wasp,Study2,F,Study Phase,Recall1,1855,USM
@@ -3219,6 +3577,8 @@ w10148391-Jk,hornet,bug,0,0,3,Read,wasp,Study2,F,Study Phase,Recall1,2673,USM
 w10151253_ES,insect,bug,0,0,3,Read,wasp,Study2,F,Study Phase,Recall1,5079,USM
 w958722_hnm,sting ,bug,0.166666667,0,3,Read,wasp,Study2,F,Study Phase,Recall1,12759,USM
 10134188andCC,see,knob,0,0,3,Read,window,Study2,M,Study Phase,Recall1,2734,USM
+ArielThomas,house,knob,0.2,0,3,Read Recall,window,Study2,M,Study Phase,Recall1,17064,USM
+JadeRoss,,knob,0,0,3,Read Recall,window,Study2,M,Study Phase,Recall1,1808,USM
 MadisonHodge,seal,knob,0,0,3,Read Recall,window,Study2,M,Study Phase,Recall1,6308,USM
 MakaylaTemple,clear,knob,0,0,3,Read Recall,window,Study2,M,Study Phase,Recall1,8459,USM
 w10033523_hp,glass,knob,0,0,3,Read,window,Study2,M,Study Phase,Recall1,2290,USM
