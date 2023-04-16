@@ -1,7 +1,7 @@
 ####This script will be used to read in everything and set EX 2data up for processing####
 ##Start by gathering all of the data
 #JOLs and frequency
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1 - Recall/Prolific/JOL")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1A - Recall/Prolific/JOL")
 
 files = list.files(pattern = "*.csv")
 
@@ -12,7 +12,7 @@ dat = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FA
 length(unique(dat$Username))
 
 #read
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1 - Recall/Prolific/Read")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1A - Recall/Prolific/Read")
 
 files2 = list.files(pattern = "*.csv")
 

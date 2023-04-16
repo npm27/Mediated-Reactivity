@@ -1,7 +1,7 @@
 ####This script will be used to read in everything and set EX 2data up for processing####
 ##Start by gathering all of the data
 #JOLs and frequency
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1B - Recog/USM/JOL")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1B - Recog/MSU/JOL")
 
 files = list.files(pattern = "*.csv")
 
@@ -12,7 +12,7 @@ dat = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FA
 length(unique(dat$Username))
 
 #read
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1B - Recog/USM/Read")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1B - Recog/MSU/Read")
 
 files2 = list.files(pattern = "*.csv")
 
@@ -107,7 +107,7 @@ JOL.combined = JOL.combined[ , -c(2, 5)]
 colnames(JOL.combined)[2] = "control"
 
 JOL.combined$encoding = rep("JOL")
-JOL.combined$source = rep("USM")
+JOL.combined$source = rep("MSU")
 
 JOL.combined = JOL.combined[ , c(1, 2, 3, 4, 6, 7, 5)]
 
@@ -151,7 +151,7 @@ Study.combined = Study.combined[ , -c(2, 5)]
 colnames(Study.combined)[2] = "control"
 
 Study.combined$encoding = rep("Read")
-Study.combined$source = rep("USM")
+Study.combined$source = rep("MSU")
 
 Study.combined = Study.combined[ , c(1, 2, 3, 4, 6, 7, 5)]
 
@@ -162,7 +162,4 @@ combined = rbind(JOL.combined, Study.combined)
 combined = combined[order(combined$Username), ]
 
 #write to file
-#write.csv(combined, file = "USM_recog.csv", row.names = F)
-
-#write the encoding data to file
-#write.csv(encoding.dat, file = "USM_encoding.csv", row.names = F)
+#write.csv(combined, file = "MSU_recog.csv", row.names = F)
