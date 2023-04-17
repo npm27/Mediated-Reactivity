@@ -67,7 +67,11 @@ encoding.dat = rbind(dat.Study, dat.JOL)
 
 ##combine recog data
 #need to get pair type info
-#start w/ JOL data
+#start w/ JOL data\
+#fix the weirdness
+dat.Recog1$Stimuli.Stimuli.Notes[dat.Recog1$Stimuli.Stimuli.Notes == "CONTROL"] = "Control"
+dat.Recog2$Stimuli.Stimuli.Notes[dat.Recog2$Stimuli.Stimuli.Notes == "CONTROL"] = "Control"
+
 JOL.presented = subset(dat.Recog1,
                        dat.Recog1$Stimuli.Stimuli.Notes == "Presented")
 JOL.control = subset(dat.Recog1,
