@@ -66,13 +66,18 @@ tapply(dat$Scored, list(dat$encoding, dat$Direction), mean)
 presented = subset(dat,
                    dat$control == "Presented")
 
-ezANOVA(presented,
+out1 = ezANOVA(presented,
         wid = Username,
         dv = Scored,
         between = encoding,
         within = Direction,
         type = 3,
         detailed = T) #Sig effect of encoding, sig effect of direction, no interaction
+
+out1$ANOVA$MSE = out1$ANOVA$SSd/out1$ANOVA$DFd
+out1$ANOVA$MSE
+
+aovEffectSize(out1, effectSize = "pes")
 
 ##Break down effects/interactions
 tapply(presented$Scored, presented$Direction, mean) #main effect of direction
@@ -109,3 +114,27 @@ temp
 round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+##get ns
+length(unique(jol3$Username)) #64
+length(unique(read3$Username)) #61
+
+##get sds for d
+apply(jol3, 2, sd)
+apply(read3, 2, sd)
+
+##compare false alarms
+FA = subset(dat,
+            dat$Direction == "not presented")
+
+FA2 = cast(FA, Username ~ encoding, mean)
+
+#t-test
+temp = t.test(FA2$JOL, FA2$Read, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #sig!
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+#get sds for d
+apply(FA2, 2, sd, na.rm = T)
