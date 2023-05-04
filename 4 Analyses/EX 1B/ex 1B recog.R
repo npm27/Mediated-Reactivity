@@ -48,12 +48,13 @@ read.long = cast(read, Username ~ Direction, mean)
 ##Remove individuals not paying attention
 dat = subset(dat,
                 dat$Username != "KatelynNguyen" & dat$Username != "KaylaGilliam" & dat$Username != "KallieSiebrasse" &
-                dat$Username != "M20315432_AV" & dat$Username != "MeganRobbins")
+                dat$Username != "M20315432_AV")
 
 #JOL
 #not paying attention
 dat = subset(dat,
-             dat$Username != "MadisonUlmer" & dat$Username != "IzyclerPimentel" & dat$Username != "makylawatson")
+             dat$Username != "MadisonUlmer" & dat$Username != "IzyclerPimentel" & dat$Username != "makylawatson"
+             & dat$Username != "AmyiaKimes")
 
 ####Get descriptives####
 ##general data patterns

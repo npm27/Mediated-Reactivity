@@ -1,0 +1,101 @@
+Cue,Answer,Shuffle,Stimuli Notes,Value
+TREES,GREEN,BUFFER1,Buffer,1
+PITCHER,CATCHER,BUFFER1,Buffer,2
+PEANUT,BUTTER,BUFFER1,Buffer,3
+SCARE,FRIGHT,BUFFER1,Buffer,4
+SPACE,JAM,BUFFER1,Buffer,5
+Summer,Snow,Study/JOL,M,6
+School,Stop,Study/JOL,M,7
+Pants,Collar,Study/JOL,M,8
+Reality,Island,Study/JOL,M,9
+Eyes,Smell,Study/JOL,M,10
+Nurse,Lawyer,Study/JOL,M,11
+Soap,Drink,Study/JOL,M,12
+Heavy,Feather,Study/JOL,M,13
+Rake ,Seed,Study/JOL,M,14
+Trap,Cave,Study/JOL,M,15
+Cactus,Plant,Study/JOL,F,16
+Chop,Cut,Study/JOL,F,17
+Chisel,Hammer,Study/JOL,F,18
+Attire,Clothes,Study/JOL,F,19
+Cherry,Red,Study/JOL,F,20
+Blaze,Fire,Study/JOL,F,21
+Documentary,Paper,Study/JOL,F,22
+Incense,Smell,Study/JOL,F,23
+League,Baseball,Study/JOL,F,24
+Hornet,Sting,Study/JOL,F,25
+King,Vase,Study/JOL,U,26
+Happy,Car,Study/JOL,U,27
+Art,Wolf,Study/JOL,U,28
+Strong,Accident,Study/JOL,U,29
+Sugar,Riddle,Study/JOL,U,30
+Push,Clutter,Study/JOL,U,31
+Dietary,Sack,Study/JOL,U,32
+Bench,Horn,Study/JOL,U,33
+Death,Business,Study/JOL,U,34
+Sick,Hide,Study/JOL,U,35
+GEESE,GOOSE,BUFFER2,Buffer,36
+SHERRIF,POLICE,BUFFER2,Buffer,37
+MALT,CHOCOLATE,BUFFER2,Buffer,38
+MOON,SPACE,BUFFER2,Buffer,39
+THING,STUFF,BUFFER2,Buffer,40
+,Bounce,RECOG,CONTROL,41
+,Dance,RECOG,CONTROL,42
+,Wheel,RECOG,CONTROL,43
+,Carpet,RECOG,CONTROL,44
+,Bottle,RECOG,CONTROL,45
+,Finger,RECOG,CONTROL,46
+,Dark,RECOG,CONTROL,47
+,Hair,RECOG,CONTROL,48
+,Cotton,RECOG,CONTROL,49
+,Syrup,RECOG,CONTROL,50
+,Bird,RECOG,CONTROL,51
+,Sentence,RECOG,CONTROL,52
+,Clean,RECOG,CONTROL,53
+,Sleep,RECOG,CONTROL,54
+,Hot,RECOG,CONTROL,55
+,Love,RECOG,CONTROL,56
+,Drink,RECOG,CONTROL,57
+,Card,RECOG,CONTROL,58
+,Flower,RECOG,CONTROL,59
+,Fish,RECOG,CONTROL,60
+,Keys,RECOG,CONTROL,61
+,Phone,RECOG,CONTROL,62
+,Shake,RECOG,CONTROL,63
+,Fiction,RECOG,CONTROL,64
+,Rod,RECOG,CONTROL,65
+,Belt,RECOG,CONTROL,66
+,Tick,RECOG,CONTROL,67
+,Morning,RECOG,CONTROL,68
+,Hand,RECOG,CONTROL,69
+,Bang,RECOG,CONTROL,70
+ ,Snow,RECOG,Presented,86
+ ,Stop,RECOG,Presented,87
+ ,Collar,RECOG,Presented,88
+ ,Island,RECOG,Presented,89
+ ,Smell,RECOG,Presented,90
+ ,Lawyer,RECOG,Presented,91
+ ,Drink,RECOG,Presented,92
+ ,Feather,RECOG,Presented,93
+ ,Seed,RECOG,Presented,94
+ ,Cave,RECOG,Presented,95
+ ,Plant,RECOG,Presented,96
+ ,Cut,RECOG,Presented,97
+ ,Hammer,RECOG,Presented,98
+ ,Clothes,RECOG,Presented,99
+ ,Red,RECOG,Presented,100
+ ,Fire,RECOG,Presented,101
+ ,Paper,RECOG,Presented,102
+ ,Smell,RECOG,Presented,103
+ ,Baseball,RECOG,Presented,104
+ ,Sting,RECOG,Presented,105
+ ,Vase,RECOG,Presented,106
+ ,Car,RECOG,Presented,107
+ ,Wolf,RECOG,Presented,108
+ ,Accident,RECOG,Presented,109
+ ,Riddle,RECOG,Presented,110
+ ,Clutter,RECOG,Presented,111
+ ,Sack,RECOG,Presented,112
+ ,Horn,RECOG,Presented,113
+ ,Business,RECOG,Presented,114
+ ,Hide,RECOG,Presented,115

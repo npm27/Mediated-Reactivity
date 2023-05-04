@@ -1,0 +1,146 @@
+Cue,Answer,Shuffle,Stimuli Notes,Value
+DAYS,WEAKS,BUFFER3,Buffer,1
+MONTH,YEAR,BUFFER3,Buffer,2
+TOOL,SHED,BUFFER3,Buffer,3
+SPRING,MARCH,BUFFER3,Buffer,4
+OCTOBER,SPOOKY,BUFFER3,Buffer,5
+SUMMER,SNOW,Study2,M,6
+SCHOOL,STOP,Study2,M,7
+PANTS,COLLAR,Study2,M,8
+REALITY,ISLAND,Study2,M,9
+EYES,SMELL,Study2,M,10
+NURSE,LAWYER,Study2,M,11
+SOAP,DRINK,Study2,M,12
+HEAVY,FEATHER,Study2,M,13
+RAKE ,SEED,Study2,M,14
+TRAP,CAVE,Study2,M,15
+OVEN,BASKET,Study2,M,16
+GRILL,THIGH,Study2,M,17
+VALLEY,PEAK,Study2,M,18
+WINDOW,KNOB,Study2,M,19
+RAZOR,MUSCLE,Study2,M,20
+CACTUS,PLANT,Study2,F,21
+CHOP,CUT,Study2,F,22
+CHISEL,HAMMER,Study2,F,23
+ATTIRE,CLOTHES,Study2,F,24
+CHERRY,RED,Study2,F,25
+BLAZE,FIRE,Study2,F,26
+DOCUMENT,PAPER,Study2,F,27
+INCENSE,SMELL,Study2,F,28
+LEAGUE,BASEBALL,Study2,F,29
+HORNET,STING,Study2,F,30
+FEUD,FIGHT,Study2,F,31
+CHILL,COLD,Study2,F,32
+HERD,COW,Study2,F,33
+WASP,BUG,Study2,F,34
+BRIDGE,WATER,Study2,F,35
+KING                     ,VASE                     ,Study2,U,36
+HAPPY,CAR,Study2,U,37
+ART,WOLF,Study2,U,38
+STRONG,ACCIDENT,Study2,U,39
+SUGAR,RIDDLE,Study2,U,40
+PUSH                ,CLUTTER                  ,Study2,U,41
+DIETARY                  ,SACK,Study2,U,42
+BENCH,HORN,Study2,U,43
+DEATH,BUSINESS,Study2,U,44
+SICK                     ,HIDE                     ,Study2,U,45
+LEASE                    ,TOIL                     ,Study2,U,46
+BOTH                     ,OUNCE                    ,Study2,U,47
+ARTERY                   ,BRONZE                   ,Study2,U,48
+MIRROR,CHILDREN,Study2,U,49
+CASH,LEG,Study2,U,50
+CARROT,POTATO,BUFFER4,Buffer,51
+NOODLE,STRING,BUFFER4,Buffer,52
+SHRIMP,FISH,BUFFER4,Buffer,53
+ICE,FROZEN,BUFFER4,Buffer,54
+CAMP,ADVENTURE,BUFFER4,Buffer,55
+ ,STRIPES,RECOG,Control,61
+ ,BOX,RECOG,Control,62
+ ,QUIET,RECOG,Control,63
+ ,PIE,RECOG,Control,64
+ ,SILK,RECOG,Control,65
+ ,SYRUP,RECOG,Control,66
+ ,BOUNCE,RECOG,Control,67
+ ,DANCE,RECOG,Control,68
+ ,WHEEL,RECOG,Control,69
+ ,CARPET,RECOG,Control,70
+ ,BOTTLE,RECOG,Control,71
+ ,FINGER,RECOG,Control,72
+ ,DARK,RECOG,Control,73
+ ,HAIR,RECOG,Control,74
+ ,COTTON,RECOG,Control,75
+ ,TRASH,RECOG,Control,76
+ ,MONEY,RECOG,Control,77
+ ,HEAD,RECOG,Control,78
+ ,DONKEY,RECOG,Control,79
+ ,PLANT,RECOG,Control,80
+ ,BIRD,RECOG,Control,81
+ ,SENTENCE,RECOG,Control,82
+ ,CLEAN,RECOG,Control,83
+ ,SLEEP,RECOG,Control,84
+ ,DONKEY,RECOG,Control,85
+ ,LOVE,RECOG,Control,86
+ ,DRINK,RECOG,Control,87
+ ,CARD,RECOG,Control,88
+ ,FLOWER,RECOG,Control,89
+ ,FISH,RECOG,Control,90
+ ,MAROON                   ,RECOG,Control,91
+ ,CLOTH,RECOG,Control,92
+ ,STEAK,RECOG,Control,93
+ ,ELECTION,RECOG,Control,94
+ ,CHARM,RECOG,Control,95
+ ,KEYS,RECOG,Control,96
+ ,PHONE,RECOG,Control,97
+ ,SHAKE,RECOG,Control,98
+ ,FICTION,RECOG,Control,99
+ ,ROD,RECOG,Control,100
+ ,BELT,RECOG,Control,101
+ ,TICK,RECOG,Control,102
+ ,MORNING,RECOG,Control,103
+ ,HAND,RECOG,Control,104
+ ,BANG,RECOG,Control,105
+ ,SNOW,RECOG,Presented,106
+ ,STOP,RECOG,Presented,107
+ ,COLLAR,RECOG,Presented,108
+ ,ISLAND,RECOG,Presented,109
+ ,SMELL,RECOG,Presented,110
+ ,LAWYER,RECOG,Presented,111
+ ,DRINK,RECOG,Presented,112
+ ,FEATHER,RECOG,Presented,113
+ ,SEED,RECOG,Presented,114
+ ,CAVE,RECOG,Presented,115
+ ,BASKET,RECOG,Presented,116
+ ,THIGH,RECOG,Presented,117
+ ,PEAK,RECOG,Presented,118
+ ,KNOB,RECOG,Presented,119
+ ,MUSCLE,RECOG,Presented,120
+ ,PLANT,RECOG,Presented,121
+ ,CUT,RECOG,Presented,122
+ ,HAMMER,RECOG,Presented,123
+ ,CLOTHES,RECOG,Presented,124
+ ,RED,RECOG,Presented,125
+ ,FIRE,RECOG,Presented,126
+ ,PAPER,RECOG,Presented,127
+ ,SMELL,RECOG,Presented,128
+ ,BASEBALL,RECOG,Presented,129
+ ,STING,RECOG,Presented,130
+ ,FIGHT,RECOG,Presented,131
+ ,COLD,RECOG,Presented,132
+ ,COW,RECOG,Presented,133
+ ,BUG,RECOG,Presented,134
+ ,WATER,RECOG,Presented,135
+ ,VASE                     ,RECOG,Presented,136
+ ,CAR,RECOG,Presented,137
+ ,WOLF,RECOG,Presented,138
+ ,ACCIDENT,RECOG,Presented,139
+ ,RIDDLE,RECOG,Presented,140
+ ,CLUTTER                  ,RECOG,Presented,141
+ ,SACK,RECOG,Presented,142
+ ,HORN,RECOG,Presented,143
+ ,BUSINESS,RECOG,Presented,144
+ ,HIDE                     ,RECOG,Presented,145
+ ,TOIL                     ,RECOG,Presented,146
+ ,OUNCE                    ,RECOG,Presented,147
+ ,BRONZE                   ,RECOG,Presented,148
+ ,CHILDREN,RECOG,Presented,149
+ ,LEG,RECOG,Presented,150
