@@ -112,6 +112,9 @@ read.ph = cast(read3, id ~ direction, mean)
 (apply(jol.ph[ , -1], 2, sd) / sqrt(nrow(jol.ph))) * 1.96
 (apply(read.ph[ , -1], 2, sd) / sqrt(nrow(read.ph))) * 1.96
 
+nrow(jol.ph) #n = 60
+nrow(read.ph) #n = 60
+
 ##forward
 temp = t.test(jol.ph$F, read.ph$F, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
@@ -206,7 +209,3 @@ jol$JOL = as.numeric(jol$JOL)
 jol$JOL[jol$JOL > 100] = NA
 
 tapply(jol$JOL, jol$Direction, mean, na.rm = T)
-
-##one-way anova
-
-##t-tests

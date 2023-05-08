@@ -130,6 +130,8 @@ FA = subset(dat,
 
 FA2 = cast(FA, Username ~ encoding, mean)
 
+apply(FA2, 2, mean, na.rm = T)
+
 #t-test
 temp = t.test(FA2$JOL, FA2$Read, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp

@@ -1,0 +1,156 @@
+Item,Trial Type,Max Time,Min Time,Text,Procedure Notes,Shuffle,
+0,Instruct,-,5,"In this section, you will be presented with a series of word pairs. Please study each word pair! Your memory will be tested!",Initial_Instruct,Instruct1,
+0,Instruct,-,10,"As you study, you will be asked to rate your ability to remember the second item in the pair on a later test. You will make these ratings using a 0 to 100 Scale.",,Instruct13,
+0,Instruct,-,10,"For  example, if you are given the pair CAT - DOG, a rating of 0 indicates that you would not remember DOG at test, while a rating of 100 indicates full certainty that you would remember the word DOG at test.",,Instruct14,
+0,Instruct,-,10,"When making your ratings, it is criticial that you use the full range of the scale. You will be disqualified for only giving ratings of 0 or 100! After making your rating, press Enter to advance to the next pair.",,Instruct15,
+0,Instruct,User,-,You will now begin the study. Press Enter when you are ready to begin.,,Instruct16,
+2,JOL,User,-,,Study/JOL,BUFFER,
+3,JOL,User,-,,Study/JOL,BUFFER,
+4,JOL,User,-,,Study/JOL,BUFFER,
+5,JOL,User,-,,Study/JOL,BUFFER,
+6,JOL,User,-,,Study/JOL,BUFFER,
+7,JOL,User,-,,Study/JOL,Study Phase,
+8,JOL,User,-,,Study/JOL,Study Phase,
+9,JOL,User,-,,Study/JOL,Study Phase,
+10,JOL,User,-,,Study/JOL,Study Phase,
+11,JOL,User,-,,Study/JOL,Study Phase,
+12,JOL,User,-,,Study/JOL,Study Phase,
+13,JOL,User,-,,Study/JOL,Study Phase,
+14,JOL,User,-,,Study/JOL,Study Phase,
+15,JOL,User,-,,Study/JOL,Study Phase,
+16,JOL,User,-,,Study/JOL,Study Phase,
+17,JOL,User,-,,Study/JOL,Study Phase,
+18,JOL,User,-,,Study/JOL,Study Phase,
+19,JOL,User,-,,Study/JOL,Study Phase,
+20,JOL,User,-,,Study/JOL,Study Phase,
+21,JOL,User,-,,Study/JOL,Study Phase,
+22,JOL,User,-,,Study/JOL,Study Phase,
+23,JOL,User,-,,Study/JOL,Study Phase,
+24,JOL,User,-,,Study/JOL,Study Phase,
+25,JOL,User,-,,Study/JOL,Study Phase,
+26,JOL,User,-,,Study/JOL,Study Phase,
+27,JOL,User,-,,Study/JOL,Study Phase,
+28,JOL,User,-,,Study/JOL,Study Phase,
+29,JOL,User,-,,Study/JOL,Study Phase,
+30,JOL,User,-,,Study/JOL,Study Phase,
+31,JOL,User,-,,Study/JOL,Study Phase,
+32,JOL,User,-,,Study/JOL,Study Phase,
+33,JOL,User,-,,Study/JOL,Study Phase,
+34,JOL,User,-,,Study/JOL,Study Phase,
+35,JOL,User,-,,Study/JOL,Study Phase,
+36,JOL,User,-,,Study/JOL,Study Phase,
+37,JOL,User,-,,Study/JOL,Study Phase,
+38,JOL,User,-,,Study/JOL,Study Phase,
+39,JOL,User,-,,Study/JOL,Study Phase,
+40,JOL,User,-,,Study/JOL,Study Phase,
+41,JOL,User,-,,Study/JOL,Study Phase,
+42,JOL,User,-,,Study/JOL,Study Phase,
+43,JOL,User,-,,Study/JOL,Study Phase,
+44,JOL,User,-,,Study/JOL,Study Phase,
+45,JOL,User,-,,Study/JOL,Study Phase,
+46,JOL,User,-,,Study/JOL,Study Phase,
+47,JOL,User,-,,Study/JOL,Study Phase,
+48,JOL,User,-,,Study/JOL,Study Phase,
+49,JOL,User,-,,Study/JOL,Study Phase,
+50,JOL,User,-,,Study/JOL,Study Phase,
+51,JOL,User,-,,Study/JOL,Study Phase,
+52,JOL,User,-,,Study/JOL,BUFFER2,
+53,JOL,User,-,,Study/JOL,BUFFER2,
+54,JOL,User,-,,Study/JOL,BUFFER2,
+55,JOL,User,-,,Study/JOL,BUFFER2,
+56,JOL,User,-,,Study/JOL,BUFFER2,
+0,Instruct,User,-,You have completed this section. Please press Enter.,Filler_Instruction,Instruct2,
+0,FreeRecall,120,120,Please list the 50 US states in alphabetical order. The task will automatically advance to the next screen after two minutes.,,Filler1,
+0,Instruct,User,10,"Your memory will now be tested. You will be presented with a series of words that may or may not have previously been presented alongisde another word. If the word on the screen was previously studied, please select YES. If the word was not studied, select NO. PLEASE DO NOT SKIP ITEMS! Click next when you are ready to begin.",,Instruc7982154d,
+57,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+58,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+59,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+60,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+61,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+62,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+63,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+64,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+65,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+66,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+67,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+68,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+69,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+70,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+71,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+72,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+73,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+74,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+75,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+76,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+77,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+78,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+79,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+80,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+81,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+82,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+83,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+84,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+85,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+86,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+87,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+88,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+89,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+90,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+91,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+92,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+93,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+94,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+95,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+96,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+97,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+98,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+99,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+100,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+101,Likert,User,1,Was this item previously studied? ,CONTROL,Recog,1::2
+102,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+103,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+104,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+105,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+106,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+107,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+108,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+109,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+110,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+111,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+112,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+113,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+114,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+115,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+116,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+117,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+118,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+119,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+120,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+121,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+122,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+123,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+124,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+125,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+126,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+127,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+128,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+129,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+130,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+131,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+132,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+133,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+134,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+135,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+136,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+137,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+138,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+139,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+140,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+141,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+142,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+143,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+144,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+145,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+146,Likert,User,1,Was this item previously studied? ,PRESENTED,Recog,1::2
+0,Instruct,User,-,You have completed this section. Please press Enter.,,Instruct7,
+0,Instruct,User,-,The following screen will ask you a few questions abour your experience today. You must complete these questions to receive credit.,,Instruct8,
