@@ -1,9 +1,5 @@
-####Set up####
-##read in data
-dat1 = read.csv("Recog/USM_recog.csv")
-dat2 = read.csv("Recog/MSU_recog.csv")
-
-dat = rbind(dat1, dat2)
+####Set Up####
+dat = read.csv("Recog/recog.csv")
 
 ##fix np coding
 np = subset(dat,
@@ -26,9 +22,8 @@ options(scipen = 999)
 
 ####Explore the data####
 ##get n
-length(unique(dat$Username)) #133 participants
+length(unique(dat$Username)) #120 participants
 
-##general data patterns
 tapply(dat$Scored, dat$Direction, mean) ##okay, mediated and F have higher mean recall vs u.
 
 tapply(dat$Scored, list(dat$encoding, dat$Direction), mean)
@@ -45,39 +40,33 @@ read = na.omit(read)
 
 read.long = cast(read, Username ~ Direction, mean)
 
-##Remove individuals not paying attention
+##remove any one with high recog > 90% in unrelated AND one other category (or Extremely low recog < 10%)
 dat = subset(dat,
-                dat$Username != "KatelynNguyen" & dat$Username != "KaylaGilliam" & dat$Username != "KallieSiebrasse" &
-                dat$Username != "M20315432_AV")
+             dat$Username != "5ee244d2d241782e69ec45ca" &
+             dat$Username != "63d40e90072d08076c329c11") #JOL
 
-#JOL
-#not paying attention
 dat = subset(dat,
-             dat$Username != "MadisonUlmer" & dat$Username != "IzyclerPimentel" & dat$Username != "makylawatson"
-             & dat$Username != "AmyiaKimes")
+             dat$Username != "596e1edd39e9d00001b7bb98" & dat$Username != "63d68acca98cdd2bf385cfad" & 
+             dat$Username != "6012ed349807110d8eb941a6" & dat$Username != "63f7e1bb3866d96e37ecfd1c")
 
-####Get descriptives####
-##general data patterns
-tapply(dat$Scored, dat$Direction, mean) ##okay, mediated and F have higher mean recall vs u.
-
-tapply(dat$Scored, list(dat$encoding, dat$Direction), mean)
-
-####ANOVAS####
-#let's just look at studied items
+####ANOVA####
+##Let's just look at correct hits
 presented = subset(dat,
                    dat$control == "Presented")
 
-##write to file for cross experimental
-#write.csv(presented, file = "orig.csv", row.names = F)
+#write to csv for cross experimental
+write.csv(presented, file = "rep.csv", row.names = F)
 
-#Anova
+#run the anova!
 out1 = ezANOVA(presented,
-        wid = Username,
-        dv = Scored,
-        between = encoding,
-        within = Direction,
-        type = 3,
-        detailed = T) #Sig effect of encoding, sig effect of direction, no interaction
+               wid = Username,
+               dv = Scored,
+               between = encoding,
+               within = Direction,
+               type = 3,
+               detailed = T) #Sig effect of encoding, sig effect of direction, no interaction
+
+out1
 
 out1$ANOVA$MSE = out1$ANOVA$SSd/out1$ANOVA$DFd
 out1$ANOVA$MSE
@@ -121,11 +110,11 @@ temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 ##get ns
-length(unique(jol3$Username)) #63
+length(unique(jol3$Username)) #62
 length(unique(read3$Username)) #62
 
 ##get sds for d
-(apply(jol3, 2, sd) / sqrt(63)) * 1.96
+(apply(jol3, 2, sd) / sqrt(62)) * 1.96
 (apply(read3, 2, sd) / sqrt(62)) * 1.96
 
 ##compare false alarms
@@ -144,10 +133,4 @@ temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #get sds for d
-x = apply(FA2, 2, sd, na.rm = T)
-
-#JOL
-(x[1] / sqrt(nrow(jol3))) * 1.96
-
-#Read
-(x[2] / sqrt(nrow(read3))) * 1.96
+(apply(FA2, 2, sd, na.rm = T) / sqrt(62)) * 1.96
