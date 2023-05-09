@@ -1,0 +1,9 @@
+Number,Stimuli,Procedure,Condition Description,Condition Notes
+1,versionA_stim.csv,ReadVersion_Recall.csv,#Read Recall,Read1
+2,versionA_stim.csv,JOLVersion_Recall.csv,#JOL Recall,JOL1
+3,versionB_stim.csv,ReadVersion_Recall.csv,#Read Recall,Read2
+4,versionB_stim.csv,JOLVersion_Recall.csv,#JOL Recall,JOL2
+5,versionC_stim.csv,ReadVersion_Recog.csv,Read Recog,Read3
+6,versionC_stim.csv,JOLVersion_Recog.csv,JOL Recog,JOL3
+7,versionD_stim.csv,ReadVersion_Recog.csv,Read Recog,Read4
+8,versionD_stim.csv,JOLVersion_Recog.csv,JOL Recog,JOL4
