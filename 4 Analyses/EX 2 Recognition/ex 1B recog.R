@@ -26,7 +26,9 @@ options(scipen = 999)
 
 ####Explore the data####
 ##get n
-length(unique(dat$Username)) #133 participants
+length(unique(dat$Username)) #133 total participants
+length(unique(dat1$Username)) #77 USM participants
+length(unique(dat2$Username)) #56 MSU Texas participants
 
 ##general data patterns
 tapply(dat$Scored, dat$Direction, mean) ##okay, mediated and F have higher mean recall vs u.
@@ -91,6 +93,49 @@ tapply(presented$Scored, list(presented$encoding, presented$Direction), mean)
 
 ###post-hocs
 ##Direction
+direction.ph = cast(presented, Username ~ Direction, mean)
+
+#f vs m
+temp = t.test(direction.ph$F, direction.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #sig!
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(direction.ph$F); mean(direction.ph$M)
+sd(direction.ph$F); sd(direction.ph$M)
+
+#f vs u
+temp = t.test(direction.ph$F, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+pbic1 = direction.ph[ , c(1, 2)]
+pbic2 = direction.ph[ , c(1, 4)]
+
+pbic1$direction = rep("F")
+pbic2$direction = rep("U")
+
+colnames(pbic1)[2] = "score"
+colnames(pbic2)[2] = "score"
+
+pbic3 = rbind(pbic1, pbic2)
+
+ezANOVA(pbic3,
+        dv = score,
+        between = direction,
+        wid = Username,
+        detailed = T,
+        type = 3)
+
+#m vs u
+temp = t.test(direction.ph$M, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #sig!
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 ##Interaction
 jol2 = subset(presented, presented$encoding == "JOL")
@@ -106,6 +151,9 @@ round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
+mean(jol3$F); mean(read3$F)
+sd(jol3$F); sd(read3$F)
+
 #M
 temp = t.test(jol3$M, read3$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
@@ -113,12 +161,18 @@ round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
+mean(jol3$M); mean(read3$M)
+sd(jol3$M); sd(read3$M)
+
 #U
 temp = t.test(jol3$U, read3$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(jol3$U); mean(read3$U)
+sd(jol3$U); sd(read3$U)
 
 ##get ns
 length(unique(jol3$Username)) #63
@@ -144,6 +198,10 @@ temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #get sds for d
+mean(FA2$JOL, na.rm = T); mean(FA2$Read, na.rm = T)
+sd(FA2$JOL, na.rm = T); sd(FA2$Read, na.rm = T)
+
+##95% CI
 x = apply(FA2, 2, sd, na.rm = T)
 
 #JOL
