@@ -22,7 +22,7 @@ options(scipen = 999)
 
 ####Explore the data####
 ##get n
-length(unique(dat$Username)) #120 participants
+length(unique(dat$Username)) #129 participants
 
 tapply(dat$Scored, dat$Direction, mean) ##okay, mediated and F have higher mean recall vs u.
 
@@ -80,6 +80,52 @@ tapply(presented$Scored, list(presented$encoding, presented$Direction), mean)
 
 ###post-hocs
 ##Direction
+direction.ph = cast(presented, Username ~ Direction, mean)
+
+#f vs m
+temp = t.test(direction.ph$F, direction.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #non-sig
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+pbic1 = direction.ph[ , c(1, 2)]
+pbic2 = direction.ph[ , c(1, 3)]
+
+pbic1$direction = rep("F")
+pbic2$direction = rep("M")
+
+colnames(pbic1)[2] = "score"
+colnames(pbic2)[2] = "score"
+
+pbic3 = rbind(pbic1, pbic2)
+
+ezANOVA(pbic3,
+        dv = score,
+        between = direction,
+        wid = Username,
+        detailed = T,
+        type = 3)
+
+#f vs u
+temp = t.test(direction.ph$F, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #sig
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(direction.ph$F); mean(direction.ph$U)
+sd(direction.ph$F); sd(direction.ph$U)
+
+#u vs m
+temp = t.test(direction.ph$M, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #sig
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(direction.ph$M); mean(direction.ph$U)
+sd(direction.ph$M); sd(direction.ph$U)
 
 ##Interaction
 jol2 = subset(presented, presented$encoding == "JOL")
@@ -95,12 +141,18 @@ round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
+mean(jol3$F); mean(read3$F)
+sd(jol3$F); sd(read3$F)
+
 #M
 temp = t.test(jol3$M, read3$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(jol3$M); mean(read3$M)
+sd(jol3$M); sd(read3$M)
 
 #U
 temp = t.test(jol3$U, read3$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
@@ -109,12 +161,15 @@ round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
+mean(jol3$U); mean(read3$U)
+sd(jol3$U); sd(read3$U)
+
 ##get ns
-length(unique(jol3$Username)) #62
+length(unique(jol3$Username)) #61
 length(unique(read3$Username)) #62
 
 ##get sds for d
-(apply(jol3, 2, sd) / sqrt(62)) * 1.96
+(apply(jol3, 2, sd) / sqrt(61)) * 1.96
 (apply(read3, 2, sd) / sqrt(62)) * 1.96
 
 ##compare false alarms
