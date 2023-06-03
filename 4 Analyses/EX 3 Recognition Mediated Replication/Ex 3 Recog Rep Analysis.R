@@ -168,8 +168,16 @@ sd(jol3$U); sd(read3$U)
 length(unique(jol3$Username)) #61
 length(unique(read3$Username)) #62
 
-##get sds for d
-(apply(jol3, 2, sd) / sqrt(61)) * 1.96
+##get means
+(apply(jol3, 2, mean))
+(apply(read3, 2, mean))
+
+##get sds
+(apply(jol3, 2, sd))
+(apply(read3, 2, sd))
+
+##get CIs
+(apply(jol3, 2, sd) / sqrt(63)) * 1.96
 (apply(read3, 2, sd) / sqrt(62)) * 1.96
 
 ##compare false alarms

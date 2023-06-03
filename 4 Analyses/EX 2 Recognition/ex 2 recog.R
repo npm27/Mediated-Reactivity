@@ -165,7 +165,7 @@ mean(jol3$M); mean(read3$M)
 sd(jol3$M); sd(read3$M)
 
 #U
-temp = t.test(jol3$U, read3$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp = t.test(read3$U, jol3$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
 temp$statistic #sig!
@@ -178,7 +178,15 @@ sd(jol3$U); sd(read3$U)
 length(unique(jol3$Username)) #63
 length(unique(read3$Username)) #62
 
-##get sds for d
+##get means
+(apply(jol3, 2, mean))
+(apply(read3, 2, mean))
+
+##get sds
+(apply(jol3, 2, sd))
+(apply(read3, 2, sd))
+
+##get CIs
 (apply(jol3, 2, sd) / sqrt(63)) * 1.96
 (apply(read3, 2, sd) / sqrt(62)) * 1.96
 
