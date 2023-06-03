@@ -76,9 +76,6 @@ tapply(presented$Scored, presented$Direction, mean) #main effect of direction
 tapply(presented$Scored, presented$encoding, mean) #main effect of encoding
 tapply(presented$Scored, list(presented$encoding, presented$Direction), mean)
 
-###post-hocs
-##Direction
-
 ##Interaction
 jol2 = subset(presented, presented$encoding == "JOL")
 jol3 = cast(jol2, Username ~ Direction, mean)
@@ -93,12 +90,18 @@ round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
+mean(jol3$F); mean(read3$F)
+sd(jol3$F); sd(read3$F)
+
 #U
 temp = t.test(jol3$U, read3$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(jol3$U); mean(read3$U)
+sd(jol3$U); sd(read3$U)
 
 ##get ns
 length(unique(jol3$Username)) #61
@@ -115,6 +118,7 @@ FA = subset(dat,
 FA2 = cast(FA, Username ~ encoding, mean)
 
 apply(FA2, 2, mean, na.rm = T)
+apply(FA2, 2, sd, na.rm = T)
 
 #t-test
 temp = t.test(FA2$JOL, FA2$Read, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
