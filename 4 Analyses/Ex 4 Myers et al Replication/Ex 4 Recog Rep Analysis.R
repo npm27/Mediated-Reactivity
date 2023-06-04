@@ -131,7 +131,7 @@ round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
-#get sds for d
+#get CIs
 (apply(FA2, 2, sd, na.rm = T) / sqrt(62)) * 1.96
 
 pbic1 = FA2[ , c(1, 2)]

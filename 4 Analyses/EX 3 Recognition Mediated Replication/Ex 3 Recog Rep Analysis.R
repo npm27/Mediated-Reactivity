@@ -55,7 +55,7 @@ presented = subset(dat,
                    dat$control == "Presented")
 
 #write to csv for cross experimental
-write.csv(presented, file = "rep.csv", row.names = F)
+#write.csv(presented, file = "rep.csv", row.names = F)
 
 #run the anova!
 out1 = ezANOVA(presented,
