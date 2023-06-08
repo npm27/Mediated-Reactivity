@@ -37,7 +37,7 @@ rects4 = ax1.bar(ind + width/2, s1_average, width, yerr = s1_conf, capsize = 3, 
                 label = 'No-JOL')
 
 #Make the plot spiffy
-ax1.set_title('Experiment 1: Recall', fontsize = 20, fontweight = 'bold')
+ax1.set_title('Experiment 1: Cued-Recall', fontsize = 20, fontweight = 'bold')
 ax1.set_ylabel('Mean % Recall', fontsize = 18, fontweight = 'bold')
 ax1.set_xlabel('Pair Type', fontsize = 18, fontweight = 'bold')
 #ax1.xaxis.labelpad = 0
@@ -47,4 +47,4 @@ ax1.legend(fontsize = 16)
 ax1.set_ylim([0,100])
 
 ##save figure
-#fig.savefig('EX1_chart.png', dip = 10000)
+fig.savefig('EX1_chart.png', dip = 10000)
