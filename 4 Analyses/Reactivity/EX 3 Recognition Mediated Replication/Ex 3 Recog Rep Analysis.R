@@ -1,5 +1,5 @@
 ####Set Up####
-dat = read.csv("Recog/Ex 4_recog.csv")
+dat = read.csv("Recog/recog.csv")
 
 ##fix np coding
 np = subset(dat,
@@ -12,8 +12,6 @@ pr = subset(dat,
 
 dat = rbind(np, pr)
 
-dat = dat[ , c(1, 2, 3, 4, 5, 7, 6)]
-
 ##load libraries
 library(ez)
 library(reshape)
@@ -24,7 +22,7 @@ options(scipen = 999)
 
 ####Explore the data####
 ##get n
-length(unique(dat$Username)) #125 participants
+length(unique(dat$Username)) #129 participants
 
 tapply(dat$Scored, dat$Direction, mean) ##okay, mediated and F have higher mean recall vs u.
 
@@ -44,16 +42,23 @@ read.long = cast(read, Username ~ Direction, mean)
 
 ##remove any one with high recog > 90% in unrelated AND one other category (or Extremely low recog < 10%)
 dat = subset(dat,
-             dat$Username != "5872d1aaa205a90001e7f3a4" & dat$Username != "5c6342cbfaca5c000186e2f5") #JOL
+             dat$Username != "5ee244d2d241782e69ec45ca" &
+             dat$Username != "63d40e90072d08076c329c11") #JOL
 
 dat = subset(dat,
-             dat$Username != "5c0873675b32d500012e3f2c" & dat$Username != "5d77eb3007e8770001acdef8" & 
-             dat$Username != "5e904f36cc3d6c355bbf48fa") #Read
+             dat$Username != "596e1edd39e9d00001b7bb98" & dat$Username != "63d68acca98cdd2bf385cfad" & 
+             dat$Username != "6012ed349807110d8eb941a6" & dat$Username != "63f7e1bb3866d96e37ecfd1c")
+
+##write to .csv for signal detection
+write.csv(dat, file = "sd ex 3.csv", row.names = F)
 
 ####ANOVA####
 ##Let's just look at correct hits
 presented = subset(dat,
                    dat$control == "Presented")
+
+#write to csv for cross experimental
+#write.csv(presented, file = "rep.csv", row.names = F)
 
 #run the anova!
 out1 = ezANOVA(presented,
@@ -62,7 +67,7 @@ out1 = ezANOVA(presented,
                between = encoding,
                within = Direction,
                type = 3,
-               detailed = T,)
+               detailed = T) #Sig effect of encoding, sig effect of direction, no interaction
 
 out1
 
@@ -75,6 +80,55 @@ aovEffectSize(out1, effectSize = "pes")
 tapply(presented$Scored, presented$Direction, mean) #main effect of direction
 tapply(presented$Scored, presented$encoding, mean) #main effect of encoding
 tapply(presented$Scored, list(presented$encoding, presented$Direction), mean)
+
+###post-hocs
+##Direction
+direction.ph = cast(presented, Username ~ Direction, mean)
+
+#f vs m
+temp = t.test(direction.ph$F, direction.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #non-sig
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+pbic1 = direction.ph[ , c(1, 2)]
+pbic2 = direction.ph[ , c(1, 3)]
+
+pbic1$direction = rep("F")
+pbic2$direction = rep("M")
+
+colnames(pbic1)[2] = "score"
+colnames(pbic2)[2] = "score"
+
+pbic3 = rbind(pbic1, pbic2)
+
+ezANOVA(pbic3,
+        dv = score,
+        between = direction,
+        wid = Username,
+        detailed = T,
+        type = 3)
+
+#f vs u
+temp = t.test(direction.ph$F, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #sig
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(direction.ph$F); mean(direction.ph$U)
+sd(direction.ph$F); sd(direction.ph$U)
+
+#u vs m
+temp = t.test(direction.ph$M, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #sig
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(direction.ph$M); mean(direction.ph$U)
+sd(direction.ph$M); sd(direction.ph$U)
 
 ##Interaction
 jol2 = subset(presented, presented$encoding == "JOL")
@@ -93,6 +147,16 @@ temp$statistic #sig!
 mean(jol3$F); mean(read3$F)
 sd(jol3$F); sd(read3$F)
 
+#M
+temp = t.test(jol3$M, read3$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic #sig!
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(jol3$M); mean(read3$M)
+sd(jol3$M); sd(read3$M)
+
 #U
 temp = t.test(jol3$U, read3$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
@@ -103,6 +167,10 @@ temp$statistic #sig!
 mean(jol3$U); mean(read3$U)
 sd(jol3$U); sd(read3$U)
 
+##get ns
+length(unique(jol3$Username)) #61
+length(unique(read3$Username)) #62
+
 ##get means
 (apply(jol3, 2, mean))
 (apply(read3, 2, mean))
@@ -112,8 +180,8 @@ sd(jol3$U); sd(read3$U)
 (apply(read3, 2, sd))
 
 ##get CIs
-(apply(jol3, 2, sd) / sqrt(61)) * 1.96
-(apply(read3, 2, sd) / sqrt(59)) * 1.96
+(apply(jol3, 2, sd) / sqrt(63)) * 1.96
+(apply(read3, 2, sd) / sqrt(62)) * 1.96
 
 ##compare false alarms
 FA = subset(dat,
@@ -122,7 +190,6 @@ FA = subset(dat,
 FA2 = cast(FA, Username ~ encoding, mean)
 
 apply(FA2, 2, mean, na.rm = T)
-apply(FA2, 2, sd, na.rm = T)
 
 #t-test
 temp = t.test(FA2$JOL, FA2$Read, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
@@ -131,26 +198,5 @@ round(temp$p.value, 3)
 temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
-#get CIs
+#get sds for d
 (apply(FA2, 2, sd, na.rm = T) / sqrt(62)) * 1.96
-
-pbic1 = FA2[ , c(1, 2)]
-pbic2 = FA2[ , c(1, 3)]
-
-pbic1 = na.omit(pbic1)
-pbic2 = na.omit(pbic2)
-
-colnames(pbic1)[2] = "score"
-colnames(pbic2)[2] = "score"
-
-pbic1$task = rep("jol")
-pbic2$task = rep("read")
-
-pbic3 = rbind(pbic1, pbic2)
-
-ezANOVA(pbic3,
-        wid = Username,
-        between = task,
-        dv = score,
-        detailed = T,
-        type = 3)

@@ -1,5 +1,9 @@
-####Set Up####
-dat = read.csv("Recog/recog.csv")
+####Set up####
+##read in data
+dat1 = read.csv("Recog/USM_recog.csv")
+dat2 = read.csv("Recog/MSU_recog.csv")
+
+dat = rbind(dat1, dat2)
 
 ##fix np coding
 np = subset(dat,
@@ -22,8 +26,11 @@ options(scipen = 999)
 
 ####Explore the data####
 ##get n
-length(unique(dat$Username)) #129 participants
+length(unique(dat$Username)) #133 total participants
+length(unique(dat1$Username)) #77 USM participants
+length(unique(dat2$Username)) #56 MSU Texas participants
 
+##general data patterns
 tapply(dat$Scored, dat$Direction, mean) ##okay, mediated and F have higher mean recall vs u.
 
 tapply(dat$Scored, list(dat$encoding, dat$Direction), mean)
@@ -40,33 +47,42 @@ read = na.omit(read)
 
 read.long = cast(read, Username ~ Direction, mean)
 
-##remove any one with high recog > 90% in unrelated AND one other category (or Extremely low recog < 10%)
+##Remove individuals not paying attention
 dat = subset(dat,
-             dat$Username != "5ee244d2d241782e69ec45ca" &
-             dat$Username != "63d40e90072d08076c329c11") #JOL
+                dat$Username != "KatelynNguyen" & dat$Username != "KaylaGilliam" & dat$Username != "KallieSiebrasse" &
+                dat$Username != "M20315432_AV")
 
+#JOL
+#not paying attention
 dat = subset(dat,
-             dat$Username != "596e1edd39e9d00001b7bb98" & dat$Username != "63d68acca98cdd2bf385cfad" & 
-             dat$Username != "6012ed349807110d8eb941a6" & dat$Username != "63f7e1bb3866d96e37ecfd1c")
+             dat$Username != "MadisonUlmer" & dat$Username != "IzyclerPimentel" & dat$Username != "makylawatson"
+             & dat$Username != "AmyiaKimes")
 
-####ANOVA####
-##Let's just look at correct hits
+##write cleaned data to .csv for signal detection
+#write.csv(dat, file = "sd ex 2.csv", row.names = F)
+
+####Get descriptives####
+##general data patterns
+tapply(dat$Scored, dat$Direction, mean) ##okay, mediated and F have higher mean recall vs u.
+
+tapply(dat$Scored, list(dat$encoding, dat$Direction), mean)
+
+####ANOVAS####
+#let's just look at studied items
 presented = subset(dat,
                    dat$control == "Presented")
 
-#write to csv for cross experimental
-#write.csv(presented, file = "rep.csv", row.names = F)
+##write to file for cross experimental
+#write.csv(presented, file = "orig.csv", row.names = F)
 
-#run the anova!
+#Anova
 out1 = ezANOVA(presented,
-               wid = Username,
-               dv = Scored,
-               between = encoding,
-               within = Direction,
-               type = 3,
-               detailed = T) #Sig effect of encoding, sig effect of direction, no interaction
-
-out1
+        wid = Username,
+        dv = Scored,
+        between = encoding,
+        within = Direction,
+        type = 3,
+        detailed = T) #Sig effect of encoding, sig effect of direction, no interaction
 
 out1$ANOVA$MSE = out1$ANOVA$SSd/out1$ANOVA$DFd
 out1$ANOVA$MSE
@@ -86,14 +102,24 @@ direction.ph = cast(presented, Username ~ Direction, mean)
 temp = t.test(direction.ph$F, direction.ph$M, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #non-sig
+temp$statistic #sig!
+(temp$conf.int[2] - temp$conf.int[1]) / 3.92
+
+mean(direction.ph$F); mean(direction.ph$M)
+sd(direction.ph$F); sd(direction.ph$M)
+
+#f vs u
+temp = t.test(direction.ph$F, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp
+round(temp$p.value, 3)
+temp$statistic
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 pbic1 = direction.ph[ , c(1, 2)]
-pbic2 = direction.ph[ , c(1, 3)]
+pbic2 = direction.ph[ , c(1, 4)]
 
 pbic1$direction = rep("F")
-pbic2$direction = rep("M")
+pbic2$direction = rep("U")
 
 colnames(pbic1)[2] = "score"
 colnames(pbic2)[2] = "score"
@@ -107,25 +133,12 @@ ezANOVA(pbic3,
         detailed = T,
         type = 3)
 
-#f vs u
-temp = t.test(direction.ph$F, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
-temp
-round(temp$p.value, 3)
-temp$statistic #sig
-(temp$conf.int[2] - temp$conf.int[1]) / 3.92
-
-mean(direction.ph$F); mean(direction.ph$U)
-sd(direction.ph$F); sd(direction.ph$U)
-
-#u vs m
+#m vs u
 temp = t.test(direction.ph$M, direction.ph$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
-temp$statistic #sig
+temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
-
-mean(direction.ph$M); mean(direction.ph$U)
-sd(direction.ph$M); sd(direction.ph$U)
 
 ##Interaction
 jol2 = subset(presented, presented$encoding == "JOL")
@@ -155,7 +168,7 @@ mean(jol3$M); mean(read3$M)
 sd(jol3$M); sd(read3$M)
 
 #U
-temp = t.test(jol3$U, read3$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
+temp = t.test(read3$U, jol3$U, paired = F, p.adjust.methods = "bonferroni", var.equal = T)
 temp
 round(temp$p.value, 3)
 temp$statistic #sig!
@@ -165,7 +178,7 @@ mean(jol3$U); mean(read3$U)
 sd(jol3$U); sd(read3$U)
 
 ##get ns
-length(unique(jol3$Username)) #61
+length(unique(jol3$Username)) #63
 length(unique(read3$Username)) #62
 
 ##get means
@@ -196,4 +209,14 @@ temp$statistic #sig!
 (temp$conf.int[2] - temp$conf.int[1]) / 3.92
 
 #get sds for d
-(apply(FA2, 2, sd, na.rm = T) / sqrt(62)) * 1.96
+mean(FA2$JOL, na.rm = T); mean(FA2$Read, na.rm = T)
+sd(FA2$JOL, na.rm = T); sd(FA2$Read, na.rm = T)
+
+##95% CI
+x = apply(FA2, 2, sd, na.rm = T)
+
+#JOL
+(x[1] / sqrt(nrow(jol3))) * 1.96
+
+#Read
+(x[2] / sqrt(nrow(read3))) * 1.96
