@@ -26,7 +26,7 @@ options(scipen = 999)
 ##get n
 length(unique(dat$Username)) #125 participants
 
-tapply(dat$Scored, dat$Direction, mean) ##okay, mediated and F have higher mean recall vs u.
+tapply(dat$Scored, dat$Direction, mean) ##okay, F has higher mean recall vs u.
 
 tapply(dat$Scored, list(dat$encoding, dat$Direction), mean)
 
@@ -51,7 +51,7 @@ dat = subset(dat,
              dat$Username != "5e904f36cc3d6c355bbf48fa") #Read
 
 ##write to .csv for signal detection
-write.csv(dat, file = "sd ex 4.csv", row.names = F)
+#write.csv(dat, file = "sd ex 4.csv", row.names = F)
 
 ####ANOVA####
 ##Let's just look at correct hits
