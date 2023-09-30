@@ -11,7 +11,7 @@ dat['diff2'] = dat['diff'].div(2) #length from line to point
 
 ##set up the initial plot
 fig = plt.figure()
-fig.set_size_inches(8,14)
+fig.set_size_inches(18,26)
 
 ax1 = fig.add_subplot(3, 1, 1)
 ax2 = fig.add_subplot(3, 1, 2)
@@ -22,7 +22,7 @@ fig.subplots_adjust(top = .925)
                     
 plt.subplots_adjust(hspace = 0.35)
 
-fig.suptitle('Experiments 2-4: Recogniton Testing', fontsize = 24, fontweight = 'bold')
+#fig.suptitle('Experiments 2-4: Recogniton Testing', fontsize = 24, fontweight = 'bold')
 
 ####Subset by Experiment####
 ex2 = dat[dat['Experiment'] == 2]
@@ -45,20 +45,21 @@ s1_conf = s1['diff2']
 ind = np.arange(len(j1_average))  # the x locations for the groups
 width = 0.35 #bar width 
 
-rects1 = ax1.bar(ind - width/2, j1_average, width, yerr = j1_conf, capsize = 3, color = 'white', edgecolor = 'k',
+rects1 = ax1.bar(ind - width/2, j1_average, width, yerr = j1_conf, capsize = 3, color = 'dodgerblue', edgecolor = 'k',
                 label ='JOL')
 
-rects2 = ax1.bar(ind + width/2, s1_average, width, yerr = s1_conf, capsize = 3, color = 'grey', edgecolor = 'k',
+rects2 = ax1.bar(ind + width/2, s1_average, width, yerr = s1_conf, capsize = 3, color = 'navy', edgecolor = 'k',
                 label = 'No-JOL')
 
 #Make the plot spiffy
-ax1.set_title('Experiment 2', fontsize = 20, fontweight = 'bold')
-ax1.set_ylabel('Prop. "Old" Responses', fontsize = 15, fontweight = 'bold')
-ax1.set_xlabel('Pair Type', fontsize = 18, fontweight = 'bold')
+ax1.set_title('Experiment 2', fontsize = 40, fontweight = 'bold')
+ax1.set_ylabel('Prop. "Old" Responses', fontsize = 30, fontweight = 'bold')
+ax1.set_xlabel('Pair Type', fontsize = 36, fontweight = 'bold')
 #ax1.xaxis.labelpad = 0
 ax1.set_xticks(ind)
-ax1.set_xticklabels(('Forward', 'Mediated', 'Unrelated', 'New'), fontsize = 16)
-ax1.legend(fontsize = 16)
+ax1.set_xticklabels(('Forward', 'Mediated', 'Unrelated', 'New'), fontsize = 32)
+ax1.tick_params(axis="y", labelsize = 32)
+ax1.legend(fontsize = 32)
 ax1.set_ylim([0,1])
 
 ####Experiment 3#####
@@ -77,20 +78,21 @@ s2_conf = s2['diff2']
 ind = np.arange(len(j2_average))  # the x locations for the groups
 width = 0.35 #bar width 
 
-rects3 = ax2.bar(ind - width/2, j2_average, width, yerr = j2_conf, capsize = 3, color = 'white', edgecolor = 'k',
+rects3 = ax2.bar(ind - width/2, j2_average, width, yerr = j2_conf, capsize = 3, color = 'dodgerblue', edgecolor = 'k',
                 label ='JOL')
 
-rects4 = ax2.bar(ind + width/2, s2_average, width, yerr = s2_conf, capsize = 3, color = 'grey', edgecolor = 'k',
+rects4 = ax2.bar(ind + width/2, s2_average, width, yerr = s2_conf, capsize = 3, color = 'navy', edgecolor = 'k',
                 label = 'No-JOL')
 
 #Make the plot spiffy
-ax2.set_title('Experiment 3', fontsize = 20, fontweight = 'bold')
-ax2.set_ylabel('Prop. "Old" Responses', fontsize = 15, fontweight = 'bold')
-ax2.set_xlabel('Pair Type', fontsize = 18, fontweight = 'bold')
+ax2.set_title('Experiment 3', fontsize = 40, fontweight = 'bold')
+ax2.set_ylabel('Prop. "Old" Responses', fontsize = 30, fontweight = 'bold')
+ax2.set_xlabel('Pair Type', fontsize = 36, fontweight = 'bold')
 #ax1.xaxis.labelpad = 0
 ax2.set_xticks(ind)
-ax2.set_xticklabels(('Forward', 'Mediated', 'Unrelated', 'New'), fontsize = 16)
-ax2.legend(fontsize = 16)
+ax2.set_xticklabels(('Forward', 'Mediated', 'Unrelated', 'New'), fontsize = 32)
+ax2.tick_params(axis="y", labelsize = 32)
+ax2.legend(fontsize = 32)
 ax2.set_ylim([0,1])
 
 ####Experiment 4####
@@ -109,20 +111,21 @@ s3_conf = s3['diff2']
 ind = np.arange(len(j3_average))  # the x locations for the groups
 width = 0.35 #bar width 
 
-rects5 = ax3.bar(ind - width/2, j3_average, width, yerr = j3_conf, capsize = 3, color = 'white', edgecolor = 'k',
+rects5 = ax3.bar(ind - width/2, j3_average, width, yerr = j3_conf, capsize = 3, color = 'dodgerblue', edgecolor = 'k',
                 label ='JOL')
 
-rects6 = ax3.bar(ind + width/2, s3_average, width, yerr = s3_conf, capsize = 3, color = 'grey', edgecolor = 'k',
+rects6 = ax3.bar(ind + width/2, s3_average, width, yerr = s3_conf, capsize = 3, color = 'navy', edgecolor = 'k',
                 label = 'No-JOL')
 
 #Make the plot spiffy
-ax3.set_title('Experiment 4', fontsize = 20, fontweight = 'bold')
-ax3.set_ylabel('Prop. "Old" Responses', fontsize = 15, fontweight = 'bold')
-ax3.set_xlabel('Pair Type', fontsize = 18, fontweight = 'bold')
+ax3.set_title('Experiment 4', fontsize = 40, fontweight = 'bold')
+ax3.set_ylabel('Prop. "Old" Responses', fontsize = 30, fontweight = 'bold')
+ax3.set_xlabel('Pair Type', fontsize = 32, fontweight = 'bold')
 #ax1.xaxis.labelpad = 0
 ax3.set_xticks(ind)
-ax3.set_xticklabels(('Forward', 'Unrelated', 'New'), fontsize = 16)
-ax3.legend(fontsize = 16)
+ax3.set_xticklabels(('Forward', 'Unrelated', 'New'), fontsize = 32)
+ax3.tick_params(axis="y", labelsize = 32)
+ax3.legend(fontsize = 32)
 ax3.set_ylim([0,1])
 
-fig.savefig('EX2_4_chart.png', dip = 10000)
+fig.savefig('EX2_4_chart_PNOM.png', dip = 10000)
