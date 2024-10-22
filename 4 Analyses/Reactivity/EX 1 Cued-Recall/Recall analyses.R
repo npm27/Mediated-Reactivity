@@ -11,16 +11,16 @@ library(psychReport)
 options(scipen = 999)
 
 ##drop unused columns
-JOL2 = JOL[ , -c(2:4, 8:9, 11:14)]
-Read2 = Read[ , -c(2:4, 8:9, 11:13)]
+JOL2 = JOL[ , -c(2:4, 8:9, 11:13)]
+Read2 = Read[ , -c(2:4, 8:9, 11:12)]
 
 #slap together and rearrange columns
 combined = rbind(JOL2, Read2)
 
-combined = combined[ , c(1, 3, 4, 5, 6, 2)]
+combined = combined[ , c(1, 3, 4, 5, 6, 7, 2)]
 
 #rename columns
-colnames(combined)[c(3:4, 6)] = c("encoding", "direction", "score")
+colnames(combined)[c(3:4, 7)] = c("encoding", "direction", "score")
 
 combined$encoding[combined$encoding == "JOL Recall"] = "JOL"
 combined$encoding[combined$encoding == "Read Recall"] = "Read"
@@ -64,6 +64,10 @@ model1$ANOVA$MSE = model1$ANOVA$SSd/model1$ANOVA$DFd
 model1$ANOVA$MSE
 
 aovEffectSize(model1, effectSize = "pes")
+
+####RTs####
+tapply(combined$Response.RT, list(combined$encoding, combined$direction), mean)
+tapply(combined$Response.RT, list(combined$encoding, combined$direction), sd)
 
 ####Post-hocs####
 tapply(combined$score, combined$encoding, mean) #main effect of encoding
@@ -209,3 +213,4 @@ jol$JOL = as.numeric(jol$JOL)
 jol$JOL[jol$JOL > 100] = NA
 
 tapply(jol$JOL, jol$Direction, mean, na.rm = T)
+

@@ -1,7 +1,7 @@
 ####This script will be used to read in everything and set EX 2data up for processing####
 ##Start by gathering all of the data
 #JOLs and frequency
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 2 - Recog Replication/JOL")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 3 - Mediated Recog Replication/JOL")
 
 files = list.files(pattern = "*.csv")
 
@@ -12,7 +12,7 @@ dat = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FA
 length(unique(dat$Username))
 
 #read
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 2 - Recog Replication/Read")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 3 - Mediated Recog Replication/Read")
 
 files2 = list.files(pattern = "*.csv")
 
@@ -170,3 +170,10 @@ combined = combined[order(combined$Username), ]
 
 #write the encoding data to file
 #write.csv(encoding.dat, file = "encoding.csv", row.names = F)
+
+##Get the Encoding RTs
+tapply(dat.JOL$Response.RT, dat.JOL$Stimuli.Stimuli.Notes, mean)
+tapply(dat.JOL$Response.RT, dat.JOL$Stimuli.Stimuli.Notes, sd)
+
+tapply(dat.Study$Response.RT, dat.Study$Stimuli.Stimuli.Notes, mean)
+tapply(dat.Study$Response.RT, dat.Study$Stimuli.Stimuli.Notes, sd)

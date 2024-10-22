@@ -1,7 +1,7 @@
 ####This script will be used to read in everything and set EX 2data up for processing####
 ##Start by gathering all of the data
 #JOLs and frequency
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1A - Recall/USM/JOL")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1 - Recall/USM/JOL")
 
 files = list.files(pattern = "*.csv")
 
@@ -12,7 +12,7 @@ dat = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FA
 length(unique(dat$Username))
 
 #read
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1A - Recall/USM/No-JOL")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1 - Recall/USM/No-JOL")
 
 files2 = list.files(pattern = "*.csv")
 
@@ -69,7 +69,7 @@ dat.R = dat.Recall[ , c(12:14)]
 
 #Drop overlapping columns and clean things up
 JOL = cbind(dat.JOL, dat.R)
-JOL = JOL[ , -c(11, 13:14)]
+JOL = JOL[ , -c(11, 14, 17)]
 
 JOL = JOL[ , -c(9:10)]
 JOL = JOL[ , -2]
@@ -95,7 +95,7 @@ dat2.R = dat2.Recall[ , c(12:14)]
 
 #Drop overlapping columns and clean things up
 Study = cbind(dat2.Study, dat2.R)
-Study = Study[ , -c(11, 13:14)]
+Study = Study[ , -c(11, 14, 16)]
 
 Study = Study[ , -c(9:10)]
 Study = Study[ , -2]
@@ -113,8 +113,8 @@ JOL$Response.Response = tolower(JOL$Response.Response)
 Study$Response.Response = tolower(Study$Response.Response)
 
 #now write to .csv for scoring
-length(unique(JOL$Username)) #25
-length(unique(Study$Username)) #23
+length(unique(JOL$Username)) #44
+length(unique(Study$Username)) #40
 
 #write.csv(JOL[ , c(1, 12, 5, 2:4, 6:11)], file = "JOL_pre_scored.csv", row.names = F)
 #write.csv(Study[ , c(1, 11, 5, 2:4, 6:10)], file = "Study_pre_scored.csv", row.names = F)

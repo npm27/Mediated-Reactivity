@@ -1,7 +1,7 @@
 ####This script will be used to read in everything and set EX 2data up for processing####
 ##Start by gathering all of the data
 #JOLs and frequency
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1B - Recog/MSU/JOL")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 2 - Recog/MSU/JOL")
 
 files = list.files(pattern = "*.csv")
 
@@ -12,7 +12,7 @@ dat = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FA
 length(unique(dat$Username))
 
 #read
-setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 1B - Recog/MSU/Read")
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/Mediated-Reactivity/3 Output/Ex 2 - Recog/MSU/Read")
 
 files2 = list.files(pattern = "*.csv")
 
@@ -159,6 +159,14 @@ Study.combined$source = rep("MSU")
 
 Study.combined = Study.combined[ , c(1, 2, 3, 4, 6, 7, 5)]
 
+##attach the encoding RTs
+Study.combined$JOL_id = dat.Study$Username 
+Study.combined$encoding.RT = dat.Study$Response.RT
+
+#usernames match, so drop that column
+Study.combined = Study.combined[ , -8]
+Study.combined = Study.combined[ , c(1:6, 8, 7)]
+
 ##combined JOL and read
 combined = rbind(JOL.combined, Study.combined)
 
@@ -167,3 +175,10 @@ combined = combined[order(combined$Username), ]
 
 #write to file
 #write.csv(combined, file = "MSU_recog.csv", row.names = F)
+
+####GET Encoding RTs####
+tapply(dat.JOL$Response.RT, dat.JOL$Stimuli.Stimuli.Notes, mean)
+tapply(dat.JOL$Response.RT, dat.JOL$Stimuli.Stimuli.Notes, sd)
+
+tapply(dat.Study$Response.RT, dat.Study$Stimuli.Stimuli.Notes, mean)
+tapply(dat.Study$Response.RT, dat.Study$Stimuli.Stimuli.Notes, sd)

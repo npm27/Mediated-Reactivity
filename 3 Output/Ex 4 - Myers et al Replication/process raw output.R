@@ -157,7 +157,7 @@ colnames(Study.combined)[2] = "control"
 Study.combined$encoding = rep("Read")
 Study.combined$source = rep("Prolific")
 
-Study.combined = Study.combined[ , c(1, 2, 3, 4, 6, 7)]
+Study.combined = Study.combined[ , c(1, 2, 3, 4, 6, 7, 5)]
 
 ##combined JOL and read
 combined = rbind(JOL.combined, Study.combined)
@@ -170,3 +170,9 @@ combined = combined[order(combined$Username), ]
 
 #write the encoding data to file
 #write.csv(encoding.dat, file = "Ex 4_encoding.csv", row.names = F)
+
+tapply(dat.JOL$Response.RT, dat.JOL$Stimuli.Stimuli.Notes, mean)
+tapply(dat.JOL$Response.RT, dat.JOL$Stimuli.Stimuli.Notes, sd)
+
+tapply(dat.Study$Response.RT, dat.Study$Stimuli.Stimuli.Notes, mean)
+tapply(dat.Study$Response.RT, dat.Study$Stimuli.Stimuli.Notes, sd)
