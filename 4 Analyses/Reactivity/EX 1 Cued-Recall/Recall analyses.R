@@ -214,3 +214,6 @@ jol$JOL[jol$JOL > 100] = NA
 
 tapply(jol$JOL, jol$Direction, mean, na.rm = T)
 
+jol.wide2 = cast(jol, id ~ Direction, mean, value = "JOL", na.rm = T)
+
+(apply(jol.wide2, 2, sd) / sqrt(60)) * 1.96
